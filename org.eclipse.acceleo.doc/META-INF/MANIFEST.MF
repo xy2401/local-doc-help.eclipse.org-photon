@@ -1,0 +1,285 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.acceleo.doc; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.acceleo
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceReferences: scm:git:http://git.eclipse.org/gitroot/accel
+ eo/org.eclipse.acceleo.git;path="doc/org.eclipse.acceleo.doc";commitI
+ d=b1d912397a56ffcf24fb3d136ca1bf17e45837b9
+Bundle-Vendor: %providerName
+Eclipse-LazyStart: true
+Bundle-Name: %pluginName
+Bundle-Version: 3.7.3.201802240723
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: pages/whatsnew/index.html
+SHA-256-Digest: RMAfmBlu+9rlW7JWPUplXKiZJVISo5yCFIsTKGKqvuU=
+
+Name: about.properties
+SHA-256-Digest: N00vQtL8yg3qz+jqVJ6pwmVteKfCweoSOX0YsTZ8bXY=
+
+Name: plugin.xml
+SHA-256-Digest: N/LxZz+Fwr05yNCEvmUPpwZkIbM/OO0597gjp4qhR3w=
+
+Name: assets/img/glyphicons/glyphicons_042_group.png
+SHA-256-Digest: bAjFoED11dUoueeb0pTLBfcuHFO/9W+K9g4xFM16kUg=
+
+Name: assets/img/features/domain-free-graphical-model.png
+SHA-256-Digest: Z8niaK2NjOl0O/Ub2btiNQ/fi0np+wdwMyHI5ssK5sk=
+
+Name: assets/img/marketplaceAcceleo.png
+SHA-256-Digest: NP98lDwFfODxAKPWyYG+EW8eM9stY4Dil+2Ok805xLE=
+
+Name: acceleo32.png
+SHA-256-Digest: SPNh430NMy4L41F2s3X/tO8UVMO/SSsfDSeZKklq6L0=
+
+Name: toc_reference.xml
+SHA-256-Digest: f/vDK+w5mZfPTYlyR/91fE7wJsDxPDz4csa8Uf/Hu/o=
+
+Name: pages/reference/language.html
+SHA-256-Digest: dGjtUM/v9FrSWy+Xw2cX619uMZLebNQfxqP1PxgnFsU=
+
+Name: toc_gettingstarted.xml
+SHA-256-Digest: 9C7HdakYsnlHnKczHBs1vkbmorA9S1xYB6UybX6UWS0=
+
+Name: pages/index.html
+SHA-256-Digest: j8v2I1YLsUZ0oprtwxiE6oTDypQXLgcDfNLgR8HfURM=
+
+Name: assets/js/jquery/jquery-1.7.1.js
+SHA-256-Digest: H51gCPzmRk3YgOcDqgxpSCImx0aBC10mdiLv4yqBC5I=
+
+Name: assets/img/features/perspective-doc.png
+SHA-256-Digest: rf9OHcMvrFTa71R89C90FE5mVZ29qZs4Wsa9813rLTE=
+
+Name: assets/img/features/domain-free-treebased-model_th-hover.png
+SHA-256-Digest: 81RGtP2nLdavdVuwsFjEmMq4OVCWcV6SDC+QeK8fMl8=
+
+Name: assets/img/features/domain-free-scala-code.png
+SHA-256-Digest: J5d7ecq8fuqvjHEd4QtN/awba8gGKVWY5QHZYMa1+/o=
+
+Name: pages/reference/standalone.html
+SHA-256-Digest: T2iu2dt5pPr5B9Uukpm4FrEgMpXhiHIry+r/GZJ6f/o=
+
+Name: pages/features/index.html
+SHA-256-Digest: 1tcOJ36CNUyBkX+KA/hLlt/KY5ZSofQ2xWDEKzF6CEo=
+
+Name: about.ini
+SHA-256-Digest: Xt1P/r9fI6WtK+X3qNKUCVsU3dE7ZIIw0USwVidFalA=
+
+Name: plugin.properties
+SHA-256-Digest: 0l3ZzgvZiT6RfD1pG0GPFpeWnX07K+ad3+r3XPBQv38=
+
+Name: assets/img/reference/propertiesFilesResult.png
+SHA-256-Digest: ggEGET/OwQpqA1b0xm/MNoYuW5kD1RIDFTxmI/St3gk=
+
+Name: assets/img/features/domain-free-graphical-model_th-hover.png
+SHA-256-Digest: 6i7dQwodL0S/iUWDz7HqSsboWAmv42cxSFkdnQJn4AU=
+
+Name: pages/reference/project.html
+SHA-256-Digest: F16hSIy/T5x3xhiE36B7WIueoIB1r5GNQ0TQd3FRAIo=
+
+Name: assets/img/features/domain-free-graphical-model-2_th-hover.png
+SHA-256-Digest: Lkkf3LwDT1gxHGjj9neOgWbU/WXM8oSFqBlggRZihbs=
+
+Name: pages/reference/operations.html
+SHA-256-Digest: cFT+kjfOs51dxGBShgbZN790lzJFjyLf6S+y6WyhpXo=
+
+Name: assets/img/glyphicons/glyphicons_242_google_maps.png
+SHA-256-Digest: +EpHEv9+nqg3DcZmAClq3CuPOXCHi6VQblJEqFeEFi8=
+
+Name: assets/js/bootstrap/bootstrap.js
+SHA-256-Digest: 9ZwTyMrSgyWzfvzAuSsynJNzzsVeHMN9uBqHyUnkl9o=
+
+Name: assets/img/features/editor.png
+SHA-256-Digest: zSP1r57rw5GhUyrZfFLQ9j9GInHVlWllF3N8Ywy5vCg=
+
+Name: pages/reference/onlineresources.html
+SHA-256-Digest: 8lw70i6GaTJPg5vGXsjNdIuojp51cMOVtQtE58NdQgM=
+
+Name: assets/img/features/domain-free-graphical-model-2_th.png
+SHA-256-Digest: pgbyCUpQvjpUMZ9NZJt202CHx2+Uz7jaKx1jX9iMT08=
+
+Name: assets/img/features/domain-free-python-code_th-hover.png
+SHA-256-Digest: 9EZfwGefPR56Bj5Sfi/e3cpZYdmohXQBDPUQEessBP0=
+
+Name: assets/img/features/domain-free-javascript-code_th.png
+SHA-256-Digest: mDPIuYpQ2tVHtHTPWJ8sfet2CLlHRNTjKbSUVudztxU=
+
+Name: assets/img/features/domain-free-scalamodel-gen.png
+SHA-256-Digest: DS56Nwu1XB7lpjKnnPXvHOvozOWkBDhibH1ed34Zgdo=
+
+Name: assets/img/features/domain-free-scalamodel-gen_th-hover.png
+SHA-256-Digest: yKqTJ8v7dltI66FPWKrp+x9CgqTmWqYoiLiCsshtbaM=
+
+Name: toc.xml
+SHA-256-Digest: q/2uIL0uEgN1dbT8C2LLR2120+QjqMWo9fOGe9wZzbY=
+
+Name: assets/img/features/domain-free-ecore-gen.png
+SHA-256-Digest: yfr65u9XfaieBIZSXcyE0frkgr8pWPJHdoZzxsIvQc0=
+
+Name: assets/img/features/domain-free-scala-code_th-hover.png
+SHA-256-Digest: 9JuYc3dSDVM8BGM0BYWOH0zOrPq4xGE8plgGWrikOL4=
+
+Name: assets/img/features/domain-free-cdo-model.png
+SHA-256-Digest: eIEjKmQyd0cpFbCyzPL5vwf30h9K9Vj3TKQ36SSoxVI=
+
+Name: assets/img/glyphicons/glyphicons_081_refresh.png
+SHA-256-Digest: tKtU4Xv1olGbpMIvDK2o8rpml1aqHFNw9Na9L+6TH38=
+
+Name: assets/img/glyphicons/glyphicons_051_eye_open.png
+SHA-256-Digest: qvlhkdk5AvoizAH5s0Sf017/dTYQbNtHEOQd4XCm56Q=
+
+Name: assets/img/features/domain-free-graphical-model_th.png
+SHA-256-Digest: c8GBYEioadr1gzAa2SfHvog1YrGAsWmFiFrWzw2e1ak=
+
+Name: assets/img/features/first-view-block.png
+SHA-256-Digest: H7tx/6QTyESkZ0HJ3UDimlVunmJ06c/3TlEiSr7bNEQ=
+
+Name: assets/img/features/domain-free-uml-gen.png
+SHA-256-Digest: nRy8vubY2C6spA82gUdHg02vnnJInGf1+v5J/4zzN4w=
+
+Name: index/indexed_docs
+SHA-256-Digest: eJICWtQCZnwxZPVdh4g9/Gj5to9GNkshlYQSXm3VB6g=
+
+Name: pages/reference/migration.html
+SHA-256-Digest: epdouRB1YE9kikwKTOHdx234V0QZ/XDI2Hqo81pD3go=
+
+Name: assets/img/glyphicons/glyphicons_204_unlock.png
+SHA-256-Digest: V7MrsihlC3lc7dSqRpDg4J9sXobwG539s4+INqKewBE=
+
+Name: assets/img/gettingstarted/umlDesigner.png
+SHA-256-Digest: Z8niaK2NjOl0O/Ub2btiNQ/fi0np+wdwMyHI5ssK5sk=
+
+Name: assets/img/glyphicons/glyphicons_050_link.png
+SHA-256-Digest: 6JmxT9HzVExqMPzxD497xwYFHfmHltQE+AWpCUDw6vs=
+
+Name: assets/img/features/domain-free-textbased-model_th-hover.png
+SHA-256-Digest: y/ti4TDNiWDkVR8CwlLIpKVFFM5PXO+hXXsjNrfz6ag=
+
+Name: assets/img/features/domain-free-javascript-code_th-hover.png
+SHA-256-Digest: TAND6WiM862JzkYeDV+2fuHLY5do3oULGzoOQfMnvD8=
+
+Name: assets/img/installUpdate.png
+SHA-256-Digest: vaXp+ca1dKdXiGYen3clmYz9Yvd2mp5hFiabOp4VftE=
+
+Name: pages/gettingstarted/index.html
+SHA-256-Digest: D5Ct6426YAp5f3NJkJDQiIpOLqMa+ev9YOlaG5whkKA=
+
+Name: assets/css/bootstrap.css
+SHA-256-Digest: z9tvWuvf+6W/OH2UE9sdnU0ROrjTqWfeCRaabRrTvnw=
+
+Name: assets/img/features/domain-free-textbased-model.png
+SHA-256-Digest: hluFcZ8YgG4E+bgbjJEM6JCrRXsynMdOllCaXl1JtaE=
+
+Name: about.mappings
+SHA-256-Digest: qpxYMK5Tyf7Kj1k5MFQORn9dOj+jhDGlhr0AB3VIpjk=
+
+Name: assets/img/features/domain-free-ecore-gen_th-hover.png
+SHA-256-Digest: QV1TnivrFOTGCAzPusmuTSukmNdtXVYvEPJFv5apnHo=
+
+Name: assets/img/installUpdateAcceleo.png
+SHA-256-Digest: iq2m6nWSIDIvTdnoopo/vmq1Vbzk88pqFVTan/PDaVI=
+
+Name: pages/overview.html
+SHA-256-Digest: +OdDJ/5lsV3/8nlDQykQYo6/Tgh2dWmc7Mq0eg85N6o=
+
+Name: assets/img/features/domain-free-ecore-gen_th.png
+SHA-256-Digest: Ip1ELn1AZEIeJrhXD3732ijAnZ3NBbl/+h6/kNljXAs=
+
+Name: pages/reference/textproductionrules.html
+SHA-256-Digest: NpV460FLj+oFSbrRONVLYPr5AeMVxvnCNz0GuuF6B/Y=
+
+Name: assets/css/docs.css
+SHA-256-Digest: hGfRbYU2+D21Odf3K7NpMannTCmHS+Ikn5cGZ2GP0H0=
+
+Name: assets/img/features/domain-free-scalamodel-gen_th.png
+SHA-256-Digest: U9W5FBWy9+DBDl0QqklCsHgs9x4f297AYc8R+2RwRkA=
+
+Name: assets/img/reference/package.png
+SHA-256-Digest: pndVsi+yNgp+lM/iGKrpKIOK+5C3nx1e9cHvkNRas8Q=
+
+Name: assets/img/openDiscovery.png
+SHA-256-Digest: YeoDj3HoFxMoXbHE+0aQGNnNiSelh5EkNMRdgbTgoDA=
+
+Name: assets/img/features/stand-alone-lib.png
+SHA-256-Digest: Xn5SubZmrZSFtCqecfTGYo4MPwUvIw/LHCgrINtlkbY=
+
+Name: about.html
+SHA-256-Digest: 0FxrAzEAoZPl1UjM/X5Wq47DmTyCWAYOw9KVz5LHEvg=
+
+Name: pages/legal.html
+SHA-256-Digest: ebXnJKGG8moQUVO11umIjXFxa0CpPRj0hKLCEF0x/SY=
+
+Name: assets/img/features/domain-free-graphical-model-2.png
+SHA-256-Digest: ka/CmtgMqlPsrNKYFmKUiTpHA7Kbg07hJ3YImO6x+ww=
+
+Name: assets/img/features/domain-free-javascript-code.png
+SHA-256-Digest: zWUWLX1Q0LBp8V9lXLyytapxVM199jh8tx6CA4dzUkc=
+
+Name: assets/img/features/domain-free-cdo-model_th.png
+SHA-256-Digest: wAA/eA3C7QefedelwsoHC4hP98NOrHGv3lYhPcyC5FE=
+
+Name: index/segments
+SHA-256-Digest: EL3l1pE/8NBpVb22TMWrwR1k1nTIi5mUwb2gZNAKZZc=
+
+Name: assets/img/discovery.png
+SHA-256-Digest: ZrNz+gU1bC1MwjILJkudTfndEBuu/VwiivE6zRw0KvY=
+
+Name: assets/img/features/domain-free-python-code_th.png
+SHA-256-Digest: Ip1ELn1AZEIeJrhXD3732ijAnZ3NBbl/+h6/kNljXAs=
+
+Name: assets/img/features/domain-free-uml-gen_th.png
+SHA-256-Digest: JAMz5pvU0NinKLhKZSPrNOLhynuLZynxdAzFluIEMMk=
+
+Name: assets/img/features/second-view-block.png
+SHA-256-Digest: 8pL/DYXyzx/AKqVEB3T2Ok6KxR2O5S+J9+7G6NSHPrQ=
+
+Name: assets/img/features/domain-free-python-code.png
+SHA-256-Digest: yfr65u9XfaieBIZSXcyE0frkgr8pWPJHdoZzxsIvQc0=
+
+Name: assets/img/features/domain-free-textbased-model_th.png
+SHA-256-Digest: SZbzc5ae38JDufKW8e9tSdecvinlLOob1mciLpEEN1Q=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: WluhhQt+4g9yweUUewkAF1K/97zwHLNIb34W/JrWpxw=
+
+Name: assets/img/features/domain-free-cdo-model_th-hover.png
+SHA-256-Digest: Y1gjVB7f0hkDsy8vs/CWguiPABxHznz/5Ytx4sDnWZY=
+
+Name: assets/img/reference/propertiesFilesUse.png
+SHA-256-Digest: 4txZVO1eDBSCByjI0PZYdNocBfz/jv5px8J8zFDXhNk=
+
+Name: assets/img/features/domain-free-uml-gen_th-hover.png
+SHA-256-Digest: RqdaeOf3Qo0wwz1SOVA7Ickrm8wegLJRWLS3a5CtTxY=
+
+Name: assets/img/features/domain-free-scala-code_th.png
+SHA-256-Digest: oPybKMVXxB36nh0ovi9WsV9rFgpj+2Dhvjqw2IDsKZc=
+
+Name: index/indexed_contributions
+SHA-256-Digest: IG0M9cJu6O/etG48KQpc6jG48/M9a6mIT1Yjr9wrgzU=
+
+Name: assets/img/features/eclipse-tooling-acceleo-project.png
+SHA-256-Digest: Oj8U5Tccl6avbGZnFPdxJvY6WxS39ScKCKdDheyCKc0=
+
+Name: assets/img/glyphicons/glyphicons_019_cogwheel.png
+SHA-256-Digest: Yb5lkTvfjbfyz8Sxwx3YZnq9Sk+pj6rUgvfx2Vryzso=
+
+Name: assets/img/features/domain-free-treebased-model.png
+SHA-256-Digest: KHpfBK4xCmE2WRwWxP1xlERSnRNETsbwIVi9MDPnOWo=
+
+Name: assets/img/features/domain-free-treebased-model_th.png
+SHA-256-Digest: jmsmNdCB+p/+OiVI8/MpOa8qcDgkoW+Mopo0kAi162o=
+
+Name: pages/reference/index.html
+SHA-256-Digest: BXuQGVumtcLmH8MXJPTrRQNv0nNksKv7g1O7DFQwF5E=
+
+Name: assets/img/reference/propertiesFiles.png
+SHA-256-Digest: G+IrCkqtiyYBm6vA3UIb2vhmctUMxSASw/jbiHX6+4Y=
+
+Name: assets/img/openMarketplace.png
+SHA-256-Digest: 5NqMG4twuwQPJCPDx1INTyhaijk24Yo95f1cZRP4JSo=
+

@@ -1,0 +1,314 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 7pwVSURZesPOj+Le28RSCCDO22umq
+ Z0GaBvxP8cZaZ0=
+SHA-256-Digest-Manifest: 8bZanof+uJXKexNEop7wMskHCqRdusXhda8TZMjYSnw=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: html/images/MoveSavedToCommonBlock.PNG
+SHA-256-Digest: OFFPdcHUXf56YawaTGy9H6dYNQiexLnw30TzJ+6AZjg=
+
+Name: plugin.xml
+SHA-256-Digest: YCSIZsM0gGhHtQXlnACmSYifGUHaqWmSRW1CwlxyrGE=
+
+Name: html/images/Photran-rename-dialog.png
+SHA-256-Digest: GdKXrnfYitj8smHCIoONN24Y4fUvG7DMvJDTmGGvI30=
+
+Name: html/basic/UpgradingProjects.html
+SHA-256-Digest: MkTj997jsnQ5wLdALL9R1F6fU1Yd4ZsRJG9Gj3FPG9I=
+
+Name: html/basic/top.html
+SHA-256-Digest: OHX/TN6tTnU7sXEEkR9xeHaWaRfnosMjQSlVPCKnBQA=
+
+Name: html/images/Photran-extract-proc-1.png
+SHA-256-Digest: 00RXhN+GT0TKHFIzNIX2IX+wKJXczfPPoCqObmYQWBk=
+
+Name: html/images/RemoveComputedGoto.png
+SHA-256-Digest: nOnVOJzYbpJPxjLlAv6HlErjtGD/GZJWnE9zrn0seEQ=
+
+Name: html/images/Display Database Statistics.png
+SHA-256-Digest: 8N6to6WFu7xjkEHwqGKuMLriQgTyxFeYWgrdE5pZcDk=
+
+Name: html/images/Remove Unreferenced Labels.png
+SHA-256-Digest: AlhpgY8PcRql+LVQDbcPo1aFqNje2B/nuwzx9XIjils=
+
+Name: html/images/Convert Between If Statement and If Construct.png
+SHA-256-Digest: UTFkJeW/n0si3e00gyb3MZylDXIbuh6LbAdhdECG9yw=
+
+Name: html/images/Photran-f-vs-c-project.png
+SHA-256-Digest: PIxV7ws+/eBLpvxmr+Ff7MP1zmR1Tyiwu0TZhkCrjOk=
+
+Name: html/images/Display Edge Model of Current File.png
+SHA-256-Digest: i25bFZHWhRT2lbfv5Y8MXTOyh3Kh/5dZ0EVoeDhaPI8=
+
+Name: html/images/ContentAssist.jpg
+SHA-256-Digest: hX24C/cSybFz3f8TGKHisJEUY+4v7KB06Skp8qEQl9k=
+
+Name: html/images/Browse VPG Database.png
+SHA-256-Digest: gtcr5IU6d3+UsBxNYnjJ43dJjz2YWrRrvc6IHUJncLM=
+
+Name: html/images/InterchangeLoops.png
+SHA-256-Digest: JY9MNmu/7Cp4ORS6ML5wpEAxuQn7WXnplFeQ4cNpxP0=
+
+Name: html/images/ReverseLoopExample.jpg
+SHA-256-Digest: PBZoIHoIcV0S0mp0NRHlrckwn14RNwhOZpHCDA6Ov7o=
+
+Name: html/images/Photran-editor-fixed-1.PNG
+SHA-256-Digest: dDwzDR8+LfaSJkIz+JRwwSyVI7Ia/Ao9P8/hqrTanDQ=
+
+Name: html/images/Photran-set-breakpoint.png
+SHA-256-Digest: nDX6XD0cBg98M8okrNs41YLujb1Z9Ul3dr7jmWVtKks=
+
+Name: html/images/Photran-priv-to-public2.PNG
+SHA-256-Digest: In21mu733ebOqYtbGEQuFYZOwwi90ZVA+UAb6EYGpL4=
+
+Name: html/images/OpenSearch.jpg
+SHA-256-Digest: 43TvKVgFGfpUs9Pyxj0ktnLheJXbv2+cmigjPnzXaUE=
+
+Name: html/images/Text_Editors.png
+SHA-256-Digest: HvBlF4Th/wgMgusqoVH2+FP4tAVEcMIYamT33wh5Xew=
+
+Name: html/advanced/SearchNavigation.html
+SHA-256-Digest: HDCi7NL6Ging44yfDC1UBZpSN3M0x+fLBBMa+nS7LN4=
+
+Name: META-INF/maven/org.eclipse.photran/org.eclipse.photran.doc.user/
+ pom.xml
+SHA-256-Digest: ClEMEa0kHTZh69VQB66Lunwi+IZZvX7ihnvNhcMl7hY=
+
+Name: toc.xml
+SHA-256-Digest: 6fqc2Nz/Xh5TnjA78SPrwP7RUo11B7DjpBVrURAd5Aw=
+
+Name: html/images/Change Subroutine to Function.png
+SHA-256-Digest: MNrlsS+4oW4kKMjMBWA1qUzw7Ul1fPzJBFxBpbcQ+9c=
+
+Name: html/images/Photran-comment-action.png
+SHA-256-Digest: jLfCKDxjUFistl/luld9bsdjeKaFbIq3jxxNdr3lpIo=
+
+Name: html/help.css
+SHA-256-Digest: xsm1/ADEvkoV47EsdCB//4Hvja6vnJDkXBEsQmlZRJ4=
+
+Name: html/images/Photran-editor-folding-1.PNG
+SHA-256-Digest: Gh/ugCBWX0xjplw3YnvCdPx+WHq4ze3WOSJQjWA/2hw=
+
+Name: contexts.xml
+SHA-256-Digest: a6qOvRoFL+xCVjbORNOc6LvKzPwuj1SR+HsOhXm9Hw0=
+
+Name: html/images/Photran-intro-implicit-1.png
+SHA-256-Digest: jbpA0vblPAXvky0CELpdmRKJiSHTNXEiNZojRl9fbNA=
+
+Name: html/images/Photran-make-common-var-names-consist-dialog.PNG
+SHA-256-Digest: 8bnptrtZ7aE/W2G4N3jwTGblK1UvBct1SeOQa62+CLs=
+
+Name: html/images/SearchDeclarations.jpg
+SHA-256-Digest: Cg6df+HB3qZtt1ud2VcnqXUSMpYsxCSUMUnL3bYNzQc=
+
+Name: html/images/EncapsulateVariablesPart2.jpg
+SHA-256-Digest: /5WFPWlm00uYQLjUToOVrVJQb9pAVDi+Aoa3KfSCBTw=
+
+Name: html/basic/RunningDebuggingFortran.html
+SHA-256-Digest: 5w+ts7XpJsQEREPHnh5i5T9dYshiEHYjo8yJK9eEA5g=
+
+Name: html/images/Move Module Entities.png
+SHA-256-Digest: W14USgLVNq+wEBMDvfxgM4u3wumoiclmgy8zEPen7/4=
+
+Name: html/images/TheEditor.png
+SHA-256-Digest: SmO3oRlvSMdkntwqBufX1EF9BFworjqbWop3baiEno8=
+
+Name: html/images/Display Binder Statistics.png
+SHA-256-Digest: cJ4TD7Ft6MHYebPk06/xIC+o+yhfAnuYzd5A8UWQbLQ=
+
+Name: html/images/Remove Branch to End If.png
+SHA-256-Digest: cQs4ayQPhEaUg/ac9W+DA3nw3BXipfxzAvb+gSrRXq0=
+
+Name: html/images/Photran-fortran-error-parsers.PNG
+SHA-256-Digest: bxXsK/BBt+093MW03ICgfNSHvc0Zdz8y8j+i2RdXP+8=
+
+Name: html/images/Find All Declarations in Scope.png
+SHA-256-Digest: pmvwCVMMcP2gmVfBG6QJNyFV33wvl+M6iO3dR9vemTU=
+
+Name: html/images/Photran-run-as-local-fortran.png
+SHA-256-Digest: rxZ8TgTjc/krM0FOfM35fHypTJ76r4fruzFAu2AtLOU=
+
+Name: html/images/Remove Real or Double Precision Loop Counter.png
+SHA-256-Digest: wpPdAiy3s5Q9mM2ygJqLyFx5AggMXBqCi4MSmUtB0uA=
+
+Name: html/basic/GettingStarted.html
+SHA-256-Digest: qKdZdwP+OwJulGd3rU80TXanBAC+W9fIGQxzNDXyQhg=
+
+Name: html/toc.html
+SHA-256-Digest: 2JV2+vL3G615Oc78f+GAYZ4G/nM0QCkb8YzHGf30cDE=
+
+Name: html/advanced/top.html
+SHA-256-Digest: 6sU7JzsfOm1Rv5pq/LHvnRF0gMIMioszJZO+ViVdl4A=
+
+Name: html/images/PhotranHoverTips.jpg
+SHA-256-Digest: hZHeULcYrJPmSTNgxuVAf4qJAJOmJMSlPXBA+NntMaM=
+
+Name: html/advanced/AdvancedEditingFeatures.html
+SHA-256-Digest: VvifPJVyV/nm1edmobLcvG++v6ymCer8HD6GUb3oFR8=
+
+Name: html/images/Photran-make-common-var-names-consist-1.PNG
+SHA-256-Digest: OUTnmyzvtY7Tdaj3z8oPrjVtanxuluhSabM0SDFAwxo=
+
+Name: html/advanced/Introduction.html
+SHA-256-Digest: q+cSO6oMAc1ZbOEmbcu61DL/nrOGq0WmL7HgqTi0Qv4=
+
+Name: html/images/Replace Old-Style Do Loops.png
+SHA-256-Digest: X+/f5ocDHPY6jBgRr0MOIYG20TckJpmweV89ZuvuJ64=
+
+Name: html/images/Photran-refac-properties.png
+SHA-256-Digest: GjzEtvUypcT+1is77KTMKajsNq9Z1VUWOuNjAAjHki4=
+
+Name: html/basic/StartingNewProject.html
+SHA-256-Digest: gjsjNSYpv8Icj86MElgxjis5OgnaEnbiGaCTjBZjUaU=
+
+Name: html/images/CompleteLoopUnrolling.jpg
+SHA-256-Digest: K+qXfODkPpejWjM4AmM0GhbvxOua40LS28hxEaDUtT0=
+
+Name: html/images/Photran-fortran-declaration-view.png
+SHA-256-Digest: pAh26wgDjb7pAlOUS3eh8x84auX8AdaCWLv9U6mhcII=
+
+Name: html/images/Photran-outline-view-error.PNG
+SHA-256-Digest: WSg9a2TRWlbXngPTMm1veE8lHwxHtpkmFdT9l23IpsY=
+
+Name: html/images/Photran-Data-To-Parameter.png
+SHA-256-Digest: 88jIf8dOnQTXPS38PbsOKnZNWdyY+JBfVSdqxD3GRQI=
+
+Name: html/images/Add Identifier to END.png
+SHA-256-Digest: GutVyA8pRu+w2dqC3UBo13Dlk7lpAvS5oRjf1TvMzDQ=
+
+Name: html/images/Photran-add-only-dialog.PNG
+SHA-256-Digest: 8ZGiHmEmk/WLFVpAqc4/5zaWm0LpfgQZLspExC0bBiI=
+
+Name: html/images/Replace CharacterStar with Character(len=).png
+SHA-256-Digest: E5aQ+169F05qSSuFfrBzg9OIpeJddU0B1th2rglidrE=
+
+Name: html/images/Photran-fortran-binary-parsers.PNG
+SHA-256-Digest: mIN7yOadhRsYV+qrWk3SZVtSV6MK+HqQhpEdIQy3CMw=
+
+Name: html/images/TilingExample.jpg
+SHA-256-Digest: Sb0XqQkkR6gAyUmWAPFY/6v9vUgx8bXITmbPK+e5hmM=
+
+Name: plugin.properties
+SHA-256-Digest: uva4Hkk9/T4OirjKDSCRVHkWVRbxKGIPJJm8gWoC/9s=
+
+Name: html/images/Safe-Delete Internal Subprograms.png
+SHA-256-Digest: JmW0AVljOkEwmNLMBMgZXnzA9jSmBrDGnLdzjk4ufY8=
+
+Name: html/images/Photran-extract-proc-dialog.png
+SHA-256-Digest: jUktUu7FjzR7HEaDhqn77IUDjlxrCYzF8ts953gjeRA=
+
+Name: html/images/Photran-add-only-list.PNG
+SHA-256-Digest: y6bZcKFMFiKRcV6FIEoNX3LkEYMyFTD74x/mwzVmyjg=
+
+Name: html/images/Fonts.png
+SHA-256-Digest: qo5+FRiGYWpc4+gZjwqeg45JXg3oOr4RiKwwaiYggEQ=
+
+Name: html/images/RemoveArithmeticIf.png
+SHA-256-Digest: IyYIH4aM/E4j0BrgGG4J01JzgsXZ9gYafQ/fceIMyBs=
+
+Name: html/images/Remove Assigned Goto.png
+SHA-256-Digest: N3SySjd4Ko+h+QD9DVbNB/cDvA3b660slVB8kZ00v7s=
+
+Name: html/images/FusionRefactoringExample.jpg
+SHA-256-Digest: xO4JteRVJ81f6jOAVuYaCQcXbWsBBc1+trdmQddwzCY=
+
+Name: html/images/Photran-Remove-Unused-Variables.png
+SHA-256-Digest: 4wpdvqooPeVFz+Nh3gX3bgMVBksiuaV9ie+QUBPp560=
+
+Name: html/images/Change Subroutine Signature.png
+SHA-256-Digest: VUcknUZtIjOl/G1fUQT9EVpFYn/t4N7GX3NjaTSC4AM=
+
+Name: html/images/Make Save Attributes Explicit.png
+SHA-256-Digest: N7fNS/sD5aSaRKNJe2CuJVFExswL03uX1jDP7REV89A=
+
+Name: html/images/Photran-source-form-config.png
+SHA-256-Digest: LHiz8hRPBcYOdEDwMfTajtwiKvg/z5UbLqueVsKYGsc=
+
+Name: html/images/Photran-editor-ruler.PNG
+SHA-256-Digest: eLaJQ1nxpaLeIYKpDT1U0Eh7UlIBOgstIhnMuoXzY58=
+
+Name: tocbasic.xml
+SHA-256-Digest: 41BOMwkGcNvpkKDAZJdipOa47te5WJyF9pmF0wYL+tg=
+
+Name: html/basic/WritingCode.html
+SHA-256-Digest: TmaV1ai0G5DFzqLpBV2sorwqehEqrbyHb2n5WsawcU8=
+
+Name: html/images/Highlight Variable Accesses.png
+SHA-256-Digest: Rzfpgi0XcMH05NhmjS635VeqOCV1FRrmzD0BEgEcXb0=
+
+Name: META-INF/maven/org.eclipse.photran/org.eclipse.photran.doc.user/
+ pom.properties
+SHA-256-Digest: sTf0FWL/pJqq3reI3nkiN34nPKltcs3DYis81icAVh0=
+
+Name: html/basic/CompilingFortran.html
+SHA-256-Digest: QQU6l9x5X4yv1FtwY4Nd8sZS6MEDPCJlQUoYtwFFtLk=
+
+Name: html/images/Photran-priv-to-public.PNG
+SHA-256-Digest: rr59Y8l4cVaPmAt8HCgsgSAkVKSkKd+J7iJAS/FSC70=
+
+Name: html/images/Photran-canonicalize-keyword-cap-1.PNG
+SHA-256-Digest: Zzj7y7CsYXSmgtsNTS50zNZnsrOI/qFXfCMTt9Eqyjg=
+
+Name: html/images/Photran-outline-view.PNG
+SHA-256-Digest: +cVV4eU1TS1T7dhbcdARPANqrliZudife14kpNsUWZk=
+
+Name: html/images/GetterSetterNames.jpg
+SHA-256-Digest: w+575DP9C2rpuwVHm+shk2tjJ8vIgZq0/Rke9tev8rM=
+
+Name: html/advanced/Refactoring.html
+SHA-256-Digest: PcjlgALR6foDvumCgDbaUcTAvc1+dEipgW09QaKs1TU=
+
+Name: html/images/Code_Templates.png
+SHA-256-Digest: oYI6sqcdZTxF9SjHWih5B2X65/boKbhW5IIh/9CHnzo=
+
+Name: html/images/NumLoopUnrollWBoundsCheck.jpg
+SHA-256-Digest: YFSEyPDda2RytnmJvNVJHwuKLFHjqx0cdxina8UUhNc=
+
+Name: html/basic/Troubleshooting.html
+SHA-256-Digest: 3lZQNGKZ1yYF5FZhY8mc675ySSeFeWmHkvM0SvyEHZ8=
+
+Name: html/images/EncapsulateVariablesPart1.jpg
+SHA-256-Digest: 9bBaqXbV/3tu4UkfVEJ1rvlM8SqlPi0LkX/gG9RniFQ=
+
+Name: html/images/Photran-make-common-var-names-consist.PNG
+SHA-256-Digest: 8NmfOoUMU0dRnvc+1aszT6ZweO7b7VOGM8f3rgTNFck=
+
+Name: about.html
+SHA-256-Digest: wmgQVAXXz4oUA9Vn9gts+PyIpDOIZsXrJzZs1Y4kUgI=
+
+Name: html/images/Photran-project-type.PNG
+SHA-256-Digest: 4lO2kNmbPWmdJ6fzEMMZmAHY7UnYVheWdsMNcd/hiWo=
+
+Name: html/images/Photran-Standardize-Statements.png
+SHA-256-Digest: zT0ZOGu6pi1OfXrRf6uZfIHXByrWrD9P/qc1SWe6p3k=
+
+Name: html/images/Photran-min-only-list.PNG
+SHA-256-Digest: 1P2r4Mk5+OVAq/3fNBhbkQHwIuCZUrsMoQNIBxZsujc=
+
+Name: html/images/Add Subroutine Parameter.png
+SHA-256-Digest: RtlEp1KlSK+PWlnByzNl4Gz6z4CUHkR3ZM9hCuGQOp8=
+
+Name: html/images/Photran-rename-1.png
+SHA-256-Digest: peVdW3FmpE0mqFSH+pvWbsj5cE/SBhGCCd+eg+0qXyU=
+
+Name: html/images/Photran-canonicalize-keyword-cap-dialog.PNG
+SHA-256-Digest: 4fO/SkW4TSWXdLtJWTcrpNDPj/5kSZPUcNCzwkONs5k=
+
+Name: html/images/Display Symbol Table for Current File.png
+SHA-256-Digest: nVQb9ZmE7vjNh4j4TyH2vsjfRA9OuusJ6x8xv0oNvJs=
+
+Name: html/images/Photran-editor-1.PNG
+SHA-256-Digest: x6PqFBbMG0rqgSfoQ78JfjP29+pXOZDHrW/ycbskv/Q=
+
+Name: html/images/Remove Pause Statement.png
+SHA-256-Digest: s91V/0r7pfpA7+jP0VciRFzEwzJjwTQlY5W2gjwhM24=
+
+Name: tocadvanced.xml
+SHA-256-Digest: LzKeDnkFQutt1q2r4E2pcjRN6g1GhyE8XeZ2ztdQ4Po=
+
+Name: html/images/Photran-replace-obsolete-1.png
+SHA-256-Digest: eZ4xDHluGLXvzD6pe6foutLVWkhtaHdUCoUJFKajuQE=
+
+Name: html/images/Display Database.png
+SHA-256-Digest: +VFkjqfCgxpVx13ZqqoneSY7o/tUbijUaDfgKAmEvOE=
+

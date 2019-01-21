@@ -1,0 +1,268 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- NewPage -->
+<html lang="en">
+<head>
+
+<title>org.eclipse.net4j.util.om.log (Net4j Utilities Documentation)</title>
+<meta name="date" content="">
+<link rel="stylesheet" type="text/css" href="../../../../../../stylesheet.css" title="Style">
+<script type="text/javascript" src="../../../../../../script.js"></script>
+</head>
+<body>
+<script type="text/javascript"><!--
+    try {
+        if (location.href.indexOf('is-external=true') == -1) {
+            parent.document.title="org.eclipse.net4j.util.om.log (Net4j Utilities Documentation)";
+        }
+    }
+    catch(err) {
+    }
+//-->
+</script>
+<noscript>
+<div>JavaScript is disabled on your browser.</div>
+</noscript>
+<!-- ========= START OF TOP NAVBAR ======= -->
+<div class="topNav"><a name="navbar.top">
+<!--   -->
+</a>
+<div class="skipNav"><a href="#skip.navbar.top" title="Skip navigation links">Skip navigation links</a></div>
+<a name="navbar.top.firstrow">
+<!--   -->
+</a>
+<ul class="navList" title="Navigation">
+<li><a href="../../../../../../overview-summary.html">Overview</a></li>
+<li class="navBarCell1Rev">Package</li>
+<li>Class</li>
+<li><a href="package-use.html">Use</a></li>
+<li><a href="../../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../../help-doc.html">Help</a></li>
+</ul>
+</div>
+<div class="subNav">
+<ul class="navList">
+<li><a href="../../../../../../org/eclipse/net4j/util/om/package-summary.html">Prev&nbsp;Package</a></li>
+<li><a href="../../../../../../org/eclipse/net4j/util/om/monitor/package-summary.html">Next&nbsp;Package</a></li>
+</ul>
+<ul class="navList">
+<li><a href="../../../../../../index.html?org/eclipse/net4j/util/om/log/package-summary.html" target="_top">Frames</a></li>
+<li><a href="package-summary.html" target="_top">No&nbsp;Frames</a></li>
+</ul>
+<ul class="navList" id="allclasses_navbar_top">
+<li><a href="../../../../../../allclasses-noframe.html">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type="text/javascript"><!--
+  allClassesLink = document.getElementById("allclasses_navbar_top");
+  if(window==top) {
+    allClassesLink.style.display = "block";
+  }
+  else {
+    allClassesLink.style.display = "none";
+  }
+  //-->
+</script>
+</div>
+<a name="skip.navbar.top">
+<!--   -->
+</a></div>
+<!-- ========= END OF TOP NAVBAR ========= -->
+<div class="header">
+<h1 title="Package" class="title">Package&nbsp;org.eclipse.net4j.util.om.log</h1>
+<div class="docSummary">
+<div class="block">Interfaces and classes for platform-independent logging.</div>
+</div>
+<p>See:&nbsp;<a href="#package.description">Description</a></p>
+</div>
+<div class="contentContainer">
+<ul class="blockList">
+<li class="blockList">
+<table class="typeSummary" border="0" cellpadding="3" cellspacing="0" summary="Interface Summary table, listing interfaces, and an explanation">
+<caption><span>Interface Summary</span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Interface</th>
+<th class="colLast" scope="col">Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/Log.html" title="interface in org.eclipse.net4j.util.om.log">Log</a></td>
+<td class="colLast">&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogFilter.html" title="interface in org.eclipse.net4j.util.om.log">OMLogFilter</a></td>
+<td class="colLast">
+<div class="block">Filters log events before they are being passed to the registered <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogHandler.html" title="interface in org.eclipse.net4j.util.om.log"><code>log handlers</code></a>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogger.html" title="interface in org.eclipse.net4j.util.om.log">OMLogger</a></td>
+<td class="colLast">
+<div class="block">The <a href="../../../../../../org/eclipse/net4j/util/om/OMBundle.html#logger--"><code>logger</code></a> of a <a href="../../../../../../org/eclipse/net4j/util/om/OMBundle.html" title="interface in org.eclipse.net4j.util.om"><code>bundle</code></a>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogHandler.html" title="interface in org.eclipse.net4j.util.om.log">OMLogHandler</a></td>
+<td class="colLast">
+<div class="block">Handles <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogFilter.html" title="interface in org.eclipse.net4j.util.om.log"><code>filtered</code></a> log events, for example appends them to a <a href="../../../../../../org/eclipse/net4j/util/om/log/PrintLogHandler.html" title="class in org.eclipse.net4j.util.om.log"><code>stream</code></a> or
+ the Eclipse <a href="../../../../../../org/eclipse/net4j/util/om/log/EclipseLoggingBridge.html" title="class in org.eclipse.net4j.util.om.log"><code>error log</code></a>.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li class="blockList">
+<table class="typeSummary" border="0" cellpadding="3" cellspacing="0" summary="Class Summary table, listing classes, and an explanation">
+<caption><span>Class Summary</span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Class</th>
+<th class="colLast" scope="col">Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/AbstractLogHandler.html" title="class in org.eclipse.net4j.util.om.log">AbstractLogHandler</a></td>
+<td class="colLast">
+<div class="block">An abstract base implementation of a <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogHandler.html" title="interface in org.eclipse.net4j.util.om.log"><code>log handler</code></a> that filters log events with a <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogger.Level.html" title="enum in org.eclipse.net4j.util.om.log"><code>log level</code></a>
+ greater than a configurable <code>maximum level</code>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/EclipseLoggingBridge.html" title="class in org.eclipse.net4j.util.om.log">EclipseLoggingBridge</a></td>
+<td class="colLast">
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogHandler.html" title="interface in org.eclipse.net4j.util.om.log"><code>log handler</code></a> that appends log events to the Eclipse <a href="http://help.eclipse.org/topic//org.eclipse.platform.doc.isv/reference/api/org/eclipse/core/runtime/ILog.html?is-external=true" title="class or interface in org.eclipse.core.runtime"><code>error log</code></a>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/FileLogHandler.html" title="class in org.eclipse.net4j.util.om.log">FileLogHandler</a></td>
+<td class="colLast">
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogHandler.html" title="interface in org.eclipse.net4j.util.om.log"><code>log handler</code></a> that appends log events to a <a href="../../../../../../org/eclipse/net4j/util/om/log/FileLogHandler.html#getLogFile--"><code>file</code></a>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/Logger.html" title="class in org.eclipse.net4j.util.om.log">Logger</a></td>
+<td class="colLast">
+<div class="block">The default <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogger.html" title="interface in org.eclipse.net4j.util.om.log"><code>logger</code></a> implementation.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/OSGiLoggingBridge.html" title="class in org.eclipse.net4j.util.om.log">OSGiLoggingBridge</a></td>
+<td class="colLast">Deprecated
+<div class="block"><span class="deprecationComment">As of 4.7 use <a href="../../../../../../org/eclipse/net4j/util/om/log/OSGiLogHandler.html" title="class in org.eclipse.net4j.util.om.log"><code>OSGiLogHandler</code></a>.</span></div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/OSGiLogHandler.html" title="class in org.eclipse.net4j.util.om.log">OSGiLogHandler</a></td>
+<td class="colLast">
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogHandler.html" title="interface in org.eclipse.net4j.util.om.log"><code>log handler</code></a> that appends log events to the OSGi <a href="../../../../../../org/eclipse/net4j/util/om/log/Logger.html" title="class in org.eclipse.net4j.util.om.log"><code>log service</code></a>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/PrintLogHandler.html" title="class in org.eclipse.net4j.util.om.log">PrintLogHandler</a></td>
+<td class="colLast">
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogHandler.html" title="interface in org.eclipse.net4j.util.om.log"><code>log handler</code></a> that appends log events to <a href="../../../../../../org/eclipse/net4j/util/om/log/PrintLogHandler.html#getErr--"><code>error</code></a> and <a href="../../../../../../org/eclipse/net4j/util/om/log/PrintLogHandler.html#getOut--"><code>output</code></a> streams.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/RollingLog.html" title="class in org.eclipse.net4j.util.om.log">RollingLog</a></td>
+<td class="colLast">&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/RollingLog.LogLine.html" title="class in org.eclipse.net4j.util.om.log">RollingLog.LogLine</a></td>
+<td class="colLast">&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/RollingLog.PropertiesEvent.html" title="class in org.eclipse.net4j.util.om.log">RollingLog.PropertiesEvent</a></td>
+<td class="colLast">&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/RollingLog.RecoveryEvent.html" title="class in org.eclipse.net4j.util.om.log">RollingLog.RecoveryEvent</a></td>
+<td class="colLast">&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/RollingLog.RollingLogEvent.html" title="class in org.eclipse.net4j.util.om.log">RollingLog.RollingLogEvent</a></td>
+<td class="colLast">&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/RollingLog.SplitEvent.html" title="class in org.eclipse.net4j.util.om.log">RollingLog.SplitEvent</a></td>
+<td class="colLast">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li class="blockList">
+<table class="typeSummary" border="0" cellpadding="3" cellspacing="0" summary="Enum Summary table, listing enums, and an explanation">
+<caption><span>Enum Summary</span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Enum</th>
+<th class="colLast" scope="col">Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/OMLogger.Level.html" title="enum in org.eclipse.net4j.util.om.log">OMLogger.Level</a></td>
+<td class="colLast">
+<div class="block">Enumerates the possible severity levels of log events.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="../../../../../../org/eclipse/net4j/util/om/log/RollingLog.PropertiesEvent.Type.html" title="enum in org.eclipse.net4j.util.om.log">RollingLog.PropertiesEvent.Type</a></td>
+<td class="colLast">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<a name="package.description">
+<!--   -->
+</a>
+<h2 title="Package org.eclipse.net4j.util.om.log Description">Package org.eclipse.net4j.util.om.log Description</h2>
+<div class="block">Interfaces and classes for platform-independent logging.</div>
+</div>
+<!-- ======= START OF BOTTOM NAVBAR ====== -->
+<div class="bottomNav"><a name="navbar.bottom">
+<!--   -->
+</a>
+<div class="skipNav"><a href="#skip.navbar.bottom" title="Skip navigation links">Skip navigation links</a></div>
+<a name="navbar.bottom.firstrow">
+<!--   -->
+</a>
+<ul class="navList" title="Navigation">
+<li><a href="../../../../../../overview-summary.html">Overview</a></li>
+<li class="navBarCell1Rev">Package</li>
+<li>Class</li>
+<li><a href="package-use.html">Use</a></li>
+<li><a href="../../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../../help-doc.html">Help</a></li>
+</ul>
+</div>
+<div class="subNav">
+<ul class="navList">
+<li><a href="../../../../../../org/eclipse/net4j/util/om/package-summary.html">Prev&nbsp;Package</a></li>
+<li><a href="../../../../../../org/eclipse/net4j/util/om/monitor/package-summary.html">Next&nbsp;Package</a></li>
+</ul>
+<ul class="navList">
+<li><a href="../../../../../../index.html?org/eclipse/net4j/util/om/log/package-summary.html" target="_top">Frames</a></li>
+<li><a href="package-summary.html" target="_top">No&nbsp;Frames</a></li>
+</ul>
+<ul class="navList" id="allclasses_navbar_bottom">
+<li><a href="../../../../../../allclasses-noframe.html">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type="text/javascript"><!--
+  allClassesLink = document.getElementById("allclasses_navbar_bottom");
+  if(window==top) {
+    allClassesLink.style.display = "block";
+  }
+  else {
+    allClassesLink.style.display = "none";
+  }
+  //-->
+</script>
+</div>
+<a name="skip.navbar.bottom">
+<!--   -->
+</a></div>
+<!-- ======== END OF BOTTOM NAVBAR ======= -->
+<p class="legalCopy"><small><i class="copyright">Copyright (c) 2014 Eike Stepper (Berlin, Germany) and others.<br>All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at http://www.eclipse.org/legal/epl-v10.html</i></small></p>
+</body>
+</html>

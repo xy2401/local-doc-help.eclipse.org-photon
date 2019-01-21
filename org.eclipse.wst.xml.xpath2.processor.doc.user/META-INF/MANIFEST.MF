@@ -1,0 +1,161 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.wst.xml.xpath2.processor.doc.user;sin
+ gleton:=true
+Built-By: genie.webtools
+Require-Bundle: org.eclipse.core.runtime
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/source
+ editing/webtools.sourceediting.git;path="xpath/docs/org.eclipse.wst.x
+ ml.xpath2.processor.doc.user";commitId=0c532000ad09e53c9fb8ddfb1c3f1d
+ ef983f57c0
+Bundle-Vendor: %vendorName
+Bundle-Name: %pluginName
+Bundle-Version: 2.1.0.v201802171654
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: html/index.html
+SHA-256-Digest: DgJG0Je7deUhgOWCL9NMTpFhyv4KEZEwP0ZROana1P0=
+
+Name: html/ch02s03s03.html
+SHA-256-Digest: YmuJwn2NKRQnPhv/nDocvDJ1I38tj5YvZZ3FesSr82U=
+
+Name: plugin.xml
+SHA-256-Digest: 8Pmvh0HKfU3MTOvOF9kcn04QFW/5iXVgfDRThj3t2q4=
+
+Name: html/ch04s08.html
+SHA-256-Digest: 3hJVu7IOF0PWXWU61rOWmBXKirOpzmFoc7o+vpPaPq8=
+
+Name: html/ch02s03s09.html
+SHA-256-Digest: 5ZNYjWqJwr6x+cHLVXtKO/TGpiwbknC0emBk5llRnCA=
+
+Name: html/ch02s03s06.html
+SHA-256-Digest: eJMIS5isSrl0HhU1SQA8NDf+32AdUkBfk/FXdwNzalU=
+
+Name: html/ch04s05.html
+SHA-256-Digest: Jzagkfe3zsWe3el5sZA+TVGh3zPNxQeSNIYW31HE3DM=
+
+Name: html/ch03s05.html
+SHA-256-Digest: mF6XSe5gXA594PRsuIpNu25u58kq9J5tNi08osYsGsk=
+
+Name: html/ch04.html
+SHA-256-Digest: 6KRoAyTsEgZvABTCtEwqyVPtxi9wc/VWHrcGPHXA8kg=
+
+Name: html/ch03s11s03.html
+SHA-256-Digest: 4F0kxZrY6e84ZM8W+nhdhi76BqWd2GG14x0aiBmwRoE=
+
+Name: html/ch01.html
+SHA-256-Digest: ABQeWJSvwtMyEsIrJiZtYD9nQLfosu9KCYTuJtUwSk4=
+
+Name: html/ch03s11.html
+SHA-256-Digest: 9x9HlcHS30qFJvwN8Co6bvpxjKUNUhLvqFU655PwSoc=
+
+Name: html/ch02s02.html
+SHA-256-Digest: InN51c2bN3WzGsGZ7yiVGM1b6gLXo0S0V/n+rn9JL/w=
+
+Name: html/ch03s08.html
+SHA-256-Digest: 2JRZPZyW8CbUBk/ulbRigs9OJIvlLC6X+DmP8Hx3wC8=
+
+Name: html/ch03s10.html
+SHA-256-Digest: /2Q44ZmO7GI8F/W4hFbkOHjwWj88M+C9HHjf66TXOkQ=
+
+Name: html/ch03s09.html
+SHA-256-Digest: pK6y1/0oTqhD9iFLvyJyK0vM3i2KbLGkoPtc8yhqKzc=
+
+Name: html/ch04s06.html
+SHA-256-Digest: EUK8G6QUMzNXFT57g36rsZE3tpMYpG6fyqWD3r8UUC4=
+
+Name: html/ch03s03.html
+SHA-256-Digest: YAGrplSphWnDXmTCHgxiItviEihqx28RLTPJRi+nc3E=
+
+Name: html/ch02s03s05s03.html
+SHA-256-Digest: GKNCO+WTphuqlJi25O5Q7D61HjSSIhPZ+BaDTJhzY3I=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.xml.xpath2.processor.doc.user/pom.xml
+SHA-256-Digest: 1ZV3PTPXRs2G3cBFcxCROgigz4K8dyXUs/Ji1O5wW8g=
+
+Name: html/ch02.html
+SHA-256-Digest: 2YpWy7QvdUBF+ofHzuJjb4CvpGNQfxHQO/qln5GYX3o=
+
+Name: html/ch03s02.html
+SHA-256-Digest: lsye818+eGa3tFJj+svykQGEc+JBeHvt08d7uUech1w=
+
+Name: html/ch03s06.html
+SHA-256-Digest: Ti39lDYUQHP2jI8y1h7OC76g9RTpvpGI2A2qDpzGEis=
+
+Name: html/ch04s09.html
+SHA-256-Digest: vOXKj9mev7AArKcsMCHLlz5f0fHQPLHZp0wKXAMr9Ks=
+
+Name: plugin.properties
+SHA-256-Digest: 7s9QF5V1mdxOzMG8WhYMT/+j3dfB5fYDbpLwWPyhYCc=
+
+Name: html/ch02s03.html
+SHA-256-Digest: 4AE0/9CT1DXs24x1MrlKqzrBuMvzcsj7QPyZv+txLxo=
+
+Name: html/ch04s02.html
+SHA-256-Digest: ESuKaxCM/6/+CR7Dm360XfKCoWBjnFgLJ/lCAUOjE/Y=
+
+Name: html/ch02s03s11.html
+SHA-256-Digest: HkNvcq3l0MYuNj+ZW2o7//ir3mMzGf01c5EJXJyGCEA=
+
+Name: html/ch03s11s04.html
+SHA-256-Digest: o3MfGlqOCBFhg+n4A2vv3CMRLpz/1vrE/g7XwYY3FXU=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.xml.xpath2.processor.doc.user/pom.properties
+SHA-256-Digest: DK/4c7Bvw8AqKG4O/NifivGRSHvfSpXAhhmmkZfO3io=
+
+Name: about.html
+SHA-256-Digest: 0rAPCHuAl5Du/YbQFVT0SHWMPU5rQCScVRPUfD93AY0=
+
+Name: html/ch03s07.html
+SHA-256-Digest: JKz03FMEihID+rLW0TWvDVIvQQ/scrILxYf373KUsSI=
+
+Name: html/ch02s03s10.html
+SHA-256-Digest: ZZv/x9m91RkW6WDt/PDa8PsYWnRcVcmH2kozSPHyCx8=
+
+Name: html/ch03s11s02.html
+SHA-256-Digest: p78d72BS3jzOYfnDHiBCVj5595T0sL7iK9grwl/Paww=
+
+Name: html/ch02s03s04.html
+SHA-256-Digest: 0b7DNQfuH3QAaGaS50Us4941G71yxNDmqmVb2xL3YHI=
+
+Name: html/ch02s03s07.html
+SHA-256-Digest: QBoYXWwigS+NbrLfXN6Gg1kyFCKtUQzGpOjzosPsyC8=
+
+Name: html/ch04s03.html
+SHA-256-Digest: V30NpjCNFzovzPe3+yVqz5vRwm2T+XxGnYE5JVvhxqw=
+
+Name: html/ch02s03s08.html
+SHA-256-Digest: ZLcDnzcpaII6jIdSjoXJgg9j9hnb6YrLeO6aw72YHyY=
+
+Name: html/book.css
+SHA-256-Digest: ogkHxu2UQV7CImUw0YX5LZq2r9EWGhy3TVQKO5c+hOA=
+
+Name: html/ch02s03s02.html
+SHA-256-Digest: FLGFwmp9tcimt0wwRoeSxAGPXwwKLfhpF2NEfZ6RuVg=
+
+Name: html/ch02s03s05.html
+SHA-256-Digest: OaQaM1pl3DWp8GGIteqwEH1r5vAQwgxCAKXYLtjCTb8=
+
+Name: toc.xml
+SHA-256-Digest: 7UOTdxiXeunbzdaPN7+RxTNtyueLFb5olhZjqcQBdKg=
+
+Name: html/ch04s04.html
+SHA-256-Digest: Yc8IRwlRIOBLGUqb+igo9dVVG56S9fviRVLIhgRYXKw=
+
+Name: html/ch03.html
+SHA-256-Digest: hcKfPLovolqK/boIRtHeUHIq0cvGzitws4EzXcohAmo=
+
+Name: html/ch02s03s05s02.html
+SHA-256-Digest: Nlpp1igoljCHE5EqzIYER5t1oqTx9s1N7fT1Jm1mYf0=
+
+Name: html/ch03s04.html
+SHA-256-Digest: 4C88sz9pWgNz5tE1VHoJ9tNCntVF4Kwl2u4Cqn75csY=
+
+Name: html/ch04s07.html
+SHA-256-Digest: Tlk1Vk/rZPveYAGPgjtKjSerBOmlxNYFNuai9p/Zgn4=
+

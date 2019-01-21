@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<!-- ========================== -->
+<!-- Define topics for the Concepts -->
+<!-- ========================== -->
+<toc label="Concepts" href="concepts/concepts-1.htm" >
+   <topic label="Overview" href="concepts/concepts-1.htm"/>
+   <topic label="Tcl projects" href="concepts/concepts-3.htm"/>
+   <anchor id="c_javaprojects" />
+
+   <topic label="Tcl Build path" href="concepts/cbuildcp.htm">
+      <anchor id="c_buildclasspath" />
+      <topic label="Exclusion and inclusion filters" href="concepts/filters.htm" />
+      <anchor id="c_filters" />
+   </topic>
+   <topic label="Tcl perspectives" href="concepts/concepts-5.htm"/>
+   <anchor id="c_javaperspective" />
+   <topic label="Tcl views" href="concepts/cjavaviews.htm">
+      <anchor id="c_javaviews" />
+      <topic label="Filtering in Tcl views" href="concepts/cjavaviews_filtering.htm"/>
+      <topic label="Sorting in Tcl views" href="concepts/cjavaviews_sorting.htm"/>
+   </topic>
+   <topic label="Tcl editor" href="concepts/concepts-7.htm"/>
+   <anchor id="c_javaeditor" />
+   <topic label="Tcl search" href="concepts/concepts-8.htm"/>
+   <anchor id="c_javasearch" />
+   <topic label="Debugger" href="concepts/cdebugger.htm"/>
+   <anchor id="c_debugger" />
+   <topic label="Debugging" href="concepts/clocdbug.htm" />
+   <anchor id="c_localdebug" />
+   <topic label="Breakpoints" href="concepts/cbrkpnts.htm" />
+   <anchor id="c_breakpoints" />
+  
+</toc>

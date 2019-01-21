@@ -1,0 +1,58 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.cdt.libhover.library.doc
+ s
+Bundle-SymbolicName: org.eclipse.linuxtools.cdt.libhover.library.docs;
+ singleton:=true
+Bundle-Name: %bundleName
+Bundle-Version: 1.0.2.201806122135
+Bundle-Localization: plugin
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %provider
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: plugin.xml
+SHA-256-Digest: eWNlLIv+EASIt2Zl68wAahAZC52uwWQT1VKurDNIc1o=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: META-INF/maven/org.eclipse.linuxtools.cdt.libhover/org.eclipse.l
+ inuxtools.cdt.libhover.library.docs/pom.xml
+SHA-256-Digest: Ey1mVpeGXghnu3YoVOEksbSR3THIuGWZ6C0fCTwX/c8=
+
+Name: Linux_Tools_Project/Libhover/Developers_Guide/Updating-This-Docu
+ ment.html
+SHA-256-Digest: EZ9YRGIBUyTSOgNu2HpQck+uINFFIMGLPTm2Ouv8MRg=
+
+Name: libraries.xml
+SHA-256-Digest: +CiRU9ToLuP4QDPj5M4y3F7el7fAuDtWm18qkHjz1Is=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: META-INF/maven/org.eclipse.linuxtools.cdt.libhover/org.eclipse.l
+ inuxtools.cdt.libhover.library.docs/pom.properties
+SHA-256-Digest: 9XG9YIqlS6eV0TzN4+Lxbi7FJSNxCrjkhafhhl9315k=
+
+Name: Linux_Tools_Project/Libhover/Developers_Guide/Developers-Guide.h
+ tml
+SHA-256-Digest: GOnbp1ctRje2x+kYwj17CUiLTVV04nbfd6JLj+BO3M8=
+
+Name: toc.xml
+SHA-256-Digest: w96U0ChzIUHxxOPI3B6JM/a62wQR73mABCHQmCa/Asc=
+
+Name: plugin.properties
+SHA-256-Digest: Pb3rLBhrmzFP9o4YmGar+xPc097/lCvz7pgLfCZfANc=
+
+Name: doc/notices.html
+SHA-256-Digest: at9PtgtJIuEsmGT6HoXxBZwn+OlhlzntSc7Ujfijh50=
+

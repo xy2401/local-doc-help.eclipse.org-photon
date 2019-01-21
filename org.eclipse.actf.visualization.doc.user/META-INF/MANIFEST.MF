@@ -1,0 +1,422 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Eclipse ACTF Project
+Bundle-Name: ACTF Visualization User Guide Plug-in
+Bundle-SymbolicName: org.eclipse.actf.visualization.doc.user;singleton
+ :=true
+Bundle-Version: 1.5.1.R201709131236
+Bundle-ManifestVersion: 2
+
+Name: docs/images/logo.jpg
+SHA1-Digest: 1L3ovtLnM0mqeik5bXNbg/jX2Yc=
+
+Name: docs/viewsOdf.html
+SHA1-Digest: wPhbWbrv3C79fH9vWgbZ4zso79Q=
+
+Name: docs/images/I_ClearAllLinks.gif
+SHA1-Digest: QPKIruKiuiy0AvVUfF4N+3BbQZU=
+
+Name: docs/images/browser/refresh.gif
+SHA1-Digest: u1+zepWlClYwFMNk8fzIwLq/D3Y=
+
+Name: docs/images/perspectives.jpg
+SHA1-Digest: h/QChBLvDDenWMOIzGBuUbo+kAU=
+
+Name: docs/images/I_Setting.gif
+SHA1-Digest: LBFSnq23DTQyX2Kb+cQSIomrVSM=
+
+Name: docs/images/gui/overlay.gif
+SHA1-Digest: cyQr/wO1k9k40duCTMoxcwGTlzU=
+
+Name: docs/images/I_Visualize.gif
+SHA1-Digest: NFjQaK850lTX10qN8JlBzDhu8LA=
+
+Name: docs/images/gui/guiEvent.png
+SHA1-Digest: Dj1qwiiPQl7xnJF9gS2fEPbyrsg=
+
+Name: docs/images/gui/collapseall.gif
+SHA1-Digest: lLQ3zHD8+td65WxRKfB1kMRzOqQ=
+
+Name: docs/images/gui/copy_edit.gif
+SHA1-Digest: t2yjkh4Fe/eXbNEAT6ALPln5rBE=
+
+Name: docs/images/gui/error_tsk.gif
+SHA1-Digest: dKlEezESemxdXGAOHjJPXnHdtTk=
+
+Name: docs/images/I_FreezeBalloon.gif
+SHA1-Digest: t666d+HYIB5371QOp/jfRR/KfZo=
+
+Name: docs/sourceViewer.html
+SHA1-Digest: SK0Qy+AyN+NuBOeYIIgYho3A2Dk=
+
+Name: docs/images/gui/refresh.gif
+SHA1-Digest: VHUDPMiwiKJcwN0BG7ABhxxFfrA=
+
+Name: docs/images/gui/guiList.png
+SHA1-Digest: 1KS3p3FGnVF1qcwJLJ0O4BBjm+E=
+
+Name: docs/images/gui/guiSummary.png
+SHA1-Digest: DNjQsG0tdU3Zm0X5C2hc46UXPEo=
+
+Name: notices.html
+SHA1-Digest: Kxz4EBrVWsQhH5gj0jod0wefpEI=
+
+Name: docs/usingdesigner.html
+SHA1-Digest: R/rwzcrzovPMJ58t9udXHrdtwXg=
+
+Name: docs/images/gui/warn_tsk.gif
+SHA1-Digest: EKEjev5kfbWHAWL0glfXATFZJE4=
+
+Name: docs/images/I_FaceUsual.gif
+SHA1-Digest: Z8fMuenzI8LP0MlLVTGjRBBAg8M=
+
+Name: docs/checkOdfPresentation.html
+SHA1-Digest: zMk8R+AadHttuw6pJv4O8bIvayg=
+
+Name: docs/images/gui/guiSettings.png
+SHA1-Digest: 6CJUVdyZ5R1rB1Y+lKDB3mhmrQI=
+
+Name: docs/viewsFlash.html
+SHA1-Digest: Ou7ZyP5N3KPvPlIGVm8SOa8qhyc=
+
+Name: docs/images/browser/back.gif
+SHA1-Digest: 1KE47TKDWF+fmS9cwfjT0d6aIUw=
+
+Name: docs/images/I_FaceSmile.gif
+SHA1-Digest: L6/a3OCiXFgg46729Go7C4rXgP0=
+
+Name: docs/images/browser/go.gif
+SHA1-Digest: wQbGrHaBPm2g6ZHgU2KInOxbWVg=
+
+Name: docs/workspaceOdf.html
+SHA1-Digest: DzIZVyYud45Qn22mQDAeNgaR5uY=
+
+Name: docs/images/UI.jpg
+SHA1-Digest: sPCm59sblZv65a+Nr7qHZhKXXbg=
+
+Name: docs/images/I_Exclamation.gif
+SHA1-Digest: lgk023nhCzpTl7I1X9ALOQ6cSWQ=
+
+Name: docs/overview.html
+SHA1-Digest: 9lbTEbfxfovwgtuN+rkNqsGfgKc=
+
+Name: docs/images/install.gif
+SHA1-Digest: IfhqY++4hpNN6OCUFj591fIOjpo=
+
+Name: docs/images/visualization_menu.jpg
+SHA1-Digest: mv/uKgiX4wUgeXU0qSoXwD1BQ/w=
+
+Name: docs/images/LV_SimulationView.jpg
+SHA1-Digest: YlJKy0KfXxrQ4oBp28AQN4+uUk0=
+
+Name: docs/images/flash/check_isui.png
+SHA1-Digest: fkUkrc6v6Fnizv/qyVEpm1W5/fc=
+
+Name: docs/overviewOdf.html
+SHA1-Digest: ynJ0o3DrRcw0IoJ/ikdjSUfiafo=
+
+Name: docs/images/I_Blur.gif
+SHA1-Digest: mgwHHK8WzGIGWCHqgn4UuiQ+NMk=
+
+Name: docs/images/flash/guiprop.png
+SHA1-Digest: 46NEs37uD6BjELw6yrjk3sM05fM=
+
+Name: docs/viewsGui.html
+SHA1-Digest: q03B8nH4jkcwP/6i+3FewueQh58=
+
+Name: docs/images/TreeView.gif
+SHA1-Digest: b0dWM2+f9OoZbz/MwqlU1lJPVYI=
+
+Name: docs/images/odf/odfPresentation.jpg
+SHA1-Digest: xLHINja1ZDIzKYRs/u3YgD6lMDg=
+
+Name: docs/checkFlash.html
+SHA1-Digest: g7JbkWwLM92kiT37mjnwqB9Wgfk=
+
+Name: docs/menusIcons.html
+SHA1-Digest: I/eTaxiNQ1D5phZNkAWAXqiHA1I=
+
+Name: docs/images/gui/targetMenu.png
+SHA1-Digest: 3Oq20/Gz4B1biN9JAviN5my7+Io=
+
+Name: docs/images/SummaryTab.jpg
+SHA1-Digest: ponRhRqR1zujdhz3X2rrx3t9npc=
+
+Name: docs/images/I_ActiveBalloon.gif
+SHA1-Digest: ju/nY7guu1N8UnTK7kQtcAmwmLw=
+
+Name: docs/images/flash/cachedelete.png
+SHA1-Digest: 78ukz0HsGuSJfqj9QwbFH808evM=
+
+Name: docs/images/gui/info_tsk.gif
+SHA1-Digest: CpXNe92+/EmxI9jj/+ky1TT7j8A=
+
+Name: docs/images/I_DrawAllLinks.gif
+SHA1-Digest: lCa+mWzTo/C0UspNWfKTnUihnU0=
+
+Name: docs/images/I_Save.gif
+SHA1-Digest: HTbsrE6QXUJXRObjezIF08jYvXM=
+
+Name: docs/images/flash/checkreport.png
+SHA1-Digest: lSmITE5LzHv9ZVUw0kMM2iMCZgI=
+
+Name: docs/images/gui/eventFilter.png
+SHA1-Digest: u62SNA4ckiyPKeqymzt1tBqyVyM=
+
+Name: docs/images/gui/voiceSettings.png
+SHA1-Digest: zX87AZiyGBo+AHpDoNwbCgGJCAE=
+
+Name: docs/images/odf/ButtonMiddle.gif
+SHA1-Digest: ojQf7S6xC3Z5QCjN0tjihCEpUNY=
+
+Name: docs/workspaceGui.html
+SHA1-Digest: uik9kTHgZ5KVI4vDK35YP2uHC2Y=
+
+Name: docs/images/browser/addressbar.gif
+SHA1-Digest: MItBQEqCuZTHx+vCdSUgR7lBAD4=
+
+Name: docs/images/flash/domlog.png
+SHA1-Digest: E8/LCQpmp0oH6xxh8eNP1DMOeNk=
+
+Name: docs/images/I_Color.gif
+SHA1-Digest: LItSTEI0IGBXBGCFf47TPW+XYzo=
+
+Name: docs/images/Conf.png
+SHA1-Digest: tXkx6lYhkWiQdNTLKESNVLSn0ds=
+
+Name: docs/images/sourceViewer.jpg
+SHA1-Digest: NIGOb3041dyW4HztY8vqI3dq0MA=
+
+Name: docs/images/I_IdCss.gif
+SHA1-Digest: zf0IKvV2q7b09EleUl3FjTze9HY=
+
+Name: docs/problemsLv.html
+SHA1-Digest: WqdtmTPgdPBJNlO79m/fCOpOM7A=
+
+Name: docs/overviewGui.html
+SHA1-Digest: 4Qvim62G9XyxCy5UnMnseRDiDWs=
+
+Name: about.html
+SHA1-Digest: 6iWCOXZprfOub4LeuEsP3zx5AiY=
+
+Name: docs/images/flash/check_noalt_outline.png
+SHA1-Digest: YToObVwnDBKQD0YdTuejS8CUE6A=
+
+Name: docs/images/flash/flashdom.png
+SHA1-Digest: 3u0tvhhvd45yi30aQmlpHLRJhbA=
+
+Name: toc.xml
+SHA1-Digest: EIw1yD7kGBUE3BoyQ8AoNg5xavo=
+
+Name: docs/parametersLv.html
+SHA1-Digest: Hvsv5OYPC+NgYehxrAXI2aD6ExQ=
+
+Name: docs/images/I_LinkDestination.gif
+SHA1-Digest: Tf0JdxCwst/dz6yk0+pHyOqsvc4=
+
+Name: docs/checkOdfLv.html
+SHA1-Digest: NvEgVyu12cMjTvw7Mg9heLBCYPw=
+
+Name: docs/images/I_FaceSad.gif
+SHA1-Digest: bYqoz7wkVxCAwkDTIYyq1tX3Fzw=
+
+Name: docs/images/Wholepage.gif
+SHA1-Digest: +ZjW4eJsepnPxVfWSCDbUDFaoUg=
+
+Name: docs/images/B_OverallRating.gif
+SHA1-Digest: oNSz+3LQJ5Bzfc4Lk/xYd/F0Xz0=
+
+Name: docs/parametersBlind.html
+SHA1-Digest: T4uIh3Nz6qwCcX8QAmGfYEYkcFQ=
+
+Name: docs/images/flash/pref_flashdom.png
+SHA1-Digest: sxWZqrLL1Tf6aDnaeKumOF5vKU4=
+
+Name: docs/workspaceFlash.html
+SHA1-Digest: 3FkWFG9YwqfPQYU5pbykJ0VpTWI=
+
+Name: docs/images/odf/ButtonSmall.gif
+SHA1-Digest: wZXV2bZOTht5hUntZivTbgFL4Jw=
+
+Name: docs/images/odf/odfMode.png
+SHA1-Digest: vfDVcNU88hZbqtjU/n76zDluFFc=
+
+Name: docs/images/gui/stop.gif
+SHA1-Digest: kqo+0YlPPDIPH/JIX/czNHDae7Q=
+
+Name: docs/odf/install.html
+SHA1-Digest: uWwLGhJwuDQsOLDYxBKzK9F5pwc=
+
+Name: docs/lineViewBlind.html
+SHA1-Digest: CW549tBoqanIlkuYSdEDeKksJ38=
+
+Name: docs/overviewFlash.html
+SHA1-Digest: k/O6rKLswhKHW++YYuh+MxaQ4eU=
+
+Name: docs/index.html
+SHA1-Digest: M2UHtOPj2tZQLOIoH9yTG4yl63U=
+
+Name: docs/images/LV_LineView.jpg
+SHA1-Digest: EXrLH6cvGu7H8RdjWxQEkeLlTSM=
+
+Name: docs/images/I_Star.gif
+SHA1-Digest: t2vb1oHFBExZ/Qkkixmcm1OpVWs=
+
+Name: docs/images/gui/guiMode.png
+SHA1-Digest: +Xy3EwP+HfgD5LtXCtkc2N9xljw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: docs/images/gui/guiReport.png
+SHA1-Digest: jDGAw7uVp4Jio2wLHXtC9JWJkSk=
+
+Name: docs/usingOdfMode.html
+SHA1-Digest: m6y5aoxEZL/XweVYtTFz7IpRS4U=
+
+Name: docs/images/odf/officeView.jpg
+SHA1-Digest: lSfwJRvHNpGOWTEoPrG8+D/Tq6I=
+
+Name: docs/workspace.html
+SHA1-Digest: K0OTeaePONGUKdeGh+BFIyo4RkU=
+
+Name: docs/images/gui/guiOutline.png
+SHA1-Digest: L9hwz/css3YEVmx1SLPnLJwgV3s=
+
+Name: docs/base.css
+SHA1-Digest: OyYxgSO+A/QkxcCE+fJ6NufnFBA=
+
+Name: docs/checkLv.html
+SHA1-Digest: nuOReyVw9AVf02UXp/cbxlv/aEA=
+
+Name: docs/images/B_VisualizationView.jpg
+SHA1-Digest: vT02umjJkJu0hlyRnYfCzn7Jb3Q=
+
+Name: docs/images/Err.png
+SHA1-Digest: mttvMUu7yrAAiW4bPA0DkFug9yM=
+
+Name: docs/images/odf/ButtonLarge.gif
+SHA1-Digest: B9uEMqaChdpPwBRwRb442pAXcZ4=
+
+Name: docs/about.html
+SHA1-Digest: dlIRCf0ylIzL/3RuERq7mIwLLA8=
+
+Name: docs/reference.html
+SHA1-Digest: hk1yCDjAWDs/cuxjSrZSxqvY2PE=
+
+Name: docs/lineViewLv.html
+SHA1-Digest: M8ETKdMsQJZPzJQp39nqSvvl4Dw=
+
+Name: docs/images/browser/stop.gif
+SHA1-Digest: rQ+RjO57C1qu2IvQPWTTFUuhttE=
+
+Name: docs/odf/error.html
+SHA1-Digest: PiU0cisOEUlznDNkUSKc3JkgdiI=
+
+Name: docs/images/Warn.png
+SHA1-Digest: ZWmNJam0qzSpefLc3twgQRoH3V8=
+
+Name: docs/images/I_LinkSource.gif
+SHA1-Digest: ZYWhWZr/EpIDFh/uOae6MIoMJy8=
+
+Name: docs/switchPerspective.html
+SHA1-Digest: MCmUCBr5N35I3P4GNeC9PK2EdY4=
+
+Name: docs/images/gui/expandall.gif
+SHA1-Digest: s8M27dkBqoZwlsuYC/q9kXcbvTA=
+
+Name: docs/compliance.html
+SHA1-Digest: WNgMugcHz/TlupiwwFS32T/fE/A=
+
+Name: docs/problemsBlind.html
+SHA1-Digest: VjfCbzd02qjh6xzFdTUNeib/aoY=
+
+Name: docs/images/B_LineView.jpg
+SHA1-Digest: MonP9Zncpg7Iwgeew0jHtWrxnsU=
+
+Name: docs/images/gui/clear.gif
+SHA1-Digest: VlQe11EC8Oaogw6cJZ8novJsO8o=
+
+Name: docs/images/I_RefreshAllLinks.gif
+SHA1-Digest: adglIYaT4puFpX7uMXVGJV2K/5c=
+
+Name: docs/images/flash/check_noalt_summary.png
+SHA1-Digest: /i2owOxy+Sp86YDeSNjURS78os0=
+
+Name: docs/images/gui/speak.gif
+SHA1-Digest: URVvg7nbY4mOfX5YY14txMjgZbo=
+
+Name: docs/images/odf/pref_odfchecker.jpg
+SHA1-Digest: ZFRy2ToDQcTiH7nEO6oeuXJNZCA=
+
+Name: docs/checkGui.html
+SHA1-Digest: 0YueJx5SWunozz9kayU76nSbsK4=
+
+Name: docs/images/gui/guiProperty.png
+SHA1-Digest: sVPP9NMauFLS7zZAFqUtXuhFF4o=
+
+Name: docs/images/DetailedTab.jpg
+SHA1-Digest: 9o4wNcsLhNDzAr48WY1EVlduJeM=
+
+Name: docs/integration.html
+SHA1-Digest: 80ObHpyDQcxtN0nyoIyK65Ms6Ao=
+
+Name: docs/usingHtmlMode.html
+SHA1-Digest: LdEdj6pcYEjzbDbu+x75V4X2RKk=
+
+Name: docs/odf/guideline.html
+SHA1-Digest: 4S/jpnRaAi2/Ktv3JC13jXuWUnc=
+
+Name: docs/images/browser/stop_se.gif
+SHA1-Digest: nAci1LlVmGqbgS8Zn3F2ZYaTkQ0=
+
+Name: plugin.xml
+SHA1-Digest: rrdfMoWYBgSVzs2Y1t2YWPVtyFY=
+
+Name: docs/checkOdfBlind.html
+SHA1-Digest: IQ3/8xkD1PrLEN7Hckm0/f3ibro=
+
+Name: docs/images/flash/check_component_bad.png
+SHA1-Digest: C+QlayOrAzaFqqsh8V76CBJzsyo=
+
+Name: docs/images/flash/ui.jpg
+SHA1-Digest: /NsJkGcb8DdQcdvDg8ve+mL6PF4=
+
+Name: docs/images/Info.png
+SHA1-Digest: Rs9Xxoyn3w83PXoBG2i4+H+whMM=
+
+Name: docs/images/LV_OverallRating.gif
+SHA1-Digest: ybOzEC2HMuTnfqtgwdn+b6fcxzA=
+
+Name: docs/images/browser/forward.gif
+SHA1-Digest: i2DTJ7guPMnORwBWgMo7EH923m0=
+
+Name: docs/images/I_Simulate.gif
+SHA1-Digest: gYZTJwjqF7nZU8wpPs7Dw5Dz10k=
+
+Name: docs/images/flash/check_component_good.png
+SHA1-Digest: HbQJgshXKeju4BtRGAy3Otv9B64=
+
+Name: docs/images/gui/checker.gif
+SHA1-Digest: iliRPSj+eFKUS0SsMGygjPNb+c0=
+
+Name: docs/checkBlind.html
+SHA1-Digest: 2ndeFpwhh6fETV3pZFh5P69jXB0=
+
+Name: docs/images/browser/titlebar.gif
+SHA1-Digest: b4jqPYZgvG6YqxbqN7x3ymi0eoo=
+
+Name: docs/images/gui/sapiSettings.png
+SHA1-Digest: T860vn6leFpcKddHwEzCIr56yKk=
+
+Name: docs/modes.html
+SHA1-Digest: 6y8Qm6pm4Vom7YEwVnnUgXkN4P0=
+
+Name: docs/integration_install.html
+SHA1-Digest: h8orW/Ws6r10n3HlG1tg9h1TnK4=
+
+Name: docs/images/BrowserView.jpg
+SHA1-Digest: HqCQC1k0AfxQwjFswimPSF/ifMI=
+
+Name: docs/elementCss.html
+SHA1-Digest: cdzPjwHXwAXdDoqWZpDc2uYaJ8M=
+

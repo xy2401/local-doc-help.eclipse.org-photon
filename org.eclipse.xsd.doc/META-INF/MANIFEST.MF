@@ -1,0 +1,782 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.xsd.doc; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.emf
+Require-Bundle: org.eclipse.help;bundle-version="[3.5.0,4.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/r/p/emf/org.
+ eclipse.emf.git;path="doc/org.eclipse.xsd.doc";commitId=9648da22f0d1f
+ 6be735ef1f9952c62c46ab785f7
+Bundle-Vendor: %providerName
+Eclipse-LazyStart: true
+Bundle-Name: %pluginName
+Bundle-Version: 2.8.0.v20180123-1048
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.0.5
+Build-Jdk: 1.8.0_162
+
+Name: references/diagrams/images/xsd-diagram-ct02/img4.png
+SHA-256-Digest: ld6PRIn+mlmYn00xyXflEzXf2J0s6tURPgXeOIp81DQ=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text.png
+SHA-256-Digest: LBH28evgg5LGdrX/5bpib+quoBfqrYh+tehcTT2pjOc=
+
+Name: plugin.xml
+SHA-256-Digest: 5QhGRFmWoGsXDZ+gX3z3SPjrWUP3xPRn+Q6gbDomM6k=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img7.png
+SHA-256-Digest: n3BDW3jER+3QhqirL2wz9O9IynaU11XUHjhodZJPn8M=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img2.html
+SHA-256-Digest: kv/V+dBT2BOevGOuVCBTTdNbyfrJ5CTrxATntnNCbws=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img2.jpg
+SHA-256-Digest: kTf3SpwG1UedutSpibDqZBUbif1hYvq0KwyHjYJGuMU=
+
+Name: references/diagrams/images/xsd-diagram-ct01/last1.png
+SHA-256-Digest: E2Z5ZYyqZq/ete3MJ3Kkru/HVFXZHUQak1NQDR9I6IU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text3.html
+SHA-256-Digest: /SFcOBWJ+pGkIxmJkTbAhmaqkDnDeGVmJX5ynQGAhL8=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/next1.png
+SHA-256-Digest: 6QcxSiLeSeJnJ+gabGd2GO28AshyqgL2nFYTs0LYTs4=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img6.png
+SHA-256-Digest: iTeYEkZCp2wSZOnQ2cIHr3AzBaVDlZ9A7eQM03KYiug=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/first1.png
+SHA-256-Digest: n5BesB470UiNl89/+kNmqog0w3IR6eSxrRXYoHKPruA=
+
+Name: references/diagrams/images/xsd-diagram-import-include/siframes.h
+ tml
+SHA-256-Digest: Os+W55zNohXwMFLcs5C6MxUN+WmpHmZAkqUMIHAj8V0=
+
+Name: about.ini
+SHA-256-Digest: eHHHTqN7Y2eiBZGYdFDZeacrMj29Mm7niUh+P3i42Ao=
+
+Name: references/diagrams/images/xsd-diagram-import-include/less.png
+SHA-256-Digest: AtyNBWpNq43VyMQ5g8/ntt5K6fDqUihWazqrj8iuOe4=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/prev0.png
+SHA-256-Digest: HosJh5ksizXCUNxV/aF2q3r+7KnCGkYxJWbOpPDLLzY=
+
+Name: references/diagrams/images/xsd-diagram-ct02/navbar4.html
+SHA-256-Digest: v1T3ADrIdXCiUl6hTBsN1qnrk0Q9DdT+nLovIhouk00=
+
+Name: images/XMLSchemaInfosetModel.jpg
+SHA-256-Digest: 4vhFpwMYhBnFOixDXfh8qwpwuV/ua3VpH2ssryv2NRg=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text1.html
+SHA-256-Digest: qv3t6z8YlmtWTL3obQQDK6kdq/voJiVnSiyzdqs83zU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img0.png
+SHA-256-Digest: KP9SDYthhqocyQUh2KR+BNmFItBCZG6gS9/JC9dDDwg=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img1.html
+SHA-256-Digest: 7s+sxmUaYX/YP01i4XfzvZqMj1A3CL0BUjMgRESaLIU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img0.html
+SHA-256-Digest: W8LNaQXBmKKiqKI36Wu6Zs1JtOpADf4LgRMC9KD/ks0=
+
+Name: references/diagrams/images/xsd-diagram-ct03.gif
+SHA-256-Digest: BpkiF8nvx2/W8ZgMiGpbn8du+MSz+8zZ6jXX0lRKXPI=
+
+Name: references/diagrams/diagrams.html
+SHA-256-Digest: KK8UiqAOLVA5V9yDYLEyxBBY4fyCqNke9TCBZIvNYik=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/img1.png
+SHA-256-Digest: 7ziaLmNl8MSG46BgISgTPYgJPyFk+VzVxHmFzAIyjcA=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/outline0.html
+SHA-256-Digest: YiOMcbW5QhkWfsB1NfhXa9Bm5lyo1EdwdIjXFsKZN9Y=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img0.png
+SHA-256-Digest: mGGGKB2oiTCNEDZLDjYluo+od4FLnz9LF4YYLln6Q6s=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/navbar1.html
+SHA-256-Digest: 5xAPKlwqJDCFGZd6Oyyacoet7lY0s4t9RJEoWpSwKWU=
+
+Name: references/diagrams/images/xsd-diagram-ct02/last1.png
+SHA-256-Digest: E2Z5ZYyqZq/ete3MJ3Kkru/HVFXZHUQak1NQDR9I6IU=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text3.html
+SHA-256-Digest: TtH8zl0NzSGtEfaDow1kJ8eZBY12qG95RXk4tG9HYBc=
+
+Name: index/segments_1
+SHA-256-Digest: btreATyz7izvjd+Pvabz+rxLkShwS9pM4Y38Pa0uh50=
+
+Name: references/diagrams/images/xsd-diagram-ct01/next0.png
+SHA-256-Digest: BxSYUlAam/tCGxkdznjE5zs6hXUVxVOp9TC771ISg0U=
+
+Name: references/diagrams/images/xsd-diagram-ct01/index.html
+SHA-256-Digest: J1nWcTGbnoNuZhpaojqSNpI9+KE1iq/akLbozrl1x1g=
+
+Name: references/diagrams/images/xsd-diagram-import-include/navbar0.ht
+ ml
+SHA-256-Digest: GDcntMiolb5giJcQkGGw15g/lRFn0Y/FWxnc0/5Jsr0=
+
+Name: about.mappings
+SHA-256-Digest: VNQ4WPc5Q3OlbM3TInKDTL7CgevG72KQTAjl4ovIyQ8=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img2.png
+SHA-256-Digest: ZHz8ZQT5bceQTl4n5SOUw3LCoPBG8Na4L7fdlxncxkM=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text12.htm
+ l
+SHA-256-Digest: d7SrvKqTyRunkmILnnsYs/RlRjxB1lViF/SrnhAAsKI=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/text1.html
+SHA-256-Digest: 9onWk/SuKNcjw1Reds/jtSEwS+33i50p3Jw1kebuc4M=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text1.html
+SHA-256-Digest: D79vs3RySAgNcmxdu+exSpkPFKHtoa6j2xAo5RFjTYg=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text5.html
+SHA-256-Digest: aIFGYaTPn4qYdnUXDxpet8wWJEgR6+mqdqPPeF/wlUI=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img6.jpg
+SHA-256-Digest: fUdkejTXglb1plGa/bnfuE76eQLDUW1GngO2aJgZbGQ=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img7.png
+SHA-256-Digest: CcRBXLyADYMtvfG4ZE0jJi+S/vqf3ZreoODWKX+9D+s=
+
+Name: references/diagrams/images/xsd-diagram-ct02/index.png
+SHA-256-Digest: yEUGMSjb40gumkm869a0RDh3fo6uTtJIBYRMyOZnNOs=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img6.html
+SHA-256-Digest: uXOgtrbbfzokRhu08p9BuXhnQw2v9kJ0dcV4MbSKE+0=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/navbar3.html
+SHA-256-Digest: 4QlCm50UHnK02dVBtW/DSoowNbBEW61GLzuWiUHQZjU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img10.png
+SHA-256-Digest: gb+ytk/gMTWYkNJ4KDcCWIyULUAgbPzq7mbz/jwaeUc=
+
+Name: references/diagrams/images/xsd-diagram-ct02/outline1.html
+SHA-256-Digest: 4h3K/7srSiYXvWXc1xb6Pt8r2GyoPdQPW3pAyunqK14=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img4.png
+SHA-256-Digest: lhwjNdJohbL+qW027+QAfRdcqXdqwyD0GLk7g2ZpnUs=
+
+Name: images/cvs.gif
+SHA-256-Digest: YpbXkP99Dgauo4TPAI0YlkRYAmGh27sk/dmbZx4vJ4M=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text7.html
+SHA-256-Digest: UIoM79fcsbWHo5keN6KY0DpJ4pKhlmKpEoULEIvyrl0=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/img0.html
+SHA-256-Digest: C8NBLNz++fpKNYB0nZwgNuncutNXwiu9aRuHZ0FoZDo=
+
+Name: references/diagrams/images/xsd-diagram-ct01/outline1.html
+SHA-256-Digest: biiAzfdI8qpOEc/QR58Ai1kj/qazf+7zNFdNned3GTQ=
+
+Name: references/diagrams/images/xsd-diagram-import-include/prev0.png
+SHA-256-Digest: HosJh5ksizXCUNxV/aF2q3r+7KnCGkYxJWbOpPDLLzY=
+
+Name: references/diagrams/images/xsd-diagram-ct02/navbar2.html
+SHA-256-Digest: fKBk+sQHFi7oLwvK41c91v/1O6bIWkbl9wXJE7v24T0=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img3.html
+SHA-256-Digest: KgpCCuicDEOviVSsA2t9QXT9/u2rEQ1zxbcH9qSPDLM=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img1.html
+SHA-256-Digest: 7s+sxmUaYX/YP01i4XfzvZqMj1A3CL0BUjMgRESaLIU=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/first0.png
+SHA-256-Digest: 2la7a1zJN/oNDhq0ao07lW5+wOrl8/gPt+CtLyoLxbM=
+
+Name: references/diagrams/images/xsd-diagram-import-include.sxi
+SHA-256-Digest: 3HbGT79aqS4uLhXm9d5cx0Z0NeFr+4eR4aVRmi+CAe8=
+
+Name: references/diagrams/images/xsd-diagram-import-include/navbar3.ht
+ ml
+SHA-256-Digest: CrH8quYofpYOqH6Q1Tkei9e4Dc0L+FJlJGvvSxGNoSI=
+
+Name: images/news.gif
+SHA-256-Digest: UsGn9TtfeBw9/mxf6L45SkIm/X35ibQsjX19xHFBAok=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img12.png
+SHA-256-Digest: 7F2yTE5eQ7vJqZdDJCP7cjM9qhbYf/AC6q/Tq1L99QI=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text9.html
+SHA-256-Digest: 6X/bzuhPxdgnufTYezyfO303zchM7/CX3ydY4Tm1bs8=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img8.html
+SHA-256-Digest: Kl5w2zqEP0DV/UT0VkkNLPVTeVmSKvSgePJcLoD1UMQ=
+
+Name: references/diagrams/images/xsd-diagram-ct01/text.png
+SHA-256-Digest: LBH28evgg5LGdrX/5bpib+quoBfqrYh+tehcTT2pjOc=
+
+Name: references/diagrams/images/xsd-diagram-import-include/index.png
+SHA-256-Digest: yEUGMSjb40gumkm869a0RDh3fo6uTtJIBYRMyOZnNOs=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img6.png
+SHA-256-Digest: U3iKz0GPm/B7/rxpQWzO2egOP/3fF0EgUr6YeGFYoN0=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text9.html
+SHA-256-Digest: naRrgUac5QAo9PJNHGULbsxpfjD1KWGxY6KwTpZxXyY=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text8.html
+SHA-256-Digest: Wh1gMN0AzJ5le632wPy/9SqsK5ZjYNsy9rNXJ2NLvQg=
+
+Name: references/diagrams/images/xsd-diagram-ct02/navbar0.html
+SHA-256-Digest: cSbU5FUoTkxTGoFXn25NQgD/W3wHBFHd39gvBf7z16I=
+
+Name: references/articles/dwtip1-scpw/index.html
+SHA-256-Digest: bk3xXzovShR3n7pOu/1MdJhmxOfVZR8duj6RsnLRGoQ=
+
+Name: references/diagrams/images/xsd-diagram-ct02/less.png
+SHA-256-Digest: AtyNBWpNq43VyMQ5g8/ntt5K6fDqUihWazqrj8iuOe4=
+
+Name: references/diagrams/images/xsd-diagram-ct02/first1.png
+SHA-256-Digest: n5BesB470UiNl89/+kNmqog0w3IR6eSxrRXYoHKPruA=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/img2.png
+SHA-256-Digest: 3W2Z2wrGoNkliadsHecN/HIqYZtYkDd6HsLOyvm0K9Y=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text8.html
+SHA-256-Digest: FehD/5DNXZeyQulhnYVxvrds8ixB5n3fBTZctpsAI/o=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img8.html
+SHA-256-Digest: jPQtwH4+cWhsxtHI5A+zAP+DaO0T2xwis5Xv+nk3OwQ=
+
+Name: references/diagrams/images/xsd-diagram-ct02/navbar1.html
+SHA-256-Digest: ed+8RnrK6YZOt6uVuk0QNLRfP45oKNrJMNJCfRmc6BI=
+
+Name: index/_1_Lucene50_0.pos
+SHA-256-Digest: 8/D85nyMuJ6L3A2qQBBtsuvz8HJkl5B7oz/4leWOzuQ=
+
+Name: references/diagrams/images/xsd-diagram-ct01/navbar4.html
+SHA-256-Digest: VxucMn4shHZMyWha08hIQEuQTl3mmKY8Tfcx0Pmeweg=
+
+Name: references/diagrams/images/xsd-diagram-import-include/more.png
+SHA-256-Digest: MgYJjVXVSY0A9/QCjCGhEe253zT+ka5ThKvhrskQ3u8=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img1.png
+SHA-256-Digest: eBTZfWzaHOnw6aNbWHghysBFBqF29fQFTIlRqAIFR2Y=
+
+Name: references/diagrams/images/xsd-diagram-ct01/text0.html
+SHA-256-Digest: FivkrFrZ2ya+f2UvSPYQ59XcDQbeEOnGvp1mxZLNwvU=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img3.jpg
+SHA-256-Digest: y92Bgl+l6lIXpXGZeTev1RNRcgdjfZbSOhggAH0TAMg=
+
+Name: references/diagrams/images/xsd-diagram-ct02/outline0.html
+SHA-256-Digest: kKIAO+zuHAtVZk2NrRpjl4zm9HXyXu9savuHulVmsmU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img1.png
+SHA-256-Digest: seWlMczdqhCyTpzs+iY74+Ee9NheY9wtMuFW0WNV9Ws=
+
+Name: references/diagrams/images/xsd-diagram-ct02/more.png
+SHA-256-Digest: MgYJjVXVSY0A9/QCjCGhEe253zT+ka5ThKvhrskQ3u8=
+
+Name: references/diagrams/images/xsd-diagram-ct01/first0.png
+SHA-256-Digest: 2la7a1zJN/oNDhq0ao07lW5+wOrl8/gPt+CtLyoLxbM=
+
+Name: references/diagrams/images/xsd-diagram-ct01/siframes.html
+SHA-256-Digest: Fog2clRTA8x/QWeXkGOC/M8y7lrc56cdcCSLg4iciVM=
+
+Name: images/download.gif
+SHA-256-Digest: VDw7JF2ZQyVO9wCVrywbxav07f3PPOdouj4x5M9l+Fg=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/img2.html
+SHA-256-Digest: gM7mSW5edGmX4U4wdiMpi9MIZa04Q61cWFBQLRJVIac=
+
+Name: references/diagrams/images/xsd-diagram-import-include/outline1.h
+ tml
+SHA-256-Digest: WOG/uDCDtIVczRO2tfoMTRpi8VdIVccbf8wFDadKokA=
+
+Name: index/_1.fnm
+SHA-256-Digest: 752buG0iEl48ar/513nZ78mWY+AMCjpUICj864kI7ks=
+
+Name: references/diagrams/images/xsd-diagram-ct01/text5.html
+SHA-256-Digest: VeQNoJxcX1R1vNJQkikdLcvpz007UsMkuIQJWYqoD1g=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/navbar2.html
+SHA-256-Digest: LlU265jz0lq66/WErMlVwjm3Ar3n+mJtkRIeIUf+erU=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img3.html
+SHA-256-Digest: d0QcXHY8kr9ym6Mi7hNQGRfYHeqxmMUzp8PXUQUrmdk=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/text.png
+SHA-256-Digest: LBH28evgg5LGdrX/5bpib+quoBfqrYh+tehcTT2pjOc=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img9.html
+SHA-256-Digest: nWS5tJ2CH4Rpj0nNIWu+DL6tSQQzIHuuLp7L7alynLA=
+
+Name: references/diagrams/images/xsd-diagram-import-include/navbar4.ht
+ ml
+SHA-256-Digest: 52iHXGGd5ZBX3CoUcszneR98X+bjNHoPbtQEX4cjWDY=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text2.html
+SHA-256-Digest: LuF6DqmYiiBA9jPzSPPb9Eg3Z4sg4/s/nqIeqUuXmyE=
+
+Name: references/diagrams/images/xsd-diagram-ct02/siframes.html
+SHA-256-Digest: rGRIKFDcvSUAF2DrQXeRYpI4hgmq5QT4DHOXTHzraKs=
+
+Name: references/diagrams/images/xsd-diagram-import-include/first1.png
+SHA-256-Digest: n5BesB470UiNl89/+kNmqog0w3IR6eSxrRXYoHKPruA=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img6.png
+SHA-256-Digest: OG4MYuGmUf99Vh2//Xro+giBTW8JGGCv5CG96IsGWLA=
+
+Name: images/reference.gif
+SHA-256-Digest: ScnaG2TmN5tCCucFUbPLr027UOKgB92YXzPJR0Rx5hA=
+
+Name: references/diagrams/images/c.gif
+SHA-256-Digest: Lf4oy9uD8ByUDeaoirhiABVP13LVaANaxWhmTlIGg2M=
+
+Name: index/indexed_contributions
+SHA-256-Digest: +nAFyO55CuP1prQYx8aHqvJ9q+kJJbp+Efy+l1IdRY8=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img7.html
+SHA-256-Digest: cq++Z8i8wllV4OU55T6Zxw0dkz+lXox7CUnazR3p+wc=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img3.png
+SHA-256-Digest: BBM5XmbG/HvjdwlSxAx4Ty6Nb+rXAz3VM+f45Cuk/zY=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img5.png
+SHA-256-Digest: L1FgTzwRnIC63BbHFuh1PSRtnk2GB8Zr9U0Rvo2eHVs=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/index.png
+SHA-256-Digest: yEUGMSjb40gumkm869a0RDh3fo6uTtJIBYRMyOZnNOs=
+
+Name: references/diagrams/images/xsd-diagram-ct01/index.png
+SHA-256-Digest: yEUGMSjb40gumkm869a0RDh3fo6uTtJIBYRMyOZnNOs=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img1.html
+SHA-256-Digest: ScOE/J6fLYUQ+FnQS/myveoFag1uWIzixmVUBmaLTmM=
+
+Name: references/faq.html
+SHA-256-Digest: 4uSVQxqZ532kKoCzalO91K21vSaX982ard5bZnkCsG0=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img2.html
+SHA-256-Digest: CADOkDVaU2oVX0PIK1lUGIrqGkOvbls//TV4OPCUZB0=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/img3.png
+SHA-256-Digest: m0AkpPYuooR7h6dPegK9PYoAjJCfBfSI022Oid4LKgc=
+
+Name: references/diagrams/images/xsd-diagram-ct02/first0.png
+SHA-256-Digest: 2la7a1zJN/oNDhq0ao07lW5+wOrl8/gPt+CtLyoLxbM=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text4.html
+SHA-256-Digest: O61ykfyK1crjnm7g2MQuMTw9WLbMOpLAPunOBizU3Y0=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img0.html
+SHA-256-Digest: Nos6rK5uo+wxTeZ+lZjjG93v0B5YkuBkkPMmXH+e/fE=
+
+Name: references/diagrams/images/xsd-diagram-ct01/outline0.html
+SHA-256-Digest: T/jnbtyPF3C7vRAuBSX7rwsZ4QsFgTXw7sliKoz5cSo=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/outline1.html
+SHA-256-Digest: ngCpX6C4ovRNhNhOr8uQ8LbfGpXe1i/45EewbuFtSWg=
+
+Name: references/diagrams/images/xsd-diagram-ct01/more.png
+SHA-256-Digest: MgYJjVXVSY0A9/QCjCGhEe253zT+ka5ThKvhrskQ3u8=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations.sxi
+SHA-256-Digest: gkU3TsydAlw2NuQBuSs0TwJCeAy/4LzUMXHxKSfRP0M=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img11.png
+SHA-256-Digest: nh2zuiSs9bTMoBfNjP0gmfIODavAsbFjgnsGx7loMl8=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text2.html
+SHA-256-Digest: I5PfNw+1rflHmSvsOCW7ju6z4EmWUfXQ69e5GOJNkjM=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/less.png
+SHA-256-Digest: AtyNBWpNq43VyMQ5g8/ntt5K6fDqUihWazqrj8iuOe4=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.xsd.doc/pom.propertie
+ s
+SHA-256-Digest: ef/eUXc/QDSXj73IirheLWsgKqQ1TG7OMzhsqEnwjL4=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img4.html
+SHA-256-Digest: Ob6DWvVe1zYfiP8cGEbBIj1zByuhGPLSFsq9k1e/KcM=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img4.jpg
+SHA-256-Digest: Pms7mjapZ6+GGwjy+lZeAf6FTlbrQc1BkjJo8iHlTFU=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/img1.html
+SHA-256-Digest: nBqhRXF2bgSiC0WCV4F09CLSMsREFL2888pLCkyYbn8=
+
+Name: index/write.lock
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img3.html
+SHA-256-Digest: etcCy0klnKQ23mrlReAwmkFmR/AHmsFVnVtpUYXsJ6A=
+
+Name: references/diagrams/images/xsd-diagram-ct01/text6.html
+SHA-256-Digest: RLDymsOTs47ekI6AqcAjnzRyVCj1PBMpUG+0Za8woow=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img2.png
+SHA-256-Digest: y/qm72lrHBdg5ba/XoOHAhadMnCQ05nYTZj3rubJ2D0=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text4.html
+SHA-256-Digest: C66rpoQ/a7YP3+VSLF9Kx9BT7mFEsqs3hQPYJvtYq8g=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img2.html
+SHA-256-Digest: KXgfomCLFQLwQVDjjXyEreIeUBCEFmruZv3sp4benZ8=
+
+Name: references/diagrams/images/xsd-diagram-import-include/last1.png
+SHA-256-Digest: E2Z5ZYyqZq/ete3MJ3Kkru/HVFXZHUQak1NQDR9I6IU=
+
+Name: toc.xml
+SHA-256-Digest: kt1ECA/VdoP2ium1aYP7H+GTJ6QC1j2kGqiXOmQLfdU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img12.html
+SHA-256-Digest: IXaTJXrCVhAIxcmqQQsbU3qDrCtT4B9XbC2miA6vPs8=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/text0.html
+SHA-256-Digest: fVwexFwa71RUfJvtVqW10lUqenbwgYJMSLGDPybERSg=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img9.png
+SHA-256-Digest: 1U1AcPMkaQEBIahtpdn+q/0r1UI8kAI6We0eA0RupKw=
+
+Name: index/indexed_docs
+SHA-256-Digest: 9Rs2h8Ar50joIdl8sgxMg2v8lSdUgA82snm0/rCqxLs=
+
+Name: references/diagrams/images/xsd-diagram-ct02.sxi
+SHA-256-Digest: 6InYTBrzl7I5f73FKLU4/GU8sXQTNvfZKnjTTyAzpPA=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img2.png
+SHA-256-Digest: CjonDAxkApFDHU9YYlqKN4FkO6uyxfvexVP69JplN+g=
+
+Name: references/diagrams/images/xsd-diagram-ct01/first1.png
+SHA-256-Digest: n5BesB470UiNl89/+kNmqog0w3IR6eSxrRXYoHKPruA=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/last1.png
+SHA-256-Digest: E2Z5ZYyqZq/ete3MJ3Kkru/HVFXZHUQak1NQDR9I6IU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img5.html
+SHA-256-Digest: xn9LnddedkeqZ9STluwTFu+dwy+e+rAylQhgM4fxiXA=
+
+Name: references/diagrams/images/xsd-diagram-import-include.ppt
+SHA-256-Digest: AHewNfDaPBopT/f49ZaiJoJd6UhUp5AiAfCr9lkYZfc=
+
+Name: images/bugzilla.gif
+SHA-256-Digest: tIPC9H75gwPOZLFA2yOKOmQvgJwp2ojBbjQhYFuRsR0=
+
+Name: references/diagrams/images/xsd-diagram-ct01/navbar0.html
+SHA-256-Digest: /n2njpOXLbyXMJl9UVNw2r52hXoCaDvWn5RLZCA1HHw=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img10.html
+SHA-256-Digest: VG3eo6ctmlaxA8n1gegNFSbC3Lz0AafUhVPhZ2XS8Q8=
+
+Name: references/diagrams/images/xsd-diagram-ct01/prev0.png
+SHA-256-Digest: HosJh5ksizXCUNxV/aF2q3r+7KnCGkYxJWbOpPDLLzY=
+
+Name: modeling32.png
+SHA-256-Digest: saSrfvJ79Uzl2BFpCbuVBho1UTuf14LrjD+wGJG44Ok=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/navbar0.html
+SHA-256-Digest: X+ms1uAKPkEZH1BTZsrTyciaefuJjFhO+KpHX9Lujo4=
+
+Name: images/mail.gif
+SHA-256-Digest: zUnEqtS1HuRewkevtzT7/nFwLT8ZEs62cwYZF6cAJhU=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/siframes.html
+SHA-256-Digest: HNBB3rC+c2A8zgA3+Wep70RqlY49loCMVt3gpcfIlHE=
+
+Name: references/diagrams/images/xsd-diagram-import-include/outline0.h
+ tml
+SHA-256-Digest: stRx4oajEXSKXKKR8+kkuUKJAK4+qPnYYa5fDeMecvw=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations.ppt
+SHA-256-Digest: /bRvladBh5n+53X2H+PxjmY5V5FohR8UN+gl2IKnkmU=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img4.png
+SHA-256-Digest: CZFTsX7ZvYkpD4qDuCND2ZoZb+/wesmOn+TPuCyc9NA=
+
+Name: index/_1_Lucene50_0.tim
+SHA-256-Digest: 2OwAtWxLIR2mgznLuAISwxrIDccTqEJUe4qYgt3Pi0k=
+
+Name: index/_1_Lucene50_0.tip
+SHA-256-Digest: EBwyKcG3XuKpzDmFK1PCdNnl5fnqafPyo1mQwINSrEo=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img6.html
+SHA-256-Digest: Yx2QupOWkdtoRSLqljUWlV6WNyoeWzKMLg0pKQNdTlA=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/index.html
+SHA-256-Digest: ZGH5tXC3eOAxdosN9xE/OYFBz1dTPqGNRj/CpmMpSkc=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/img3.html
+SHA-256-Digest: hBn7ji8A5lPArcYTYCtucC3uVDZwIOgL0YQ1BEXVXiA=
+
+Name: references/diagrams/images/xsd-diagram-import-include/next0.png
+SHA-256-Digest: BxSYUlAam/tCGxkdznjE5zs6hXUVxVOp9TC771ISg0U=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: IisoM0bBXcA41ZrQjP16FGUvbB4gelDwE41UIPpmiOo=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img0.html
+SHA-256-Digest: u7i2izN3HVW2FsubvW/j1PF4jLMifrqBuULAoYTedTQ=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img5.png
+SHA-256-Digest: EO/IU7F++SR60lo2vpA+ZCx3HYRdwd2Ja6k0O+2yB84=
+
+Name: references/diagrams/images/xsd-diagram-ct02/index.html
+SHA-256-Digest: zpxSupvxWujLF0QOjtsmwsR1dZmJG4uY524y36gsy2w=
+
+Name: references/diagrams/images/xsd-diagram-import-include/first0.png
+SHA-256-Digest: 2la7a1zJN/oNDhq0ao07lW5+wOrl8/gPt+CtLyoLxbM=
+
+Name: references/diagrams/images/xsd-diagram-ct02.ppt
+SHA-256-Digest: JfqNNuh61VkTLmSJrtT/OB7UF+N3RXLk4o/EKGaJB3A=
+
+Name: references/diagrams/images/xsd-diagram-ct02/next1.png
+SHA-256-Digest: 6QcxSiLeSeJnJ+gabGd2GO28AshyqgL2nFYTs0LYTs4=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img4.html
+SHA-256-Digest: i4mhRS48Z9876VG852QK+6P5gxNTLNtZu/NuX5rUpl8=
+
+Name: references/diagrams/images/xsd-diagram-ct01/text1.html
+SHA-256-Digest: /DDE/+2WD1TZ8wTT1I8TIv5QFY1jC3NvEnri5yoR8qo=
+
+Name: references/diagrams/images/xsd-diagram-ct01/text4.html
+SHA-256-Digest: IDghOMjtfXmblJts3+U3obryGIn7QzD9Z5Q/o3Lbxmw=
+
+Name: about.properties
+SHA-256-Digest: KzBd7sWFG/lfEm4fTh+D2hGYcH48O59nHO5NhRlRIjg=
+
+Name: references/diagrams/images/xsd-diagram-ct02/prev1.png
+SHA-256-Digest: I2bKA599p10SFTrfvxns16fbwkK53ZdXubMbg8lsHmM=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/next0.png
+SHA-256-Digest: BxSYUlAam/tCGxkdznjE5zs6hXUVxVOp9TC771ISg0U=
+
+Name: references/diagrams/images/xsd-diagram-import-include/last0.png
+SHA-256-Digest: STHwcqUJihz5jCyw8bMSZiXr630hLJMdgMSTQpxsEBI=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img7.html
+SHA-256-Digest: wJYfByrUh7haJ/0xcDHwccVnrfn4ui51mA+x2n+478M=
+
+Name: index/_1_Lucene50_0.doc
+SHA-256-Digest: 1d8jHIAAnTCk7NhZvwIXPBLHhAvfnndVQdiWU2jlVuM=
+
+Name: references/diagrams/images/xsd-diagram-ct01/text2.html
+SHA-256-Digest: TtD94lzhbeTvBFnHU5CxiiOydcHW5WarSwmpEuCcBhw=
+
+Name: references/diagrams/images/xsd-diagram-import-include/navbar2.ht
+ ml
+SHA-256-Digest: 7F1KOFaBEskdMCqr/oUW4PU+xm8Cr8j8Q6EsmLVTn/c=
+
+Name: index/_1.fdx
+SHA-256-Digest: DLA2QJzN7xHAEBsEphClcU90iO5SIC8yP0CMoYvSMac=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.xsd.doc/pom.xml
+SHA-256-Digest: sNop69tK5Xa4V6iFdrQFxeBkFCOuD3UUaUDrezf1WZM=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img1.jpg
+SHA-256-Digest: W97kEymW+O3ROuPRDoy7q1mFUfkXAiG4XuyOf0Gi/m8=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img3.png
+SHA-256-Digest: Q4a3yFSR3ixXis/Nt2L8PNUIVI2QVBgRigJVSxEVACc=
+
+Name: references/diagrams/images/xsd-diagram-ct01/navbar3.html
+SHA-256-Digest: kOAG9nSytP5HcIjtJJghthMMLXY6LsebtWVxl/rjONQ=
+
+Name: plugin.properties
+SHA-256-Digest: agLYgX8TkMaWUvfdDXI3D7Ilg/zXlsxVRIWjmhvKn88=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img6.html
+SHA-256-Digest: lVHk43vQ7fynNoUiv0MyXXXO2LiDUDWwKTpGGnqpFaM=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img9.html
+SHA-256-Digest: vRdYlWlDNuqGso8gWdTaGMAdQmf4AOrR+wjf0OPjqcQ=
+
+Name: index/_1.fdt
+SHA-256-Digest: Uet0LUuqjYW4otmxwAOhkQOkbD2z7VjoyhhOdtaszy4=
+
+Name: references/diagrams/images/xsd-diagram-ct01/navbar1.html
+SHA-256-Digest: yaRaL8ePftWu8NKgNMOJcxfkTKXs/dP7FpuWjmFd+CU=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text7.html
+SHA-256-Digest: rKpm3ans/4vvs+BtXpjYJ15WD414feJ0vszCGpTOwGU=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img0.png
+SHA-256-Digest: u2Obj5GNHYtEa79A9jYtsx8hKr0lzEJxKpmHQoX8xeY=
+
+Name: references/diagrams/images/xsd-diagram-ct02/last0.png
+SHA-256-Digest: STHwcqUJihz5jCyw8bMSZiXr630hLJMdgMSTQpxsEBI=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text.png
+SHA-256-Digest: LBH28evgg5LGdrX/5bpib+quoBfqrYh+tehcTT2pjOc=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img5.jpg
+SHA-256-Digest: AWBe4Nu6R5dujaNgxZ3Uxcj0sSxk36r+rKPjyfRaaDU=
+
+Name: references/diagrams/images/xsd-diagram-ct01/text3.html
+SHA-256-Digest: 5uEHtmNVjhtsPt+dat82k4yEX2e/GbNCyD6aTMKIFJY=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img5.html
+SHA-256-Digest: eDXmqVQBVQjTNIrZhgZi3WVzbJYXx5hdyDGhqvWFWhg=
+
+Name: references/diagrams/images/xsd-diagram-import-include/index.html
+SHA-256-Digest: D0GHKMLVOW40/xk9y/yMzMdjXmOB4QC/4Y3EmkUMOws=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/img0.png
+SHA-256-Digest: u4mlgsaJCArAMvHHSMVDf+L2XlGqp8aJvfSwFGtU3w4=
+
+Name: references/diagrams/images/xsd-diagram-ct01/less.png
+SHA-256-Digest: AtyNBWpNq43VyMQ5g8/ntt5K6fDqUihWazqrj8iuOe4=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img8.png
+SHA-256-Digest: GczYocAZQD312dFtKCUeNrsLwaU2XjzRkYFo5JTcjDs=
+
+Name: index/_1.nvd
+SHA-256-Digest: +9Tl32mvPhR/Vjuu1RK1g7Ckqc5V8atfNNySTLtzclA=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/navbar4.html
+SHA-256-Digest: 0u9vzqyPf+ygBBPWKtcM/BG8K+yZBnpq813jYqhL/fM=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text10.htm
+ l
+SHA-256-Digest: ab/T4tpVW/2qsASZK8NXLgTE8agRgicSxH7UePcdRR4=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/text3.html
+SHA-256-Digest: 1U73AkNwPw9JMa431GUvo0Db3WNlD/636XMAxW1SBAU=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text0.html
+SHA-256-Digest: VYYsvlSkQ916ndujHd2HQ14IX+ZCU623vs1dldQ8+TQ=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img9.png
+SHA-256-Digest: afoohu7G1xbCt2s3SEtb5rdTenE7obv/YT1+s1dMe6I=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img11.html
+SHA-256-Digest: A60EjYJmQPaGQNN9s2evyZ2ax+3dwIONsRysK6WCtcI=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img5.html
+SHA-256-Digest: pIw9emFHgvSbEONuUdoZdQK8Xjh0oWO/Oyu0wgZ2a2o=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text6.html
+SHA-256-Digest: etjoOtA0VFtltNFEbyBmBRCnUWB9SJ+AWWuRKeeiquo=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text0.html
+SHA-256-Digest: M68FTOfggHTo2aGM2SQFIq/ZcbzP5p/DVGuBmTZnz0U=
+
+Name: references/diagrams/images/xsd-diagram-ct02/navbar3.html
+SHA-256-Digest: zFlstjuq/W8A0mXiCPtUPz+8zqbb1Wgyjk1Un36zlWA=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/more.png
+SHA-256-Digest: MgYJjVXVSY0A9/QCjCGhEe253zT+ka5ThKvhrskQ3u8=
+
+Name: index/_1.si
+SHA-256-Digest: j0WzWlPAvfzlQHKfiln1R4Cy8CGdEMduQHfZ7YQfipM=
+
+Name: references/diagrams/images/xsd-diagram-ct02/img8.png
+SHA-256-Digest: XJh6BRNzUdwvMJJkcwYWlDHr5xnayJOv6JFQpZllQ4I=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text6.html
+SHA-256-Digest: ffa475t9YvdnXovJgjxs9j/2AePZllSZ9kkO9sJ35aM=
+
+Name: index/_1.nvm
+SHA-256-Digest: uSQowdudToWSXJ6CDZyfllZtJKw21rcbcCyWlwhHNUc=
+
+Name: references/diagrams/images/xsd-diagram-import-include/text11.htm
+ l
+SHA-256-Digest: 7XSxtk82QK2iECdHFiaQZ+jOCnH67gPHfrpIuJ7yruA=
+
+Name: references/diagrams/images/xsd-diagram-ct01/next1.png
+SHA-256-Digest: 6QcxSiLeSeJnJ+gabGd2GO28AshyqgL2nFYTs0LYTs4=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img3.png
+SHA-256-Digest: gNPB2GQBpEc7dn56L1KqzTrkfCdH4SSZY2zA+dQ8Nw4=
+
+Name: references/diagrams/images/xsd-diagram-ct01.sxi
+SHA-256-Digest: 0oABwfJ476J51IUXZ4uMNmMTeMbqu1Fs/VhuPZr8tqc=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img1.png
+SHA-256-Digest: dFBJ5BThWFGcQhdiqtUN6rMqY0OdmjKi0frDzBxXnlU=
+
+Name: images/faq.gif
+SHA-256-Digest: 5+xDUFZ0zxYwMrXM73zhXCr5pvTYQsSXW6uhrFUNl1A=
+
+Name: about.html
+SHA-256-Digest: nHFX9V09SN3s1mjLDEYlZfF1cHH95xsX0U6CG6LnGCg=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img5.png
+SHA-256-Digest: Ct3Qi2oS8Z8tOUv7CJTlVyb5V7HawxVn8I3rhS1IgeQ=
+
+Name: references/diagrams/images/xsd-diagram-ct02/text5.html
+SHA-256-Digest: OyEHHH135P+q2GfYRzmgiyC6YZbMN3j1lonaDtZd9L8=
+
+Name: references/diagrams/images/xsd-diagram-ct01.ppt
+SHA-256-Digest: /TNTpaIz4vYq9PcRIJXXwFyG3HT47jz1OhjrXrQg7bY=
+
+Name: references/diagrams/images/xsd-diagram-import-include/next1.png
+SHA-256-Digest: 6QcxSiLeSeJnJ+gabGd2GO28AshyqgL2nFYTs0LYTs4=
+
+Name: references/diagrams/images/xsd-diagram-ct02/next0.png
+SHA-256-Digest: BxSYUlAam/tCGxkdznjE5zs6hXUVxVOp9TC771ISg0U=
+
+Name: references/diagrams/images/xsd-diagram-ct01/img0.jpg
+SHA-256-Digest: Z+XjNhumE78BDjVfMR1Iug1HjyZLqCVoRD1XPDs+uS8=
+
+Name: references/diagrams/images/xsd-diagram-import-include/navbar1.ht
+ ml
+SHA-256-Digest: lnJcx8rX3OJOHxWTxQNQyqQSg7/O1/up2QYFpv3SoY8=
+
+Name: references/diagrams/images/xsd-diagram-import-include/prev1.png
+SHA-256-Digest: I2bKA599p10SFTrfvxns16fbwkK53ZdXubMbg8lsHmM=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/prev1.png
+SHA-256-Digest: I2bKA599p10SFTrfvxns16fbwkK53ZdXubMbg8lsHmM=
+
+Name: references/diagrams/images/xsd-diagram-ct01/prev1.png
+SHA-256-Digest: I2bKA599p10SFTrfvxns16fbwkK53ZdXubMbg8lsHmM=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/text2.html
+SHA-256-Digest: xskqtYWtDv0a9Vvw27A8k3+z8tfB5+r8nUH68z7+G4o=
+
+Name: references/diagrams/images/xsd-diagram-ct02/prev0.png
+SHA-256-Digest: HosJh5ksizXCUNxV/aF2q3r+7KnCGkYxJWbOpPDLLzY=
+
+Name: references/diagrams/images/xsd-diagram-import-include/img4.html
+SHA-256-Digest: e+5+A04wP4+yypQlWzC3mB+L75EEnBOgW4YLjpqyDnI=
+
+Name: references/diagrams/images/xsd-diagram-ct01/navbar2.html
+SHA-256-Digest: cUEibz1CPQHBjcFWXem9Fa7iXSZ8NV7/euQOy2iocjA=
+
+Name: references/diagrams/images/xsd-diagram-ct01/last0.png
+SHA-256-Digest: STHwcqUJihz5jCyw8bMSZiXr630hLJMdgMSTQpxsEBI=
+
+Name: references/diagrams/images/xsd-diagram-import-include-getElement
+ Declarations/last0.png
+SHA-256-Digest: STHwcqUJihz5jCyw8bMSZiXr630hLJMdgMSTQpxsEBI=
+

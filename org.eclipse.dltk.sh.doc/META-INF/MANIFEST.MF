@@ -1,0 +1,116 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.dltk.sh.doc;singleton:=true
+Bundle-Name: ShellEd Documentation Plug-in
+Bundle-Version: 5.9.0.201806080529
+Built-By: genie.dltk
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/dltk/o
+ rg.eclipse.dltk.sh.git;path="plugins/org.eclipse.dltk.sh.doc";commitI
+ d=96005a49da8722e30da9f8f43d2a8518b9ecf89c
+Bundle-Vendor: Eclipse DLTK
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: index/segments_1
+SHA-256-Digest: Wj4lw2novGwCTxorLv+29HlzgNG0/OAY6Ky9JQPFVEw=
+
+Name: plugin.xml
+SHA-256-Digest: xgv8WTrbPUD0KGBuWljrkT+tgMnOY1hc3JDLFNPloQw=
+
+Name: index/indexed_docs
+SHA-256-Digest: Cyg0HvqtN/wsfCEAHP9Z2kFrELNmLxDrYLrdT6eCdrU=
+
+Name: userguide/Interps-Full-Screenshot.png
+SHA-256-Digest: UdljmJ61sbtmnFvwia8ndD0OYOHnwZpDTRYVyzLtJ8Q=
+
+Name: userguide/Updating-This-Guide.html
+SHA-256-Digest: GPROrV8JSDCuw8jFJdb75243l80uskkrjH5RmqmM4PQ=
+
+Name: userguide/Interps-Empty-Screenshot.png
+SHA-256-Digest: Zr6XKCiTT1aXbTlfSI+j8gG8I/LS0my/ozo6QRTgTiI=
+
+Name: index/_1.si
+SHA-256-Digest: Mx+9JxCxyrC82WPPOA1xCO4rFQ7o6p+uUS5KXB/Vo88=
+
+Name: userguide/Project-Wizard-Screenshot.png
+SHA-256-Digest: iyJRLpidX3r18Bmt0pNcvxQtaLFmfenxetG8ZcHddVg=
+
+Name: index/_1_Lucene50_0.doc
+SHA-256-Digest: 7R++fquZMvKRzq2UDwN474KqJMp3v+UoeWMw/OJwnec=
+
+Name: index/_1.fnm
+SHA-256-Digest: BUrF+dLjpnOlmMPJt3hSQBBG9slMsiNrrkW50GGv09w=
+
+Name: index/_1.nvm
+SHA-256-Digest: wYCZB2aRbA7nJs3piH1j+0Ns5DI7N7rLv/PhMcCQ0rI=
+
+Name: META-INF/maven/org.eclipse.dltk.sh/org.eclipse.dltk.sh.doc/pom.p
+ roperties
+SHA-256-Digest: 4ITql6CMiXfUzihTbK/wmf4LjiMtSwqrHOWAFN2HuFY=
+
+Name: userguide/Getting-Started.html
+SHA-256-Digest: 5nPwO/iMJQ/PkEZiVq55FGSMQ7nJxGSTud9SznNehzQ=
+
+Name: index/_1.fdx
+SHA-256-Digest: NccNwm7PMGyrlSuCCeQPh7EymgaSlv0kvl6c9jdcvnQ=
+
+Name: userguide/Add-Support-Screenshot.png
+SHA-256-Digest: 2irrj3KWxNWvVQukCZawGShI+JghhvCZPy4y99bR92w=
+
+Name: userguide/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: index/_1.fdt
+SHA-256-Digest: E8OHYT6ozJ6D/dhtCDJd3sK0o/9muN8q2p1JrPqKFRA=
+
+Name: index/_1_Lucene50_0.pos
+SHA-256-Digest: OHSWG7hKKL7l4LbYItgFq1yE5P64/RS8gPTbVJoEVS0=
+
+Name: about.html
+SHA-256-Digest: /XXnfrKUQ9bHRYB0DIoiLLgteGJ5n5CXuS8iwJSHJZA=
+
+Name: userguide/Introduction-toc.xml
+SHA-256-Digest: MEQFBPJesE5TUyt3Y4AHlSkifZZU040rRVkWRGh1sgg=
+
+Name: userguide/Introduction.html
+SHA-256-Digest: TPTmsJrIreDj+ATHqd8l7qSAX+B1vDyrzXm7nn1zoXk=
+
+Name: index/write.lock
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: userguide/Intro-Screenshot.png
+SHA-256-Digest: AoYV8BYZpRaV70xkwx0Is4Zv54Zl2tdZZm+tcybF4dU=
+
+Name: userguide/New-Project-Screenshot.png
+SHA-256-Digest: 5IO6GQwkNNxo9RHwXtUNA23p6K+8xhXN9LVLF81lMOk=
+
+Name: index/_1_Lucene50_0.tim
+SHA-256-Digest: 9BgzqXJ8/WurRsO/to0phvZp5M6I2u5uH5QNo0yIpck=
+
+Name: index/_1_Lucene50_0.tip
+SHA-256-Digest: glXBpn7bB4yrVoktuYttJwW3XYGWMxI4KOKfZkwZa8w=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: GuKSF7L4LD+NaxflmZztL/xZmc3+H+SJuGLO+R0KFTA=
+
+Name: userguide/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: index/_1.nvd
+SHA-256-Digest: /2EQWlz3xl3bKuTqTFFNyuZoGX3MmxPL/qg+ajTt7i8=
+
+Name: index/indexed_contributions
+SHA-256-Digest: HEDIpVztbe2dyCXUY2ZGTP3kKUTyAsGwnG6UQf5JV6c=
+
+Name: userguide/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: build.xml
+SHA-256-Digest: 6t5CNrCHuNIGuTSjcjY2Nq36loxuzkqSVNBy4CjbCYY=
+
+Name: META-INF/maven/org.eclipse.dltk.sh/org.eclipse.dltk.sh.doc/pom.x
+ ml
+SHA-256-Digest: yT0Yma2jjbu2FdkJHjk+TZm4Pj+2kKrf1NRh65JDkYI=
+

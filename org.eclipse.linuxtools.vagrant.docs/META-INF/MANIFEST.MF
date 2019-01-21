@@ -1,0 +1,126 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.vagrant.docs
+Bundle-SymbolicName: org.eclipse.linuxtools.vagrant.docs;singleton:=tr
+ ue
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git://git.eclipse.org/gitroot/linuxtools
+ /org.eclipse.linuxtools.git;path="vagrant/org.eclipse.linuxtools.vagr
+ ant.docs";commitId=1c9cc481d11079740a3d309d7bcb9209757feaab
+Bundle-Vendor: %providerName
+Bundle-Name: %Bundle-Name
+Bundle-Version: 2.0.0.201806122135
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ DockerContainerStopIcon.png
+SHA-256-Digest: jkBUU9euFGyFRmiLw07FB9OhWoiYJmlva77L0NMvLiM=
+
+Name: plugin.xml
+SHA-256-Digest: 1qPMc4ylez2R+jHPWCOmKRBL23k98sZ75bPFgbqaYCE=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ DockerContainerRefreshIcon.png
+SHA-256-Digest: CJqRysVolCSBC0CsS55DHfmbMbgZteEPkA8Sl/J875c=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ DockerRefreshImage.png
+SHA-256-Digest: CJqRysVolCSBC0CsS55DHfmbMbgZteEPkA8Sl/J875c=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: META-INF/maven/org.eclipse.linuxtools/org.eclipse.linuxtools.vag
+ rant.docs/pom.xml
+SHA-256-Digest: 8xqRC8a1rLttKa6K+7ly8aHdmo5PZmvoQSMs6fi5N6o=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/Vagrant-Toolbar-M
+ enu.html
+SHA-256-Digest: uj4AlK+EzRs7NUsCLsPs+hz0TWN7t54LmFuyWKG4XjM=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ DockerContainerStartIcon.png
+SHA-256-Digest: hK98nXf0UZqal6iKsrs67xwZYR/YjyoJ8P/vEcWcDRg=
+
+Name: plugin.properties
+SHA-256-Digest: VTlVtPg7eK+t9+qRt+TDOQG8+lQg3vmD3mclp8JR0cU=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/Vagrant-Tooling-P
+ erspective.html
+SHA-256-Digest: KPEBLRz+/d3Lv0BFax+poMteX9HNcSdTxL36T2VURDg=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ DockerContainerCreate.png
+SHA-256-Digest: AXOSp+/iZAPcqRLFyA2AUsiYF4aoVQ7coGM1AwTHowM=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ VagrantSSHIcon.gif
+SHA-256-Digest: vab/CmPsuCDGNcCKrmRYnlQVSyk/XICxc/OoqHjDr8Y=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-ad
+ d-box.png
+SHA-256-Digest: rRQBcJrtk79NwKzPUbZRTxpUQh1ebLdGdJ6GCaUHxYg=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: META-INF/maven/org.eclipse.linuxtools/org.eclipse.linuxtools.vag
+ rant.docs/pom.properties
+SHA-256-Digest: uFM9fvDH0TMolcKUAWb0cQlc8cKV9VN9UL212bywWK4=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-pe
+ rspective.png
+SHA-256-Digest: Vnmv3iRN4w3+uYR5JT3LRqcGyy/roSMGX8IXvug7/Ws=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-ss
+ h.png
+SHA-256-Digest: IGIu4zY7rEqig2/XrKiAZ5M3CVh3FHLYymxYquqoc7g=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ DockerContainerDeleteIcon.png
+SHA-256-Digest: Z5ZQtWQbYIJT1AVYRRuz7Q+dGZIiJLg68Z7YbUEXFvw=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-to
+ olbar-menu.png
+SHA-256-Digest: nGdgdc4nhQ0gBd7In4RzF9ZlRP1LO4GahBnsOqJFoZg=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/Updating-This-Doc
+ ument.html
+SHA-256-Digest: U6e1P4wDQ/06h13flJtxy27SR4JqaYguTH38Dkf+yQk=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/User-Guide.html
+SHA-256-Digest: iqWRq8jvRl/pmbfQGgDmNi/ZJuF447/9Z6UFeOmaies=
+
+Name: toc.xml
+SHA-256-Digest: ICVxqMWG5MNqT0HNLNxzqV7M6Ij3lBBCU2Q6VOeoMb0=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ DockerImageViewPull.png
+SHA-256-Digest: X0O+zMPBKwTGuP26YpO/IERoL1maBjzsXmMKQ/9lKZQ=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/Vagrant-cr
+ eate-vm.png
+SHA-256-Digest: qgOdpznsZKDq4j37HzCp3dPCv1fqQ4SOMsxYvUeC4cQ=
+
+Name: toc-doc.xml
+SHA-256-Digest: ZY/BPwttlnJ870QcXA8Kg3P8BXtSDe6geNhQElOf5MM=
+
+Name: Linux_Tools_Project/Vagrant_Tooling/User_Guide/images/LinuxTools
+ DockerDeleteImage.png
+SHA-256-Digest: Z5ZQtWQbYIJT1AVYRRuz7Q+dGZIiJLg68Z7YbUEXFvw=
+
+Name: doc/notices.html
+SHA-256-Digest: OVb4kME+l+etLnNu0EoS6pGvExbRQvAtEDRi3NTJu2c=
+

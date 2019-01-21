@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<toc topic="mediawiki/API_policy.html" label="API_policy">
+	<topic href="mediawiki/API_policy.html" label="API Policy">
+		<topic href="mediawiki/API_policy.html#Declared_API" label="Declared API"></topic>
+		<topic href="mediawiki/API_policy.html#Provisional_API" label="Provisional API"></topic>
+		<topic href="mediawiki/API_policy.html#Examples_API" label="Examples API"></topic>
+		<topic href="mediawiki/API_policy.html#Test_API" label="Test API"></topic>
+		<topic href="mediawiki/API_policy.html#Internal_Use" label="Internal Use"></topic>
+		<topic href="mediawiki/API_policy.html#Deprecated_API_declaration" label="Deprecated API declaration"></topic>
+	</topic>
+</toc>

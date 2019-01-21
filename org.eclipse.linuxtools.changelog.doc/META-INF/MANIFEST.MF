@@ -1,0 +1,118 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.changelog.doc
+Bundle-SymbolicName: org.eclipse.linuxtools.changelog.doc;singleton:=t
+ rue
+Bundle-Name: %Bundle-Name
+Bundle-Version: 2.7.1.201806122135
+Bundle-Localization: plugin
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: plugin.xml
+SHA-256-Digest: 1qPMc4ylez2R+jHPWCOmKRBL23k98sZ75bPFgbqaYCE=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-Chang
+ eLog-editor.png
+SHA-256-Digest: 4X7wN8l0adrIyUhcOzzJ0vn2oETMCH5vkJOLR6KBRgY=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: META-INF/maven/org.eclipse.linuxtools.changelog/org.eclipse.linu
+ xtools.changelog.doc/pom.xml
+SHA-256-Digest: TEd1Xsviu/ZUzByKERtGYrlMIgv2rtpQLF9E+9Hsa4k=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-Chang
+ eLog-insert-changelog.png
+SHA-256-Digest: dBl6RFfjOtDdgoCFvRtna7tuGZBS6V0ruB6z10K5iPc=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: plugin.properties
+SHA-256-Digest: 2EYufM3Vn9Gx2H2Rdm1KWsBrxCxkdqg9SqHyNVyiLs4=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Preferences.h
+ tml
+SHA-256-Digest: o9ft4ElXsYjhNMGPk+Dox4gvplBvn+J+QplgPBTXew4=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Screenshot-Folde
+ rSelection_changelogplugin.png
+SHA-256-Digest: rjKX0bY1lE4TFy+ToaHYHHpOuFvNnPI75PXHiRYN334=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Plug-in-Funct
+ ions.html
+SHA-256-Digest: nHKE+PGZ+fWOYwGjUIDndk5ahg0IsMnF3FdSzqPFxLI=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/LinuxToolsInsert
+ ChangeLogMenu.png
+SHA-256-Digest: 875U1FIRYXSisIPaZopfVv8os9m3tQI7O3ncPZ4xiE8=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/Updating-This-Document.
+ html
+SHA-256-Digest: auNBSARt4gESVWl5G+tvM4qfnoJbJbvSjNYZpz8Wqkk=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/LinuxToolsChange
+ LogFolderSectionDialog.png
+SHA-256-Digest: vmSUDu1QoVZ+Q4cV/Pc3G6wledVHxkuK7I2TNCZpYX8=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-Chang
+ eLogPreferences.png
+SHA-256-Digest: 5sVBcZ8Ik9V8WxZORQumX+dCQ64paL2CFXYXzDaknSg=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/FormatChangeLog2
+ .png
+SHA-256-Digest: eNwL38YGd2yN1J8EAhiiw8kmk9whY1PD2d0NrUJIxzM=
+
+Name: META-INF/maven/org.eclipse.linuxtools.changelog/org.eclipse.linu
+ xtools.changelog.doc/pom.properties
+SHA-256-Digest: mYRn5uj0dMwqyjyqbtkPquG9Mad4C0pmEya7eLGXXrU=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-Chang
+ eLogPrefs.png
+SHA-256-Digest: UwzgdYcRUQ5pE/nZU2glKgJU08xmfRyOXduRzAneKSk=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/LinuxtoolsPrepar
+ eChangeLog.png
+SHA-256-Digest: Iug6pqOh/ZHGRl1JYiyEbftYTZun5uaLk8uwYUZNBis=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/User-Guide.html
+SHA-256-Digest: YCsRgMGIvdVzuMJgY+LLrIbRlEJrwlKhcbwdAsUs7qQ=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/FormatChangeLog.
+ png
+SHA-256-Digest: zQ5Jt3xesnZLYiXYzESsIGEA2n/TCCuOdRsJ+XrVCvE=
+
+Name: toc.xml
+SHA-256-Digest: 8k1RJiquRcRuC4dGful0UIzlSBJSIDoGv9zSm6IYJT8=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/Linuxtools-Chang
+ eLog-prepare-changelog-result.png
+SHA-256-Digest: VLJzMqBYS1NSJ71k/i6B51pph5aG+wY4CTMg8XqXtY0=
+
+Name: toc-doc.xml
+SHA-256-Digest: W5Kj0f5Zu47ydO5NSprP37BYsqmVVC5mjsKE96Vfr8U=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/images/LinuxtoolsChange
+ LogEditor.png
+SHA-256-Digest: cJBjkew6x9HROeGvMOzKQirMOBd6UyANzqw9586CCvw=
+
+Name: Linux_Tools_Project/ChangeLog/User_Guide/ChangeLog-Editor.html
+SHA-256-Digest: ZOTn9bb2kU/G/xWMaD2kNScjSLV+Gmnt2NZ2qCfnwFs=
+
+Name: doc/notices.html
+SHA-256-Digest: at9PtgtJIuEsmGT6HoXxBZwn+OlhlzntSc7Ujfijh50=
+

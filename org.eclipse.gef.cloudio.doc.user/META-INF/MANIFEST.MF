@@ -1,0 +1,115 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.gef.cloudio.doc.user;singleton:=true
+Bundle-Name: GEF Cloudio User Guide
+Bundle-Version: 5.0.2.201805280201
+Archiver-Version: Plexus Archiver
+Built-By: genie.gef
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/gef.git;p
+ ath="org.eclipse.gef.cloudio.doc.user";commitId=4a2ae87d59efa5a7d4e64
+ 6510be569ad57bbc325
+Bundle-Vendor: Eclipse GEF
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_2.png
+SHA-256-Digest: dhVc1oFXSnc6Kf3Cp5g6y5ANtzjnDCFiEOVuOCJdh3M=
+
+Name: about.properties
+SHA-256-Digest: qtm+4kGirpDVIN3+P4LBOTDDkCi4+2J/7AuDmTxCunU=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF-Cloudio-TagCloud.pn
+ g
+SHA-256-Digest: Vr8olnZGFGzzKxPnLnpYAlfvITJaMCGuVW0nlmWlAkg=
+
+Name: plugin.xml
+SHA-256-Digest: 6Q6xRkgMbPV16U0J92ELZDEfCQ3Y3T/giP1FhdfOeis=
+
+Name: reference/wiki/images/cloudio-user-guide/Zest_cloudio_nietzsche.
+ png
+SHA-256-Digest: 3IZW8mLA8ZZhC00mLGW+LSCcNn0AGoc/LeXQndZc+OA=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_Cloudio.png
+SHA-256-Digest: 1l6wS5LBjfXVErESpLG37JqwgsbMV0tjAyV3LakLoHs=
+
+Name: reference/wiki/images/cloudio-user-guide/Zest_cloudio_woyzeck.pn
+ g
+SHA-256-Digest: yDaIysC3Cg2IjBhIO+6sQltk8HbyDiE5co2XnGDjJSU=
+
+Name: reference/wiki/Cloudio-User-Guide.html
+SHA-256-Digest: DfhgCCDATn5n49MGB07YTfRFfLmhUymo3h0T9r9HByI=
+
+Name: about.mappings
+SHA-256-Digest: gKuaEHYI+eI+3GkI7LjwQXbC7TxSvR1fH1mCfIxOLWU=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_13_scale_l
+ inear.png
+SHA-256-Digest: tGEk8mr7Xcn7QNUbNJNK5EB2/Ir4jOcOmwV2dFeGgn0=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_7_angles_v
+ ertical_only.png
+SHA-256-Digest: VtIsdKTOrYFlLBn+jRqlCt5TYl+XHKRHfZgXqrsj964=
+
+Name: about.ini
+SHA-256-Digest: dJnpCx3Bbij7WuygdxEHHHdTDeteCiPLA3svbr565Tw=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_9_angles_4
+ 5_degrees_mostly_horizontal.png
+SHA-256-Digest: 47g6CsF+pxKeFJ4rhArrV3ibVynt7KwwRn/vi+4VFyU=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: 3gjt8pGYyF7O9G8DmyVCJGnZ0uzj6jfJwG5MgJjWJoQ=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_Mask_Image.png
+SHA-256-Digest: cjqkuD/GOarVW1kzCSI1FIFTf8yyrsMoUxnt3FELBe4=
+
+Name: reference/wiki/images/cloudio-user-guide/Zest_cloudio_winnetou.p
+ ng
+SHA-256-Digest: OZ0VOvcuHTsZ9ki4YHNe4BwHUK5ZGEh5eNuvZHBztsE=
+
+Name: reference/wiki/images/cloudio-user-guide/Zest_cloudio_woyzeck_cl
+ uster.png
+SHA-256-Digest: ci2ikymUxvhB3iPvzwFz0EFeURhDR0ce1jf07KIyy7I=
+
+Name: about.html
+SHA-256-Digest: 31Y4uaBtOphfTgcHob0hh1CKroOIWaMaM86u24L7ZN8=
+
+Name: reference/wiki/Cloudio-User-Guide-toc.xml
+SHA-256-Digest: VUYs6ZA7qA6Lb0T44jT8rC4tvTCVr6NbYnn8oEy7ZuE=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_3_improved
+ _clipping.png
+SHA-256-Digest: GPqJhh6BIkljQbJmCTL76vJ3+IsYRScg++A4YOQcjlE=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_4.png
+SHA-256-Digest: fitjE31tn3cF84KHHmJpXiZphyWUJqwRufqMlcZoA4g=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_12_scale_l
+ ogaritmic.png
+SHA-256-Digest: cnAotB54PyO/BKJgdjKlEEU47RreymbIZiJHdE94Fi8=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_11_angles_
+ random.png
+SHA-256-Digest: hHHGfV/OTN44PX1vmYuLdOUxgT9HObwcom6CBDXZZgI=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_8_angles_h
+ orizontal_and_vertical.png
+SHA-256-Digest: jJQzk2xjw32cxY6XN03AIhoItdsu7f0MUEk0Ga17eKg=
+
+Name: toc.xml
+SHA-256-Digest: N2yjNX4Ysl3DrT/0TC8binyM/Ni7Gcyis4o/oM8fkHM=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_5.png
+SHA-256-Digest: F8giWrHcq2h2pf8KGU2WullC9NIW+bvK7VgjslegUpE=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_6_angles_h
+ orizontal_only.png
+SHA-256-Digest: m7t7qHkf9knvcetM3AiG8E+CSpmZG49p2m4jbHEaGz8=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_1.png
+SHA-256-Digest: WQeLkn2/BzQK6e4VZWijA9EDbB9121w7sW/DHyHCaiE=
+
+Name: reference/wiki/images/cloudio-user-guide/GEF_TagCloud_10_angles_
+ 45_degrees.png
+SHA-256-Digest: vUNvtMJUQIR4Nn+5PklMfGO8v0JszqWisR2aQc7GsBc=
+

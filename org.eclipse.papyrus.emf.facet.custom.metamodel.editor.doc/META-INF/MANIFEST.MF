@@ -1,0 +1,132 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.papyrus.emf.facet.custom.metamodel.ed
+ itor.doc;singleton:=true
+Bundle-Name: Papyrus Facet Custom Editor
+Bundle-Version: 1.2.0.201806130934
+Built-By: genie.papyrus
+Require-Bundle: org.eclipse.help;bundle-version="[3.7.0,4.0.0)"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/papyru
+ s/org.eclipse.papyrus;path="plugins/facet/editor/org.eclipse.papyrus.
+ emf.facet.custom.metamodel.editor.doc";commitId=004543b17ed36046bc094
+ f671e63c486d2fc0589
+Bundle-Vendor: Eclipse Modeling Project
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: resource/topRightOverlay.png
+SHA-256-Digest: oSr8O7jVuTFNRjiyrIe4FnObEuvCkHNWQUHv9HivRhE=
+
+Name: resource/fontItalic.bmp
+SHA-256-Digest: ZZyQPdlPmIZWzXg9hpsz+fPegNMzKFaJEY3k/owMhJk=
+
+Name: plugin.xml
+SHA-256-Digest: xB+4D9+AIu2aHArzGInV57bhdanaAn6pIGoGi22ro70=
+
+Name: resource/editor-toc.xml
+SHA-256-Digest: V5CSHyRj+fXxfzKhuPE1hu79oF1dh1/id3OzoeOFjSw=
+
+Name: resource/rgb.png
+SHA-256-Digest: SYJdgD0qvFIR++yggfv73cIvGmLRV5411axDFFOE/8w=
+
+Name: resource/fontSize.png
+SHA-256-Digest: XZSSVOTTCToDac+YyLGxM9plwAQtI5jznxlaqCj1Y0M=
+
+Name: resource/WizardCreation1.png
+SHA-256-Digest: 2djW2QGC87krpJaihuPTfh585TwGunuo6OEI0E12jPE=
+
+Name: resource/imageCustomization.png
+SHA-256-Digest: +wYifX7aYiXv9ovzgzQ4tfL92MzX/6ZQJ/4ks2XIMBs=
+
+Name: resource/FacetOperationCreation1.png
+SHA-256-Digest: nADiLN4w9JylLJLKdvtxde6dsbyJiNmFdq6tMskBEzw=
+
+Name: resource/EditorWithEmptyFile.png
+SHA-256-Digest: DgJeebcFEU33E2aoZY0uF8AOKRSirf183u/mk96Wu/I=
+
+Name: resource/bottomRightOverlay.png
+SHA-256-Digest: dlFTcq2T9qwr7AzPE8MwhVmwe9KIYoAtzU2TtNkwxRk=
+
+Name: resource/FacetOperationSpecifyQuery.png
+SHA-256-Digest: 7MHWk7ROHIwmV/vuswMTzJlfj4/e69Z1TlcipBYLaEk=
+
+Name: resource/editor.html
+SHA-256-Digest: EsKURQB26c9azKfodLRFCmRFGtODgL1YH9N1GxBW6tg=
+
+Name: resource/customizationLabel.png
+SHA-256-Digest: 7yhG+cEr75EMFNgJT+LuPOZh0cZwXltBS3sFigtqty8=
+
+Name: resource/fontName.png
+SHA-256-Digest: cb2kc1cjH4Mu9u+LPZYTA3HWu0xJ9J5SAQE3p81324o=
+
+Name: resource/middleLeftOverlay.png
+SHA-256-Digest: STS1Kb9vPMxTmvMMswalHO0LtHfZCfA3zTf2/GH28ts=
+
+Name: resource/RightPaneldescription.png
+SHA-256-Digest: u61x0Pvm+KmUy6Kl3Zk205of5E/7ejAnztoi90ZR+8Y=
+
+Name: resource/WizardCreation2.png
+SHA-256-Digest: QtXUhZDoo1mRTfKt2QBbYnSySMT+d405YWhWXqdkFKg=
+
+Name: resource/fontBold.png
+SHA-256-Digest: wuTTQD4V94RhORbFvjiYGWVaIS9/OgMFc3fym8p+EU0=
+
+Name: resource/bottomLeftOverlay.png
+SHA-256-Digest: Hm9DsfnxzAIuOZ6kvQceRLyOc1pgLHSzw5cS+Cf3nUI=
+
+Name: resource/FacetCustomCreation1.png
+SHA-256-Digest: wLEiVYN9bznlW9lhCuJs2JRi16aL8p0N6ZPTdKzhTyI=
+
+Name: resource/WizardCreation3.png
+SHA-256-Digest: ycmb2fB/3AAtnULmhK6+FW8CLX75TSSVKA/CcgeJqKE=
+
+Name: about.html
+SHA-256-Digest: VjLhpr1JegXQkWPs2418ps3ZHQEz3ouCmKY12r/647c=
+
+Name: resource/fontStrukethrough.bmp
+SHA-256-Digest: UcSIdpfuxqHruvE2cxHfoK3Xrvrtx94pebxJ3aN0yg8=
+
+Name: resource/bottomMiddleOverlay.png
+SHA-256-Digest: uOZPSlxG+U7ykPccdRATaK10vWl0fx6gXL0+97Xo47Y=
+
+Name: resource/facetOperationWithPropertiesView.png
+SHA-256-Digest: xzUSm3RcKFYk4/9hzdkswYuTdOx+CZK6rF3KfUTEuCs=
+
+Name: resource/addParameter.png
+SHA-256-Digest: 1KAPAukBsmfnhd1pJAFoBZg3Sz84olA56k/OhwciMWw=
+
+Name: META-INF/maven/org.eclipse.papyrus/org.eclipse.papyrus.emf.facet
+ .custom.metamodel.editor.doc/pom.properties
+SHA-256-Digest: fTzjUz1LtDkHQZm6HmoFDwMY66hgO75GSoeo69qqtmU=
+
+Name: resource/FineTuneEClassCustomization.png
+SHA-256-Digest: cTsUn+0EserbWfERPQ9oRgVbSHeIPPXweCJ6odvSN5Y=
+
+Name: resource/attributes.gif
+SHA-256-Digest: dqslOLpSw4UfsJOpd/4/2YNIng3rO/t6rsgWbgJfpuY=
+
+Name: resource/fontUnderline.bmp
+SHA-256-Digest: XeaF9NPCa/a5KOQoiNZKXJFbGaLjgiTL9G2nOxCOwRI=
+
+Name: resource/topLeftOverlay.png
+SHA-256-Digest: ub5fp78FqyztXYdepWrwFmV315ONsHYqFVY9Dzyul0E=
+
+Name: resource/EClassCustomCreation1.png
+SHA-256-Digest: +U3PgerULsfz7F0kLFYJ77RnoRJj+f5t2mDQ4M5tOEg=
+
+Name: resource/EClassCustomEdition.png
+SHA-256-Digest: joUnVCoYneKfx17hX4+09ICJj5XCh5a1OOtWaQ0TWdI=
+
+Name: META-INF/maven/org.eclipse.papyrus/org.eclipse.papyrus.emf.facet
+ .custom.metamodel.editor.doc/pom.xml
+SHA-256-Digest: uQmSm6kMIBRZRlkTW+S1xW6XJs6FTNpI8lhgiWjKf0Y=
+
+Name: resource/middleRightOverlay.png
+SHA-256-Digest: Osbe5JznaRtMBD188nTT4O6IEy1T8dyIfnm/ZWqnTc0=
+
+Name: resource/topMiddleOverlay.png
+SHA-256-Digest: y0xqRwDxYKNzMdCV9r/1Fs8Ut3jPyRe1MJiyVy9tuZE=
+
+Name: resource/editor.textile
+SHA-256-Digest: gmJSNuIv7Zm3wsqLwpc6vmS0T3GQXGlZJ/U4WRKCveM=
+

@@ -1,0 +1,32 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: AKxvpZLynBHJTA9DN4MFhpq/YkbXV
+ CDud0agaAS7YEI=
+SHA-256-Digest-Manifest: 1c1/uiy3el2c5nzNoSLN8ptAZZrDyCzTZCuh1JKlYMs=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: about.html
+SHA-256-Digest: 4EGy8L4yqs+1g045/oZGbrzZvjzpgQf/UYfLQ/KnEEY=
+
+Name: plugin.xml
+SHA-256-Digest: dn7pTmhJxGwM4gm0V0Fji39ZA+5MPmP6Wq+MVJ85Z6E=
+
+Name: toc.xml
+SHA-256-Digest: 56Rm2/rOQhDpBcGVxCu4rijxTeH8dxPWHv6F+wUH+NE=
+
+Name: resource/stylesheet.css
+SHA-256-Digest: z149czTy8HTsLrGx7aozs3gz+hS94HX4C2rHxmbkCl4=
+
+Name: resource/PapyrusLeftBanner.gif
+SHA-256-Digest: mk93BxlIT5B0IJaxwDEoi5FZe7VKX7TT/WqamNfBfes=
+
+Name: META-INF/maven/org.eclipse.papyrus/org.eclipse.papyrus.infra.doc
+ /pom.xml
+SHA-256-Digest: 1RgEFe1Y3ycFu2IYLkZ8MeiLqjeRd2rI/Uqgiakn6Dg=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: 29w9vEd9hsW66edhkw1zRYTyEpFW89vog4zfcQln9uE=
+
+Name: META-INF/maven/org.eclipse.papyrus/org.eclipse.papyrus.infra.doc
+ /pom.properties
+SHA-256-Digest: t04oL7rDOAiHoZLxd0SkozZrA7RxVdYvpLnlN8KCmHM=
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<!-- ========================== -->
+<!-- Define topics for the GettingStarted -->
+<!-- ========================== -->
+<toc label="GettingStarted" extradir="gettingStarted/intro">
+   <topic label="Basic tutorial" href="gettingStarted/qs-BasicTutorial.htm"> 
+	   <topic label="Preparing the workbench" href="gettingStarted/qs-2.htm"/>
+	   <topic label="Creating your first Tcl project" href="gettingStarted/qs-3.htm"/>
+	   <topic label="Browsing Tcl elements using the package explorer" href="gettingStarted/qs-4.htm"/>
+	   <topic label="Editing Tcl elements"> 
+		   <topic label="Opening a Tcl editor" href="gettingStarted/qs-OpenJavaEditor.htm"/>
+		   <topic label="Using quick views" href="gettingStarted/qs-Quickviews.htm" />
+		   <topic label="Using content assist" href="gettingStarted/qs-ContentAssist.htm"/>
+		   <!-- <topic label="Identifying problems in your code" href="gettingStarted/.htm"/> -->
+		   <topic label="Using the local history" href="gettingStarted/qs-LocalHistory.htm"/>
+	   </topic>
+	   
+	   <topic label="Moving and copying Tcl elements" href="gettingStarted/qs-10.htm"/>
+	   
+	   <topic label="Navigate to a Tcl element's declaration" href="gettingStarted/qs-Navigate.htm"/>
+	   
+	   <topic label="Searching the workbench" href="gettingStarted/qs-11.htm"/>
+   </topic>
+   <anchor id="javagetstart" />
+</toc>

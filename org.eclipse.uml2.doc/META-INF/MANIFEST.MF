@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.uml2.doc; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.uml2
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/c/uml2/org.e
+ clipse.uml2.git;path="doc/org.eclipse.uml2.doc";commitId=7c4fd8dbf8f5
+ 3f2797cccaafa2bca3c5b53cb54c
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-Version: 5.4.0.v20180604-1153
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: about.properties
+SHA-256-Digest: /+zfQqaacaG7PSxRCdRVrpL4/UbeI5qtGIPBLWrvydA=
+
+Name: about.html
+SHA-256-Digest: ElCHHa09eiFRvzIjp7+F8GRxqbQ+GoETlB+9bSrCTkI=
+
+Name: plugin.xml
+SHA-256-Digest: IEN7iSlTakxgXGKM6MgDOBz4NKlDqsURVLIyF/eryrs=
+
+Name: about.ini
+SHA-256-Digest: mCNlGHiEhEePA3g/rNGYTUEbMgxXXA05+JM9cJud+pE=
+
+Name: toc.xml
+SHA-256-Digest: JICbXZ5sroCxghvdCxV+M7w40Z8TvkaPZJGUjj3Ldxs=
+
+Name: plugin.properties
+SHA-256-Digest: nX/k0kK3Xlz5cVDYOgv3UtuC+AamQVtsRRxMZK0YSdc=
+
+Name: about.mappings
+SHA-256-Digest: tmILFZFltKS6V31ai/LdpF7TLAixGQE3PZWHXc4ux68=
+
+Name: modeling32.png
+SHA-256-Digest: saSrfvJ79Uzl2BFpCbuVBho1UTuf14LrjD+wGJG44Ok=
+

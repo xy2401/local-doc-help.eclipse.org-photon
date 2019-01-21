@@ -1,0 +1,385 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.m2m.atl.doc; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.shared
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-Version: 4.0.0.v201806041011
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: guide/user/images/Author_metamodel.png
+SHA-256-Digest: ghruzv4VTZLKSFvyJkVgB6ztVluK/FlE0D8YT9Jv5rs=
+
+Name: plugin.xml
+SHA-256-Digest: tTaXmjNpvzDavc4avOIjnVYMnCvpIbzS4D15TqtK00E=
+
+Name: guide/tutorials/src/Families2Persons.launch
+SHA-256-Digest: KhBtcMfPwD0g2sUWWmTQNsu8mnGkAISpVivTq/ktW7U=
+
+Name: guide/user/Overview-of-the-Atlas-Transformation-Language.html
+SHA-256-Digest: O+c0vQJ2Id0v6UjMjfJaXSeIH03c8eof/QI54u6aC8o=
+
+Name: guide/user/Installation.html
+SHA-256-Digest: uuSig8jpRyaBXRR1N10EAKG2GTW/Sm5R9otqq/A+1ek=
+
+Name: guide/tutorials/images/RunConfiguration_step3.jpg
+SHA-256-Digest: 7xDGlJwbx8a2/V7uq6pMTUrGEKFjEy7bbi37WS36k3E=
+
+Name: guide/tutorials/Create-a-simple-ATL-transformation.html
+SHA-256-Digest: BS1O+04fL0AG/2igS4jMX1vryBHR/36YhCEzEHxyves=
+
+Name: guide/user/ATL User Guide-toc.xml
+SHA-256-Digest: 4cmhzmdkWzhWX7F4aD+009huhuqk/sNre3ktbkylsBs=
+
+Name: guide/user/images/OCL_Primitive_Types.png
+SHA-256-Digest: k225BhojiXru21SpRO6Fw2c+nyYlMAmRs2oKxlqDkVg=
+
+Name: guide/tutorials/images/FamiliesEcore_step3.jpg
+SHA-256-Digest: ca15lK97LR79jZARIdci68oYMkB98SIicfkjK3l+Gs4=
+
+Name: eclipse48.png
+SHA-256-Digest: OsbdBhlvqggbcWGA/u3yBdYb68jWoMXC0N4ATAKWhbI=
+
+Name: about.ini
+SHA-256-Digest: eHHHTqN7Y2eiBZGYdFDZeacrMj29Mm7niUh+P3i42Ao=
+
+Name: guide/developer/ATL Developer Guide-toc.xml
+SHA-256-Digest: z4uCBluxR0LBupEJx4A965qQ4J4iEflxgtIBEBQUbCQ=
+
+Name: guide/user/images/Biblio_metamodel.png
+SHA-256-Digest: 3YSAeXdPsX7rc16QZzxPhRc8gopa8qmppjYzygwhh2g=
+
+Name: guide/concepts/Model-Transformation2.html
+SHA-256-Digest: yjaajof24DPFrciq4hrkCi2zRezRVOwofs7UEhTB5DI=
+
+Name: guide/user/The-ATL-Tools.html
+SHA-256-Digest: rSdHdCJi5ZRNqmyd55dZMr8LB8MJatkRIM2XQPS/NH0=
+
+Name: guide/tutorials/images/FamiliesEcore_step1.jpg
+SHA-256-Digest: JMUKQiEjRgoUOtTtkVxn/tHhaNeHjc6TLWD4eZBGv2A=
+
+Name: guide/developer/ATL-Architecture.html
+SHA-256-Digest: 4HLG39S4/vSoRP2NYwoUCQH4jJ2caY7QOU6AHj0mhiw=
+
+Name: eclipse24.gif
+SHA-256-Digest: GjIljbuiNXTcf4Tu0bJXiEdecTnnrs9pYzPukG/jRwE=
+
+Name: guide/tutorials/src/sample-Families.xmi
+SHA-256-Digest: X0Bs24K6kOD3jNZoqJGfql0k+udObe7PPG5XaITdiic=
+
+Name: guide/tutorials/images/PersonsMetamodel.jpg
+SHA-256-Digest: y2hyij6fLCXyIDitkSKv6lj88tOUNbIyCEAWK4G9GAw=
+
+Name: guide/concepts/images/MD_Architecture.png
+SHA-256-Digest: CUKMNPxhJ6bwREoBBVyhi2UybvEARu7aHppvulH72Jw=
+
+Name: guide/developer/images/ATL_ASMInterpreter.JPG
+SHA-256-Digest: ZoDsLmYLEUOJTe5A2zIWzXXl4okjW+D8lKMEQyJxa0w=
+
+Name: guide/tutorials/images/WindowViewOther_Menu.jpg
+SHA-256-Digest: 9081icQB+7oWJbs9lKZHSmxPCsIUeRxucNoVrf2qg5g=
+
+Name: guide/tutorials/ATL Tutorials.html
+SHA-256-Digest: Fb54MGQNQnOC+4qUEy+5ZKJvlfdXfP6FNyAHn5HUlSY=
+
+Name: guide/user/images/ATL_common_launch.png
+SHA-256-Digest: pIKr3fha5g1tTKePO5MQ+HYjeS9H8WfqtLTMBxy+sm8=
+
+Name: toc.xml
+SHA-256-Digest: 6tkRHwo2Hm4ePkRGMdiuK/Vw06YzeR8no+RH3xxWO34=
+
+Name: guide/concepts/Model-Transformation.html
+SHA-256-Digest: 6pTpY++d/xBsHMLhbIuquAW3xTY62ErgVr+33dczhAs=
+
+Name: guide/tutorials/images/GeneralProperties.jpg
+SHA-256-Digest: olHRDDPXW/JLSKQimmZOFuDPLf6n8sAyJVzkAKzfyGU=
+
+Name: guide/developer/images/ATL_Core_Architecture.png
+SHA-256-Digest: boLqxb8uiojEQ0j69MDEMNYJpk5yZ1EELdeA10WghPY=
+
+Name: guide/user/images/ATL_navigate_debug_variables.png
+SHA-256-Digest: p0sx/vurQ4KNveVsJ8sEFQfa+S3S+claiA0pIhgb9rw=
+
+Name: guide/tutorials/images/ATLInstallation.jpg
+SHA-256-Digest: MRRkHkqB6g1vX6R+6EY9Rgdpf1izq9eyq6qY434PBVg=
+
+Name: guide/user/images/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: tutorials/PLACEHOLDER
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: guide/tutorials/images/FileNewFile_Menu.jpg
+SHA-256-Digest: pfY3eXn8vJe11LigV1ZdHSV4zy/PJzDiL2pWfbogV7Q=
+
+Name: guide/user/images/AM3AntTasks_JreTab.jpg
+SHA-256-Digest: lmuL5W7kCbKSNe2f2Axt3ll8wN0TD36Zx1qhK+EpV/Y=
+
+Name: about.mappings
+SHA-256-Digest: qpxYMK5Tyf7Kj1k5MFQORn9dOj+jhDGlhr0AB3VIpjk=
+
+Name: guide/user/images/Simple_inheritance.png
+SHA-256-Digest: aTn/4x2mAYQN7LMrjltDP6fP7gLIhqNcKi2nCN8eq2c=
+
+Name: guide/concepts/images/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: guide/developer/Updating-This-Document.html
+SHA-256-Digest: 5Xryk9G+cXEdIJQkR0brRvihqaWtTusV5SXuymvJCcY=
+
+Name: guide/user/images/ATL_new_file2.PNG
+SHA-256-Digest: VhbACago50guqlM0Kk30N9NPXQOdepO4bO50J6I+xuk=
+
+Name: references/PLACEHOLDER
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: modeling32.png
+SHA-256-Digest: saSrfvJ79Uzl2BFpCbuVBho1UTuf14LrjD+wGJG44Ok=
+
+Name: guide/tutorials/images/PersonsEcore.jpg
+SHA-256-Digest: xVcH7ZHtbLoQAV1E4DeWf+epT/MSdxFL/wX14ccIoGU=
+
+Name: guide/tutorials/images/FileNewOther_Menu.jpg
+SHA-256-Digest: CPoM7xlnJMpCL12Ttr0ZU0gT17tz60IA17iZkHTIU5s=
+
+Name: guide/tutorials/src/sample-Persons.xmi
+SHA-256-Digest: 6SVKDhWLiYALyN+1bCHbmCfUilRUBu0hFbZk/usOh6A=
+
+Name: guide/developer/images/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: guide/developer/images/ATL_compilation_process.JPG
+SHA-256-Digest: wmcYTu9DRe7zaop5xT3b0MfEaKuMb80m8X15r/SQzHk=
+
+Name: guide/developer/images/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: guide/tutorials/src/Persons.ecore
+SHA-256-Digest: MgHWp/fb5kS9S2q7rnHy4KxzEBJndORHYnJ2gi0Q7DQ=
+
+Name: guide/user/images/ATL_launch1.PNG
+SHA-256-Digest: S4/hZKEP//pOJOt6kLvZiJn6BBkFG8Ww/Ft40Q2xLbw=
+
+Name: guide/concepts/ATL Concepts-toc.xml
+SHA-256-Digest: iiq2k69M0hNMKT9tsAUyVIugGq0a9uEBiA7dRSMObj8=
+
+Name: guide/user/images/ATL_launch3.PNG
+SHA-256-Digest: Vnn3397ETQTuTOzaOwS7fcHAeE20CUEM5F6ADtEHppw=
+
+Name: guide/tutorials/images/FamiliesEcore_step4.jpg
+SHA-256-Digest: CpJYE5s7uvjlYjTVvrQFiqJ2mLymkd1CNqwSzzFOziU=
+
+Name: guide/concepts/The-Model-Driven-Architecture2.html
+SHA-256-Digest: 2F84G6k6Uxe9m323+A9PYbvZJw+vmhe/734/4FrNpFs=
+
+Name: guide/concepts/The-Model-Driven-Architecture.html
+SHA-256-Digest: kZL/Fuj7EBCnN9Z1EFc6BDYT0UJuAxutfLJ8k05AWps=
+
+Name: eclipse32.gif
+SHA-256-Digest: 7H0pxpfmq0eziY1AhBceTVoxhRktMBDYmEUb+EfpSvs=
+
+Name: guide/developer/ATL Developer Guide.html
+SHA-256-Digest: 2zWOaL+nNiuZVC1tksvWFMZdcqjb0hbFCB3qaOWDgvc=
+
+Name: guide/user/Updating-This-Document.html
+SHA-256-Digest: 0vJNWLXmVEzPXZLIfwcY1ViCU9tocV6hsgH5rpB5Jlg=
+
+Name: guide/user/images/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: eclipse.png
+SHA-256-Digest: kb5aI0TsKxxp/I7MQyZzPYV2G/wsjdDE7l/wEd/xrhE=
+
+Name: guide/user/images/ATL_plugin_wizard_result_export.png
+SHA-256-Digest: 52d+3wpgtHxdZxMgqbrXj1wb4VLpEhDw6SoUn4VfoL4=
+
+Name: about.properties
+SHA-256-Digest: Jv3/IlFOc8iOe/FoFFdDQwV7yTb94sy0b9vwPvXjNQ4=
+
+Name: guide/tutorials/src/Families.ecore
+SHA-256-Digest: TsZBlPn6LS3o/gmjAovB5m2jAneYEGI7x6nYoKYfxnI=
+
+Name: guide/tutorials/ATL Tutorials-toc.xml
+SHA-256-Digest: 97+XkvxnR4SsxauQjyZKRoDJ5AryRqygpBxq4ToN3nI=
+
+Name: guide/user/images/ATL_plugin_wizard.png
+SHA-256-Digest: SZ2gtQuq8Zevl86SDSCSaHY9/ELpGUNBKRUUOjCtt34=
+
+Name: guide/user/images/ATL_Debug_perspective.png
+SHA-256-Digest: Bx0aHXshXpgP7+bUuD+1EYuuDWyTgAj80QibOmlD/Zw=
+
+Name: guide/developer/images/AMMA_bootstrap.JPG
+SHA-256-Digest: hW3ebbWiAZJ/ASODNpngSiqQKUy7aPjeZSKuAg33lsI=
+
+Name: guide/tutorials/images/RunConfiguration_step2.jpg
+SHA-256-Digest: HUQkIFneYIQae9GK1UzwbzZZUhDCRUdFtx/Kig7XUC8=
+
+Name: guide/tutorials/images/RunRun_Menu.jpg
+SHA-256-Digest: erCvxjWBLb1204i9U+EGMydaPWonGKQe+qbXyOWH69c=
+
+Name: guide/concepts/images/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: images/PLACEHOLDER
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: guide/user/images/ATL_perspective.png
+SHA-256-Digest: I5SdrF/uUbI2HFPv776nnSfeXHufJskPZuOkZAUDVas=
+
+Name: guide/tutorials/images/AboutEclipse.jpg
+SHA-256-Digest: qNpq1/H008m/pUh6u0O1zndID/202M3YzjLmFZQS+UM=
+
+Name: guide/tutorials/images/ATLPlugins.jpg
+SHA-256-Digest: nzuoxEPLmxGjhFZBRZcFTUAAqEJsNrpyIIIltSCE7N0=
+
+Name: plugin.properties
+SHA-256-Digest: mN/hxvDfPrBofZ3wqnvrpNExdol9tkCCUQCf09jdeV0=
+
+Name: guide/tutorials/images/FamiliesEcore_step2.jpg
+SHA-256-Digest: qMwS8aXAeQKDXe30CvDU+mzkRqiUP4Q/TljTPcFCHso=
+
+Name: guide/concepts/Updating-This-Document2.html
+SHA-256-Digest: Szu0/LryiUJs3mFXg1flOviZacu0RoqjwC3mhV/Y41I=
+
+Name: META-INF/maven/org.eclipse.m2m.atl/org.eclipse.m2m.atl.doc/pom.p
+ roperties
+SHA-256-Digest: 2+1Dq/GyYa6MB/yM4yHSSq0yRvI+gFjk1NxVnznc8JE=
+
+Name: guide/user/ATL User Guide.html
+SHA-256-Digest: 2AA0qpw6RLld9sjDBygJVHEBQOJ+6u0rshhNvAXZF20=
+
+Name: guide/concepts/Introduction.html
+SHA-256-Digest: bwgIedSP5MgoAK3UubHnrp2naj6ZySgc72uBmevbVjw=
+
+Name: guide/concepts/book.css
+SHA-256-Digest: qijrGh/5PEiPk2wygX4bZo7y6HAg4Pkk1Anq0YBZysY=
+
+Name: guide/user/images/ATL_Superimposition-example.png
+SHA-256-Digest: 7MB2LLHDanZ0N9sK9cpwuesOfHDRTa6Wi7C5TD0qbp0=
+
+Name: guide/tutorials/images/FamiliesEcore.jpg
+SHA-256-Digest: GdYriNIJZ9cHbNTdNJToE33fKJHDrsiHwRvCZdMpvc8=
+
+Name: guide/user/book.css
+SHA-256-Digest: qijrGh/5PEiPk2wygX4bZo7y6HAg4Pkk1Anq0YBZysY=
+
+Name: guide/tutorials/images/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: guide/tutorials/Updating-This-Document.html
+SHA-256-Digest: ibJpWdBcB160rEHA2TcCA+BdFO/1uhBJfTPP3xlqUoc=
+
+Name: guide/tutorials/images/RunConfiguration_step4.jpg
+SHA-256-Digest: TTawwAhQwzIFExiU/ooGj3c+evmET9HkGnaWaM81jgA=
+
+Name: eclipse48.gif
+SHA-256-Digest: lo7+WtzXLpyjb5zAwbAIdhr7h4/790aTs94XZF9YIvA=
+
+Name: guide/concepts/Updating-This-Document.html
+SHA-256-Digest: KTbMka3eiVXulKEUofIJaYwMhk7MqYZ593TWylFZJbw=
+
+Name: guide/tutorials/images/FamiliesMetamodel.jpg
+SHA-256-Digest: UvO8sfyWpFiSEsX3UgfBFoPn/B6ElD89yoPk0ZtvupM=
+
+Name: guide/user/images/ATL_debug_actions.png
+SHA-256-Digest: sVER7BdK5Pb2q7SVrjw/NAa2VB0F5rY2WHshUa2/MMQ=
+
+Name: guide/tutorials/images/EcoreModel.jpg
+SHA-256-Digest: d6ePHeiy0psb3F8rE41clspJRCyS2qSHXAl46zMcPkA=
+
+Name: guide/tutorials/images/Families2PersonsATL.jpg
+SHA-256-Digest: kl/KKkX13R4VQwteC8aVLJBsqDCMjI1y5s6SfR9xYbg=
+
+Name: guide/tutorials/images/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: guide/concepts/images/Petri_Net_Meta.png
+SHA-256-Digest: 8ZPnvzJp+fyDrgskaPGmE3ewrbLauG0+OwkZUaZR7sc=
+
+Name: guide/developer/images/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: guide/tutorials/images/InstallNewSoftware_Menu.jpg
+SHA-256-Digest: 3rRqzcc87pm0BWPm0/L9w4lMrohz3P19OkHsVLbxx/U=
+
+Name: guide/user/images/ATL_plugin_wizard_result.png
+SHA-256-Digest: Jwfy4A+Sa6vgWaTIwUthK+9XTqcq35ugz6OAm9zLDLk=
+
+Name: guide/tutorials/images/Families2Persons_Project.jpg
+SHA-256-Digest: 5mI746oID5RAmQm0inFbWDmknvmU9ehY3jInZdNQ17s=
+
+Name: eclipse_lg.gif
+SHA-256-Digest: TA/bwrjzRFXQJqVgiaZBaGWVYygSUbVQuZHrO6iGvSE=
+
+Name: guide/user/images/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: guide/concepts/images/ATL_Transformation_sample.png
+SHA-256-Digest: 6fz8l2RDJkd/RzGt+7pXGRvnq9ny/y7yvgNIb9m8SO4=
+
+Name: META-INF/maven/org.eclipse.m2m.atl/org.eclipse.m2m.atl.doc/pom.x
+ ml
+SHA-256-Digest: GNxCHoMH/hbFI7ECwXBDOHk1i+7y4cmAhCwTXOsB69g=
+
+Name: guide/tutorials/images/FamiliesEcore_step5.jpg
+SHA-256-Digest: J4nrMCku9S3+F5mLR/6FL6A01G0XvyGpDpOJL2JIZQ0=
+
+Name: about.html
+SHA-256-Digest: ZYczHLHHJbJ2GSLe/MBOpU/zRznwNG9X6G0P5BecAYs=
+
+Name: guide/tutorials/images/InstallationDetails.jpg
+SHA-256-Digest: FAy1mRzeULbkJ/PwnXhDGBdlAyXKbO3oQWAIUCGUPgc=
+
+Name: guide/tutorials/images/sample-FamiliesXMI.jpg
+SHA-256-Digest: t5twFlooHwIc7BnNkgYgawzgXeQ1c4ifFva0xuBoYtY=
+
+Name: eclipse.gif
+SHA-256-Digest: iHqoJguT+OfRAz8zdiEMyN8RNwRS8xv9xMf6RrAnbzA=
+
+Name: guide/concepts/images/Model_Transformation.png
+SHA-256-Digest: Nxj+2tnEUaPXvNqo6eTOXgC63X0gz4GKmbqAQ6zkyTU=
+
+Name: guide/concepts/ATL Concepts.html
+SHA-256-Digest: frQxDyNK57wIUaupXJB0i/4i2Kt871lksWWGjLXLPzo=
+
+Name: guide/concepts/images/Petri_Net_Conformance.png
+SHA-256-Digest: lCz97x5h/XgB23bvC5nyYEbPS2Q2DPKannCOcc4nTfo=
+
+Name: eclipse32.png
+SHA-256-Digest: OSRlXgvZ3i3wfVilJGmf0LCWkDaCVPWx7HaW9scdnSY=
+
+Name: guide/concepts/images/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: guide/tutorials/images/ATLProject.jpg
+SHA-256-Digest: GH1Zl6BuriRLcBKXZ9T8rOauB664jHXUTzGO2OTcjxU=
+
+Name: guide/tutorials/images/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: guide/user/The-ATL-Language.html
+SHA-256-Digest: I3Xdk9eCbsypeJJaLXgWfxe3wZzUZua91oCn+YrPsVk=
+
+Name: guide/tutorials/images/RunConfiguration_step1.jpg
+SHA-256-Digest: OaUl19rqkdfKisibXYs6+DgD+tXeW+oKOIDQ5/WqeEk=
+
+Name: guide/tutorials/images/ATLFile.jpg
+SHA-256-Digest: TEiz3QN+W22sXLlwMLnMStEbCN7vWDdG4u68wcyPLoM=
+
+Name: guide/developer/ATL-Bugzilla.html
+SHA-256-Digest: lkmhqMQra8FG6XHad/0tEIUZKUBOmzHOg+TzZgcu8LE=
+
+Name: guide/user/images/Person_metamodel.png
+SHA-256-Digest: gOWtVu2zigb50RwolVWAHjMKmu+TUAb3HKLC3xsfDpA=
+
+Name: guide/tutorials/src/Families2Persons.atl
+SHA-256-Digest: EGZwUTL2YYnsUJft+aY9UHT2jfTj8uXC6Jb2iC3j6Fw=
+
+Name: guide/user/images/ATL_launch2.PNG
+SHA-256-Digest: HWOKEnd/4BzmMx+Ib9gPqT0EV/KnAMiK2nfJ/axe56M=
+

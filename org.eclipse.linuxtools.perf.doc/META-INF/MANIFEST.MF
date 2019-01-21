@@ -1,0 +1,174 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.perf.doc
+Bundle-SymbolicName: org.eclipse.linuxtools.perf.doc; singleton:=true
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Name: %Bundle-Name
+Bundle-Version: 1.0.0.201806122135
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: Linux_Tools_Project/PERF/User_Guide/User-Guide.html
+SHA-256-Digest: zEpIM8n47RjfJ7jh1XaAhAWbe6Lkx7knUJRJSadIsKw=
+
+Name: plugin.xml
+SHA-256-Digest: rzVCLwImB80rvJ5ADYuRHh4R51vyv+jepCm1z0rwOTc=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Stat_diff_cmd.png
+SHA-256-Digest: ytjz+QaydVX98sAIy76/lPMT7p2/xvo2oaCz+RTzSMA=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Save_prof.png
+SHA-256-Digest: nXFx3csQmj8egpehxHBBMp3A+lZC9Og7cf+DuAc5FeA=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_oneclicklaunch.p
+ ng
+SHA-256-Digest: SgvYNC+uQFeefa+8/AHofy6evuodzmN6iXsSSDH6Mds=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: plugin.properties
+SHA-256-Digest: 0IyvckGTwlSlWRzTVFUcwdIZVCUzcxuYaf1qI9KCrnk=
+
+Name: Linux_Tools_Project/PERF/User_Guide/Perf-Views.html
+SHA-256-Digest: aaVRjIgf2WK/RE0WK3tlbg5+y8mO096km7DnXJEnItM=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_disassembly_view
+ .png
+SHA-256-Digest: 9LnHtXGTUnO5CSY336r1SSVt+iQeO1JzHimEM4S68og=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/File_select.png
+SHA-256-Digest: 60I792aCwKwIhX08ufa5kk5isAZR/OMLLFCjHK7fe+4=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: META-INF/maven/org.eclipse.linuxtools.perf-parent/org.eclipse.li
+ nuxtools.perf.doc/pom.properties
+SHA-256-Digest: sfbiarEHEo2KRnRDdcK5lL/5MBrD+kNz2gFiwUS1pQ8=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Icon-oprofile_sample.
+ gif
+SHA-256-Digest: l6I/tPCpfdR4nKJ7zrI5tCBeb6dKTnh8MkzzeQjYTZs=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Icon-oprofile_depende
+ nt.gif
+SHA-256-Digest: rHAXRfw9faRWkxlG4a2bowbejRP9nNaTmLG1K9qVrUg=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Icon-oprofile_session
+ .gif
+SHA-256-Digest: G3I0H3mvTOHve2OUjSEvYqryqnd6bH2AEvkknzHdkm8=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: build-helper.xml
+SHA-256-Digest: kuVKhpM8uRl+XtYxbgWuGQp0qmoxooul+EbzIcTZJOI=
+
+Name: html/subtopic.html
+SHA-256-Digest: 7kaVS9H4Ls2svzncPlKy9B48XQSvs4GW7xaBc4c2SfU=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Callgraph_timing_subm
+ enu.png
+SHA-256-Digest: xecMzjmZfRwU6pfXrrUKa84GFpbRPUchQG8JBCD5pms=
+
+Name: META-INF/maven/org.eclipse.linuxtools.perf-parent/org.eclipse.li
+ nuxtools.perf.doc/pom.xml
+SHA-256-Digest: acOq4j0m7+X+IfNL8kHRt4trs0cSx1/kLcOhGg0R0+Y=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Icon-oprofile_image.g
+ if
+SHA-256-Digest: RTYim9fmUdAglcUm6D1JZUlOSMxKmOGByO64nWq2n+4=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_original_submenu
+ .png
+SHA-256-Digest: YbiAz8Ta09s16gwHWfL8y9oQBq17Zl5sac8Vc9PtLxE=
+
+Name: toc.xml
+SHA-256-Digest: oIjcVDvXu2sRW/arC5MjzaLQecCKrAKpBpy1qjRKf0M=
+
+Name: Linux_Tools_Project/PERF/User_Guide/Sessions.html
+SHA-256-Digest: AsDWjIGgDeYYIBYvInTyWcat0qefWyX8DMCEaRIf/yo=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_tab.png
+SHA-256-Digest: 6sM3kQ7VqxbcZF+J9lrMYf0fXk1sB5WTs7ahHjgu3RU=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_maintabremote.pn
+ g
+SHA-256-Digest: Yk7MzotpGmpR59EbRf+4d5I8lERuo/qCODHGqDWnqbA=
+
+Name: toc-doc.xml
+SHA-256-Digest: yxXvPIQx0nzwVbKbGRFREY8q77JkqUYkybOHWrN6Kvc=
+
+Name: doc/notices.html
+SHA-256-Digest: at9PtgtJIuEsmGT6HoXxBZwn+OlhlzntSc7Ujfijh50=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Session_loc.png
+SHA-256-Digest: q6IiWCqP74Y0x0U9oN6dx1kwST7QHFVUxn1r8CqH+lU=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Icon-oprofile_event.g
+ if
+SHA-256-Digest: gd/jFecEhqHk2drWU5nkOUSMyk8DLFMek1A7CoBzSdw=
+
+Name: Linux_Tools_Project/PERF/User_Guide/Profiling-Configuration.html
+SHA-256-Digest: We8Ec1GSgiLQvY74m21VKwS0nD3+33F4MCBTrK+maBw=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Save_stats.png
+SHA-256-Digest: jir5FbyZ2hdT5dsQgl2nhVDpqr4ANPHYK4b9QJRa6xQ=
+
+Name: html/maintopic.html
+SHA-256-Digest: XON2lOKyDZPcWoalCBCWLTWV0fGHJtz4flg5MGpp6Ok=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_eventstab.png
+SHA-256-Digest: 48kynh3wBEFlmicky2T9EX51+CvHmjX8O/Dza4hcVGI=
+
+Name: html/toc.html
+SHA-256-Digest: 3sGxOFA9+pJ4kNTZb8qFYlBr3ovmTCTGl6hKmwY6HQc=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_global_prefs.png
+SHA-256-Digest: nf/oPyzCF9Jjlts9KQmSH3CCdq/9nxaFBaEgOPx6ntM=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_events.png
+SHA-256-Digest: 7Clch250L2KsUVaTxVYezFCyWFoAE+I1z2Nil8E1FEs=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Quick_stat_diff.png
+SHA-256-Digest: K+xrdADpv0DEfl7ACqEB8B9P4ZUBlQ0iVXSxihjPyT4=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_proj_prefs.png
+SHA-256-Digest: tlR5otcXj13N689/MrI1xLN/isuqhkvahRMxZZ0mMZg=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Icon-oprofile_symbol.
+ gif
+SHA-256-Digest: yzO4bMM8s5Ges/ftEyYS1AnHRTgiH6CPt98Ze6MD3JU=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_stat_view.png
+SHA-256-Digest: lyJx2Oqo3V2vunyXN84kTXrUdm34+KmhDylru+gA5OU=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_optionstab.png
+SHA-256-Digest: y9nDRvpn/2OdTwppcxUZvZGcKEuoFJNURV5jHdP8/YY=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Perf_view.png
+SHA-256-Digest: nML9zRcZVP5aWqiMxgc5D13o6AxwYT7W8P3jm9XUMhQ=
+
+Name: Linux_Tools_Project/PERF/User_Guide/Launching-a-Profile.html
+SHA-256-Digest: Lv5DUaw8EJpKyBDpqO6WMilI1QGeTs2j3V49ExKfTAk=
+
+Name: Linux_Tools_Project/PERF/User_Guide/Installing.html
+SHA-256-Digest: ++hxpCck4knE87IenH09dj9epoUXluhVqZFKhsgMRrM=
+
+Name: Linux_Tools_Project/PERF/User_Guide/Updating-This-Document.html
+SHA-256-Digest: JtcSFAZc1uq4BaDTxxxvds16z6d+5F79ZTByuLJTeRk=
+
+Name: Linux_Tools_Project/PERF/User_Guide/images/Stat_diff.png
+SHA-256-Digest: AFC6Q96Qw2eVoslA+BZkSRnsM933Dcx/mrofsom/4g8=
+

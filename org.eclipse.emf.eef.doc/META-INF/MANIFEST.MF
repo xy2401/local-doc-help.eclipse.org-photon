@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.emf.eef.doc;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.eef
+Require-Bundle: org.eclipse.ui;bundle-version="3.4.0",org.eclipse.core
+ .runtime;bundle-version="3.4.0"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Eclipse Modeling Project
+Bundle-Name: EEF Documentation
+Bundle-Version: 1.5.1.201601141612
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_80
+
+Name: html/tutorial-toc.xml
+SHA-256-Digest: QBl8B+LAesjbM7zgguJRNq6Q3g15UvsSmD2SfVqKHFg=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.eef.doc/pom.xml
+SHA-256-Digest: EVPtNb4ySnrO7uAePfF5n8p8KBTiDNmC3b7ODqWfqx4=
+
+Name: html/tutorial.mediawiki
+SHA-256-Digest: OZBXtkXNfQxSWkEhkVo/nRcEzrX/DbL7cC1BU7R0QAM=
+
+Name: about.html
+SHA-256-Digest: 85MjsgSVBa3+UUzmRlFgoXFhowQsZdNNimvMoy+8wE8=
+
+Name: plugin.xml
+SHA-256-Digest: lzN2ukSFBpJ7ROi0HOjraJOT/uemBX9OYG7l40Yn7Go=
+
+Name: org/eclipse/emf/eef/doc/Activator.class
+SHA-256-Digest: WJHc/CxVJhDJUndOa9Yf0pUbBQ7ExhJ5s3zmMelb8gA=
+
+Name: html/tutorial.html
+SHA-256-Digest: VdqVSdCTzN5BWYhnj0lzQa8kaB8sSOINl5J/SMyK2Ms=
+
+Name: pics/initializeEEFmodels.png
+SHA-256-Digest: 8UJv1qBnKfn1haFj6Ceb+WXRb1zQI+ZdISW25AfH6pQ=
+
+Name: pics/generateEEFArchitecture.png
+SHA-256-Digest: DzHbGRUQ4aA4QPkAUv/+BAp9WhVwV3m4OJEMKGzKdYc=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.eef.doc/pom.prope
+ rties
+SHA-256-Digest: ujR0o3pO8IOKvziIS2rm81teNa6qPAJXR6vNsIi/WNA=
+

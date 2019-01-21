@@ -1,0 +1,77 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.gef.dot.doc.user;singleton:=true
+Bundle-Name: GEF DOT User Guide
+Bundle-Version: 5.0.100.201805280201
+Archiver-Version: Plexus Archiver
+Built-By: genie.gef
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/gef.git;p
+ ath="org.eclipse.gef.dot.doc.user";commitId=4a2ae87d59efa5a7d4e646510
+ be569ad57bbc325
+Bundle-Vendor: Eclipse GEF
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: about.properties
+SHA-256-Digest: XQvH3aNwq/4x2twAENZv+xu9QYp2J44q6upcmArzj0w=
+
+Name: about.html
+SHA-256-Digest: 31Y4uaBtOphfTgcHob0hh1CKroOIWaMaM86u24L7ZN8=
+
+Name: plugin.xml
+SHA-256-Digest: /0RkeL3ptbonQhbdRLHtvMeY/hIfZTmghlW4yzv4lHE=
+
+Name: reference/wiki/images/dot-user-guide/Embedded_emulated.png
+SHA-256-Digest: N9V+0Zc2efHxIA6sZTZBrb0W1ZOZ6g/4FL+c2IOUm08=
+
+Name: reference/wiki/images/dot-user-guide/Dot_editor_warning_detectio
+ n.png
+SHA-256-Digest: ZdP+f7WZFafGr/XBETB/1n2hWK3zKuYUucByU4SAhOc=
+
+Name: reference/wiki/images/dot-user-guide/Graphviz_preference_page1.p
+ ng
+SHA-256-Digest: lduTBRfwQIC5F4I5md8A2AOnuIEP3VDi/WlyViWOFtM=
+
+Name: reference/wiki/images/dot-user-guide/DOT_Graph_view_emulated.jpg
+ .png
+SHA-256-Digest: OB1Da1E8viKKLqrnjm89p/Rr3GdMF0rkwCqWtB9tCmg=
+
+Name: about.mappings
+SHA-256-Digest: gKuaEHYI+eI+3GkI7LjwQXbC7TxSvR1fH1mCfIxOLWU=
+
+Name: reference/wiki/images/dot-user-guide/Dot_editor_error_detection.
+ png
+SHA-256-Digest: iQUHaSMk/RB42CL66gm9S83AnN/31jeiN3AsHrrZk7E=
+
+Name: reference/wiki/images/dot-user-guide/Graphviz_preference_page2.p
+ ng
+SHA-256-Digest: +xQCUVfSYjXZpNt2TxT0mcs5upbyG11Vku8gJ58SkHU=
+
+Name: reference/wiki/images/dot-user-guide/Tree_native.png
+SHA-256-Digest: 70JmorQ3GwDh6M1vr8/WN2Ujwv4j/ouiJBWLAiHQ4Og=
+
+Name: reference/wiki/DOT-User-Guide.html
+SHA-256-Digest: kpPNVeZQ5Kz2TzK5P12ussS2ITHkGbU1p0EnkjhGhIM=
+
+Name: about.ini
+SHA-256-Digest: dJnpCx3Bbij7WuygdxEHHHdTDeteCiPLA3svbr565Tw=
+
+Name: reference/wiki/images/dot-user-guide/DotZestM2Rendered.png
+SHA-256-Digest: 5kYd44QngJWUkcKSHgq/UrrjfcUl2pFjjNfaSucf0Pw=
+
+Name: toc.xml
+SHA-256-Digest: /TvkOnY9y73fQRV9SJYgVV6hjjo86ChYnd7Tmg6NqVg=
+
+Name: reference/wiki/images/dot-user-guide/DOT_Graph_view_native.jpg.p
+ ng
+SHA-256-Digest: XJXHP17wsk85Q63S/i8b1fSrGoECTe9xvupOMdr3x2g=
+
+Name: reference/wiki/images/dot-user-guide/DotEditor.png
+SHA-256-Digest: fCHtdP2euIYwsoolxUFJrIAbic0vhRjXoD8yg2ou+IM=
+
+Name: gef_eclipse_logo_32.png
+SHA-256-Digest: 3gjt8pGYyF7O9G8DmyVCJGnZ0uzj6jfJwG5MgJjWJoQ=
+
+Name: reference/wiki/DOT-User-Guide-toc.xml
+SHA-256-Digest: 4pI5Uw190caB7DSeMv6jTy3gWtECP1XtTfuP+yw5wY4=
+

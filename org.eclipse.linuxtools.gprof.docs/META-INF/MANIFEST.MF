@@ -1,0 +1,154 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.gprof.docs
+Bundle-SymbolicName: org.eclipse.linuxtools.gprof.docs;singleton:=true
+Bundle-Name: %Bundle-Name
+Bundle-Version: 1.0.0.201806122135
+Bundle-Localization: plugin
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %Bundle-Vendor
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: plugin.xml
+SHA-256-Digest: oI0C9vuTogiaZIIgQsmj5MB8r2oow0KnPTMvR14K+AQ=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/LinuxToolsTimingPref
+ erencesGprof.png
+SHA-256-Digest: BaN+0XOXIW8booRNnqzUz1XgLPbpEKtjP/kgspVOZ08=
+
+Name: META-INF/maven/org.eclipse.linuxtools.gprof/org.eclipse.linuxtoo
+ ls.gprof.docs/pom.xml
+SHA-256-Digest: pdEPhFXPN/U7/g03kSREgPHc6230d5dos1uCC6Q51FM=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/LinuxtoolsGprofBuild
+ Console.png
+SHA-256-Digest: YfcccO6UISCl4avjkAT4U/nN+1QbMPP0WmUryBzA5g0=
+
+Name: Linux_Tools_Project/GProf/User_Guide/Opening-gmon-out.html
+SHA-256-Digest: v7g4Fse7Ya5lHOQ8CU59oUB8s/KVh6TUxlU/1P3EBM0=
+
+Name: Linux_Tools_Project/GProf/User_Guide/Profiling-Using-GProf.html
+SHA-256-Digest: OAzzci/KydD9bTCf0rNK15C+MgSY8UA1H4takRP2UEs=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/LinuxToolsProfileLoc
+ alGprof.png
+SHA-256-Digest: UTHc4cOfYUKI71pbUZ5kflTMbWN73Am0K6gmkfKbWUo=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/LinuxToolsTimingProp
+ ertiesGprof.png
+SHA-256-Digest: rp3/SHJIydPVUtmWWWd7fgUHHsWCZM+WGyrgLM16zDw=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: Linux_Tools_Project/GProf/User_Guide/Installation-and-Set-Up.htm
+ l
+SHA-256-Digest: 6L1TTU5SYfdRf2DS9ciqjW92iQ/68UZcxnXhjahspIg=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-view.jpg
+SHA-256-Digest: NLnwNYzcwZLO454xytJxBQahhyF4yeqm1EMx+6eLLO4=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-project-explor
+ er.png
+SHA-256-Digest: mV2Qm93QDOjTsd9hEcf/usc/ZnyC0cO0AhO3GT8YA/s=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-sample-time.gi
+ f
+SHA-256-Digest: FHIIVJ9y1NjzKGQBWNiQiQyrGw5IyJDB2hI9MD6oDis=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-compile-step.p
+ ng
+SHA-256-Digest: cKMtXlFxlphCNffV+X6vRdBDnWK93+qtfZ/zD1m+3ns=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-display-call-g
+ raph.png
+SHA-256-Digest: AEOTFXw4EQMdznwDKf/qV5w0/TALzt2shpa1wwi5hqg=
+
+Name: META-INF/maven/org.eclipse.linuxtools.gprof/org.eclipse.linuxtoo
+ ls.gprof.docs/pom.properties
+SHA-256-Digest: KSRGDWFncNpfRKvsMFGtrzMeLjNVGplEk1Kd233mZ2E=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/LinuxToolsGprofView.
+ png
+SHA-256-Digest: PURG3HnoxOaPytbsRHwG9qu1tjANvlXDutZbOMV90xA=
+
+Name: plugin.properties
+SHA-256-Digest: Y2RQ4O7nNsfet12KvaW4n7v6dg0mGUbEKO0lOVU6Ka4=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-birt-chart.gif
+SHA-256-Digest: F5ahJf1ypNU9CND04zb/+uPQQ9Pus9wGeZGgBFxJecU=
+
+Name: Linux_Tools_Project/GProf/User_Guide/Troubleshooting.html
+SHA-256-Digest: kY+1UPiAcDbQLoTELpQnhzw641op9bTh0Tuxy0XT21E=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-export-to-csv.
+ gif
+SHA-256-Digest: rDwwcmFIVkgNAzCA6Rsq62V08u03zLu2a3AbAOW4QuM=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-binary-file.pn
+ g
+SHA-256-Digest: AtiheAfcmJ5/OWI2jifM32SLzYwk4S6Jn5Lcofu0gCE=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-sort-per-funct
+ ion.gif
+SHA-256-Digest: IKYui79S/VfkudxWdrGnkDYG6GwHwEzU8feepufvacY=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-sort-per-file.
+ gif
+SHA-256-Digest: cpU+Oxtr38KYFrfjXasNFFg4KhvPg0W4a8glaLazKHs=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/GProfSettings_page_2
+ 014.07.17.png
+SHA-256-Digest: zgv85pupovw9NBuoZraiElGnfCqAhlyW0IDDwQpEu7o=
+
+Name: notices.html
+SHA-256-Digest: gW3W8baVeM/RJFUV/z+4Q/DczB7/alYyBkoM3G2v4AE=
+
+Name: Linux_Tools_Project/GProf/User_Guide/Supported-format.html
+SHA-256-Digest: 9V4TECO+vhLuezWViDtqq7AbI5JyhG4t1r5mEWw681k=
+
+Name: Linux_Tools_Project/GProf/User_Guide/GProf-View.html
+SHA-256-Digest: 3GNRMmzB3Szgs6glirRynyC4iD8JefJoXCvCSmYJQ+A=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/LinuxToolsGprofDialo
+ g.png
+SHA-256-Digest: qh2tvsz3Qv4NNXxIgo2opHHNMP6Okqh+2/HNcKRg8RU=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/LinuxToolsGprofTimin
+ g.png
+SHA-256-Digest: 2o8Fj+5TSR4Ge7h3JKtLGxJSBDfPfF5IlKzaMTjB/eQ=
+
+Name: Linux_Tools_Project/GProf/User_Guide/Updating-This-Document.html
+SHA-256-Digest: kaAlqTijSefvLMFsDbDpr/yqu2Bo7aOmsX+EdXTeVuU=
+
+Name: build-helper.xml
+SHA-256-Digest: UCVBCEnASVUOIZzQe8wy2LuAnKmYHCrhnnxYPnTiedU=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/Gprof-sort-per-line.
+ gif
+SHA-256-Digest: 6+dnG2L66ur4PzaLcAfg+CL2ld4jwmG4m1KJD/33b+w=
+
+Name: toc.xml
+SHA-256-Digest: fRloII3gQXP3KiiyrMKAFvPlvXfA3QSRxSW6HtoCVk8=
+
+Name: Linux_Tools_Project/GProf/User_Guide/images/LinuxToolsGprofGmonO
+ ut.png
+SHA-256-Digest: uc0TJmBJt06AzagQXMJjPbYBSboEw2JZvjjP72FyslE=
+
+Name: Linux_Tools_Project/GProf/User_Guide/User-Guide.html
+SHA-256-Digest: qUz6rpjmZAvWbuddrrbBEcYj1bfKEePF11GiQKYc0XA=
+

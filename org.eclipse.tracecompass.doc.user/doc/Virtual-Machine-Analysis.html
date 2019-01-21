@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8' ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<title>Trace Compass User Guide - Virtual Machine Analysis</title>
+		<link type="text/css" rel="stylesheet" href="book.css"/>
+	</head>
+	<body>
+		<table class="navigation" style="width: 100%;" border="0" summary="navigation">
+			<tr>
+				<th style="width: 100%" align="center" colspan="3">Virtual Machine Analysis</th>
+			</tr>
+			<tr>
+				<td style="width: 20%" align="left">
+					<a href="Latency-Analyses.html" title="Latency Analyses">
+						<img alt="Previous" border="0" src="images/prev.gif"/>
+					</a>
+				</td>
+				<td style="width: 60%" align="center"></td>
+				<td style="width: 20%" align="right">
+					<a href="Counters-Analysis.html" title="Counters Analysis">
+						<img alt="Next" border="0" src="images/next.gif"/>
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 20%" align="left" valign="top">Latency Analyses</td>
+				<td style="width: 60%" align="center"></td>
+				<td style="width: 20%" align="right" valign="top">Counters Analysis</td>
+			</tr>
+		</table><hr class="navigation-separator"/>
+		<h1 id="Virtual_Machine_Analysis">Virtual Machine Analysis</h1>
+		<p>
+			<i>Note</i>: The Virtual Machine Analysis is now deprecated and has moved to the Trace Compass Incubator where it is undergoing active development. The analyses that were previously in Trace Compass are now available as part of the "Virtual Machine And Container Analysis" feature of the Incubator.
+		</p>
+		<p>Please refer to 
+			<a href="Trace-Compass-Incubator.html#Trace_Compass_Incubator">Trace Compass Incubator documentation</a> to install incubator features.
+		</p>
+		<p>Virtual environments are usually composed of host machines, who each run an hypervisor program on which one or many guests can be run. Tracing a guest machine alone can often yield some strange results as from its point of view, it has full use of the resources, but in reality, most resources are shared with the host and other guests.</p>
+		<p>To better understand what is happening in such an environment, it is necessary to trace all the machines involved, guests and hosts, and correlate this information in an experiment that will display a complete view of the virtualized environment.</p>
+		<h2 id="Virtual_Machine_Experiment">Virtual Machine Experiment</h2>
+		<p>A trace has to be taken for each machine, guest and host, in the virtualized environment. The host trace is the most important to have, as missing guests will only give an incomplete view of the system, but missing hosts usually won't allow to identify the hypervisor, nor determine when a guest is preempted from the host CPUs. The virtual machine analysis only makes sense if the host trace is available.</p>
+		<p>Once all the traces are imported in Trace Compass, they can be 
+			<a href="Trace-Compass-Main-Features.html#Creating_an_Experiment">added to an experiment</a>. The type of the experiment should by set to 
+			<b>Virtual Machine Experiment</b> by clicking on the right mouse button over the experiment name, then selecting 
+			<b>Select Experiment Type...</b>.
+		</p>
+		<p>
+			<img title=" Virtual Machine Experiment" alt=" Virtual Machine Experiment" border="0" src="images/vmAnalysis/VM_experiment.png "/>
+		</p>
+		<p>Depending on the hypervisor used, traces might need to be 
+			<a href="Trace-synchronization.html#Trace_synchronization">synchronized</a> so that they have the same time reference and their events can be correctly correlated.
+		</p>
+		<h2 id="Virtual_CPU_View">Virtual CPU View</h2>
+		<p>The Virtual CPU view shows the status of CPUs and threads on guests augmented with the preemption and hypervisor data we get from the host.</p>
+		<p>In the image below, we see for the virtual CPU status that it has a few more states than the CPUs in the 
+			<a href="LTTng-Kernel-Analysis.html#Resources_View">Resources View</a>: in red and purple respectively, when the virtual CPU is running hypervisor code and when the CPU is preempted on the host.
+		</p>
+		<p>The entries for each thread of the machine corresponds to the one from the 
+			<a href="LTTng-Kernel-Analysis.html#Control_flow">Control Flow View</a>, augmented with the data from the Virtual CPU, so that we see that even though it is running from the guest's point of view, it is actually not running when the Virtual CPU it runs on is in preempted or hypervisor mode.
+		</p>
+		<p>
+			<img title=" Virtual CPU view" alt=" Virtual CPU view" border="0" src="images/vmAnalysis/VM_CPU_view.png "/>
+		</p>
+		<h4 id="Using_the_keyboard_4">Using the keyboard</h4>
+		<ul>
+			<li>
+				<b>Ctrl + F</b>: Search in the view. (see 
+				<a href="Trace-Compass-Main-Features.html#Searching_in_Time_Graph_Views">Searching in Time Graph Views</a>)
+			</li>
+		</ul>
+		<h2 id="Hypervisor-specific_Tracing">Hypervisor-specific Tracing</h2>
+		<p>In order to be able to correlate data from the guests and hosts traces, each hypervisor supported by Trace Compass requires some specific events, that are sometimes not available in the default installation of the tracer.</p>
+		<p>The following sections describe how to obtain traces for each hypervisor.</p>
+		<h3 id="Qemu.2FKVM">Qemu/KVM</h3>
+		<p>The Qemu/KVM hypervisor require extra tracepoints not yet shipped in LTTng for both guests and hosts, as well as compilation with the full kernel source tree on the host, to have access to kvm_entry/kvm_exit events on x86.</p>
+		<p>Obtain the source code with extra tracepoints, along with lttng-modules</p>
+		<pre>   # git clone <a href="https://github.com/giraldeau/lttng-modules.git">https://github.com/giraldeau/lttng-modules.git</a>
+   # cd lttng-modules
+</pre>
+		<p>Checkout the addons branch, compile and install lttng-modules as per the lttng-modules documentation.</p>
+		<pre>   # git checkout addons
+   # make
+   # sudo make modules_install
+   # sudo depmod -a
+</pre>
+		<p>On the host, to have complete kvm tracepoints support, the make command has to include the full kernel tree. So first, you'll need to obtain the kernel source tree. See your distribution's documentation on how to get it. This will compile extra modules, including lttng-probe-kvm-x86, which we need.</p>
+		<pre>   # make KERNELDIR=/path/to/kernel/dir
+</pre>
+		<p>The lttng addons modules must be inserted manually for the virtual machine extra tracepoints to be available:</p>
+		<pre>   # sudo modprobe lttng-addons
+   # sudo modprobe lttng-vmsync-host # on the host
+   # sudo modprobe lttng-vmsync-guest # on the guest
+</pre>
+		<p>The following tracepoints will be available</p>
+		<pre>   # sudo lttng list -k
+   Kernel events:
+   -------------
+     ...
+     kvm_entry (loglevel: TRACE_EMERG (0)) (type: tracepoint)
+     kvm_exit (loglevel: TRACE_EMERG (0)) (type: tracepoint)
+     vmsync_gh_guest (loglevel: TRACE_EMERG (0)) (type: tracepoint) # on the guest
+     vmsync_hg_guest (loglevel: TRACE_EMERG (0)) (type: tracepoint) # on the guest
+     vmsync_gh_host (loglevel: TRACE_EMERG (0)) (type: tracepoint) # on the host
+     vmsync_hg_host (loglevel: TRACE_EMERG (0)) (type: tracepoint) # on the host
+     ...
+</pre>
+		<p>Host and guests can now be traced together and their traces added to an experiment. Because each guest has a different clock than the host, it is necessary to synchronize the traces together. Unfortunately, automatic synchronization with the virtual machine events is not completely implemented yet, so another kind of synchronization needs to be done, with TCP packets for instance. See section on 
+			<a href="Trace-synchronization.html#Trace_synchronization">trace synchronization</a> for information on how to obtain synchronizable traces.
+		</p><hr class="navigation-separator"/>
+		<table class="navigation" style="width: 100%;" border="0" summary="navigation">
+			<tr>
+				<td style="width: 20%" align="left">
+					<a href="Latency-Analyses.html" title="Latency Analyses">
+						<img alt="Previous" border="0" src="images/prev.gif"/>
+					</a>
+				</td>
+				<td style="width: 60%" align="center">
+					<a href="User-Guide.html" title="Trace Compass User Guide">
+						<img alt="Trace Compass User Guide" border="0" src="images/home.gif"/>
+					</a>
+				</td>
+				<td style="width: 20%" align="right">
+					<a href="Counters-Analysis.html" title="Counters Analysis">
+						<img alt="Next" border="0" src="images/next.gif"/>
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 20%" align="left" valign="top">Latency Analyses</td>
+				<td style="width: 60%" align="center"></td>
+				<td style="width: 20%" align="right" valign="top">Counters Analysis</td>
+			</tr>
+		</table>
+	</body>
+</html>

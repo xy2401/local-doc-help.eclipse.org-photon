@@ -1,0 +1,106 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.eclemma.doc; singleton:=true
+Archiver-Version: Plexus Archiver
+Require-Bundle: org.eclipse.help
+Built-By: genie.eclemma
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/eclemma.g
+ it;path="org.eclipse.eclemma.doc";commitId=f9a30a1725e11e3b7696309003
+ c893f08e0ced90
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %providerName
+Bundle-Version: 3.1.0.201805281015
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Build-Jdk: 1.7.0_80
+Created-By: Apache Maven 3.5.2
+
+Name: plugin.xml
+SHA-256-Digest: fAohC8RLHeQQL7tSYkOnfQxohwWtIepqJ8AC9pBoQIA=
+
+Name: pages/images/annotations.png
+SHA-256-Digest: Fv5Svv+HdYsC5c+ffZVQli7E8GatDSl+/RlasqEL4hE=
+
+Name: pages/support.html
+SHA-256-Digest: 5KXd/uZHVwMpQrF7jD0YQwlTvqd3+uElSQQnIl3b3Uw=
+
+Name: pages/launching.html
+SHA-256-Digest: zgjWbBK2qhdvXOzCSsfcqUM6a1TFOnvslCAOKVG8qC4=
+
+Name: pages/sessions.html
+SHA-256-Digest: PARChTXaXga41tGjzPjVE7DNW+pQrGAYHYJCcQL9GW8=
+
+Name: pages/annotations.html
+SHA-256-Digest: cVfHXThq0rOKUvaxgajDgsBFOvgJ+0XUG0A3JMH5m2E=
+
+Name: pages/decorators.html
+SHA-256-Digest: UI0JAoAvxP7fZuKCIKHUQQFNMhEjC283Gy6dx9VLJ5A=
+
+Name: pages/images/coverageproperties.png
+SHA-256-Digest: jHeZ+Cz7HDyTolnMmknNhaIi/zHxxdRgFAeVHv9U8jg=
+
+Name: book.css
+SHA-256-Digest: bbdRoTvnWYDAcROURpjWTFBiVeE/ZeugHMe9xs8ksu8=
+
+Name: plugin.properties
+SHA-256-Digest: g1biR5y0h0zGGdnCV9ULmlwTGD+ix/6sT+crVL42Pok=
+
+Name: pages/images/coverageviewmenu.png
+SHA-256-Digest: IswKkZIaszyBY9Ak2Oa9qFhBDUDvRN13TOC2K0x/tXc=
+
+Name: pages/images/launchtoolbar.gif
+SHA-256-Digest: 2TiKoFGm8CLSFbjt6aeRI1BUfI5VXSsbeIh/izSL30E=
+
+Name: pages/faq.html
+SHA-256-Digest: Bf+/MO5WGMFjiON+JKITJUBOK2S0ryWtmiEwrQEJm0c=
+
+Name: pages/importexport.html
+SHA-256-Digest: AbxmRxWJLVvzNjTx0mYAm2ZcGARyIf/8xDVswKT6qSM=
+
+Name: pages/coverageproperties.html
+SHA-256-Digest: LZsjt0ZNBGnQgCIyFVdKmqS5WvBQDWovUosXZIjzgIk=
+
+Name: about.html
+SHA-256-Digest: YsdEWLrz8nuyJYkhEL6OYRCFq/pA99z7BcT0ZsfJ9DI=
+
+Name: pages/preferences.html
+SHA-256-Digest: iXW8TMcngDQGAqXCyphQS4Y+WuU5MkyRkPexbpK5gEU=
+
+Name: pages/legal.html
+SHA-256-Digest: Uf4yt+/JwUK7rU/lgHhxkczOmEcrhXhrycS/Krt2ysA=
+
+Name: pages/userguide.html
+SHA-256-Digest: UZv0kCBbPxo8KPsWbgcn1VhZYL570Em0tkFRAcEmUeU=
+
+Name: pages/introduction.html
+SHA-256-Digest: DQh88NVoZ3JIl6Hkvu3A12qCwviq4CBQ7w5lJKGYmpY=
+
+Name: contexts_ui.xml
+SHA-256-Digest: vxp4KWydYjpNuJsEgjeeVX19xtXiCzYAtOvVRxsEg34=
+
+Name: pages/images/decorators.png
+SHA-256-Digest: CUJDXkJxpKnxb5szhUG8AZjn6VBNlu/lZ8KxQoQnR5M=
+
+Name: pages/images/extern.gif
+SHA-256-Digest: KIscgJIQa/lYP+bGB4u/YQKI2a8p3daUTGBbMIKTNz0=
+
+Name: pages/coverageview.html
+SHA-256-Digest: Jo14+Ck4iELnbtROzZ4Pm4lFULGzkbTvBH4pjlDRpW4=
+
+Name: pages/keyboard.html
+SHA-256-Digest: NBXDilm8snGi+CwQrbJ+X+Jf946ToLGQ8xc+w2OMGO4=
+
+Name: toc.xml
+SHA-256-Digest: h1+Q0v+ijqloh8cBo1qOMWr0hBL5rVSxJd5C01wu5Ko=
+
+Name: pages/images/coverageviewtools.png
+SHA-256-Digest: z4DBfqL8p+Pqa3oUkQGHD03K6H5Vz9ktaGUYWLAk8kM=
+
+Name: pages/images/coverageview.png
+SHA-256-Digest: I4nREY7iUS4FSHcPMWpx094OwiU569WpqIKfn1F9xBw=
+
+Name: pages/changes.html
+SHA-256-Digest: OJV1RJLKaMVJz6t+8TaC7AIxYxk3LtyjZvxZzMvDUIA=
+
+Name: pages/images/launchdialog.png
+SHA-256-Digest: 2Bk7n5opW+414b0efBptUY7yaP5ez4XlEPN45FyVkNw=
+

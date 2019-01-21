@@ -1,0 +1,359 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.emf.diffmerge.doc;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.diffmerge
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-Version: 0.10.0.201805311703
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: Images/ConfigMatch.png
+SHA-256-Digest: OT5K1jpZCyHb/BCn1Ved1ewPaN7jhtk34hwHGmD8BoU=
+
+Name: html/Images/Model-DiffMerge_html_m7a3a1b12.png
+SHA-256-Digest: pMVuFbDFefBZtDDRJ6IYLiJWa5GwTee/CeKCoAy1UbU=
+
+Name: plugin.xml
+SHA-256-Digest: ZQY8M4Cw/3qJkpCu1Q0spCbLmSI48zCO10L7WLxb4YE=
+
+Name: html/Images/Model-DiffMerge_html_m9cba6ee.png
+SHA-256-Digest: mUpmXI1e0pobZ4lk8IcvSqgAji31rwWXgJ/5I8qe/bc=
+
+Name: Images/Model-DiffMerge_html_7d047cd2.png
+SHA-256-Digest: d/IL2XPtJumoia06lmxc/MWjy7/ctY3Wm16Gp7kxtOs=
+
+Name: html/Images/Model-DiffMerge_html_m37e3e9e3.png
+SHA-256-Digest: z97O4a1QH+f5rUbw7YVcw9T5P0SiaUgM8PyCCSHgcSM=
+
+Name: Images/Model-DiffMerge_html_7eb489c7.png
+SHA-256-Digest: tgbKw8lUMDu4Mb4lFbOynqvD7C89GNDEkrtH8KFCXEI=
+
+Name: Images/ConfigDiff.png
+SHA-256-Digest: 8kFRJjeONMPdAfaNS9JtqYwWNXjIUJw1E0/1/a2uxeQ=
+
+Name: html/Images/Model-DiffMerge_html_45465200.png
+SHA-256-Digest: NTyOFFTZO3v82dv/bNpwmrMEeoQOr0NwLygeUea5BCI=
+
+Name: html/EMF-DiffMerge-toc.xml
+SHA-256-Digest: VViMdbedngBL3yMF6EExvkI2NhgQFy+o4qRBcwBBygI=
+
+Name: Images/Model-DiffMerge_html_m7ecf793e.png
+SHA-256-Digest: DS2pLBpMRGVbJUoJHP1MafjEMDksBMZbYs2k9hx37es=
+
+Name: html/Images/nextdiff.png
+SHA-256-Digest: LpLjBQclpRYa7pWB4dEGhoqQZwqU0liS3Ues8VvbZvw=
+
+Name: html/Images/Model-DiffMerge_html_69cae476.png
+SHA-256-Digest: dpk0b8yQvumMnioZS2Ubw+MDrOEwOq1Tkpsf4Ng97Q4=
+
+Name: html/Images/mergeall.png
+SHA-256-Digest: KFbPFvhvyb4tQ+/fhA/Uowy+V4riwFIgR/UQne/Giqk=
+
+Name: html/Images/Model-DiffMerge_html_306f66da.png
+SHA-256-Digest: 57ITvXiDu15dRC0teoy63wmlpl6Q7EURGerq8I2jj8U=
+
+Name: META-INF/maven/org.eclipse.emf.diffmerge/org.eclipse.emf.diffmer
+ ge.doc/pom.properties
+SHA-256-Digest: 1s4ZVFDItPtdIdGUu0frXqU7H46ub2IBQGiDMAqAOFc=
+
+Name: html/Images/Model-DiffMerge_html_m4bef3dd1.png
+SHA-256-Digest: kICz0+SENyYMXHjmZqsEcuq+tIRMUU+iqRP6JaSk5zQ=
+
+Name: html/Integration-with-Version-Control.html
+SHA-256-Digest: FxCinHor50Mnl3cH3pOx/p3e8yHICpXH9iRY2/WO/5E=
+
+Name: html/Images/prevdiff.png
+SHA-256-Digest: SJaBlDw42YpJnBBE7UODKDa2tGRXKadWrt8W3kBmko0=
+
+Name: Images/Model-DiffMerge_html_m47d0d5c1.png
+SHA-256-Digest: D9p8wZVlaqH9Rj8t9kCGCEntjxWETyOiTsZdYN5GGXI=
+
+Name: html/Images/Model-DiffMerge_html_m38d61362.jpg
+SHA-256-Digest: wtR3i+/mzyiLOfhVJ9mdsmR/jm7Zq+dsSQq7DV7aa1w=
+
+Name: html/Images/sync.png
+SHA-256-Digest: WxBHE+PTQVnH8wGDvjy73bx61qBl19qWrAlyj/gf8rg=
+
+Name: html/Images/ConfigMatch.png
+SHA-256-Digest: OT5K1jpZCyHb/BCn1Ved1ewPaN7jhtk34hwHGmD8BoU=
+
+Name: Images/Model-DiffMerge_html_m260feba7.png
+SHA-256-Digest: r3JPWLLvcTBQbpgL9p94sNMtODwB2EJXjYNuF4MFwoM=
+
+Name: Images/Model-DiffMerge_html_6894195c.png
+SHA-256-Digest: DS2pLBpMRGVbJUoJHP1MafjEMDksBMZbYs2k9hx37es=
+
+Name: Images/categories_icon.png
+SHA-256-Digest: LPM6s284oyOmX5lfKtRqXiAD/vL/jLj7egXtJey2rxM=
+
+Name: Images/expand.png
+SHA-256-Digest: ZLXA5IUVyrsIhM5gRUJzf3y8qgrMOSHu0GNRUGP6Vk8=
+
+Name: html/Images/Model-DiffMerge_html_6132844d.png
+SHA-256-Digest: AWL/3h/E+wyjwZ1KhZsmMFBqECIOZq3/PFo7C8KvUoI=
+
+Name: Images/prevdiff.png
+SHA-256-Digest: SJaBlDw42YpJnBBE7UODKDa2tGRXKadWrt8W3kBmko0=
+
+Name: Images/Model-DiffMerge_html_c86e852.png
+SHA-256-Digest: aBTsWTQLn6TrsYVeNbNdtx4IEOg8rWKfWN7ToG1l18g=
+
+Name: toc.xml
+SHA-256-Digest: 28nAXH0immfUt5XJ9WQcapOl/JEBkI4VFJFQL4IAh0I=
+
+Name: Images/Model-DiffMerge_html_39002cd3.png
+SHA-256-Digest: /0P5K1DEoYNMUqfd5vJ5bJthBMfs/ln2EXXDTe40zGA=
+
+Name: html/Images/Model-DiffMerge_html_5b0468f9.png
+SHA-256-Digest: kaWLrL5xASWt6oxNLTJaays/SbvNB7b25NJrniB++P8=
+
+Name: Images/compare_as_text.png
+SHA-256-Digest: H6Oxzwv+LTK/C1zaebjIotyqFHN7SyaQVsltpVioxFE=
+
+Name: html/Images/Model-DiffMerge_html_m241953bf.png
+SHA-256-Digest: jHjLJ38mNMvlGegCCwYq4ePnq2Ew/+LP1UVIn1yEE/s=
+
+Name: pom.xml
+SHA-256-Digest: sQfzPOL9HvyyJxgb26d9A5+c+XcEGooUcVrSZQhNQKs=
+
+Name: html/Images/Model-DiffMerge_html_m4b50cf8c.png
+SHA-256-Digest: MbPOIE2Icd3wa0CKaaDuweFXy3AyQXlRp5Nyn2orirA=
+
+Name: html/Images/ConfigMisc.png
+SHA-256-Digest: SXLhPtFSc7FbEy8QXELVcRKWvdBp/FTMMkqkzXHR1CM=
+
+Name: html/Images/Model-DiffMerge_html_m7ecf793e.png
+SHA-256-Digest: DS2pLBpMRGVbJUoJHP1MafjEMDksBMZbYs2k9hx37es=
+
+Name: Images/Model-DiffMerge_html_3f155383.png
+SHA-256-Digest: lbZrFhHFLqKl0khfO10ggCwXWpXDg8cMV5j61xn3czU=
+
+Name: Images/Model-DiffMerge_html_m42c302d5.png
+SHA-256-Digest: y0U6pvWzc0WV/rgDgxshadNVz2e5iWX5Jdb+zX3U0LQ=
+
+Name: html/Images/Model-DiffMerge_html_13763f84.png
+SHA-256-Digest: RdUOg7PD+jvLzN0gNZYMFQUACkEuTM6GmYRR3TbOroo=
+
+Name: Images/Model-DiffMerge_html_m7a3a1b12.png
+SHA-256-Digest: pMVuFbDFefBZtDDRJ6IYLiJWa5GwTee/CeKCoAy1UbU=
+
+Name: html/Images/Model-DiffMerge_html_m1961c198.png
+SHA-256-Digest: tEDDXWVNdRTqNRvQs9Yj2NUweis9Y8JFlY/FhvBaChM=
+
+Name: html/Images/Model-DiffMerge_html_m4a2563eb.png
+SHA-256-Digest: 4W6u32ndSwpl+RDSZ1jWildYlCkC8+vJ7ILRztatYiw=
+
+Name: Images/Model-DiffMerge_html_6268bf2e.png
+SHA-256-Digest: W3q3daDUhfbp12zM1nGF5MQmQItjTnLMIos+VcjVayw=
+
+Name: html/Images/FilteredWarning.png
+SHA-256-Digest: iTc5mHsA4AeHHRDEFvmpt6Wjvakpn7dybbqWdt4JZ04=
+
+Name: html/Images/Model-DiffMerge_html_ma5d5753.png
+SHA-256-Digest: 8I/eHmeRa18qOqowOo/lFJEfZ4VWpe6x/DFuxGg28E4=
+
+Name: Images/Model-DiffMerge_html_m37e3e9e3.png
+SHA-256-Digest: z97O4a1QH+f5rUbw7YVcw9T5P0SiaUgM8PyCCSHgcSM=
+
+Name: html/Images/Model-DiffMerge_html_39002cd3.png
+SHA-256-Digest: /0P5K1DEoYNMUqfd5vJ5bJthBMfs/ln2EXXDTe40zGA=
+
+Name: html/Images/SynthesisMenu.png
+SHA-256-Digest: i2sgpNeb8l/Yl1bw93MDNYpgAC6LNnOnRv7zzvDQJbs=
+
+Name: Images/Model-DiffMerge_html_69cae476.png
+SHA-256-Digest: dpk0b8yQvumMnioZS2Ubw+MDrOEwOq1Tkpsf4Ng97Q4=
+
+Name: html/Images/sort.png
+SHA-256-Digest: elrg8Yb+uvoHzvyHabCYcQZD1pvvBmO/ygMYxLpUwFQ=
+
+Name: Images/Model-DiffMerge_html_5b0468f9.png
+SHA-256-Digest: kaWLrL5xASWt6oxNLTJaays/SbvNB7b25NJrniB++P8=
+
+Name: html/Images/Categories.png
+SHA-256-Digest: 6gPIZxdT8vLfmWfPyOto1c6HctmmGTlCsEpZyPERGSE=
+
+Name: html/Difference-resolution-in-a-nutshell.html
+SHA-256-Digest: Ex/b+72ZaabbXmcZIQFXeKkm872vSQfYbYnQUmLy/N8=
+
+Name: Images/ConfigMainExpanded.png
+SHA-256-Digest: gIwnCaWUHnw7yN00KtiqW24emkw0KRy2Ep1APFUmtog=
+
+Name: html/Images/NoDiffs.png
+SHA-256-Digest: GWN6YCm2S1Fb0GNntqmHuGZFDiNA69RjmI1MHq6BPkU=
+
+Name: html/EMF-DiffMerge.html
+SHA-256-Digest: l+R6mn4eVM+Zc3kXSek9avVSB4EwHYmIFMxZysXI+Qg=
+
+Name: META-INF/maven/org.eclipse.emf.diffmerge/org.eclipse.emf.diffmer
+ ge.doc/pom.xml
+SHA-256-Digest: sQfzPOL9HvyyJxgb26d9A5+c+XcEGooUcVrSZQhNQKs=
+
+Name: Images/Categories.png
+SHA-256-Digest: 6gPIZxdT8vLfmWfPyOto1c6HctmmGTlCsEpZyPERGSE=
+
+Name: Images/Model-DiffMerge_html_6a675b42.png
+SHA-256-Digest: IFnE58atE3o5+//qEwCXt+Dwp8SbzCm1/ZA0MF9ECUE=
+
+Name: Images/Model-DiffMerge_html_m4a2563eb.png
+SHA-256-Digest: 4W6u32ndSwpl+RDSZ1jWildYlCkC8+vJ7ILRztatYiw=
+
+Name: html/Images/Model-DiffMerge_html_m260feba7.png
+SHA-256-Digest: r3JPWLLvcTBQbpgL9p94sNMtODwB2EJXjYNuF4MFwoM=
+
+Name: Images/Model-DiffMerge_html_m9cba6ee.png
+SHA-256-Digest: mUpmXI1e0pobZ4lk8IcvSqgAji31rwWXgJ/5I8qe/bc=
+
+Name: Images/ConfigMisc.png
+SHA-256-Digest: SXLhPtFSc7FbEy8QXELVcRKWvdBp/FTMMkqkzXHR1CM=
+
+Name: Images/SynthesisMenu.png
+SHA-256-Digest: i2sgpNeb8l/Yl1bw93MDNYpgAC6LNnOnRv7zzvDQJbs=
+
+Name: html/Images/Model-DiffMerge_html_7d047cd2.png
+SHA-256-Digest: d/IL2XPtJumoia06lmxc/MWjy7/ctY3Wm16Gp7kxtOs=
+
+Name: html/Images/Model-DiffMerge_html_m3e423a6f.png
+SHA-256-Digest: hWeNdwLG1jo+SDs4VsHZzf/DK90w7QQ4pIjiDHwlIGc=
+
+Name: html/Images/Model-DiffMerge_html_m47d0d5c1.png
+SHA-256-Digest: D9p8wZVlaqH9Rj8t9kCGCEntjxWETyOiTsZdYN5GGXI=
+
+Name: Images/Model-DiffMerge_html_m4b50cf8c.png
+SHA-256-Digest: MbPOIE2Icd3wa0CKaaDuweFXy3AyQXlRp5Nyn2orirA=
+
+Name: Images/Model-DiffMerge_html_m1961c198.png
+SHA-256-Digest: tEDDXWVNdRTqNRvQs9Yj2NUweis9Y8JFlY/FhvBaChM=
+
+Name: html/Images/Model-DiffMerge_html_bf0aba3.png
+SHA-256-Digest: 6dtlTHJ9k7q6k6LcXFodjhBme19K8KnAll2aoAqTaoU=
+
+Name: Images/sort.png
+SHA-256-Digest: elrg8Yb+uvoHzvyHabCYcQZD1pvvBmO/ygMYxLpUwFQ=
+
+Name: Images/ConfigMain.png
+SHA-256-Digest: AZcp2kWd4QYTCid8sMy25cZ+hscFqy5Siq3H+5axglM=
+
+Name: plugin.properties
+SHA-256-Digest: PGLD0er7YxIygU5qKB0SaoagzGn/RZfC0hrBdG53grw=
+
+Name: Images/Model-DiffMerge_html_306f66da.png
+SHA-256-Digest: 57ITvXiDu15dRC0teoy63wmlpl6Q7EURGerq8I2jj8U=
+
+Name: Images/FilteredWarning.png
+SHA-256-Digest: iTc5mHsA4AeHHRDEFvmpt6Wjvakpn7dybbqWdt4JZ04=
+
+Name: html/Images/ConfigMainExpanded.png
+SHA-256-Digest: gIwnCaWUHnw7yN00KtiqW24emkw0KRy2Ep1APFUmtog=
+
+Name: Images/Model-DiffMerge_html_bf0aba3.png
+SHA-256-Digest: 6dtlTHJ9k7q6k6LcXFodjhBme19K8KnAll2aoAqTaoU=
+
+Name: Images/Model-DiffMerge_html_ma5d5753.png
+SHA-256-Digest: 8I/eHmeRa18qOqowOo/lFJEfZ4VWpe6x/DFuxGg28E4=
+
+Name: html/Images/Model-DiffMerge_html_m610d0270.png
+SHA-256-Digest: XktxeBDMDRY2/5M5cZLp+PsAdSYWAigWQ2r0D8QqyCE=
+
+Name: html/Images/Model-DiffMerge_html_m42c302d5.png
+SHA-256-Digest: y0U6pvWzc0WV/rgDgxshadNVz2e5iWX5Jdb+zX3U0LQ=
+
+Name: html/Images/Model-DiffMerge_html_c86e852.png
+SHA-256-Digest: aBTsWTQLn6TrsYVeNbNdtx4IEOg8rWKfWN7ToG1l18g=
+
+Name: html/Images/Model-DiffMerge_html_7eb489c7.png
+SHA-256-Digest: tgbKw8lUMDu4Mb4lFbOynqvD7C89GNDEkrtH8KFCXEI=
+
+Name: html/Images/ConfigMain.png
+SHA-256-Digest: AZcp2kWd4QYTCid8sMy25cZ+hscFqy5Siq3H+5axglM=
+
+Name: html/Images/Model-DiffMerge_html_m64e99670.png
+SHA-256-Digest: hMjtMZalrjgNsZYJGy/x49hjJqYJgR0O2eCNpKNcYzI=
+
+Name: Images/Model-DiffMerge_html_m617a07f2.png
+SHA-256-Digest: 3wT0jAVk+/2Sj6vre+zARGXASr33HURdym69K1zcMAA=
+
+Name: Images/NoDiffs.png
+SHA-256-Digest: GWN6YCm2S1Fb0GNntqmHuGZFDiNA69RjmI1MHq6BPkU=
+
+Name: html/Images/Model-DiffMerge_html_6a675b42.png
+SHA-256-Digest: IFnE58atE3o5+//qEwCXt+Dwp8SbzCm1/ZA0MF9ECUE=
+
+Name: Images/Model-DiffMerge_html_m43da5a9d.png
+SHA-256-Digest: y6nB/tnA+q841Lkolk9e9XJGB2OXx6JO5LISI50C2oE=
+
+Name: Images/Model-DiffMerge_html_m4bef3dd1.png
+SHA-256-Digest: kICz0+SENyYMXHjmZqsEcuq+tIRMUU+iqRP6JaSk5zQ=
+
+Name: html/Images/Model-DiffMerge_html_3f155383.png
+SHA-256-Digest: lbZrFhHFLqKl0khfO10ggCwXWpXDg8cMV5j61xn3czU=
+
+Name: Images/Model-DiffMerge_html_m4d91695e.png
+SHA-256-Digest: gkPg33VTVaOD3qo0fAQJE+u+4bLofhGkL9FG4/0At3k=
+
+Name: html/Images/ConfigDiff.png
+SHA-256-Digest: 8kFRJjeONMPdAfaNS9JtqYwWNXjIUJw1E0/1/a2uxeQ=
+
+Name: Images/Model-DiffMerge_html_29d2b86f.png
+SHA-256-Digest: ys7wCzPdLx+oqai2JcVfxB65/g9TUOR9yRAB6ZC6iNw=
+
+Name: Images/collapse.png
+SHA-256-Digest: T1BF3m4W0/Wo98L3ntUyI76IF2QQcLWXwHZLcVCFb0s=
+
+Name: Images/Model-DiffMerge_html_13763f84.png
+SHA-256-Digest: RdUOg7PD+jvLzN0gNZYMFQUACkEuTM6GmYRR3TbOroo=
+
+Name: html/Images/Model-DiffMerge_html_4e8b8361.png
+SHA-256-Digest: DXoaXkEt8ipVvo6u29NuFqVZLiFMUtJ2/3YKdehcmwE=
+
+Name: html/Images/Model-DiffMerge_html_29d2b86f.png
+SHA-256-Digest: ys7wCzPdLx+oqai2JcVfxB65/g9TUOR9yRAB6ZC6iNw=
+
+Name: about.html
+SHA-256-Digest: KGh59epYdLgA378xLBgBBeGhWyZCcnasUYXdODp+ceA=
+
+Name: html/Images/Model-DiffMerge_html_6894195c.png
+SHA-256-Digest: DS2pLBpMRGVbJUoJHP1MafjEMDksBMZbYs2k9hx37es=
+
+Name: html/Images/Model-DiffMerge_html_6268bf2e.png
+SHA-256-Digest: W3q3daDUhfbp12zM1nGF5MQmQItjTnLMIos+VcjVayw=
+
+Name: html/Images/collapse.png
+SHA-256-Digest: T1BF3m4W0/Wo98L3ntUyI76IF2QQcLWXwHZLcVCFb0s=
+
+Name: Images/nextdiff.png
+SHA-256-Digest: LpLjBQclpRYa7pWB4dEGhoqQZwqU0liS3Ues8VvbZvw=
+
+Name: html/Images/Model-DiffMerge_html_m43da5a9d.png
+SHA-256-Digest: y6nB/tnA+q841Lkolk9e9XJGB2OXx6JO5LISI50C2oE=
+
+Name: EMF-DiffMerge.mediawiki
+SHA-256-Digest: 6haivNe6t3dPnIU39F0VC5bL8j7CVm/3XLainFjv3DQ=
+
+Name: Images/sync.png
+SHA-256-Digest: WxBHE+PTQVnH8wGDvjy73bx61qBl19qWrAlyj/gf8rg=
+
+Name: html/Images/categories_icon.png
+SHA-256-Digest: LPM6s284oyOmX5lfKtRqXiAD/vL/jLj7egXtJey2rxM=
+
+Name: html/Images/compare_as_text.png
+SHA-256-Digest: H6Oxzwv+LTK/C1zaebjIotyqFHN7SyaQVsltpVioxFE=
+
+Name: html/Images/Model-DiffMerge_html_m4d91695e.png
+SHA-256-Digest: gkPg33VTVaOD3qo0fAQJE+u+4bLofhGkL9FG4/0At3k=
+
+Name: Images/Model-DiffMerge_html_6132844d.png
+SHA-256-Digest: AWL/3h/E+wyjwZ1KhZsmMFBqECIOZq3/PFo7C8KvUoI=
+
+Name: html/Images/Model-DiffMerge_html_m617a07f2.png
+SHA-256-Digest: 3wT0jAVk+/2Sj6vre+zARGXASr33HURdym69K1zcMAA=
+
+Name: html/Images/expand.png
+SHA-256-Digest: ZLXA5IUVyrsIhM5gRUJzf3y8qgrMOSHu0GNRUGP6Vk8=
+

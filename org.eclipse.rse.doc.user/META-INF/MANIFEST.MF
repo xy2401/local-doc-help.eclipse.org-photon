@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.rse.doc.user; singleton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 3.4.100.201403101646
+Bundle-Localization: plugin
+Built-By: genie.tm
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/tm/org
+ .eclipse.tm.git;path="rse/doc/org.eclipse.rse.doc.user";commitId=3118
+ b83d57f0e9fcc5d25fdac9d05f2fa21ac792
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+

@@ -1,0 +1,1404 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 4jQ7ghdFdPfXIlksQPvMuXbZ+hZ3Q
+ TRnZSzDDtXhnxI=
+SHA-256-Digest-Manifest: obRPeMcHfTXjQq+bbNL2cfE6K6pL99aJbETKS1G6LH8=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: help/CompleteOCLTutorialExampleProject.html
+SHA-256-Digest: xzQvdhI7gwE6myh6F+0RYw1otXVO89KFXneQeESxmrM=
+
+Name: references/examples/doc.css
+SHA-256-Digest: h/iKe2u/dV4tr93+n2GHx0vODmKdg5cJK08qSH917C8=
+
+Name: help/images/5120-extlibrary.png
+SHA-256-Digest: aGsf01ah56VAtb4n7isKUdpUlklDsPFfnSUoA5RFhB8=
+
+Name: help/images/4300-extra-uml-validation.png
+SHA-256-Digest: WfuS8CZ+xVuHPgQ2BqyyrKlMYQwQUbz0NOgneDa7psw=
+
+Name: help/Pivot-Ids.html
+SHA-256-Digest: HiYxW84UTINTGQpT8EmZnsI/0ek6MdzztmdBmFGG4jc=
+
+Name: help/images/4300-extra-ecore-oclinecore.png
+SHA-256-Digest: tDJ1HMxgLXNRt3h23QaOj+snj/kKgr3OR71a50NbDIs=
+
+Name: help/images/3200-lib_editor_contrib.png
+SHA-256-Digest: 45OjlNjgLPMeFwVpHLS+95mz0qe1zsaHwBI3fBCfU3g=
+
+Name: help/InteractiveOCL.html
+SHA-256-Digest: cW4OCjuK1NxTUWI0AjxIyWWZgx696L9+1BqljvXQ9Ns=
+
+Name: help/OCLExamplesforUML.html
+SHA-256-Digest: T/NWlLSLSoeQtiC0SGiGqXe4GTIN4LRhra3f8szCk0Q=
+
+Name: help/images/1400-operation1.png
+SHA-256-Digest: CEYOEq8lCbYL9DF6zdX4hW9N8dL+0T/DaJ32gZC5b+I=
+
+Name: help/images/4600-validation-view-model-errors.png
+SHA-256-Digest: suzySjg5I3P+618G9SdfqOmgtzt69gJacVFVhlpB9QY=
+
+Name: help/Enumeration.html
+SHA-256-Digest: l5nAZnXz7SmeTW4eCDJbplhReh3bG7GKa6GrT84bpOQ=
+
+Name: references/6310-model.di
+SHA-256-Digest: yY0O7Em6JGDtIAetzGy29pJd+uw+qOmvC2ZNfP5MhxE=
+
+Name: references/examples/oclInterpreterExample.html
+SHA-256-Digest: /UTGYnt3mc+MIBZbYNCcpQuS0ragG7CQFuMtmClNwRs=
+
+Name: help/images/4600-validation-view-roots.png
+SHA-256-Digest: Nh7UFP40nDHGllHCgkMZDq6UGoSuFlt04aOpT87KuZQ=
+
+Name: help/Delegates.html
+SHA-256-Digest: p0DtjWmByaqnys+6xWsRaJ3XOmWxwxwDJkZwYpUYr0g=
+
+Name: help/images/4500-simple-debugger-step1.png
+SHA-256-Digest: TkX5A+ugB7kiF8C46XJHkU2xdIwKetU+B/zljSodTnY=
+
+Name: references/5110-define.txt
+SHA-256-Digest: wZ9zFTcu2iIaetxsqIGyiW3BdE6f3v+UEoMva7Zy9X4=
+
+Name: help/ProgrammersGuide.html
+SHA-256-Digest: FRzJ4l+m1/GhZZMwOS8m8DhPob2acntOIz7QLJ5APjo=
+
+Name: help/images/1300-propertycontextdecl1.png
+SHA-256-Digest: /p6kr+LEh7ribK2HNonmKhqIwVh0M6itx7SnW7eNS1w=
+
+Name: help/OclEnumeration.html
+SHA-256-Digest: MmbVvIVH3DH5Z3lyUOY0CZuAsijL35r2zmnFGfHOdE8=
+
+Name: references/6310-define.txt
+SHA-256-Digest: 43IASAD0DmeU59x1TryRSW+GRQ7h6Kts5u4A4Z/y1pQ=
+
+Name: help/OclComparable.html
+SHA-256-Digest: FrCWg9a2n+gn+ngiN8FndEEFwdYgtbu856hf33aIzdU=
+
+Name: help/images/1540-debugger-validity-view-launch.png
+SHA-256-Digest: ScL6yZpN6BBvolIa/MNV12U0gpET4sfCrgRoWtJz6gk=
+
+Name: help/images/1100-primitiveliteralexp.png
+SHA-256-Digest: fXphIt7pr46IW2DTpjBG1iIeimqVRjICT5GT8HLcZn4=
+
+Name: references/overview/advanced/impactAnalyzer.html
+SHA-256-Digest: +/FBTuyqkGj0E07mm7QzmsSHAswXDhRQ4kkQndW0aKE=
+
+Name: help/images/1820-ecore-uml-options.png
+SHA-256-Digest: elx2T+LYhc/1euuXj0QVDi/Kg12r8T4G2DBsIimAuMU=
+
+Name: help/OrderedSet.html
+SHA-256-Digest: twqGjdWYoCaC863AAt0v8Kg6QgW/g95ZHbx0ig+IhmI=
+
+Name: help/images/1400-inv.png
+SHA-256-Digest: pxL0TKxE12cpDalVuu/OQPyE5Ec3xR4/rgovASP80Gw=
+
+Name: help/images/1400-precedence.png
+SHA-256-Digest: ZWMG5s4/0OmDEB1YRPBp0PMZRjv8sFFlc32hNEtv88w=
+
+Name: javadoc/eclipse.platform.oxygen/package-list
+SHA-256-Digest: NO6Wpg3gQbyb4hydV65apZlkqlJiTXVqfdJ9UV3TfcM=
+
+Name: references/overview/advanced/persistence.html
+SHA-256-Digest: AxVvdMs2z8SG8nbhzcOi8d+ng0aNBTMs/c47ADjFuF0=
+
+Name: help/images/1400-iteration3.png
+SHA-256-Digest: NfyHZhfvRItUkoGYYvRhvcnp+69PXGlb65tzxODoH40=
+
+Name: help/images/1200-datatype2.png
+SHA-256-Digest: O4nW5gRHu+WTLfFA7HfQ7MV/nGNELrNwpF0FlKnzHSM=
+
+Name: references/6320-extlibrary.ocl
+SHA-256-Digest: NpPgjVqGafhSNUTQA0jU1q+i4EZq9dOuF4wrur/m9dM=
+
+Name: help/images/1100-indexexp2.png
+SHA-256-Digest: LJbcUVtWRNxxUefY1sQ7BuyUhEN1ayNpjjaUfB2OibY=
+
+Name: help/images/5115-check-quick.png
+SHA-256-Digest: w59mFwfbb4iIbQ5+liXcj8LK4RNfzRzNrMXES7DsjII=
+
+Name: javadoc/overview.html
+SHA-256-Digest: Hz2RSbpu78+McsZ2wdvYq7gUVCYTVpRUJkA4T0IMg5g=
+
+Name: help/images/1100-tupleliteralexp.png
+SHA-256-Digest: 0uqET6dtNz8vmuLQLt5XuL3JOEzgPCbOOVUVyWjcKcg=
+
+Name: about.mappings
+SHA-256-Digest: Yx5DySTlSz9O4+mKh/j56ucPAQS+AKwTkfftufLFMTI=
+
+Name: help/NatureAndBuilder.html
+SHA-256-Digest: 3/hAJloNWjRTwaTBRll6WcICGGLT+i/ffqJzu2Wh/lE=
+
+Name: help/images/1200-operation2.png
+SHA-256-Digest: djTskSkUryPjD5Of9hXfs55Tef4fbIoHfBHVC6XnzRI=
+
+Name: help/images/1300-import.png
+SHA-256-Digest: J9poWXV6dLbJsYLIrsssamLzr4V9H6ovOOE5XuNSaHM=
+
+Name: help/images/1400-package1.png
+SHA-256-Digest: u8jqca1BJgGv2432A5ud3TDHTgmQnzptMt3vDg909/Q=
+
+Name: help/images/4100-books_query.png
+SHA-256-Digest: LFU+LvJ7kALiyYB72dzuGpf2Fpeo35/s11mfuLZaX5U=
+
+Name: help/images/4500-validation-debugger-image.png
+SHA-256-Digest: cwP/nYL4saBQPNaArlxb4SioCXZChA5TJkfbB8yTYCM=
+
+Name: references/overview/contentassist.dnx
+SHA-256-Digest: 9jBW4JCqh8kkNuANwH/B9K6D78meKzRrvRPrzadP8Ws=
+
+Name: help/images/1200-reference3.png
+SHA-256-Digest: hrXg6m9EJ73SEQHyIT4qyxCt3EIUA0APVXn+j4KOLEg=
+
+Name: help/images/1710-class-invariant-error.png
+SHA-256-Digest: hNt9MOZvUOjaVXbwHmVYzwHcNwDD9sjBmlNXlisSreA=
+
+Name: help/images/4300-load-complete-ocl-resource-menu.png
+SHA-256-Digest: YcG7cuc5cPtPeXJgxZ4isq8UfR7twibwvle/jrTvXEk=
+
+Name: help/images/1720-persons-scalars.png
+SHA-256-Digest: 2ecUveIyx0YRVNJpymcIHTEtsckt84HDK9z4laXhQXQ=
+
+Name: help/images/4100-empty_oclinecore.png
+SHA-256-Digest: qV3XtHX6oGTusBcdAyeRnmrP1Ybq/9BJat7WhEvGAoc=
+
+Name: help/images/4900-install_license.png
+SHA-256-Digest: drvaGtc7cgnMgHIGyOJCL0Mne8joZ9hXGRDmdkOVhYQ=
+
+Name: help/EvaluatingConstraints.html
+SHA-256-Digest: BURawYUxQby0wKTjGou2enZKiYWbcET1XZfpYNNj51k=
+
+Name: help/images/6310-dispose.png
+SHA-256-Digest: qNtIBzf3+3w8zwOUnGx4NxHzR8OJrcfHcvFhlHKpd5k=
+
+Name: help/images/1200-classifiers.png
+SHA-256-Digest: wLMN8X2qncsYAJZMEU48FWmlrL4lMSiOhgygyWJXLw8=
+
+Name: help/images/5120-parsing.png
+SHA-256-Digest: 96dSXdFp/x4UnM/y6CsW59QyLung9bz7RWXyRfLsP1M=
+
+Name: help/images/1720-persons-profile.png
+SHA-256-Digest: YWhd3IFRSMASZwHNe8bOL00514vVcfT5IgON/ueZb4s=
+
+Name: help/images/4100-gen_model.png
+SHA-256-Digest: DpP+6SFhTyahVWMoCg7fP5i7l14Em3n55zJSRXSmOgc=
+
+Name: help/images/4100-new_project.png
+SHA-256-Digest: +0IUCNgrfrVa6zK+G1sjuQlAuovnRK1nFvFKJjXhx28=
+
+Name: help/images/5190-impact-analyzer-classes.png
+SHA-256-Digest: NbLiY2+FqhpVia6za+0yd94Mbm5NdbDf38UiTrjKaKI=
+
+Name: help/images/6310-context.png
+SHA-256-Digest: miPO+BUS4sy2PKz9guwGJO1V/nK0o0X3lrQzoL45R1A=
+
+Name: help/images/4120-suppressed-safe-navigation-error.png
+SHA-256-Digest: zEVR/JcctX6vKvr2eIMpJnBopQ8RYNP2lzl2wR5HCak=
+
+Name: help/images/1100-stringliteralexp.png
+SHA-256-Digest: 8R9YvcTWhkYvT2zq4XSYVRG3sMRMHikgHuEvI80THrQ=
+
+Name: help/images/1200-package1.png
+SHA-256-Digest: jENQJ3yKwU1cycB0wld6cIf/wl2Av67BvZMadzB1Iy0=
+
+Name: help/images/1200-types.png
+SHA-256-Digest: PYfgCsiiTU4JqsTjBm7UkzmxSuXfhdj9ogxcJOREdAU=
+
+Name: help/images/1200-documentation.png
+SHA-256-Digest: 2wOlAgMcznnDbrk3/rJdInJt3Q/5zQUfs3hUY1mIZPc=
+
+Name: help/images/4100-empty_ecore.png
+SHA-256-Digest: pyuCazWOrMXg7JjSvONGQvqjZBKYaYbCUL/P7qKsImA=
+
+Name: references/6315-check-one.txt
+SHA-256-Digest: mE+SzfudPq1wddZXI/6mXH4IzwiPE9fJXpnNe+kuNBw=
+
+Name: help/images/1200-detail.png
+SHA-256-Digest: E0pjWZTHIUIfA9Ez8/SuzZFhQRlKCQhQ4aEY4u12G2Y=
+
+Name: references/6320-accessing.txt
+SHA-256-Digest: WwqHWa3eRSYgeyRKS96RDWwZhteodUFCI6jDkAYo+Rw=
+
+Name: help/Editors.html
+SHA-256-Digest: 9N0VETXDCsk/+vqyl8SS+CMFs1Zz3gZiiYsEs6UQbw0=
+
+Name: help/images/3200-uml_console.png
+SHA-256-Digest: NEPS4rWw1+5X/6ItUNnS0ogWsYeml8d7iRAFQZIq8Uo=
+
+Name: help/images/1540-debugger-console-launch.png
+SHA-256-Digest: c9uzbzz70Gp4LkwEP61mfWo2pPbjz31tSZ1K9bN4rEE=
+
+Name: help/images/4600-validation-view-model.png
+SHA-256-Digest: RI3e9TaDiiPgdhvU2XGKhJ6KrK1N+LwU84/ja5EIXkk=
+
+Name: help/images/1200-import.png
+SHA-256-Digest: ppG0CuQlpDC36d0unfJsMxNrqBxLaBL8VCTUxMb2cS8=
+
+Name: help/images/6310-environment.png
+SHA-256-Digest: W9DR/Vv+yERCTW9Og2mnWxYiv5sqKjGGDO/cIKiMyZ8=
+
+Name: help/images/1300-packagedeclaration2.png
+SHA-256-Digest: j4RYqnArL+fWMpiBKj30qk1/x/ukkxMgGclwcDtpw9E=
+
+Name: help/index.html
+SHA-256-Digest: VQTNsAXUEmtIMv0f6e8nV6Y4YZKOY9fMXGY/BZ/yAaI=
+
+Name: help/images/1870-oclinecore-options.png
+SHA-256-Digest: vLQTCRWkM/DHzEFlbh3jfYBQu1lJfuiv+jpO/geOOGc=
+
+Name: help/ValidityView.html
+SHA-256-Digest: HCiTop43kDDp3tmgAhgBEQVeIbPTNDyA4pIc3RqUb9Q=
+
+Name: help/HowDoesItWork.html
+SHA-256-Digest: vqOgH0StT0l/LT0CZPxvo2zK7W6QVtwi7Xj1gmzSlAQ=
+
+Name: help/images/1200-enumeration2.png
+SHA-256-Digest: 0+72SMdjtyCBLZRuy6Rsl/Z0Hf6YpEyeRaorUiLF7AA=
+
+Name: help/images/1100-unlimitednaturalliteralexp.png
+SHA-256-Digest: GSywRIU+NxF0/KbLoP2ZB/Q2Hege5KHDf/ckDkrs8WY=
+
+Name: help/images/1200-attribute2.png
+SHA-256-Digest: pGa8NefomG8CIMn4VERFRWOpfbhHA/5aSIbDy8+xJ4g=
+
+Name: help/images/1200-annotation3.png
+SHA-256-Digest: 57Xqru+aYD2ANzQ51VcbText3CKKprYlCAIpWqx9i/8=
+
+Name: help/images/1510-contentassist.png
+SHA-256-Digest: fqKa+itwsGfuHxOZXuMOiqqnXGr4qTQ+Rp4q5Z33Zfc=
+
+Name: help/images/6320-validating.png
+SHA-256-Digest: cZDOhnd7Ve0LNwdHraQYa9+VsxyuCHqQtk3UEEbkInQ=
+
+Name: help/images/4100-gen_model_menu.png
+SHA-256-Digest: S3JNt6SMubNHxV/1B/ltLP39rArKxie0qIo6IHLkAaw=
+
+Name: help/images/1710-transition-guard.png
+SHA-256-Digest: tF+h4Nh3AiGr9deOxp+30Z4mMZ/bkQrh+PqtK7ZkNFk=
+
+Name: help/images/4500-simple-debugger-step2.png
+SHA-256-Digest: dlfLSTCLht2xEfAxbn1wWxjXZxjfLGjRsrYcZWMvpyQ=
+
+Name: help/images/4100-new_oclinecore-ecore.png
+SHA-256-Digest: YzmQbhU0qaZtgeGFaO9tGlW91wt5BeVh2ChOU0Bk2GY=
+
+Name: help/images/1300-navigatingarg.png
+SHA-256-Digest: b7axPUzSC0QE2kkoxsuj7oKWTROQgJfEYFGeeQ2Clok=
+
+Name: help/images/4100-new_ecore_model.png
+SHA-256-Digest: 7u2ivHpiT8Ts+aCgW8YDoH/WRQOFx93BZWh7b2p/GbA=
+
+Name: help/CompleteOCL.html
+SHA-256-Digest: gs+VGUkFiP7W98LsIzok0cm48try6jdjvPaRFto0/Ws=
+
+Name: references/5120-accessing.txt
+SHA-256-Digest: 6Qw8WqAn/ZZZrDdbMr1btAitM56FJ49Jv6S+C3Khz1g=
+
+Name: help/Real.html
+SHA-256-Digest: fzbHzRQYETug7uW6u1FXdjnVmVssguMPgyZ3vq+5frc=
+
+Name: help/images/1600-load-document.png
+SHA-256-Digest: EADfTX6/evLPVxFJmCEaoOXpVLcvLgp+Xvly4v7bLws=
+
+Name: help/images/4100-ecore_diagram.png
+SHA-256-Digest: kWBMHX0ns41Hu9ILSp69XXjsJttkvn1QsIVsvqiM7ZM=
+
+Name: help/images/1200-attribute1.png
+SHA-256-Digest: pXKgNNB7bWC8O096+zF3Lxjq5X+uCGit/caXJKljnos=
+
+Name: references/5115-check-one.txt
+SHA-256-Digest: bKeQOryfYiGQZ6Kdk5sHAejrrHFYy3uPwGM2fSzCBso=
+
+Name: help/images/1400-iteration2.png
+SHA-256-Digest: U53gbPq7ckTIa3vvTqz9Y1ROq0Uk0zAX1bDvWPyqJTE=
+
+Name: help/OCLinEcoreTutorialExampleProject.html
+SHA-256-Digest: wwdG7rVRgv6uZX6PlK1qvzcZlfxPumUidx6K5K23O4s=
+
+Name: help/images/1200-reference2.png
+SHA-256-Digest: 9To6igtOWYT4TSqo9qzMelbxrl5GCN1DGIefNW1SQwA=
+
+Name: help/Tutorials.html
+SHA-256-Digest: 8lckgSgyojbXycWEG3G8QfEtHHoc4KiKYzt/G/d+3AA=
+
+Name: help/images/1300-contextdecl.png
+SHA-256-Digest: ubuD9c2axDS7Fr54VWULiYPPN9cV8kFOZ8I9S6dExXI=
+
+Name: help/OclTuple.html
+SHA-256-Digest: 6i5M6Dqk1O2lwoBdMje+vHZHon4plbB9r/joSUOovd0=
+
+Name: help/images/1400-package2.png
+SHA-256-Digest: zyEmRjLdvvqRmYB2EU/R8uYyCl3xByHiAj7sNjLWS3w=
+
+Name: help/images/4100-two_validation_errors.png
+SHA-256-Digest: F3M0CR0uYjDJ7GrULmgpb+UsC5NAP8aIONlFP2/p9TM=
+
+Name: references/4100-metamodel3.oclinecore
+SHA-256-Digest: 05JiEFFuQVTDk83JdSofuVwmGftQip4YTVbI53hZW50=
+
+Name: help/images/1720-persons-applied.png
+SHA-256-Digest: QU+IKCJnzx8ZXnKasWnUclmFbuPwsw//jz8A8v1Psb4=
+
+Name: references/6310-context.txt
+SHA-256-Digest: zSm7UY4mInT/BdnrwKLQNF4kbLpYFYuAs5Z0gdp12Hw=
+
+Name: help/images/1100-prefixedexp.png
+SHA-256-Digest: uXgd8YbtMqaG4eAIE0t1eJjCWFoNuorQ1KCsYYJ1QtE=
+
+Name: help/images/4100-derived_property.png
+SHA-256-Digest: h8KwYUXjSogPtKkXuRJMOB5RwVDCWxS+BmQwq2uNaRc=
+
+Name: schema.css
+SHA-256-Digest: SlYATzMPz56G7plsAK76paaZ9XEzcgVjafH3NA6rFZw=
+
+Name: help/images/6310-errors.png
+SHA-256-Digest: 5F1ObuZs+uiJbKquG9uRj1j2Sa9DY2AWwx6EuSNtyPg=
+
+Name: help/images/4100-new_empty_emf_project.png
+SHA-256-Digest: gj4LhPV1/GN37mGEUELSrlbKAbGrXMEk5V/8mu1TtCE=
+
+Name: help/images/1400-operation.png
+SHA-256-Digest: /pjQo6SX7YCObVkdjkCtnisrwDRl8jc3gJVYupWpvss=
+
+Name: help/OCLstdlib.html
+SHA-256-Digest: REWr3BO+gPaQkoe9xuwbeNb9U7M0tKzcYAoEMQ7dheI=
+
+Name: help/images/1300-parameter.png
+SHA-256-Digest: 8ouG0SnsCF/aQNbiAjmoEUPHW1tYiqvdDDSdKFDA10c=
+
+Name: help/images/1200-class1.png
+SHA-256-Digest: 1Jk/1vh4XXl/lYtCAdgPAlqk/Ha2Jw9tiOg5dI8cw04=
+
+Name: references/overview/advanced/literalexp.dnx
+SHA-256-Digest: z/FSPfebiKeOWA6FreRs5VoEFiVhjozrE+nLNQNbHlU=
+
+Name: help/OclState.html
+SHA-256-Digest: hOYnhtx/GdbxxIouLloQIEZTPkmlY23SYMCQ/uTcCGQ=
+
+Name: help/images/4500-validation-debugger-errors.png
+SHA-256-Digest: MOe9byoWzXooVkg/rL8H/SkcPJy6KsnDLbnJ5s0orx4=
+
+Name: help/images/1710-property-constraint.png
+SHA-256-Digest: DrMxj/nKX9sekZXy6M0z1z+UcNDhS7GNC9Oub31+WD4=
+
+Name: help/PivotProgrammersGuide.html
+SHA-256-Digest: r67MpaIkvwTg7MVWDHMWjul2NXxYVpXBNyhIj1LnMcs=
+
+Name: help/PivotEvaluator.html
+SHA-256-Digest: S6PVvZfjRCgUTdaO5DtokC/IjvGXVIPiZc6T/W4CUGE=
+
+Name: help/images/1200-enumeration1.png
+SHA-256-Digest: ehxfAMtJE1Qy6LR7u652QlNW/YI3xExOmgiilG1rV6E=
+
+Name: help/images/5115-query.png
+SHA-256-Digest: oSfOwYwfk5qaaC40PnHZvWY5zFYghZOPyBCRIiAXBF0=
+
+Name: help/Debugger.html
+SHA-256-Digest: qPRCdAhA9cwtlSH22RBobMFdbD+px74AVxG3lzetygk=
+
+Name: help/images/4100-metamodel2.png
+SHA-256-Digest: FVHNgakm9r56uE0rzc3fI9ChqQx3T+4Cn0HvWCpDXsk=
+
+Name: help/images/1300-packagedeclaration1.png
+SHA-256-Digest: X6yb1+Ee35TD+BuTdjJhkecQueC/+PFahr6hhJPW8dk=
+
+Name: help/UsersGuide.html
+SHA-256-Digest: gV++w/UX0Yd8O4LqwQYWv63jfZdqoCVF+3h3dmOBmGQ=
+
+Name: help/ContentAssistSupport.html
+SHA-256-Digest: 9mnNWqXkEvW0WU1fiIuCZczHbjp2sfDSt0fFzJaJcWo=
+
+Name: help/images/6320-accessing.png
+SHA-256-Digest: dtl/3u0cz3hh9QGRDfHFb01b7p41+jzdf9QccWlylrM=
+
+Name: toc.xml
+SHA-256-Digest: OjHN89AgFgkoehrqdPw9YPHeShStNApmdpyTDnyuwsc=
+
+Name: help/images/5110-creating.png
+SHA-256-Digest: PheplMqvNcXpOJgwosSM89LTZGJitOZ8qUgQ1VY/dog=
+
+Name: help/images/1100-tupletype.png
+SHA-256-Digest: qBjxae1vtcxhF4XuVRLJVeVQz8JceIVsw4ougrty1v4=
+
+Name: help/images/6315-check-one.png
+SHA-256-Digest: WnG0RY8Kf8qPYdxeHu1ZA5A+LKv5HvSC0w0aOXQ7Jpg=
+
+Name: help/images/1400-operation3.png
+SHA-256-Digest: mEfJOgwJJQ+YIov9HrxsGi7qiIFnHSty39N0ydZiivU=
+
+Name: help/images/5110-define.png
+SHA-256-Digest: o+E3+RkAzuM002NQktaeTCI4E9x74s5zv9yS3ewPuOI=
+
+Name: help/WhoUsesOCLandEclipseOCL.html
+SHA-256-Digest: CFAMtoiyxlELjMKtZUaut8TrPTRl9XKAVUka7FqYtLA=
+
+Name: references/6315-check-quick.txt
+SHA-256-Digest: F7fXlTrMEkurmft6ieQWxzN2wpN8705Z5VuKRSt+1do=
+
+Name: help/images/1200-reference1.png
+SHA-256-Digest: dCFlchvGMM4iqfaMlL9Qz0hx+bd8FCNleUu+ANWigLs=
+
+Name: help/images/4100-new_emf_generator.png
+SHA-256-Digest: vh/p142ZHEqy0PiPL8/F7oUH+RXToRPk5WxjadN8hrU=
+
+Name: help/images/5140-contentassist.png
+SHA-256-Digest: rg996PVaaL+iuq1XUkeq9PIqfwMxye6HQcUVxeKNHQg=
+
+Name: help/images/4400-genannotation.png
+SHA-256-Digest: EPL3n3U7CVUlJOUKDx6fSy2WW5AX9Vy1Pm93o12Mh2k=
+
+Name: help/images/1540-debugger-image.png
+SHA-256-Digest: 2Rvws/1hMcNqEukt0rQDAtcsLO2DdCBo8nswPKFD838=
+
+Name: references/overview/contentAssist.html
+SHA-256-Digest: bNnWykKCcvo4Ih/LeWLqxi+dQliCi6H3bc4cUUmKUsE=
+
+Name: references/examples/exampleOverview.html
+SHA-256-Digest: j1SjYX4Y31Pc6qZ/ZGR1CO1+Bfj1mdk/Lqmi3nt34h4=
+
+Name: help/CustomizingtheEnvironment.html
+SHA-256-Digest: 0QDGY7DB5y4TAIl8ITV0RJtkL6SiUqtsSkzwFPICp2E=
+
+Name: references/6310-creating-internal.txt
+SHA-256-Digest: Kh1fewU/v/1WiXeIDqjtE7Pbt2MSaExcfAkqr0S6oSU=
+
+Name: modeling32.png
+SHA-256-Digest: CgS/5RX+HpcveJj25BP7XwIrPI3o7AtCMO2apmBLMZ0=
+
+Name: help/Class.html
+SHA-256-Digest: 3sO//Wv6oRdVGhQA6+wBEfc19y5F+sqJQTdrnfXNyEg=
+
+Name: help/images/1100-booleanliteralexp.png
+SHA-256-Digest: 06B6L9dHT+YtRdd2zMEnMEWs6M5e+dUO7hYS1e4nBxU=
+
+Name: help/APIReference.html
+SHA-256-Digest: cHTOLhJ8DxySCP9x5ptTXtlbIDiM//NOqtpBY0DoBAs=
+
+Name: help/images/1200-terminals.png
+SHA-256-Digest: 0b2FmNSm/nOnBBL+Vk2VdJFkDhk7TUgJK7KsgJKndjg=
+
+Name: help/OclSelf.html
+SHA-256-Digest: BkSTIgIsvYdueP2goSBQ8r10SHHkaX7irXsQTPwGt+o=
+
+Name: help/images/6320-traversing.png
+SHA-256-Digest: OhC3D+z92I7KaPyVTp/czyTfvDPwRCtZeLaJFa3oSME=
+
+Name: help/images/1400-class1.png
+SHA-256-Digest: xgcxsBStvg9Wni2Vecm2k0V/36o5jjQZAA2VXDnmAFo=
+
+Name: references/6310-creating-external.txt
+SHA-256-Digest: DuGiIzZnk3v7zB7sqe77ovHGbfOnUvvryQ+DsAxla+8=
+
+Name: help/images/1200-annotations.png
+SHA-256-Digest: U75iSqWwPvNioeZ0Dc322OxmKVfFdXDsjC1qtQfA0pA=
+
+Name: references/6320-validating.txt
+SHA-256-Digest: FHoLCKke8cRf5jBbPUclgUINx62RQrnyNqq33/ZEH3Y=
+
+Name: help/images/4900-install_software.png
+SHA-256-Digest: dH5zfkgcVqEWKMPdHphSIJSjv94a9e4TfITP3YtbP3U=
+
+Name: help/images/1720-persons-collections.png
+SHA-256-Digest: 1Nli+2h/icHQ+LJEpsGR5g+/SSRyxO5wnxFEp4rPctg=
+
+Name: help/images/1100-nullliteralexp.png
+SHA-256-Digest: Yc1grw8NRGjRH9n2K56Jw0KDqn+4/e/HXEIX6kKz01s=
+
+Name: help/images/6200-library-declarations.png
+SHA-256-Digest: S5p8B8HLwTdWpPxvj8G+/ixWD7D7iizidNRkMnuiuH0=
+
+Name: references/overview/advanced/bindings.dnx
+SHA-256-Digest: yiMqoLT/mt7Pv0mRR0qa/d6tX5j6lpD1zOiXJXULsPw=
+
+Name: help/images/1300-include.png
+SHA-256-Digest: 4fu2VNPu4211EfttzM460/41CmxT9RxuBmcTEQ1y420=
+
+Name: help/OclSummable.html
+SHA-256-Digest: kAr4Yx7zxKFhLhPYU4VRobpZ+ZICInJJl5/D1UF8tB0=
+
+Name: help/images/1100-typeexp.png
+SHA-256-Digest: F29HzMJ+T3TYG6Jyjn2I139dRBUfZnGiOdFkBz5MDMo=
+
+Name: help/images/1710-class-invariant.png
+SHA-256-Digest: PEa/D5GVjCbHq5hQY3VYrG5xrfJEMchtQzIiP1Ymcvs=
+
+Name: help/images/1200-class2.png
+SHA-256-Digest: XPYfSLR7oVIkPgw13Tj08bLepDDfLlhyb3fxwyJ7y8c=
+
+Name: help/images/5110-environment.png
+SHA-256-Digest: SW3eke99C8Ek8wDnmN2prhyEuy/dYlkEmUCkXaDRU58=
+
+Name: help/Installation.html
+SHA-256-Digest: 7PyXU+8hU4wuzw48f40dl9n6hOir6As+vYkHckEhuOk=
+
+Name: help/images/1400-specification.png
+SHA-256-Digest: Fj1PF494AA5b9s0RjH+lmiSdh+A15aMvo+txE8CzVts=
+
+Name: help/images/4100-initial_model.png
+SHA-256-Digest: UX2suRCfCm0O+dXuDZQ1pxpfy7Qpk6Ayi3pdCxgGyIg=
+
+Name: help/Integer.html
+SHA-256-Digest: BxfjztcNTM2Gw54AszAU94p285t48xE7kmtoSWe0T+w=
+
+Name: help/images/4100-new_emf_generator_model_load.png
+SHA-256-Digest: zK8Vu8Iq19XSUtjtThMMmNEVdFg1gRM5BdcaDjX6ZWw=
+
+Name: help/images/4100-create_dynamic_instance.png
+SHA-256-Digest: MHkdMhiKd1KLZR54j1bFe7xEMkS/GFPlyJ5lChugcec=
+
+Name: help/images/4100-metamodel3.png
+SHA-256-Digest: w0nNaNYdwjR8MSSX3QnCW9ukQRad85vPrXDorShW+Lo=
+
+Name: help/images/1100-primitivetype.png
+SHA-256-Digest: 2dxw2g0RCl7rDdGMOIm0ZsonxxifEzNXhTontlX4O3c=
+
+Name: help/PivotThreadSafety.html
+SHA-256-Digest: JwBf94kRMuzHEf2bB49VwsU6hCH1W+1b/pWRmtOur2o=
+
+Name: help/images/1200-enumerationliteral.png
+SHA-256-Digest: bk/Em0VwXCZM49HSERQE4pQdHN2zLKJ12MMxhxb4MzI=
+
+Name: help/images/4500-validation-debugger-model.png
+SHA-256-Digest: 3ApYwwe1DTQxoMb6A4d4Lop32L9L9bG2+yJA3ODr6v8=
+
+Name: help/images/6310-define.png
+SHA-256-Digest: 5HJZnFxJI96JPBNYQlw1BQskE/dJiVfdI+Hr6/0DmL0=
+
+Name: help/CodeGenerationTutorial.html
+SHA-256-Digest: GkIbu3XT+bQ5KdHYpiXy8oFx41bJ703q5ASy3OW8r3k=
+
+Name: help/images/1400-operation2.png
+SHA-256-Digest: seTgr3KxLHbC4XfaFYTa22im1lRdxR2XKJDTgMzjPiQ=
+
+Name: help/images/5120-accessing.png
+SHA-256-Digest: W6atZ5utnkkuAJDmcSugqLytonrs7UYRFGou+4Ap7GY=
+
+Name: references/javadoc/index.html
+SHA-256-Digest: C5iZhmzsL9sswYdRVmcoEKqngSIncdF6hRDnilnLRQs=
+
+Name: help/images/1100-collectiontype.png
+SHA-256-Digest: 060WrCRZk8At7v5MPi5xfUnq4b1CfhDiZdIIerSKA+U=
+
+Name: help/images/6310-oclhelper.png
+SHA-256-Digest: AafdoL1x5vePC7v/Q/S7oawu+DDIiFNUEBnMLapQCrA=
+
+Name: help/images/5115-check-one.png
+SHA-256-Digest: QeX/76WcFpufrfckApeb41XuY0eaElgyC3qonT/JgCU=
+
+Name: help/Boolean.html
+SHA-256-Digest: BhzpMvuhNz+/uT21McWFnRSxcFltqdFTenlEBxzP0rs=
+
+Name: help/Bag.html
+SHA-256-Digest: TIKchNoVHskNMF7Hbr11rAxbqH1bMGFYqsIR4Qn1ZU0=
+
+Name: help/images/5110-oclhelper.png
+SHA-256-Digest: HIXUFAp2m41SiH+3Wz4UVUf5CrI2Lr0x2/Fl+PXnei4=
+
+Name: help/State.html
+SHA-256-Digest: d1OJKBjvLmdGhCGd8W5jsrB80kYctDT2qSojMO5qKZE=
+
+Name: help/images/1200-constraints.png
+SHA-256-Digest: MvShFTgI33nIdOa45ccbRm7L0ORRCnFBn+RB3FPcW5A=
+
+Name: help/images/5190-event-manager-default-config.png
+SHA-256-Digest: QT07O8Qt2AUC/f5i4b5Q4Ka0mjnp01rXiemQB8yeNzU=
+
+Name: help/images/5110-context.png
+SHA-256-Digest: Zlg/WhZYi8L0Rs+D6vpgVNA3vcPLWuW15ReN+FKIYtA=
+
+Name: help/images/1800-preference-pages.png
+SHA-256-Digest: hAFuJ75TdFSAi8D9GM3YeftqS2rKARKZLCoMv26KG2w=
+
+Name: help/images/4120-raw-safe-navigation-errors.png
+SHA-256-Digest: AR9vx7iIDpdCL9gDorjLJTmPaOtHbxA7pVOu/rA2X8M=
+
+Name: help/images/1100-tuplepart.png
+SHA-256-Digest: e73tiag169Z8kPT9vYdijS69absJ8Z5r3xFn5LRiueY=
+
+Name: help/images/1100-unaryoperator.png
+SHA-256-Digest: ucFWiZGTUEYCCl4ot24pxi0KelPmSCOCQ59FBOYTRgE=
+
+Name: help/images/4300-extra-xtext-content.png
+SHA-256-Digest: wTSRZRwo09sA/Wf39rUcUclW4S4s4n6GIv54qlIbR3Q=
+
+Name: help/images/4500-complete-ocl-debugger-model.png
+SHA-256-Digest: KceOId2nVzGxSn0hNb1NQ2FSV4LrL88PvneC/9gHqag=
+
+Name: help/images/4300-extra-ecore-content.png
+SHA-256-Digest: OyhRri5gr8FQ4PRxckzAgWNtAmL+3gEyH++yhBe7XDs=
+
+Name: help/images/1100-numberliteralexp.png
+SHA-256-Digest: 5kDxK0J3nFarP6r5z1PbL3Bqd5hfhUT7uiW21B2Mzys=
+
+Name: help/images/5180-bindings.png
+SHA-256-Digest: LA3b5HDSrkuZTLQ+SRNUXxr/ZLRWb6OY52b7OXUFl3c=
+
+Name: references/5120-parsing.txt
+SHA-256-Digest: IFmbfUBqc84vylHuVKZ/skQQfFGIMAVTuy8N6agMEBM=
+
+Name: help/Set.html
+SHA-256-Digest: MqqLSBSlIHAKR6wGBuGyd9TSNuKKQl+zAW47Gluu4Zo=
+
+Name: help/OCLinEcore.html
+SHA-256-Digest: j0hLMMsEOcwXwOFf4odYuuZmsYE7/Y6v33huQJosUPw=
+
+Name: help/images/4500-simple-debugger-model.png
+SHA-256-Digest: QH+xnKZ+o57RkWGweSgMjKfrlsNyMaD++BE35mi1Wog=
+
+Name: help/images/1100-numberliteral.png
+SHA-256-Digest: w2DLOtS2gO2HcG/XHZYfjvOcs/5Yq4zCaRgFUj58CG8=
+
+Name: help/images/5180-literalexp.png
+SHA-256-Digest: Uo5Vw1mO291Cypkbp+VdmpXW0yqdAsmHLI1zSzsrik4=
+
+Name: help/images/1300-inv.png
+SHA-256-Digest: z9UbM6AU4W0+EErR+OHIYeTUutVJN7pI/vXGVAeRV2o=
+
+Name: help/EclipseOCLisExtensible.html
+SHA-256-Digest: BzKP8EVcoDOZ82XyLmglYPRA6zS7Eo0liGkZt6ul+6E=
+
+Name: help/CompleteOCLTutorial.html
+SHA-256-Digest: kHUijq5ghauvorc5Jr4UbkO0GuzrlNNtygPQSu/EsbU=
+
+Name: help/OclType.html
+SHA-256-Digest: XQwlu/wSXyqLtE5asyO+qFzdmk3IMZuWkrDwji9Ump0=
+
+Name: help/images/1100-infixoperator.png
+SHA-256-Digest: KZSJV4d49QVV5xLCoUegjpC09HHRSEFz4trmrDQbgQU=
+
+Name: help/images/1100-typeliteralexp.png
+SHA-256-Digest: 28enXX2FFN4J3IJePvUhQ5UC5/hW8cgYawKI5Jn6ELQ=
+
+Name: help/images/1300-der.png
+SHA-256-Digest: IMYTzG9NMGAn5CUcFc739v9q/Z2IZV3C+2xc3BH//jY=
+
+Name: help/images/4300-extra-ecore-validation.png
+SHA-256-Digest: DUrYfXOyIg+6RkNc7fIEXW2tnhjQYf/lqLf7z7sodkg=
+
+Name: javadoc/java8/package-list
+SHA-256-Digest: 6bzfu9U20qbVyg1fF+iPxwCh6lGZeAtNs4vFzXNa6pg=
+
+Name: references/4100-metamodel2.oclinecore
+SHA-256-Digest: nhkC9IgF+w1e4H7U9THIWVQTBx3zlBMpduIVwdQnQXs=
+
+Name: help/images/1400-library1.png
+SHA-256-Digest: 4ox/ev1yiUKLKyrno8pgUghbYsJNZpbI7cOtYkfbXC8=
+
+Name: help/images/1530-validity-view.png
+SHA-256-Digest: 1YWUZ01+NoylPJIZ5fMEkEZe4jHgLF3Eyw8sdlauI2M=
+
+Name: help/images/4100-model_pull_down.png
+SHA-256-Digest: sT9uEO0mW36JHBm/58MagxCKF8XGCH8P/iRXJCehDoA=
+
+Name: help/images/1710-operation-constraints.png
+SHA-256-Digest: kjvOx+4+jERAbW/Ro1FKbVkGuEQWuk0WWbEun0RRyQQ=
+
+Name: plugin.xml
+SHA-256-Digest: I3BzR17KQvTRJIeORyD4TGpnyl6k42ddk3XPwn8l+/I=
+
+Name: help/images/1100-typeliteral.png
+SHA-256-Digest: EDSNbN8kAFjoTSE+ngfpz7pRplVuGBZfSym+stH3dGQ=
+
+Name: references/overview/advanced/impactAnalyzer.mdl
+SHA-256-Digest: MJwuBnpi5HHgKU3lrxEAA0/FV4csDKG3y7ENuQ7XGMQ=
+
+Name: help/images/1100-selfexp.png
+SHA-256-Digest: 3OCL3RGn3iPG2z8MYn4X4k6293Yc5exJaGuV5G9Zd6I=
+
+Name: help/images/4100-metamodel4.png
+SHA-256-Digest: ZlVyBYb9fEc2P1tawBx0HUPyrgb1zwq7NA/hv3UqymA=
+
+Name: help/images/1100-navigatingexp2.png
+SHA-256-Digest: qNgoW3DgkFJRcZUNDcEyBXKkZbWZnCZwaE9EbD8/wPE=
+
+Name: references/6320-parsing.txt
+SHA-256-Digest: +JewX7iXXB5vmrRI2Qoz4AsV44ffze271iJwiNm49lk=
+
+Name: topics_Reference.xml
+SHA-256-Digest: eSPAMgaLOXdTMRq+Azx6cBEa/Xn0qbf1lAWHXwpopgk=
+
+Name: help/images/5115-check-all.png
+SHA-256-Digest: Zm0X0qeQ7HNQMgmFqJtr3wA2ZdYFg6H8U4+3zGUdJ7g=
+
+Name: help/images/1300-classifiercontextdecl3.png
+SHA-256-Digest: Ve1nuuYJ2CeVIIUTIAYL/ljzlxlpxCqVtXCQM7KJxzo=
+
+Name: book.css
+SHA-256-Digest: UGQDeVaisdPTIYvuy2qbkToSJP7yS6isS/tgbO8Y8qE=
+
+Name: about.ini
+SHA-256-Digest: iKQzL98AJf1c8iyc1ac+clIi4OtMFAeKwvSIxPhDOWI=
+
+Name: help/images/6320-diagnostician.png
+SHA-256-Digest: sZZ1gHp1PBxQZYqSmcWhnFuSUWp2x1wya7Umq3PuEoo=
+
+Name: help/images/1400-class2.png
+SHA-256-Digest: vmPGziRHTsydW8zhPedrqNfAWE7j0uQk6+4/zuP9gco=
+
+Name: help/Standalone.html
+SHA-256-Digest: yBuE3Y2WYCHgQkrll8BrcFJD1SOkfBw2gtNR44QCWP8=
+
+Name: references/6315-check-all.txt
+SHA-256-Digest: fjPCrLgUrdAeqfkBeQE4K84t+yzJ98afFaO4euUjgmk=
+
+Name: help/images/5180-callexp.png
+SHA-256-Digest: +7uWmZjrJGf50Zzoh+Gtr+LDFrHMlchftcweq72GCnI=
+
+Name: help/images/4120-expanded-safe-navigation-error.png
+SHA-256-Digest: j5PSy3KcHPqwiYPCQvZmbeGyEyNYpQEhsMsj6tflcew=
+
+Name: help/OCLInterpreterExample.html
+SHA-256-Digest: epXno9S7k/SwJ6diSsdpL4f2Pkgs1JKevJ1yvhAGCYo=
+
+Name: help/ParsingDocuments.html
+SHA-256-Digest: 2VdQpDxlPqk5486eCFuXyV2rmLWVMxKS5QQp6Jk0H58=
+
+Name: help/images/1710-profile-constraint.png
+SHA-256-Digest: w3g8M9JzGC8WncH96+suPYm2lqKlxTTpKDLiNOpXUZ4=
+
+Name: help/Sequence.html
+SHA-256-Digest: GbAW57GfLZkwBUQ+RERVd9a1Y3oUXSdUzqEQ/W42vuE=
+
+Name: help/images/1400-library.png
+SHA-256-Digest: Y/W0Egtwf7bAbFCyCGitUan55FBL/n1GpHQkmLxPRdM=
+
+Name: help/images/1200-class3.png
+SHA-256-Digest: Vc5SauKUta/UYxkwZK0ERjMgxBoXiaOwlCgxhYynxdQ=
+
+Name: references/6310-errors.txt
+SHA-256-Digest: 9W2seem017NiQe5D+OsYlnzGIkYb0iuCbosSOnTLVeI=
+
+Name: help/PivotStandalone.html
+SHA-256-Digest: 3aIeVWT+uu175okLk+SE+x1J7RwYwi+vmuSAzTVecig=
+
+Name: help/images/1100-typenameexp.png
+SHA-256-Digest: UKgvFvv6z7xs9ZsrQ0f3lFnG7FzaedQUmO8nTHGkpvQ=
+
+Name: help/images/5150-ast.png
+SHA-256-Digest: zH0EGLTCsbw8Mwy62guXMVIKJJ2PARxZVZ8pJZGvXOE=
+
+Name: help/images/4500-simple-debugger-input.png
+SHA-256-Digest: 6SYjqyGh49e0b0dp38i1eT8uQlROBs5MG/z3R47Q14k=
+
+Name: help/OclLambda.html
+SHA-256-Digest: ywplOJ2AhEWV9NlwPjyfytmEL223xoCvOt34bmzHfec=
+
+Name: references/overview/input.dnx
+SHA-256-Digest: +mI0mC1LiAdu7A/G16OOquUab6WqF4KgZhf6uvpiWRc=
+
+Name: help/images/1510-hovertext.png
+SHA-256-Digest: cwk+Y1Wr8Z6nPakbvoR9JWXTATvW2egqt6FEdNo6wOY=
+
+Name: help/images/6310-creating-external.png
+SHA-256-Digest: haJ+PA/DoIFmBSr2uvinhwK+7e4ZzeyxUcamy5OGT2g=
+
+Name: help/images/4100-new_emf_generator_model_ecore.png
+SHA-256-Digest: nPMyD8P6IbyvG/OrUFcMXOhg6YOflDmIJBJ8RsadwfM=
+
+Name: references/6310-model.notation
+SHA-256-Digest: NIJ5yCvCHXzE3IIjoAFzcDhYcLuKnBxUQIv0fM7gPzM=
+
+Name: help/images/4600-validation-view-root-results.png
+SHA-256-Digest: E4fzlwvE1sDGTTHYn/JwpeNb/iEPBD4KQrUYuUfl+zA=
+
+Name: help/images/4120-null-free-collection-suppression.png
+SHA-256-Digest: hrz2sVcf/4p6pxE1ackNDQDvMV1+EC8H91kgkTfEmtU=
+
+Name: help/images/1810-default-delegation-mode.png
+SHA-256-Digest: ZQfyAU9gF80jG6W0Rw3x2EnXMMt0K7lWyyme0OCkcoQ=
+
+Name: help/images/5190-impact-analyzer-instances.png
+SHA-256-Digest: 6NOTwxjmLOXlhRbzxIP8CsI4MdmXOMvXHTik+zwAtFk=
+
+Name: references/overview/advanced/miscexp.dnx
+SHA-256-Digest: yzemeZYyZuXYa4gy7yNO5NwwbGUQUJqr4LV3xZXBNR0=
+
+Name: help/images/4600-validation-view-metamodel-errors.png
+SHA-256-Digest: 8B6Aza+pC/ng8KHDSVkhC2vDRuTIQ4B12Q1sgojWaZM=
+
+Name: references/overview/advanced/callexp.dnx
+SHA-256-Digest: dbPAim2r+EtAeOZFxw06kO6usaazqjvfKXbDrEmtvzQ=
+
+Name: help/images/1100-collectionliteralpart.png
+SHA-256-Digest: JwtoZPAskuBtOB/ejqyrqcaZCkPnJipWHbNkzZHiRlk=
+
+Name: help/images/1300-library.png
+SHA-256-Digest: z6tjEwZ+WNHoSBJtH7bmivVaaBs2F8xSBnE40UKXdWY=
+
+Name: help/images/1810-code-generation-mode.png
+SHA-256-Digest: Q0Q0zolmb6BiWJn5OF0kNSb+oZepsq1qpyVzX2z0HWg=
+
+Name: help/PivotMetamodels.html
+SHA-256-Digest: s6DTI/TNH3ycyyKWq9SrQYRSg/LTdq+1CblzyAsnxgA=
+
+Name: help/images/4300-extra-uml-content.png
+SHA-256-Digest: uXEjzlLoeH9Qrf0cqGGvj3JOkg9ipZ3pgFvCrGu2arU=
+
+Name: help/OclVoid.html
+SHA-256-Digest: +EiPJzwRMr4i3yzDzeF/HYCWsX4UUCjVblwZEgfgwR4=
+
+Name: help/images/1400-property2.png
+SHA-256-Digest: 3SqNXtCvXW+xcxyNo+X0iiW5fY0WJZsXs7xoqT9r7os=
+
+Name: help/images/1300-navigatingexp.png
+SHA-256-Digest: XR3+3URGR3XjpZPqKHmlEV6nQVkJPTlhu+Cbgl+rv3w=
+
+Name: help/images/1100-invalidliteralexp.png
+SHA-256-Digest: FeE4MxEXLbpKawXy3gVVZCIFO0ERvAexT5ryPN8h1wc=
+
+Name: help/images/1800-property-pages.png
+SHA-256-Digest: EhIZ7FOzpi34kApf3a8xOIdlNooGIavtkRiuvz4Aumc=
+
+Name: help/images/4600-validation-view-debugger.png
+SHA-256-Digest: GGmvQ6w2Jo9x33Oq1deM87HIg9NuJUwZaioeZR/uN8Y=
+
+Name: references/overview/OCLOverview.html
+SHA-256-Digest: Fg9tspxg/BVTg10kEUh8S4VdtxI2Ms+mdsTDio0NQqM=
+
+Name: help/book.css
+SHA-256-Digest: E3coo1UXrJP07OFGAVQCTfQSwruqisiEbnyyg+zrBHU=
+
+Name: help/images/5180-miscexp.png
+SHA-256-Digest: I9driYuSPqRVDoRLyRKqwli5HxqxfIZbazzT+GIEBXI=
+
+Name: help/StandardLibrary.html
+SHA-256-Digest: uAXGhTkyaCzmMgevnozCjEgq0unIlYEbUMZn8kew9iw=
+
+Name: references/examples/extlibrarymodel.gif
+SHA-256-Digest: r9TWQSklavxnmP7W9f9johHqdQXr31ewulKWiMVyzgU=
+
+Name: help/images/1400-library2.png
+SHA-256-Digest: 7A13swX0o5fLC05P9FryLBIkLlzA13iBD9P5iqTUk98=
+
+Name: help/images/4500-validation-debugger-vv2.png
+SHA-256-Digest: NKoizXHm+tIN+iKk8BUetTkeP85eZD3pUv9MLGrZ3BM=
+
+Name: help/images/1200-operation6.png
+SHA-256-Digest: hKCdzGo8NtrIrWeaqJ8/G1tjpyP4GbLIxeIt8k3J5DQ=
+
+Name: help/images/4100-new_ecore_model_dialog.png
+SHA-256-Digest: atu/+UKP16hHnXgh91LAJWVTnFk9LkJmtpP86VokAH8=
+
+Name: help/images/4300-load-complete-ocl-resource-dialog.png
+SHA-256-Digest: jtxYUV6XzsHVmEKcijP4j+vlaDje+LfM1i7Hw+dGa2U=
+
+Name: references/4100-metamodel.oclinecore
+SHA-256-Digest: REAWjzYDHqUGSfdjKF1zF3KJ6FNb2ytj3xj4Sa0QMog=
+
+Name: help/images/4100-new_emf_generator_model_packages.png
+SHA-256-Digest: sFxxM59CtPjggo4qhAp5CV9rUkg0NOW8xUXgFv1+i7I=
+
+Name: help/images/4500-validation-debugger-vv1.png
+SHA-256-Digest: FkIZkdXHlE67arH7vzNGTMNdBdyRhFBkFvq7R5XxqU4=
+
+Name: help/images/4100-validation_unsuccessful.png
+SHA-256-Digest: TrcjhqPHx7HwJ/quIgYytgsyuM8hg9fQJapQDqRU9zk=
+
+Name: help/GettingStarted.html
+SHA-256-Digest: 2AZMpwX0aq7Q62tFXqsiTtGQJ8gwlHz/w103rkxi+hc=
+
+Name: help/images/1400-class3.png
+SHA-256-Digest: XObiybpFiW5tDxECJYc2JdKrTTjs0Tp8JT9MxBt56vw=
+
+Name: help/images/4500-complete-ocl-debugger-image.png
+SHA-256-Digest: xapYq9AeLUfxkR0BB39gYbeIY5+URxvW/Db8fkx8j0Y=
+
+Name: help/images/4300-extra-xtext-validation.png
+SHA-256-Digest: O6yoWmlZkzLIMHwdD8RrtAgLxUvlwCSWwcP6rhSlyFY=
+
+Name: help/images/1100-ifexp.png
+SHA-256-Digest: 1RwG2jkC9oK8996+cvqOhpyXOr5qqwZr4bcr9t33krw=
+
+Name: help/images/4100-helper_operation.png
+SHA-256-Digest: lExcHHr6A8zKBFIF4TJv9vyM28BopNXLHo9YADMD8ks=
+
+Name: help/images/4100-new_emf_generator_model.png
+SHA-256-Digest: ljWetE733JpKBbV1n/6KZtGImaBi+iq1SjI34aYIZNI=
+
+Name: help/images/1100-letexp.png
+SHA-256-Digest: asHMLdOk0bm5SFMJmHv+z+aOPafeKyAL4rpvs3SkPQk=
+
+Name: help/images/1200-features.png
+SHA-256-Digest: +jtt+VbkDCFjnkzEc71QN9q4WWB9YORj+/9PJ/To0yQ=
+
+Name: help/images/1720-persons-metamodel.png
+SHA-256-Digest: Og74pyO+tJKbmjV/QEgRae28PKm0EoWjWXXTNJGKi8w=
+
+Name: help/images/4600-validation-view-error-results.png
+SHA-256-Digest: UnLGkTMYQ5FW55JK0y6b1luM0SbGPVGh3fsP5HtsTv8=
+
+Name: help/images/5180-ocltypes.png
+SHA-256-Digest: jOMHPT8I43Iz746Saanogrd2rV28jdCJ18KgG7fMi3I=
+
+Name: help/Collection.html
+SHA-256-Digest: Afx4+vBHLL/3K+KbFhWxjgTUZwWA9Utn+/JSRfNpRK4=
+
+Name: help/images/1400-iteration1.png
+SHA-256-Digest: sTuochiZDBfrxXz5xq16BbiAnJGNHc01lg6r3nXqidE=
+
+Name: help/images/5170-persistence.png
+SHA-256-Digest: Oq3iyjpZDtNyqbAMQx8nIBMy/xEFppHgSDnK7dvd7z4=
+
+Name: help/UserInterface.html
+SHA-256-Digest: laRMjmgE//HylTUnkdq55XC/HzFRvuoASJjO3faJsbo=
+
+Name: references/5115-check-all.txt
+SHA-256-Digest: 7q/f+Fcat8YROAqCimor6qyDEUYbPimxVIy1yo95x6I=
+
+Name: help/Persistence.html
+SHA-256-Digest: LN32XRllqUO4yWLmbxlfILdOUvQFoN0PyUx2CcH05QY=
+
+Name: help/images/1200-rootpackage.png
+SHA-256-Digest: 4Ei2FUoVTYGdt/0dyFTmeF4TUi/N5AzO5Bmc/cnoFBs=
+
+Name: help/images/1100-navigationoperator.png
+SHA-256-Digest: O+cyOx+ODIH9aka9IzhPSWIH5/bR3hTe1/aKdqBQpbc=
+
+Name: references/5115-check-quick.txt
+SHA-256-Digest: 8vz39OXAp4igXugNnw3Bs+xwU+yvQMQPEQ2IoAEkmoM=
+
+Name: help/images/1100-navigatingarg.png
+SHA-256-Digest: 6ya8fDPpg8LfNNMqLiR14JTCpjzM32GKywzVYR4VuT8=
+
+Name: help/images/1200-class4.png
+SHA-256-Digest: dyuEPjzOWR3wpQlwTpgxRF+hnO15ftV3lOpQKFAP8H0=
+
+Name: help/images/4500-simple-debugger-image.png
+SHA-256-Digest: wHLx4OnpbcEVQr5IPFbuBCzkgc1mqAzr+Ft3PVDRZYk=
+
+Name: help/images/1100-navigatingexp1.png
+SHA-256-Digest: JUl9TbNYqfpwO4xz3lt6imInlB3kNPHU+Uo8tfHhGag=
+
+Name: help/images/1400-post.png
+SHA-256-Digest: aNIJDSx7t06OGQIgV8mVbhndde0ECdMbd7PDB/wNlpY=
+
+Name: help/images/5190-event-manager-instances.png
+SHA-256-Digest: TbfYFC5s1biDDWjWHrxbs0v/3NxbXFYjDkHJ7uX3I88=
+
+Name: help/images/1200-templates.png
+SHA-256-Digest: wOhpv1AL+t6dm73q73rUtz1TfRYu6kn0hrGx8aRIgfc=
+
+Name: help/images/1100-infixedexp.png
+SHA-256-Digest: B2zpc6ZLCCzAaL7abYpORg6K02uXBSJF5o40Nv6l20I=
+
+Name: help/TargetMetamodels.html
+SHA-256-Digest: YAkdTJTRhJIV9ovi24YofI8jcPE1pBgZ1nZz0lZi2Rc=
+
+Name: references/overview/advanced/persistence.dnx
+SHA-256-Digest: oh8uM2kh/mk8VMFw5qNbxs/Vf3eq0eGG0Ad4KfWV/Pc=
+
+Name: help/OclAny.html
+SHA-256-Digest: GDpB5ngz/i4H0cvftdzkBQCK2mFOrHtLDBV8V8uzmRs=
+
+Name: help/images/1400-operation4.png
+SHA-256-Digest: /kdC08zrqdOaL9CFSuypaSw6C25+8KR7qtT0v+LFKmo=
+
+Name: help/AbstractSyntax.html
+SHA-256-Digest: nSD/oxtGLbecatFZL5cPVg5DGK9zA27KNua2Jz1V8HU=
+
+Name: help/OclStereotype.html
+SHA-256-Digest: fqc1fhi4/oWiiIlc6nIdZfMC4+2DW+EOx/3Td3371dY=
+
+Name: help/images/1100-collectionliteralexp.png
+SHA-256-Digest: 7j2dB5yf0VCaWtOi2q7Gge3yI0EQH+Y0ic+XmbJtjXs=
+
+Name: help/Extensionpoints.html
+SHA-256-Digest: xhDQp0FglNkKyx71suTm4sTqX3yOWVV563QStBu4bnw=
+
+Name: help/images/1400-library3.png
+SHA-256-Digest: wUpQpDd5jos+vJcZcxNxzYKovSSiqup6p1ybPSYIEBE=
+
+Name: help/SafeNavigationTutorial.html
+SHA-256-Digest: fAuqMlFtDdvDZ++0moqr16REvwV77a80uIYEcM7dEJI=
+
+Name: help/OclElement.html
+SHA-256-Digest: ybtQmp59ytsdj/VqLwyRwjeQ5dTvcGFQAqPmTAstXkg=
+
+Name: help/images/1720-persons-profiled.png
+SHA-256-Digest: sV7f7uuk4ms8Dh9zWeMmR7+64JeNziwqADpWyrKcz6Y=
+
+Name: help/images/3200-ecore_console.png
+SHA-256-Digest: 2dh5zjo8NkFQye1JGszvsbpVAQQbTLGGlFv80teNkjE=
+
+Name: help/images/4100-validation_successful.png
+SHA-256-Digest: xstNu6FpjdN34cigD454RZQovEH2H/fBnv3vGAL6yLY=
+
+Name: help/images/1400-property1.png
+SHA-256-Digest: +e6XabrNoypZAO8Y3QTo1rR+isQNzgoFeysPRJg8Z00=
+
+Name: help/images/1400-iteration6.png
+SHA-256-Digest: N5VR7XMawS5yrx3I/i0qUE8Wu0JWD7CAbtKl7PH/hDw=
+
+Name: help/images/4600-validation-view-some-results.png
+SHA-256-Digest: xFgc63GRRsihRiJfQbdYNaLTn9MAuBd59rDughuZl3Q=
+
+Name: help/images/1100-tupleliteralpart.png
+SHA-256-Digest: Fn2F4rqZV7+ol9ISwMXMj41YnUvZQL3Rgi4ajvE2mU0=
+
+Name: help/images/1300-document.png
+SHA-256-Digest: bQDqSnC1Z+CnsasVRay2RXt3DzuRhlXovzcBLyitGms=
+
+Name: help/images/1100-primaryexp.png
+SHA-256-Digest: 4HxBPGAW0WrzIRo5XWGIIXZdl9lg5xwQzAMgUdEXbnw=
+
+Name: help/images/1100-binaryoperator.png
+SHA-256-Digest: 7oENdJWPZuzuT+SeCBfnFhmymZwjx7O1+R94xpBYj4E=
+
+Name: help/images/1300-init.png
+SHA-256-Digest: Myn02XOuoWKfjBfFgz6T62tddS9xM4d5M/0gi/MYKuw=
+
+Name: help/images/1200-operation5.png
+SHA-256-Digest: 5VBzeMTAJYFj2od1jvckukzGcpFMzAhvnIxqCqcaniY=
+
+Name: help/images/4300-new-complete-ocl-tutorial2.png
+SHA-256-Digest: LC/tD/6+ZsEK7r0QgHLT49K0W6DTbCHU08739/8Expk=
+
+Name: references/overview/advanced/customization.html
+SHA-256-Digest: 3JZdSsvVcCXZljweLDaTek/WcFu0Ss3xCah0ZcAGSWo=
+
+Name: help/images/1100-nestedexp.png
+SHA-256-Digest: c1oXK9p99AywfYBWgB7VOU2OWrDOW+8bkPt2jQSf2qQ=
+
+Name: references/overview/advanced/ocltypes.dnx
+SHA-256-Digest: jVXqZRP1lt/DeyZPmdoMtej7wrjmQxdjtc0ZA8PT3bA=
+
+Name: help/Integration.html
+SHA-256-Digest: RxCU2+/3bNF5Z7W0GiWoPMfNhuszA9SK+sLJdsWwCSs=
+
+Name: help/Examples.html
+SHA-256-Digest: 7rkn+EcNp6dWdWI/m7NXU70/rjp26q2N01gBPS18t0s=
+
+Name: help/images/1200-annotation2.png
+SHA-256-Digest: gCxxsZndazyDcjC5mK76H3l7/Paj+Bnw54jvXJfTQ6A=
+
+Name: help/UnlimitedNatural.html
+SHA-256-Digest: OvJ/5tz3IjaY3kV2hD/5pBTn83TP5NhiaY4PTt1K7w8=
+
+Name: help/images/1300-post.png
+SHA-256-Digest: 4QaXdE6vaxIUzPOaMczGB+FYN4tMoCRacAPHsDrhRXo=
+
+Name: help/images/1540-debugger-run-configuration-launch.png
+SHA-256-Digest: zqjkHn1yyySd6fAg3TK1Z7ZmoZ5jO6v+VFpR6+AkhAM=
+
+Name: help/images/4500-validation-debugger-step1.png
+SHA-256-Digest: Zye+9V5WJXFX5R2gAo9fEu0OwX8GDtqNE9ODrvVSh80=
+
+Name: help/glossary.html
+SHA-256-Digest: f8Yl2E0LaU/piAQs0l5dFucUtghLVOl8nIQHy+TqXSU=
+
+Name: references/5110-creating.txt
+SHA-256-Digest: DGNE448+zwamCumkFsQcmwzfnCmUyyfhDS9QeMLeOno=
+
+Name: references/overview/abstractSyntax.html
+SHA-256-Digest: KvQ0Q8jSbqGgklu4+tc4iKX39L1NQkCA+e7jmPKr0MQ=
+
+Name: help/OCLinPapyrus.html
+SHA-256-Digest: gTW9kUKVbUmD8Da21pjJ4oqG1kZCizy/i8qdOYHPU4A=
+
+Name: references/overview/ast.dnx
+SHA-256-Digest: z2mxCEdIXYu0aNWD7z9MOYeJHaeZtx/wWJy61cQ5ovk=
+
+Name: help/images/1200-attribute3.png
+SHA-256-Digest: GPn2Z8YHl1wsK4mautXvIXeXTR0iyMPMGfNkzrABjdk=
+
+Name: help/images/4100-validate_menu.png
+SHA-256-Digest: aVWqT9+U9dQMn4AVMe8FUT7ZhmCJTMC2DSxggqmpoSQ=
+
+Name: references/overview/environment.dnx
+SHA-256-Digest: KvU7Rt+xj1kPVlgGsCXMJD6v3NvgWwvFnGRvaHBlNbM=
+
+Name: help/images/1200-parameter1.png
+SHA-256-Digest: ZHeLY5K2VTptRM2eFFFwhEVyY6Li/I8daIq9Dyna3Uk=
+
+Name: references/5120-extlibrary.ocl
+SHA-256-Digest: 6NcW6P1Gh4sggbZc1PitqxAI1GaB61z5+iQ16V5sW/8=
+
+Name: references/overview/advanced/eventManagerInstances.png
+SHA-256-Digest: twQtnsfhkms/UAt1Tm8o411JU7CvuljP2t69/1nfJ6Q=
+
+Name: help/images/4120-safe-navigation-preferences.png
+SHA-256-Digest: V4IJGq2NhY33XkSnWJoXhKLxojdO1SM+CBrKzEI9ZvU=
+
+Name: help/images/1100-nameexp.png
+SHA-256-Digest: PnMZzAVyyIvOdH9CIb3KmXkWKr/AVCNrHitmuDnbzP0=
+
+Name: help/images/1200-operation1.png
+SHA-256-Digest: 0eZvw4Fh+DXWmsfDny6VebyMNXbrq/rMdcYRlbLCN0M=
+
+Name: help/images/4100-metamodel.png
+SHA-256-Digest: 8KtB5V003yCBf78Lh+MxqeGFlS5KYBZE3O8kH1P696k=
+
+Name: help/images/4100-create_dynamic_instance_dialog.png
+SHA-256-Digest: 3zF2hru27PnUoduLADEbrf7IOqxFBwbpsvQ/YQmoTMs=
+
+Name: help/images/5155-hidden-opposites.png
+SHA-256-Digest: kmktXLrHEWpTfwB6MDHJka5c0eJNa0Of79PgDkjY+gg=
+
+Name: help/images/1200-datatype1.png
+SHA-256-Digest: ThrgM2yRXx7Q/nULy+ah0LViq7ocpBuFlrunmI/0F2g=
+
+Name: help/images/3200-lib_console.png
+SHA-256-Digest: LVsVB4mzl65uN8LGwvsGUmwogxkZ3tv1pRGpL/YXn4k=
+
+Name: help/images/6320-extlibrary.png
+SHA-256-Digest: UMZJp2UMpqoPybl8poimCvw9jsrtfxvtjIf++FqCAc4=
+
+Name: references/overview/oclhelper.dnx
+SHA-256-Digest: s5/bKjslmDr5mkybuwDcYh0o0LFm4zrWTP/uMDP/8zw=
+
+Name: help/images/1300-operationcontextdecl1.png
+SHA-256-Digest: VbOjuo456tyiPVRINPPDP8uFkHNGo88dEGqGvSUeTeE=
+
+Name: help/images/4300-new-complete-ocl-tutorial1.png
+SHA-256-Digest: ajEOxOD0Dxz7ZZObifmxEoGTHxp9bsIJpyklpQrRoNs=
+
+Name: help/images/1400-pre.png
+SHA-256-Digest: 0qNB+8VMamBdkpZnnzdtR1jCWj+Bgo5TikHIiiQBWIQ=
+
+Name: references/6320-traversing.txt
+SHA-256-Digest: ZCLgLtld/UG+Qzld9tVdon2tJ42jhCLgBav2YlMRACc=
+
+Name: help/images/6315-check-quick.png
+SHA-256-Digest: a4P0L/bsDbkJv1XigBoeYoyrrebsXzSa0lnLkaPElC8=
+
+Name: references/5110-context.txt
+SHA-256-Digest: cTWfmBaXlf4Fm9YQNnRts83itqVB/DyBhTlRGQspIZI=
+
+Name: help/images/1520-console.png
+SHA-256-Digest: qqSU2cUNcoxbnhVE0A7C3GbDFnDft7tx7M9NqEcZQEk=
+
+Name: help/OclInvalid.html
+SHA-256-Digest: vFb7ld88JJHnrDeMxIIHhBanLlhmwH78OuiYqDzLnTw=
+
+Name: help/images/4100-model_copies.png
+SHA-256-Digest: otrquX8DqWPaz3IgHdZR1WYLZsDv3vmtFvldSU31BSo=
+
+Name: help/ValidationTutorial.html
+SHA-256-Digest: usdzHI+HSa/+gliG1jKd8AYQdhbjTM4sCRgIFVaoBfE=
+
+Name: help/images/6315-query.png
+SHA-256-Digest: s/HQ23yNZmAunuUFldlkEuurkNI8HzxKab9UQujtoYk=
+
+Name: help/images/1300-def1.png
+SHA-256-Digest: shVPNmu8ghxQNWEhd8brgfsqma6yMtU9o1xFcOmSPe0=
+
+Name: help/OCLInterpreterTutorial.html
+SHA-256-Digest: j3ic9ibOEBDFXiwsctegrPEJmJZ5sOwWLhX8qGJFq9Y=
+
+Name: help/OverviewandGettingStarted.html
+SHA-256-Digest: ZvEguAYs9HZxiE8QSsdmzR5kt5qCzMUZ0RlzgjDeIYM=
+
+Name: help/Map.html
+SHA-256-Digest: ptG6Zh7SPISsaxiEBnGwY3NibyZUBRcU9TL8MONO4l4=
+
+Name: help/UniqueCollection.html
+SHA-256-Digest: 4jKzxvpwCjpvP2fErIS6WeByeLVRU15LfzDgzShvl+4=
+
+Name: help/images/1200-operation4.png
+SHA-256-Digest: kknI3TdY46+MbO5kz76xe+I7VSRkwro6iXpAQQG6Ydo=
+
+Name: help/images/1830-uml-options.png
+SHA-256-Digest: 0HJvwdu9GML5reUF/iu5y2l55Wd64BHu2rL4S/CPcEY=
+
+Name: help/AdvancedMetamodelBindings.html
+SHA-256-Digest: a1yJC40OIYpk/WazLSbR6KCtcZGnenlKaifySzydSx0=
+
+Name: help/WhoisBehindEclipseOCL.html
+SHA-256-Digest: 3NcA7ylMw8elJsKKmfL7vvaTaJnWNwku1IUEQkwcRbQ=
+
+Name: help/images/1400-iterator.png
+SHA-256-Digest: 7K9lQqjwdGbLJa4+h/yW8qAiRZRxOd+KEZXx7C5N2VA=
+
+Name: help/EmptyExample.html
+SHA-256-Digest: /3u0QOc8cKyYGV7jP/8lnhGPmgzVKzEZd2h+5GwhX5s=
+
+Name: references/overview/advanced/eventManagerDefaultConfig.png
+SHA-256-Digest: WVUshV9/iiUHU/ZR279rv9/9wnhzKsolr9JCFgUN/zw=
+
+Name: help/images/1200-library.png
+SHA-256-Digest: KTMT4o6zJgVvLqc+KArsJapGG0Wpse/DmrsfciSlYhw=
+
+Name: help/images/1400-iteration5.png
+SHA-256-Digest: UGBFEpXAbleQ00ZD2bqIHQQhIe0WG25rkIoEGWMZHhY=
+
+Name: help/String.html
+SHA-256-Digest: 0lGKdgjP5Njz4a6GyUF8N6dEtsMI3zuCg6ihtiu1nIM=
+
+Name: help/images/1300-classifiercontextdecl1.png
+SHA-256-Digest: Z2Gab4ptxbhHYhEoc5RfN/g+F6LqNoZKOorwQ5/j+xo=
+
+Name: about.properties
+SHA-256-Digest: KSy2i32CxVSMrEMlR7e9Kp9BgKkYfMygX9Pzo0P+eJM=
+
+Name: help/ImpactAnalyzer.html
+SHA-256-Digest: l7rQX20BdU7sstEvVyI51HWPqYcWfJqqrs4gbaZA2dE=
+
+Name: references/overview/advanced/metamodelBindings.html
+SHA-256-Digest: bKNN0BsRUH3nhv4rkCFEudIcb1OSsEM5LM4ARaw52ZI=
+
+Name: help/Type.html
+SHA-256-Digest: McG256Wu6SulK4GA3HRsGwcp0u7C5mN7OOLpJCFFiBc=
+
+Name: help/PivotEvaluatingConstraints.html
+SHA-256-Digest: abIShHVk9O3rOqRPy8uDJwahWYPvRX3J/VmP7Kqlfxk=
+
+Name: help/images/5160-appcontext.png
+SHA-256-Digest: HeTrKkCmW5woImvdAU516wiYmbkhR/ZU/4P5MjAx0gs=
+
+Name: help/images/6320-parsing.png
+SHA-256-Digest: dg6w5TtQ/IaZKk4avG9m8C0pIBu/jjrRaWWYUoeg31g=
+
+Name: help/images/1300-def3.png
+SHA-256-Digest: ALtEYv8IJzCf9rvceXeBiP0E+JaGKnT8Xkw07r3+/ZA=
+
+Name: javadoc/emf_210/package-list
+SHA-256-Digest: XK9Voe6eiHAmGMocBCfYsAq2IPoa5WwHocM8juEulNg=
+
+Name: help/DebuggerTutorial.html
+SHA-256-Digest: rbUMzUm0BUTmzLSQMb1JeDcTvfvU5ub0Rcm8xzDSHmE=
+
+Name: help/BuildingtheOCLProject.html
+SHA-256-Digest: pwnz5LeDm/9UWGzVqSHQEt8cnB+z6lJLOqu2oL/5TiY=
+
+Name: help/images/1100-navigatingexp3.png
+SHA-256-Digest: VrkNaBjCjTLVplHKqJXVihmlYsHJyITboK8q/QYaDVE=
+
+Name: help/images/1200-attribute4.png
+SHA-256-Digest: +xCwByU2uyP69G9NhOuIHbgvy10aFvGMACI3BhgZADw=
+
+Name: help/images/1200-annotation1.png
+SHA-256-Digest: 1UdR3xmFpwbGACzV+DUZlPIuWd5AOTCIowoKA6hPO3E=
+
+Name: plugin.properties
+SHA-256-Digest: djwuREnbCSMJAaRcH3OlSHVvSdgQCZ2DvqD7PRiQ5xA=
+
+Name: help/EnumerationLiteral.html
+SHA-256-Digest: S4S+fQ8LprRks5hHtJd+F8MSZPph8WYJJ1zMrJm3pL4=
+
+Name: help/images/4500-validation-debugger-step2.png
+SHA-256-Digest: XKLEoxql6enL8ZYr66eMnQlxMRMRFJF1eDU2p11dxQk=
+
+Name: help/PivotParsingConstraints.html
+SHA-256-Digest: BHjBTxYE8Vo0h9vbAR2sxi6qr8+XiqKeOSmywz/EZI8=
+
+Name: references/overview/targetMetamodels.html
+SHA-256-Digest: BcuSmBQPqRhO1WHi3I7hpTTXt6otGfmHw8pYcWSoeHQ=
+
+Name: help/images/1300-pre.png
+SHA-256-Digest: kqO1tEf9+gCQpWXP5lwabTolQNLftJYt+45IGGrS2IA=
+
+Name: help/images/1200-reference4.png
+SHA-256-Digest: yKu2ateVdRN1YOfKPLPbEw5VlLyXhmZG9e90qM/j0Mk=
+
+Name: references/overview/evaluatingConstraints.html
+SHA-256-Digest: hRIleyKDHIAFilzsQJRjJOQakk8pnhToASE1qeE10R4=
+
+Name: help/images/1300-specification.png
+SHA-256-Digest: 0HtpFocV6B7+RVebBzc6I0LjktAp04xeDgwrGvHrPwY=
+
+Name: references/overview/query.dnx
+SHA-256-Digest: eD3QWvsuVSS1Hljy9d3WC29HaJeB9uJtkEP+xtoxz00=
+
+Name: help/images/6310-creating-internal.png
+SHA-256-Digest: jJWCRwjYZAfJjwVKVdFc5wAeMsE7FURCiw3Q/oSyj0Y=
+
+Name: help/images/1300-operationcontextdecl2.png
+SHA-256-Digest: DCKkyFI3tcgokcTmw8znEWS/Ls70BYTNLA9iBluzDHA=
+
+Name: help/OclMessage.html
+SHA-256-Digest: uzvoaclCSJRoC5wuE2KCS9KgFO+R5tccqmby4zegUPI=
+
+Name: help/index.xml
+SHA-256-Digest: Z8Hc8FAI8q21Y1xYe7mwkx/i+tL7vVmwSWn2ENjefMs=
+
+Name: help/images/1400-accumulator.png
+SHA-256-Digest: CnSj0iVTpMBIQoCrRC5UmI3sQwgfLHeIMzuSkW7rSUw=
+
+Name: help/images/1200-parameter2.png
+SHA-256-Digest: 3FLk1i46uWybBro3hHUMIeVTbIwd7YPZcolgH0XQ/c0=
+
+Name: references/overview/parsingConstraints.html
+SHA-256-Digest: WIe7c2NFVx4vhRxdg5yFVQdycfBORSV9USpESk4229U=
+
+Name: help/images/4500-simple-debugger-variables.png
+SHA-256-Digest: qwMKuuwQEVbY7B/xMNJpWIf6Mf89j9L0xmzW6OrvMKc=
+
+Name: help/images/1300-propertycontextdecl2.png
+SHA-256-Digest: /Jn/W3Uc8+zlEMVj+QI3NpSwYUiAVDaOIfqiVQGPWDQ=
+
+Name: help/images/1100-exp.png
+SHA-256-Digest: ntTGMscZPZ+3n8rJwr2A0dIIk2QIZrsCooZU6tuFUw4=
+
+Name: help/images/1400-iteration4.png
+SHA-256-Digest: h9gLtA0Dj9ypCK767F8cWMxSowArVvpsv1Sy+UxBR8E=
+
+Name: help/images/1400-classifier.png
+SHA-256-Digest: QwTILZYWZJZTdnypcrrc6JyBwlzbSI+LsjmlJOy0/6Y=
+
+Name: help/PivotParsingDocuments.html
+SHA-256-Digest: /qrRbUYuvqmzGoEaB36fqBRwto28IZseNJRw7kpIIP4=
+
+Name: help/images/4100-ocl_console_menu.png
+SHA-256-Digest: j5WVK+JZBHSEAXWjyIN7mzemh9LQZw+0Ut3ej8ZbKjM=
+
+Name: references/6310-model.uml
+SHA-256-Digest: eONPBXX39EsZkBziUjCUYzJXHd7rWLOoMni/Db2Ri98=
+
+Name: help/images/4300-complete-ocl-tutorial-project.png
+SHA-256-Digest: z7gzXYeKgFb/88kuUqxwZa/Y8DNhV9xLZIDEtwHRv00=
+
+Name: help/images/4900-install_details.png
+SHA-256-Digest: E+C6korg2aGvOHCA05/n1iEMGS1UnsbsEywNdTxdHB0=
+
+Name: help/images/6315-check-all.png
+SHA-256-Digest: kFtuOHkHtd1cbABCML75f1byPCP0X4EuOxi3TK59lII=
+
+Name: help/OrderedCollection.html
+SHA-256-Digest: nMxhu9tXg6YBkatTKRXT7YwLSf6snqkN9c4yB7tE9kQ=
+
+Name: help/images/1100-indexexp1.png
+SHA-256-Digest: RhTXipdhBN0a636DqVvbHP3R4RW3fCz4rkNPAoo+5kw=
+
+Name: help/images/5120-input.png
+SHA-256-Digest: DS2jSnrEThlv/hYas3yJ2wAwqNYFrpV4ghl4YgKm7DI=
+
+Name: references/4100-metamodel4.oclinecore
+SHA-256-Digest: XCR1lUas7H/Aoou481OawSdUojmNHqjpn6TwGqmtRIE=
+
+Name: help/EssentialOCL.html
+SHA-256-Digest: 8+RZpPn8OLwZuQSDE86BrDjLAuy8lnPKeGbmWtaMG5g=
+
+Name: help/images/1200-operation3.png
+SHA-256-Digest: wSJt2FwtdNmr/KkywNH7A3vx9HVKxQJZQOVk4cU95pM=
+
+Name: help/images/1300-operationcontextdecl3.png
+SHA-256-Digest: OFuonE56AomjbB0uNSkeA28WuycX4F3UjTL56q/4Ilw=
+
+Name: about.html
+SHA-256-Digest: 99DTlygUX2LYo0HuIobjWl90hiPXR7RkTjN76bywmT0=
+
+Name: references/6310-dispose.txt
+SHA-256-Digest: WrzrPlXo/K4Y/SW9nbOdsiUsywuVZILJTgOmGn9IKe4=
+
+Name: help/images/4600-validation-view-results-context.png
+SHA-256-Digest: Ww5HARh1sodZFAeoAwmOnfzt2ayjF9mLvqNlmxZzIvU=
+
+Name: help/images/1300-classifiercontextdecl2.png
+SHA-256-Digest: xntlUk3QRaLI6qzLBM+eDYxhROwz2mNTJ2Up9MbcyCk=
+
+Name: help/images/1300-body.png
+SHA-256-Digest: 2lKFx+1G1sRIK48XhT1Dh/sFIpVS6lsOAXzMnwoVAXw=
+
+Name: references/6320-diagnostician.txt
+SHA-256-Digest: jKlxh1gzDM+dWVZmgKma5GP/dAfF2bovYHHj9oJpQnw=
+
+Name: help/images/1400-parameter.png
+SHA-256-Digest: Z042/1SZWqHC6TKsnW+AiahWQm4s3mM9clHBJ/Y+p44=
+
+Name: help/images/1200-package2.png
+SHA-256-Digest: 5f3SnkhQTx4oYPo3+JJlDZLMblaJI0GtmO06iQiHla0=
+
+Name: help/images/1300-def2.png
+SHA-256-Digest: XBFeIBhsUh6P9XjCYXjdtpQqsnEGvQIPbD0hJEth5tw=
+
+Name: references/overview/parsingDocuments.html
+SHA-256-Digest: DmLURM8/m3uuB8HvnNQzJ+5kSDXqmiX5v4OZRzr4s4M=
+

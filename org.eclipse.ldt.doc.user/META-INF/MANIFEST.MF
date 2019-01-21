@@ -1,0 +1,170 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.ldt.doc.user;singleton:=true
+Bundle-Name: %Bundle-Name
+Bundle-Version: 1.1.0.201804031433
+Archiver-Version: Plexus Archiver
+Built-By: genie.ldt
+Require-Bundle: org.eclipse.help;bundle-version="3.6.0"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/gitroot/ldt/
+ org.eclipse.ldt.git;path="plugins/org.eclipse.ldt.doc.user";commitId=
+ 3946f93aef832732e29a6822c176ef10f3197226
+Bundle-Vendor: %Bundle-Vendor
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: help/LDT/User_Area/TipsandTricks/images/LuadocumentorCodeAssista
+ nce.png
+SHA-256-Digest: IBJNdKvbkE7WwhdXZkJJx8RoT/YwPCLPQHd4MaBR0Qo=
+
+Name: index/segments_1
+SHA-256-Digest: my/Uv1KQWb5dqGX+B6SOub+wtaqMOpFpciR5gZ7OfpQ=
+
+Name: plugin.xml
+SHA-256-Digest: vNZc2SM6O4toMlm47/kXxHOlHZ2gqwUhMY2N/hBJzUM=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html
+SHA-256-Digest: 6yF5/zTzMsceRtXMe73KZNEDTGOXlI1JMLdvBwmJPlo=
+
+Name: index/indexed_docs
+SHA-256-Digest: zIZMJoLXkQEuFKrMODTyvkTpHQoHMtL5kRbECJ+OvCk=
+
+Name: help/images/topiclabel/git48.png
+SHA-256-Digest: 6GTKNBIy/ZWZ9Kl3x3Vt3/caUoZvMXoA8aOcJChdT+Y=
+
+Name: index/_1.si
+SHA-256-Digest: Ccm3MEJH8aHUi+8lnyqPdYBUn7PxobrENYN8DxdFBKw=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/AddFolderTo
+ SourcePath0.9.png
+SHA-256-Digest: oYZNOUHm1cDLRouaru8IZg+rDWmr/Ix+vIXamBCrWaM=
+
+Name: help/toc.xml
+SHA-256-Digest: gh7godTuQlesR8c0uBfiNHzsKMPlilIeIqPx3sKIQms=
+
+Name: META-INF/maven/org.eclipse.ldt/org.eclipse.ldt.doc.user/pom.prop
+ erties
+SHA-256-Digest: aUj9PcvW0QT07mOyD9HzFiv/Z3sWa7vPKUIomGhV1i8=
+
+Name: index/_1_Lucene50_0.doc
+SHA-256-Digest: dsMwiqkGjZJVBDWapfu8gJy1DtvdS32ja6ZFHa/hVXs=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/Updating-This-Docu
+ ment.html
+SHA-256-Digest: P3NW5NJg/sQdm6xIzYpL4kR2ty9FVlvy6KhuTJmUYQc=
+
+Name: index/_1.nvm
+SHA-256-Digest: zxm3yNUbDItDubA0QM/Qu9JyRlAmvshMXhMCXp0EgG8=
+
+Name: index/_1.fnm
+SHA-256-Digest: cwXpl792Zv1sUSHgZvSGweiYM5AbbsO64Vk0JJluk9w=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/AddProjectD
+ ependency0.9.png
+SHA-256-Digest: gWUKDrfw1/Fy2qGnez9sEr9Ei5vogYjuhLPThxKVB/Y=
+
+Name: index/_1.fdx
+SHA-256-Digest: Ax/Grfy1oYV2RKoqgo2KmLnewDmjjqns+fnMmK00xls=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/Dbg-express
+ ions.png
+SHA-256-Digest: A8v6emdI1QkvkBXUmvjdkAF3MGk8s1ck4Uyv07pCdOk=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/Getting-started.ht
+ ml
+SHA-256-Digest: 8mk1vzVvHgiuUSyDmILqfnUVouMoyxIQipWSGkZ9zqU=
+
+Name: help/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: help/LDT/User_Area/TipsandTricks/TipsandTricks.html
+SHA-256-Digest: 5e6wQX8iNep+tnQGJkyZWYzQorQZK7pGB+1DQu+MaDE=
+
+Name: index/_1.fdt
+SHA-256-Digest: InigEgg2q55G0CZZof/Ogsy1zP4HlJcnAIU5C968bP0=
+
+Name: index/_1_Lucene50_0.pos
+SHA-256-Digest: wrRX3V5grAHHtuzYX7j1kxfbR2NiqeTs+jXhgGX6Tg8=
+
+Name: about.html
+SHA-256-Digest: 1fuYr0bu6NsJZCAmSom5QtnvnV0Cg8DwLn77Dd1Ql24=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/CreateConne
+ xion.png
+SHA-256-Digest: DC8lzVtTmrd81O2QVLlRkw8X6RWJn5fZZJ195fpFo4w=
+
+Name: index/write.lock
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: help/LDT/User_Area/TipsandTricks/images/LuadocumentorCodeAssista
+ nceInsert.png
+SHA-256-Digest: 9SnwCinxa1koda1S2RvBQ9CCfvGGAwVzn4GNlN6ccR4=
+
+Name: help/LDT/User_Area/TipsandTricks/images/InnerFunctionParameters.
+ png
+SHA-256-Digest: +ShZSZUfFhyc9HakEi9x51IvnH4I/filggx+w8XlVdI=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/BuildPath.p
+ ng
+SHA-256-Digest: NaeVOT/H/fqfwz96iSC02qjvgdzvYW12FK/AagUDuzI=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/ArgumentsLo
+ calLaunchConfig.png
+SHA-256-Digest: G/tPjrzJmBkmwBALoNZKVx8wsAM9Owq0qArhQL+H4Bs=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/CreateConne
+ xionEnterIP.png
+SHA-256-Digest: DspX7nhUxLfrV2gjeJmQys2kVaWk+fTEUUH6RKNchH0=
+
+Name: index/_1_Lucene50_0.tim
+SHA-256-Digest: 75KV0b6FBMKbPM0jpum0YBbpb/KA94bKNFSQecOxXJY=
+
+Name: index/_1_Lucene50_0.tip
+SHA-256-Digest: DR6sGCPMOU2jOMzXxUI6ttRvRx6moILAcP9sXzjBeEo=
+
+Name: help/LDT/User_Area/TipsandTricks/images/QuickTyping.png
+SHA-256-Digest: Hdg6W5AHkprCufs3p2NquwVyRChz72RehWZ8NJmvxiU=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/User-Guide-1.4.htm
+ l
+SHA-256-Digest: vSNOBPDLvoINxIq+LCX4qS4LdsRBgg/Fek6fsQs23i4=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: JKhtE7sA2yBGbFrNO0HomNCRqLgUrgiGqxu7gvIrXz0=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/AddInterpre
+ ter_1.2.png
+SHA-256-Digest: mEK/Fk9cQRcbC7vsdG5UJze4LwKrUpr+2V2ufBgBK3Q=
+
+Name: help/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: index/_1.nvd
+SHA-256-Digest: mp2YPnt/dtSoH7i2sMZkaAecT48sm4cwUCIAM7FhVDo=
+
+Name: META-INF/maven/org.eclipse.ldt/org.eclipse.ldt.doc.user/pom.xml
+SHA-256-Digest: MgaOuDuN+frHAqVcxC3ID10b6sIyCZ3kKJtEovtCd1c=
+
+Name: index/indexed_contributions
+SHA-256-Digest: yDvnqbYjjoWWMn8vZJZzGji5kse6YjQCZ649jjJPbpc=
+
+Name: help/LDT/User_Area/TipsandTricks/Updating-This-Document.html
+SHA-256-Digest: UT23pTzmysegg/9GjRAg/uCpRjYol7+sbL2nMNIluHo=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/ConfigureDe
+ buggerPort0.9.png
+SHA-256-Digest: EBeJdUps8P18CZ131okib1AndXOLRc6D9VZ/0KfCaC0=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html
+SHA-256-Digest: 5aLcJSycTODR3JNIbsyWhMXJCwx93lPNeqidNR5a95c=
+
+Name: help/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: GhOugXZqmEMoY2GW+leVT5R6lI1UlCWrPM0Y5j+0Uk4=
+
+Name: help/LDT/User_Area/User_Guides/User_Guide_1.4/images/Console0.9.
+ png
+SHA-256-Digest: NwGOw52mHBRibw3VwFsyJZyMmXtVeLng0y0PXdGKfws=
+

@@ -1,0 +1,242 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.emf.ecoretools.doc;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.sirius
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/r/ecoretools
+ /org.eclipse.ecoretools;path="org.eclipse.emf.ecoretools.doc";commitI
+ d=45e536e8b039d610de0989bede37349295370031
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-Version: 3.3.0.201706121316
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.0.5
+Build-Jdk: 1.8.0_121
+
+Name: about.properties
+SHA-256-Digest: pvZHb7LY9N6hCEancnHrobVGrAM78/I6f9v347Z3AGs=
+
+Name: plugin.xml
+SHA-256-Digest: NDun6vdngCPWkHovbi4D218vHDRSG6pkWzzLqaCDrCQ=
+
+Name: doc/images/dependencies.png
+SHA-256-Digest: +0ZEp96/oTKRqmSDQcvyy6s99yf5j/Z2RmOyot1py0U=
+
+Name: doc/pasted-images/35ed765cb8af3fb4ab1a95cd3803fe94.png
+SHA-256-Digest: uCLIC06y4qQZ7BHt1JBh9wOeoZOZwpBhn5N/S7eWJAY=
+
+Name: doc/pasted-images/ae061e611b11578818a2e2a2c4c847d8.png
+SHA-256-Digest: jT5zTof5K0UNc7EQ0nFqrsvVb6sK9o0zgIq2zTX1VNI=
+
+Name: doc/images/relations.png
+SHA-256-Digest: kg1gZGtluR8762NTdiwLsxpCbrJzc3AOGF6cZcJkK94=
+
+Name: doc/pasted-images/8052cc935a95b635e65a0ed3384ce9b1.png
+SHA-256-Digest: gxye+xI93ydj12nahWoHjH3QVyPkaBaAchX8DV4roow=
+
+Name: doc/images/image05.png
+SHA-256-Digest: LKtfgf8Z92wZG8E3cmnZJvWlRw7xVLOtlL7YhC4d204=
+
+Name: doc/license.txt
+SHA-256-Digest: 57HQZ4ekwyLkfsTELi/+YiytqLKujlXDnwXrln5cFag=
+
+Name: doc/pasted-images/8f3460ca33c1991c8dfdc7caa7152371.png
+SHA-256-Digest: 7Hj+f+s0fLWHGcYm+SPHXGiZ3LTmb0JE3Q0r1mPAB9E=
+
+Name: doc/images/image04.png
+SHA-256-Digest: qvi/akeMwlM3qDI2C/MDvRvSRCS2FQ04LgJXxG8tcRg=
+
+Name: META-INF/maven/org.eclipse.emf.ecoretools/org.eclipse.emf.ecoret
+ ools.doc/pom.properties
+SHA-256-Digest: xj3SKhPMxz8eb6xWcH2ympbDBzfYJD0+HVFUPW9vGQY=
+
+Name: doc/EcoreTools User Manual.textile
+SHA-256-Digest: jwakQzeSDQ6hmFrlpsQk/vAmZ57v5Mq0f35VL/t1XNk=
+
+Name: about.ini
+SHA-256-Digest: eHHHTqN7Y2eiBZGYdFDZeacrMj29Mm7niUh+P3i42Ao=
+
+Name: doc/pasted-images/3f3ad17c7591c30e8a0b1037b7a3a35b.png
+SHA-256-Digest: cgT7ZSKaRF6iCZObBwlBmVvdvzmN984gNRHnm0PdRTs=
+
+Name: doc/screenshots/entities.png
+SHA-256-Digest: mr98mrC/mUFvU0Zkq57WQcgbTHW4lq0gJn5zw4SL9IA=
+
+Name: doc/pasted-images/0693d417971137ff01e2864ba838e3c8.png
+SHA-256-Digest: IjZfd/CQuch/eoMEcF5oCo+BoTYWPo/GLkYOvXY2keA=
+
+Name: plugin.properties
+SHA-256-Digest: GfN3b42e1EufHMMh5/fhULGmLUx4Bm+pzy7TaXKK+JA=
+
+Name: doc/pasted-images/6e7b3308b892cb4fee811e4991ec4b87.png
+SHA-256-Digest: QMgMgLLZuzG8IUYKkaqTQ9OsiHlxOw8jlCLgQUA18B0=
+
+Name: doc/images/size.png
+SHA-256-Digest: Z5UeoX96ulpHCsRjbKK7fQtBYG1t8QBIFGgqUU+bcMc=
+
+Name: doc/pasted-images/9527c058c486a7ad867b1a57d3f24292.png
+SHA-256-Digest: UhFdrZQguUAlje/TMXE1NgRlG5kTXy1i2qSs27BM17w=
+
+Name: doc/images/example_design_entities.png
+SHA-256-Digest: wYLDgjCDvdjSr1AwOdQxTCrwq9eMTuA89xP72PFKYtY=
+
+Name: doc/pasted-images/b7e2d60ffc9d0bf815493dba5d538125.png
+SHA-256-Digest: 2iBrf7hUizvjim/eQSTqd0ZvHT5UI2Qj+39gPG0mbv4=
+
+Name: doc/pasted-images/d08d23dd487524da5c8ddc2b94c8ca63.png
+SHA-256-Digest: LsWhvYX+U0mufmPvM3Re4pjw04ouqHVMTfG/8yerCaw=
+
+Name: doc/images/image03.png
+SHA-256-Digest: C31MkS/BaHPGH98ajaTacgHW7fubbYNXrDS8moG4Xmk=
+
+Name: doc/screenshots/overview.png
+SHA-256-Digest: m9luStRtOCKFetyJuOCPcDioQQge//mot7bT+LT3phU=
+
+Name: doc/screenshots/step1.png
+SHA-256-Digest: xR8J5LJCdvcpIKp4/4Q8EDmN+HPGscAYDEjsDqhtdrE=
+
+Name: doc/EcoreTools User Manual-toc.xml
+SHA-256-Digest: bvxc314LzMvijJXOcBxkDL+WuQj+CrK08n4ujRzwhBU=
+
+Name: doc/pasted-images/ca65ed257a9b2e0433f422811196f8da.png
+SHA-256-Digest: r03XWeAnG/pfrL7/vMK5RfkFRKaMfSxaVg7dsEdlxoY=
+
+Name: doc/css/custom.css
+SHA-256-Digest: Dm61TLnbkntBrKe1dYg38AQdGi8QWcDPkxIGJgoesPA=
+
+Name: doc/pasted-images/a4a96011f4f1acbd0331e2a4e258a3bb.png
+SHA-256-Digest: a5xhi9D/GmZRt3M1uiR3AQ7BdNCNT+8C2E8fQtOtHRQ=
+
+Name: doc/pasted-images/6706c17e3282d8ad8953861ac645b081.png
+SHA-256-Digest: YqJs8PyHvENzkNmihWYc/QzjYLM4yRFF5M79BlEk9Ss=
+
+Name: doc/images/example_design_classes.png
+SHA-256-Digest: VM6IUQGB97jQCGW9WTKPHcRyMnQNpSAHj0SjLALqISA=
+
+Name: doc/images/image02.png
+SHA-256-Digest: uI8Yq+AH7smNp6H4gelwh2+1Hy8ODjpO5K0pdsz43K8=
+
+Name: doc/images/modeling_assistant.png
+SHA-256-Digest: ej4Xqeh01+mipYiKGFSlWDPORrusdNzgtRRKXq7CV8c=
+
+Name: META-INF/maven/org.eclipse.emf.ecoretools/org.eclipse.emf.ecoret
+ ools.doc/pom.xml
+SHA-256-Digest: 3DvkmXJkykVpfsj6k60R4+ayTPyV+IOVwmUAadlGb0Q=
+
+Name: doc/pasted-images/55c869b1fa7ba6a813acbcb3e868ebd4.png
+SHA-256-Digest: i6hSICDnBR2pK3MB8tB4VGUNHkpoZaUCixANqBXPQXs=
+
+Name: doc/pasted-images/9564b3011878c22b1bd2236ea63e762d.png
+SHA-256-Digest: 6BIqjPjSFu32/VepPuigepvr6RKqd0atGFSE/8QFAxk=
+
+Name: doc/contexts.xml
+SHA-256-Digest: V3O5cmmIjqYRKI4I38zYCVCrHU961srf4Fs6BycS8gQ=
+
+Name: doc/screenshots/step2.png
+SHA-256-Digest: ZoYVr55bzBanLAi+p16/vM5JPeJmk8KQQHfangYjrWc=
+
+Name: doc/EcoreTools User Manual.html
+SHA-256-Digest: g4uiR1E8+2YzPIoSDhmhmmFvWCHldx2v0DPgfI0YbZ4=
+
+Name: doc/pasted-images/152133d0d06941c79992c9be5098ecfc.png
+SHA-256-Digest: fdYjCjgQEDSS0ZSEI+ZT/DOGBaQ6VbKuOtHu5MNB20c=
+
+Name: doc/pasted-images/2634caf68113d7bd3b1e85e1df5c4aff.png
+SHA-256-Digest: tnwkWadS49mt8+LhN18d83iNYTXULEKmrNWgb7YsQAI=
+
+Name: doc/images/archetypes.png
+SHA-256-Digest: NeiHPKWmmPjmZRXygb6ueNDPImw3RWywgfaIs1dk9vI=
+
+Name: doc/pasted-images/08ba8354ba19d7de6c89920fecda9d36.png
+SHA-256-Digest: jtrz+KeOXOZixZYrVC0zkUhvEGWQToiaMV2f3uRPVJQ=
+
+Name: doc/pasted-images/9e62e7e1fca7675f7ad752de2a1d5942.png
+SHA-256-Digest: xVEelPdeDW75Zvpo5LsLJKWmu5xNsvOGH855N2nFRTY=
+
+Name: doc/images/image01.png
+SHA-256-Digest: xR8J5LJCdvcpIKp4/4Q8EDmN+HPGscAYDEjsDqhtdrE=
+
+Name: doc/screenshots/step3.png
+SHA-256-Digest: nEbnq7NWJfWaJD3u0sT5gcIFficZMXnbDt6MfrrC298=
+
+Name: doc/pasted-images/3439547e2392f4436fcef49b6bc3543f.png
+SHA-256-Digest: Kq8k/9HrfWzADVwAc+cSUSbhJpad3wI0HPBOocee2SI=
+
+Name: doc/images/genpackage_table.png
+SHA-256-Digest: gRu5A3/f5zfdRmslsRBAEZAw83drKw4zc/qU9a6VqL4=
+
+Name: doc/pasted-images/78b4f8fdbd42aac552d7b092a75cfe70.png
+SHA-256-Digest: BOQ0ZKxWnU2pUKDIUHT9MO7CufXMskwpb1li41XmKNM=
+
+Name: about.mappings
+SHA-256-Digest: qpxYMK5Tyf7Kj1k5MFQORn9dOj+jhDGlhr0AB3VIpjk=
+
+Name: doc/pasted-images/5f7afbc265b07ed59c8f543d607fffb9.png
+SHA-256-Digest: CU0pOnpuSFBv/tIf/md/oJoXfec1pkbI5NwP48dczBw=
+
+Name: doc/screenshots/classes.png
+SHA-256-Digest: UxCTuMeWDjudkqjztDC8ef8xAnqJB2d9RQSJfScPHWU=
+
+Name: doc/pasted-images/971a854713ef86708b9e112a0b7264e7.png
+SHA-256-Digest: OK9JShGMIdK/aHGxfCRRqnIeeLzlrzZhNdirErRncPM=
+
+Name: doc/screenshots/step5.png
+SHA-256-Digest: qvi/akeMwlM3qDI2C/MDvRvSRCS2FQ04LgJXxG8tcRg=
+
+Name: doc/images/hierarchy.png
+SHA-256-Digest: 9CipgP2BbVdMDm+QCPwch02J8KH8s4wlWIjqElLXCws=
+
+Name: doc/pasted-images/ef3df56cd674a82d1b09f1e8a5012d15.png
+SHA-256-Digest: PsV+rj1eTU0Jooc742QgrDUta1D5Ari2VdrhLr9FEcw=
+
+Name: doc/images/image00.png
+SHA-256-Digest: MBdYYOAdDdEehUD/n1mjSR8rp9Oo/tND+4jVT4Qt57I=
+
+Name: doc/screenshots/step4.png
+SHA-256-Digest: 4Brvm5vvC6B7N5mXhssgqI4tYdHMoDtwKt1P8ZLwP+k=
+
+Name: doc/images/documentation_table.png
+SHA-256-Digest: NwkUrqvPatAJZFNzHsPTauYLOarVlULs3fOuUrWC1gQ=
+
+Name: modeling32.png
+SHA-256-Digest: saSrfvJ79Uzl2BFpCbuVBho1UTuf14LrjD+wGJG44Ok=
+
+Name: doc/screenshots/step6.png
+SHA-256-Digest: 2D48II6oVNiPUEcqfA+jcUnnYPdRRJ9rcDfQOJ86xp4=
+
+Name: about.html
+SHA-256-Digest: 7MWzt9w49ooG6QI1ReYwyU1dD2rzKaSikmEBxFq2KYA=
+
+Name: doc/pasted-images/a0efe2337a4e8f32c1fb429555649174.png
+SHA-256-Digest: fx8i/d3i7FQzXYVCds3Vc+Xtk16QkkLaA5+gFTduUBE=
+
+Name: doc/pasted-images/d357d09ef05edd724b88a10681350182.png
+SHA-256-Digest: pATSmAAvvZAaNGVhQYbQRpOc46WYs9ZLZh5x2+H2IEU=
+
+Name: doc/pasted-images/f20119893451c23f3afb1ff3796e51df.png
+SHA-256-Digest: 3RzjYiTamu4Rl9aN7JrrmQUIEl9MUDVj/RkKN7xxJpk=
+
+Name: doc/pasted-images/590a4be95a110bd5cd35c959dd9ebc76.png
+SHA-256-Digest: M5ED39sGnhsBH+zqpSP1c/ey4j3YheEs+AFIcEGZXt0=
+
+Name: doc/pasted-images/c5f7dabe8549cd2cfc4457ba6512b42b.png
+SHA-256-Digest: PwUoRKq6RR991lWvyNLRaIMNm3uH7X6fKX+RzwCsEL8=
+
+Name: doc/images/documentation_layer.png
+SHA-256-Digest: YJGKYeD90zsbiwLRjy1ad+lCXol9bkiZFijYfNyNWIU=
+
+Name: doc/pasted-images/004266fe1a19937c4e9d577634d2d6fb.png
+SHA-256-Digest: /gk3EBISitPn7ys5svqZViU7S24boG01H0UHxZjXj+E=
+
+Name: doc/pasted-images/02b4636be8ad44ff5e8f0f699eea4e80.png
+SHA-256-Digest: mKNWxpjVrM5595Y+9i90VdF4moFN+h8pIz0imWjnFDE=
+
+Name: doc/pasted-images/9496bdbf6570c41c40fdc84c34520726.png
+SHA-256-Digest: WlQH+WFriZG/SHpDiMfVLatyKn7YsYEZBPIMkMhnK7o=
+
+Name: doc/pasted-images/c97a4efe6fbd11a2c40c1046f3684fbb.png
+SHA-256-Digest: SWji+ZcaFosMVFRZttz5U7YNQNW29ECusEUR6XORFrA=
+

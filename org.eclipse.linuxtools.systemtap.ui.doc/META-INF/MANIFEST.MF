@@ -1,0 +1,362 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.linuxtools.systemtap.ui.doc;singleton
+ :=true
+Bundle-Name: %Bundle-Name
+Bundle-Version: 2.6.5.201806122135
+Bundle-Localization: plugin
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/UnfilteredDatase
+ t.png
+SHA-256-Digest: VJBketUsR+cpfiAZNpn37JfTxRxlkQ40VGmpEIfiNEs=
+
+Name: plugin.xml
+SHA-256-Digest: 1qPMc4ylez2R+jHPWCOmKRBL23k98sZ75bPFgbqaYCE=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/New_wiz.gif
+SHA-256-Digest: Mw7wrdyp8B4GzU1mqJxRPI4W+0R2DO7mGV8A74bc+7Y=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/Updating-This-Document.
+ html
+SHA-256-Digest: DN+k2yTdndHmqCuplAaty9lSeqAjHioSgNCiXfpYiFw=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Rightleft.png
+SHA-256-Digest: SsAcA3xzdEdpj4MjWTl8Cy/aulwZhUCDNAGdb7YjdQg=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Start_script.gif
+SHA-256-Digest: ho1FtJosz/FKGA8rLVqdmlemOUZ5eHsyiHLvcpPYdH0=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/GraphNavBefore.p
+ ng
+SHA-256-Digest: eLhHGC3XKhIWuqauHG6pF9PYErqkAhqtGQD26+k2JJM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Openbox1.png
+SHA-256-Digest: e2Xc46daaGaFd9r5XRlsfhrsyEG2AuBf6D9ZzSyx7GM=
+
+Name: book.css
+SHA-256-Digest: tsp/Zyqkx8HUE6XtVXcMvvfj7uAZp9rxA7ImJ4dLaeY=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Save_wiz.gif
+SHA-256-Digest: juYDrNgRddBljUWo8+DARMLxea5gotRUXIgcA0pyI9A=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/DataSetImportOnl
+ y.png
+SHA-256-Digest: ho1pJuvR6Pf6Q1IYP+GIxkqeJ+VZEUOHSD1A5tlb9/g=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Gotobox1.png
+SHA-256-Digest: PSU4sLlOiG9sgLtvYZgQtGS9wrd/FZCzQwdh9r8QYLg=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/Copyright-Information.h
+ tml
+SHA-256-Digest: t0HLICvjMmpVAwrhklleUdQbyuLszi41cpT9cR6ExWI=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/IDEGraph.png
+SHA-256-Digest: ebBwgNwAgAyyWtDaVuK/ung/8ECeGbZBBI//8PZMMOM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/SaveStapGraphBut
+ ton.png
+SHA-256-Digest: B8MxcX2dfKZSZqdD72LDCTIgi1551lsJMKhNVHAXjWk=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ImportDialogue.p
+ ng
+SHA-256-Digest: rwmFTemu7s8KCrDWjo0tc6D/9s1Unbvx3LEK1jPcOU4=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Mod_obj.gif
+SHA-256-Digest: 9NyZjBW4KQt4l50EkQ1XnlQH8QOvALePBvK0dK6Jm5E=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Importbox1.png
+SHA-256-Digest: 9RlrCrlQHQs5rLRNPVYbGn13yA6KxaWhv0veEvuK7sM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Pie.png
+SHA-256-Digest: Lvtrt9Ss7hkQQTzVoDd5PNDwwbjEtiR9NdcIdVUEsno=
+
+Name: toc.xml
+SHA-256-Digest: Wh/gPF/2/58cCXwyfVH1bZLOU7Dv4ZRnBiyWUZazYws=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Zoom.png
+SHA-256-Digest: WjtqXivWGrAbBnz32GX/4dI8AcbX2h/kQvG4ZdoToJs=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Export.png
+SHA-256-Digest: zeoJtRmQCPD+DFhMorr910GTJp2Q00NxZ0gIEiN5fuY=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Findbox1.png
+SHA-256-Digest: 5KYFbaNTFm3RaoVNB+ZzrifwRSnYmsoWKCu6UhKN7zc=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/CloseButton.png
+SHA-256-Digest: RsQvl/jhu5krsJnNEZDUs/jXYBZJhhCfD+tBpoqTsXI=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Var_struct.gif
+SHA-256-Digest: 1cxvjcuu6Gl29kaZ0XYJTk5I1SkuXBRal9sDGbHKffY=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/User-Guide.html
+SHA-256-Digest: SZ2Xe3tpjpGCNZ8YBXu5Dqwj/wO0AtYb7oyyPUWb6cE=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Preferencesbox1.
+ png
+SHA-256-Digest: PvDnoGjJZ9LBcBQ5tCuzr+C4YwF1s68ZAkX7X6DfcRs=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Import.png
+SHA-256-Digest: xxQSHIMeJr6zA9RWucstBwNvXO54jMD/Hyz5Ji/oEDo=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/RunConfigDropDow
+ n.png
+SHA-256-Digest: P7+EMFflH/niRYWrkbgp/W9MBNQ16I0zSdjQQEVSzlw=
+
+Name: META-INF/maven/org.eclipse.linuxtools.systemtap/org.eclipse.linu
+ xtools.systemtap.ui.doc/pom.xml
+SHA-256-Digest: F2JuSpRNDNtm0M+jw2YXZeYFk2jlRNZ4QolCR9C2ApM=
+
+Name: images/notices.html
+SHA-256-Digest: at9PtgtJIuEsmGT6HoXxBZwn+OlhlzntSc7Ujfijh50=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Var_void.gif
+SHA-256-Digest: lTq3KAtaZxIVU3XcYpCpJsW5sEju3Ycm/6sbLSbFPvE=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Run_exc.gif
+SHA-256-Digest: Tg4q5ZjAkJcBMqlzxjIKbtrhu0jAQPkE69v2KwZukw0=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Var_long.gif
+SHA-256-Digest: DgVYKb0W2SZwfb7vsdXZeAwjIoKxxnK/NrmGpRdNuQM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Sort.png
+SHA-256-Digest: HWKxRfHIRwU8aQfLSANqp/1ql5mSMxGeNzC0MldQMpM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/LineChartTooltip
+ .png
+SHA-256-Digest: xP+P/oGNjOfjMScyu/5ue2Sh1Mnwpkl0XrRYkf9X5Uo=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/AddedModule.png
+SHA-256-Digest: R/tIupbTyjtgGJuV8TLzQA4Hbza6VyO2seMbBtDueFM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Dash.png
+SHA-256-Digest: RwSxYARnvRfccupC2mF366luIxIGOzw//b7iF85zwHk=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/SmallGraph.png
+SHA-256-Digest: WfOYbMz6u5KBLLW5Bp6z2vt/ziby52oTDQTpNw/iPiY=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/GraphingPerspect
+ ive.png
+SHA-256-Digest: laIfiYzi3GwDD5bJqlk0/YL65ZC1L8bxu9HPHprmpWE=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ExportScript.png
+SHA-256-Digest: 9hJJDYqY3Hl4UGdCIeF/jxIxEpmQYt+HTRzLdSoS7kI=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/SystemTap-Dashboard.htm
+ l
+SHA-256-Digest: f2IhlpkOz7uX7IqguqQcFlwvKzB3LSD1Dzxb7o7n3pk=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Graphing.png
+SHA-256-Digest: uCiCvgB1e+hYty3Mrga3iKPJHhEG76QdHGqkiKU8ouQ=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/GraphWizard.png
+SHA-256-Digest: 4o1pUWfxvSO6fVCRb9oDQfpkZi5Du8xFBHBlui3iZxY=
+
+Name: META-INF/maven/org.eclipse.linuxtools.systemtap/org.eclipse.linu
+ xtools.systemtap.ui.doc/pom.properties
+SHA-256-Digest: /sWkBqnBJIkUtPvNoH3cdm0tLtREbGEYGX23ic+wzgA=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ErrorLog.png
+SHA-256-Digest: 8q0mzhB/eTxvj0tqI8YQuTPMyzWlBvFZECbXTlzCdQQ=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ZoomX.png
+SHA-256-Digest: 0PHjV1qwYYqc7dAKLIeDR/Mec6ZKRDYx3dbwXAIjCDM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Line.png
+SHA-256-Digest: LYdnOrXK5la0dicfdohFbDEQ0M2iDkAT6uH9yB1SjWA=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/DataSetImportExp
+ ort.png
+SHA-256-Digest: ib0neTlXgGwiAa1+EM+qMcHulDXBTliPXamQgylHwW8=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Function.png
+SHA-256-Digest: Bw/hP9xtdMTaQ/SdMEVpcgcSjB+sIXqOTnRTb1Tmy2E=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Consolebox1.png
+SHA-256-Digest: lWIJpnA0JpbZNHtYfPYcP8pGzM4ODALUtKLIISLVftE=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Area.png
+SHA-256-Digest: f2u4I3EqBQFq4pyHaDn65U/O5Y0Bg6+RV87PX9lwTf4=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Var_unk.gif
+SHA-256-Digest: weK9wur+4lPTDpkQGbxlM/0CfTjhR1yLwU2C6kDlv6A=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Newbox1.png
+SHA-256-Digest: xs22HcLx6teJMMJXy48zHveUoS4HDC6seWEmwK5dJSY=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Bar.png
+SHA-256-Digest: 6cOkx1hKnUhbfWwItt8e0UELQEgGb5PeeSvrqA4xs/w=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Multiconfigs.png
+SHA-256-Digest: maPKAFv0aM+cmAVafjU597Fx/J6n5v62Vj9q+11jTdY=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/IDEGraphics.png
+SHA-256-Digest: mcTWnupu7YcMmsSjt5eZNUgDc1XKLpq+2C7CLexk4fA=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Pause_script.gif
+SHA-256-Digest: pWn1uGVCapQrCIh0L+F9e943YiE3q0YhRmN62v3SFDw=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/SystemTap-IDE.html
+SHA-256-Digest: LqFI3bDDHyF1TwK7bjpJPY6m3X5m4anEYvrHh9x0wwI=
+
+Name: plugin.properties
+SHA-256-Digest: 3wvAfDEh47YZ1ykKZMbM7K4WgosQvfEyEDaoFM5cc5k=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/RunningDashboard
+ .png
+SHA-256-Digest: TEhk3RGtN8wexnl9zmU+WzeVS06YrqtPn8Znq8zxEAg=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/GraphNavAfter.pn
+ g
+SHA-256-Digest: kLdMpa0lVdFGkptnf0F7NiQG5hoEsvzt6Uv+LquZRb4=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Open_wiz.gif
+SHA-256-Digest: wqM4dtWs3nUwodFkJVClht2D4gVOEQcYjXTU+4r9iAw=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/BarNavAfter.png
+SHA-256-Digest: Kq+bnwETNNAJIycjuKmkQsZ0TLr07CFPirrKCa5k7Cg=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/IDEConsole.png
+SHA-256-Digest: RA8ZujvI1g0/hraoZJzQSvYUCfRKMcYLh6TWuefjr48=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Script_details.g
+ if
+SHA-256-Digest: rFBZRLINOSjAe1J2CFiZkCJcAf3H6tFaDkBH9tjfUXE=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/SystemtapNewRege
+ x.png
+SHA-256-Digest: ozQsGL8fUZj7Bvgy/v70zXcf8voFnZFKMieb1TUdLus=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Run_chart.gif
+SHA-256-Digest: vluDRSrEmXG9mRayJC6uv2xTEK72d0S6FlGl/TnGZ34=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/AutoGraphAfter.p
+ ng
+SHA-256-Digest: hoVBPopgnVsVLyzQhdwnnUXapFLJ0hsfJipvyzJglkg=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/SystemtapGraphVi
+ ew.png
+SHA-256-Digest: /OyvTxSW5zrO7x2rrBDURVC3zUeyTMHTahvPi3uzWVE=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/GraphingTab.png
+SHA-256-Digest: JCuvgdtGHmVRGEg65uujrmGJ0I43E03JNgaJGKcvyEQ=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Chartbox1.png
+SHA-256-Digest: IRcBwa9VB4ZiW+2m9BimDRAcliOjfgDSVKdR+RYZcQk=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Match2.png
+SHA-256-Digest: 4eOdZ252R4OaioXR+kjojWwiYRyH62FhSqvrupV6sko=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Editor.png
+SHA-256-Digest: 85U0bx7dfRCLC7MatiKUk2Ak4W8Tkfjbry2V0vmtvIY=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Import_wiz.gif
+SHA-256-Digest: yiVql2uJLzUiZ71s2dt8KIsnZ0QPDtwe7Ak/FYeu9fQ=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Scatter.png
+SHA-256-Digest: /uVVCRyZP7knpWhjlhuN5JLBKogFGr/dJnfFSDA+sGY=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Filters.png
+SHA-256-Digest: NlCwfipkjpryNlCAe4BB62CNhxKjD7gusmw0iPzop4w=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ModuleBrowser.pn
+ g
+SHA-256-Digest: axT1SM1hLi8ylfsYoqm6YUoQufXTMHukMxPk+SK0ocM=
+
+Name: toc-doc.xml
+SHA-256-Digest: 9rDnLGWcTyzfDYMkJip9Y3wgM23RH/++j4LQbr2Vmco=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Viewbox1.png
+SHA-256-Digest: 0dyzDVFGBBsutR6B/ybUyuIYpFXUmvPZIx9ue22FRew=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Unique.png
+SHA-256-Digest: gkUV7X6H7Bmzi2f9dzZFXp7YHi1OQskIt41tTuAYwLQ=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/SystemTap-Graphing.html
+SHA-256-Digest: ZCoLk1ZLJN6Yhch7MmEB7ISTRP9HXwEe/l83nJpWahw=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/SystemtapGraphDa
+ taView.png
+SHA-256-Digest: k9cnSjgMZbKiCev/iDfeifRv5953/r8VDrZ0UOCXDPo=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/BarNavBefore.png
+SHA-256-Digest: yDsvr5pQ1CUUqB2RGKwR0+y/QFFFZx41FqWSwKQP0vA=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/SystemTapRunConf
+ iguration.png
+SHA-256-Digest: yrYS1UK4UZzjZiDMajJFspHuzktnglgz4av8Lk2lThg=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/IDEOutput.png
+SHA-256-Digest: mPUcArTlDw5YxRwdsvEEpjOg0XgeyGiLTMm9KvCLWSI=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ProbeAlias.png
+SHA-256-Digest: g4SR/M1aL/3vZKq+xyC1PJMiecjhnnqwZQ1UfuR/4E0=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Newfile.png
+SHA-256-Digest: n2ZwGI1xiIihDKrzSOXKtHzLaSOAHS29DixMy36KCfM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Match.png
+SHA-256-Digest: oAK+Ulsrs6hcVthAKqJX39cG/3GBTV8KKLx4PYk0jug=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/GraphExpanded.pn
+ g
+SHA-256-Digest: m95ENaMS49+08QUuP27Px0FaDZZz0hfXmxs55Vp22yI=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/KernelSource.png
+SHA-256-Digest: XHVsrY5LDM8DH5+bJBRGfDHZwv3vFTWeflFUSlo1vZU=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Stop_obj.gif
+SHA-256-Digest: TE802GttkNpbgC/xdSDietf/MIWlKLif9tcmG5fQa94=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/StapDataFilters.
+ png
+SHA-256-Digest: DM9gZaHO/WWU8gvG9DmSMxbhQ1Wvr84l8+G3fStKqOI=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Ide.png
+SHA-256-Digest: RtL3+durKTHD1ziKdQ8XmYn9ADO6FhTStbSHv7bFcbU=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ExpandButton.png
+SHA-256-Digest: /PIE6awDdNoChCTsEE2n6I3awknRVS9ArBxZ15YAuGI=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Export_wiz.gif
+SHA-256-Digest: rDwwcmFIVkgNAzCA6Rsq62V08u03zLu2a3AbAOW4QuM=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ActiveModules.pn
+ g
+SHA-256-Digest: BSQ0/UZOerXSx+BUuqIrL2k2u3N4ZvE3BRN5/p0vjWk=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Range.png
+SHA-256-Digest: 13hVfgZb09Ijq8LVoAzSHD+JpKIzCbtwJNWHdAYjTrc=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Sort2.png
+SHA-256-Digest: Qg5sBsKjtabOvK64SXhH07PJHnd4yJLjHErCIqWnU/I=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Var_str.gif
+SHA-256-Digest: fzKpBeBMl17FyHpKdDUf1B8EZQI34D+y2IPOgZVv1rg=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/ContextAssist.pn
+ g
+SHA-256-Digest: 1ApC7ujeZZYIPlxnDPaxVEYeWfewpQYmBJtr/L4SVKs=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Saveoutput.png
+SHA-256-Digest: 8RmYmWQp8rO8Ked0zu6hoHaaerhDcwIMg2+ERmBe+ak=
+
+Name: Linux_Tools_Project/Systemtap/User_Guide/images/Range2.png
+SHA-256-Digest: gMipRz5vjaklqX/9hsFJdhODG7g8k+nng8B8SbYXH0Y=
+

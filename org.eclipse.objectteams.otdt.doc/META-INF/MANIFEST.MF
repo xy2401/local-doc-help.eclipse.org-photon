@@ -1,0 +1,1955 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.objectteams.otdt.doc;singleton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 2.5.0.201606070956
+Bundle-Localization: plugin
+Bundle-Classpath: .
+Require-Bundle:  org.eclipse.help;bundle-version="[3.5.100,4.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/object
+ teams/org.eclipse.objectteams.git;path="plugins/org.eclipse.objecttea
+ ms.otdt.doc";tag=builds/201606070956
+Bundle-Vendor: %providerName
+
+Name: guide/otjld/xdef/s2.5.a.html
+SHA-256-Digest: 7+MkQh1bK9AepE/JGY/igRVfdOPkcUdvp4umI5HQYkA=
+
+Name: guide/css/style.css
+SHA-256-Digest: gkwCB+eqMOlVWt60ETh794iOigicddjtLTHglwP7n50=
+
+Name: guide/images/screenshots/debug_prefs_filtering.png
+SHA-256-Digest: FrDZ8BojIINykfiu1W2AGENklVJ9B5+7kjJYQDKlXfs=
+
+Name: guide/otjld/xdef/s2.4.1.c.html
+SHA-256-Digest: IUzfyAPpgOfWW4DE41qOhXNmb76at2NEn1nB2DgJ3o0=
+
+Name: guide/otjld/xdef/s6.2.e.html
+SHA-256-Digest: CjpttXEzhN+GyKK8FsPki+4gLT/udEi+5Z7oAQ3Wu1Y=
+
+Name: guide/images/screenshots/implicitRoleHierarchy.jpg
+SHA-256-Digest: tJV3El3+Wqhv5EFYdVKHzJyMQeEdyXIeT8RRL53h+FQ=
+
+Name: guide/otjld/xdef/s2.3.3.html
+SHA-256-Digest: 5yKllVlcv6QH9q952avCcmod7wwbhCrVg0hRaY5FbhQ=
+
+Name: css/tutorials.css
+SHA-256-Digest: JYFof11f78GVZlMKJBikJFiNx+SUNEOXsY781XZj5J4=
+
+Name: guide/otjld/xdef/s1.2.5.html
+SHA-256-Digest: YR/JXQyeKS2B82JTK2KcWZ3OIaje8AI0DC8QQBYICkA=
+
+Name: guide/images/screenshots/NN21/callHierarchyLifting.png
+SHA-256-Digest: ayb/ueDalge/sHEB2YIireqIpTsyifG/vkkT99BTayw=
+
+Name: guide/images/screenshots/typeHierarchy.jpg
+SHA-256-Digest: wEQqluBwJqLsI/KGhzz42iq9dby2Ytf7K2kslqE8Sfs=
+
+Name: guide/otjld/xdef/s1.5.d.html
+SHA-256-Digest: rxoAoZcq/K6rSzEtkBFjoX4G8uD3HWSLIXiJ5Aa4hQs=
+
+Name: guide/otjld/xdef/s2.2.b.html
+SHA-256-Digest: 3564J9pD2bIeBMTICNAq9gI0gMGEAmGBLxsPCGhhffc=
+
+Name: guide/otjld/xdef/s2.6.b.html
+SHA-256-Digest: DEEmzLfy9RAYwulWqbzgTPt1133WcqhuABwan39eCOQ=
+
+Name: guide/otjld/xdef/s2.3.3.d.html
+SHA-256-Digest: zAVAFZLQ0DAyPFQ7BmmiKw+BGLA24QDwQ3APPaaN84E=
+
+Name: guide/otjld/xdef/s1.3.1.h.html
+SHA-256-Digest: 01kfgkurXKnw7rZ2Lk2fQBli6IwR0afrAujFKWU8DNk=
+
+Name: guide/otjld/xdef/s6.html
+SHA-256-Digest: g8xZy5PazBOceH11vFgv+0ryeN4T0SULKD0QyyR4IRY=
+
+Name: css/graphics/obj_48/othov_obj.gif
+SHA-256-Digest: wsvrieJf9UTDSX6x5iGqJ/xMaDpHOI5ccfHOpcc6GG4=
+
+Name: guide/bindingeditor.html
+SHA-256-Digest: jiGGrQ0CG89XMeq158z4O2DUKU2E3RYEHCtTqryESoY=
+
+Name: guide/otjld/xdef/s7.2.b.html
+SHA-256-Digest: I31+58eHcKalem23IMijiZcZSCrvBZdJg1n4/b+yQVw=
+
+Name: guide/otjld/xdef/s9.3.a.html
+SHA-256-Digest: 2wqTEqOde8CP0C+3Nm9zTg60JFJD8sUTzWEOEx2D7oQ=
+
+Name: guide/news/new_in_2.1.html
+SHA-256-Digest: NXeLCRH5+8wjojwKgRYFuIxoSD4g8m+pGnnxAUCeb+4=
+
+Name: guide/otjld/xdef/sA.7.html
+SHA-256-Digest: BRdAmGZlFiU7JFlanKzJPGK1UP3ua4SoTlNC1Htb5ns=
+
+Name: guide/otjld/xdef/s2.3.c.html
+SHA-256-Digest: Oye3/SJo8DZCREZTeV4jJH41bqwK1TgevxfgRSMN61g=
+
+Name: guide/otjld/xdef/s2.1.1.html
+SHA-256-Digest: hWEqZ8SP5Q7xDRhu2goKvV9u8y2o74LKCVEYAuqrbi8=
+
+Name: guide/otjld/xdef/images/Layering.png
+SHA-256-Digest: 03YZ4vY6wo02ZoXGZWcuxC2UrVY7MxpLXNW35/HbFLQ=
+
+Name: guide/otjld/xdef/s1.2.2.a.html
+SHA-256-Digest: qM/qfu4Fk7c6HPAzBFkAlvWjZ7xD8me4GhQQ3L93ZL8=
+
+Name: images/team_obj.gif
+SHA-256-Digest: rLJq8YKmiWz2+zss2UjlD3x3EtAG+oaZEm3gj8TN2wA=
+
+Name: guide/images/screenshots/callinmarker-menu.png
+SHA-256-Digest: 7L4hQW2wOgLx4DofISnJTd+KWWb8Jny0BQMFpiwzW8I=
+
+Name: guide/otjld/xdef/s3.4.a.html
+SHA-256-Digest: mMfAlWqvV47Dezq8RW4l21GIhhXAyXZBPsVowG0wR0I=
+
+Name: guide/otjld/xdef/s2.3.2.c.html
+SHA-256-Digest: yLDKTmFS/fsZvofpuP8+lfoMZQs4dUwE14GsuButuTk=
+
+Name: guide/otjld/def/s0.html
+SHA-256-Digest: dDFQ2EAyClTLbhtorJ7N7M1jdrG6KhvF+w9Dw2c054Q=
+
+Name: guide/otjld/xdef/s1.3.2.html
+SHA-256-Digest: JMGwsoZs6hDvRYQuqu67H4pA8DG11MUAbl5z3UCOlI0=
+
+Name: guide/otjld/xdef/s5.4.2.a.html
+SHA-256-Digest: AkTlcXdo7NBw+Cwq810a36uB1e4CVkG9jJGRiHPLf+g=
+
+Name: guide/otjld/xdef/s3.1.b.html
+SHA-256-Digest: TlJMQvbZ53HYBqKWvf1eZqFjb0R0NukhwatVy8mQHbg=
+
+Name: guide/otjld/xdef/s3.5.b.html
+SHA-256-Digest: SeR18Bt9M7fCoTG33F+MI24kPQasha4Apk58pzCDrSk=
+
+Name: guide/otjld/xdef/s1.2.2.h.html
+SHA-256-Digest: DNVYpo+6o0B4+SIsJTfnfl8iCv8yRldWkpqq7Wt69eI=
+
+Name: guide/otjld/xdef/s1.2.3.b.html
+SHA-256-Digest: dFHq3I7oBRkTn77LbLIP9VbX/ii7L8Qi+kjFJNs3Rd4=
+
+Name: guide/otjld/images/valid-xhtml10-blue.png
+SHA-256-Digest: L4TikZe2qDMpZSE8h0eAIguOMMX6NJdBWGJS3L3xgdU=
+
+Name: guide/otjld/xdef/images/smart_lifting_small.png
+SHA-256-Digest: WgV1tuXEJdSYbT1VXozR4TuHWgg4mDOfNlHuXXGLmA4=
+
+Name: guide/otjld/xdef/s6.1.html
+SHA-256-Digest: 5xcu2TXIcQ7DKVnNQUHyXAlkYkWs9+21TjTEmNPAgDM=
+
+Name: guide/images/screenshots/NN07/ProjectErrors.png
+SHA-256-Digest: +t2jd3Kj8VgE6vUgpvSgrMYdun5WyH+h8oMZ+qYmfF0=
+
+Name: guide/otjld/xdef/s3.2.c.html
+SHA-256-Digest: vuny7u9OUHOxyfchS9fMDyDQ1cRWFSjeU0Wtq8snoXs=
+
+Name: guide/otjld/xdef/css/heading_right.png
+SHA-256-Digest: Uur70LCiPeqVyvlKccf9ZpmqxcImkYkPbJinvBmzD8k=
+
+Name: guide/otjld/xdef/s2.1.html
+SHA-256-Digest: 2lJP1zuF/XICOTcNtmQrLZ3ovPGWmOLylLq4uRctQhM=
+
+Name: guide/otjld/images/trac_logo_mini.png
+SHA-256-Digest: m4QlDRmz5C1fGJ4hTa77azEAlPpEj5/2SxUT8Jj60qs=
+
+Name: images/tm.gif
+SHA-256-Digest: k/j5Zjg9J/Glria0wjFpB353RqrgNwJpBJSIHVlVA2Y=
+
+Name: guide/otjld/images/smart_lifting_small.png
+SHA-256-Digest: WgV1tuXEJdSYbT1VXozR4TuHWgg4mDOfNlHuXXGLmA4=
+
+Name: guide/otjld/xdef/s4.6.html
+SHA-256-Digest: rxnCF4Q9qGJuuhDMVRoWcrFBpYe7fWzjM8gDUzD4XY0=
+
+Name: guide/features.html
+SHA-256-Digest: LrWZHP7FbV/yVfGeFQ1oJeiB8jeBWqUQBu/VdOeWKaU=
+
+Name: guide/otjld/xdef/s2.7.c.html
+SHA-256-Digest: VpCmAtJe6e4nlKNoEjSxDngBfLCNLSEKqVHrRZ5j4OM=
+
+Name: guide/otjld/def/sB.html
+SHA-256-Digest: Y94Wjwzigv8T3CsxOXN+ogPjJ5bC0A5YY0BEtvOuo3g=
+
+Name: guide/otjld/xdef/s1.2.1.g.html
+SHA-256-Digest: o+pLCz+T3I+T+KygMGhrJMdCWWVUz9brASeFaXSrkaU=
+
+Name: guide/otjld/xdef/sA.0.html
+SHA-256-Digest: kyosbNjPCN7Q26r8gZqglqSQMpJCzAQcUBbM7lEgEmo=
+
+Name: guide/news/new_in_2.5.html
+SHA-256-Digest: YCmdIYo95L9kacVQmrgXetQJkhROjV1oR+i2J74UUdA=
+
+Name: guide/quickfix.html
+SHA-256-Digest: /kQYidQStMID1BaDoNAMzndXNjZvqSF3C8LvWnlKOXA=
+
+Name: guide/toc.xml
+SHA-256-Digest: c8sRFmu1plxeLjS4voT0NiiC9BJ1fiz4oa2ZfapFLd4=
+
+Name: guide/callhierarchy.html
+SHA-256-Digest: cKbkl0K8uRTmzEeOo23OoRJKwZkv8JxXGYlteK7LCLY=
+
+Name: guide/images/screenshots/complete_binding_2.png
+SHA-256-Digest: 1A0asG9/BAzP6/WksPVdiXtDWzBTjzeGkimLkEVGho8=
+
+Name: guide/otjld/xdef/sB.1.html
+SHA-256-Digest: kjNv7BAhTOeGqadQsxfifNs5ZQWxa7Y68d2NF0OrO3A=
+
+Name: guide/images/screenshots/CallHierarchyLifting.png
+SHA-256-Digest: L7SuoEzgNSdEmgq/uGrGmPXxLP+XEiDMSvGGvt3OEhM=
+
+Name: guide/otjld/xdef/s3.3.d.html
+SHA-256-Digest: 9poCZxc5pPQK3hBDuRPrskle3IAPJrRNGkuazwhuO7o=
+
+Name: guide/otjld/def/images/implicitly_overriding_playedby.png
+SHA-256-Digest: RsVhBQ9aV1j3pNBNP5xUPTOSDEVvD8at1oi0I8LlmPU=
+
+Name: guide/otjld/xdef/s0.3.html
+SHA-256-Digest: TG6MLknObgrPIkBjbI7Yoc6slowBQNhgyR/fTR34GSo=
+
+Name: guide/otjld/xdef/s7.2.html
+SHA-256-Digest: dJFTH8Xe0RW470Q60i3ZTFQSQ+WfnWzFsRL5Io2FBwQ=
+
+Name: guide/otjld/xdef/sA.html
+SHA-256-Digest: vE631PwT9mGSNtNWub3rVXMsiSlwJ0uuXAzbAaT32sQ=
+
+Name: guide/images/screenshots/perspective.jpg
+SHA-256-Digest: XcnOUUp+mFmDGOKknHFRLNK7xbpp76N7npHAyqbEHgQ=
+
+Name: guide/otjld/xdef/s1.2.1.d.html
+SHA-256-Digest: NGPf5hyQ/2mSjuDKtdCUCg2+lj1ZsHkwpd4GyrSKh50=
+
+Name: guide/images/screenshots/JRETab.png
+SHA-256-Digest: 4j7DbIlvW6lfkjCmLspCCTFqjRzPZ5W/A9Ui7lhxDJ0=
+
+Name: guide/otjld/xdef/s2.html
+SHA-256-Digest: 9Ey1F8fvxq5baf0U+ZqsvBJxMOeYPfDs85pvn6JzMDM=
+
+Name: guide/otjld/xdef/s5.4.2.e.html
+SHA-256-Digest: dyOw11FeXe7kvOHwwNkaomLneoJihfBf+bgk8kKeZJc=
+
+Name: images/java8.png
+SHA-256-Digest: k+jlSrEBBOPqJrLQrnGczrTwvDAjTPgKAW5h6LicyRc=
+
+Name: guide/otjld/xdef/s3.1.i.html
+SHA-256-Digest: ZcH3lhxhA9XsU4SoCKNt6FajbjBPtNlZkP6k692Msj4=
+
+Name: guide/otjld/xdef/s3.2.html
+SHA-256-Digest: wcxWpL1j62EzCa+Ca7RmAqQu0owCoYlLDz69EZk0AKY=
+
+Name: guide/images/screenshots/addOTNature.png
+SHA-256-Digest: pCuyjJBll7igiSaeojLD+CjQzAkg+IbmMPdiVlnbzA0=
+
+Name: guide/otjld/xdef/s3.5.html
+SHA-256-Digest: jEprWj8Rd/+TSOE9KKWy1fOCggGCEjmSjTgocM3GPDs=
+
+Name: guide/otjld/xdef/s5.4.1.d.html
+SHA-256-Digest: NFv0FQXewYXE0s7HevDjrynYyPf8xP+asy7WVs1YweM=
+
+Name: guide/otjld/xdef/s5.2.a.html
+SHA-256-Digest: rJkRMzA75WDRr0zYl69SuSiezILWloArnhgRB0ydv+4=
+
+Name: guide/otjld/xdef/s2.1.a.html
+SHA-256-Digest: ELA1YM46V2homORWl6fXrLYgh3bAl3YXIQ2l6ddOyH0=
+
+Name: guide/quickassist.html
+SHA-256-Digest: Vxu9ELhrwBmHXwuOvgjP8O97rYDcCSahwUlzL8Fww8Q=
+
+Name: guide/otjld/xdef/s1.2.2.e.html
+SHA-256-Digest: ufc9rnbHi5KpkbG8FhqaIKi2pRqcf3hgkyegXLtrVZ8=
+
+Name: guide/otjld/xdef/s2.4.html
+SHA-256-Digest: jVZGFKoFGrHWAIjDTLSBHBn7b+qBaTzSyRAXnhWVsho=
+
+Name: guide/otjld/xdef/s3.5.e.html
+SHA-256-Digest: iTWWJulu+q/eU+qBWX1JyG5ZYSAdFgmEzVj5UhzfzIM=
+
+Name: images/callinmethod_co.gif
+SHA-256-Digest: wXIxt/bfX95YRt7yFRs0yL5gPjs0qW7RFzc/Udu2zwE=
+
+Name: images/over_co_ovr16.gif
+SHA-256-Digest: Ne3xvo+k9p7gNftHQdzs4hpkpjFPofMCNcljZvbRlXg=
+
+Name: guide/otjld/def/s4.html
+SHA-256-Digest: rikzxNdg0EjdWB2cEUf82aPYqeHvTUVNUrcbhg3Hj9A=
+
+Name: guide/weavingscheme.html
+SHA-256-Digest: GE1QtKQh+fBYkFk1I5izClb1PiVgNrXNMxZSA5Fibqk=
+
+Name: guide/images/screenshots/NN21/MultipleCallins.png
+SHA-256-Digest: 1mlidr8Jybfk/serlnk1pQSkWi6kOHrmxxynVssCYCw=
+
+Name: guide/otjld/images/junit.gif
+SHA-256-Digest: SaqZ2k0jvBGEy/bpaiQvgfQcO7fxnB8OVq7o47D/sT0=
+
+Name: guide/otjld/xdef/s3.1.f.html
+SHA-256-Digest: 8ruAmLU3UOhlgfihd4zHqjESw9DI8WOUsCjr6f/kcwg=
+
+Name: guide/otjld/xdef/s1.4.html
+SHA-256-Digest: TBNmYtapQvy+OjiEeHH/+KEHOgSbX7D3OvRVQzP5uhk=
+
+Name: guide/otjld/images/implicitly_overriding_playedby_base.png
+SHA-256-Digest: pSuxS/DXZILTzdwg6AcBOCZGAT8ktncI55deNh2hj9Q=
+
+Name: images/team_act.gif
+SHA-256-Digest: 9jg+8iMdb/fhoo2l0+pMhs6+8dPCrW+Jv2GVNyLR+QE=
+
+Name: guide/otjld/css/otjld.css
+SHA-256-Digest: 5faVpQgLWmKe2o2o4Pb4oFSQv3p2SiLTfv9RKoAGwZg=
+
+Name: guide/otjld/xdef/s4.3.d.html
+SHA-256-Digest: lXWX/bOaHsIw1CzESjXB/EGqnrg3gql6FXRKQHUWAWo=
+
+Name: guide/otjld/xdef/s1.2.5.d.html
+SHA-256-Digest: 8aW51KiuCBCgzxtKVto1fWm+AVMqplvzDWQXCLdT+KQ=
+
+Name: guide/otjld/xdef/s5.3.html
+SHA-256-Digest: LzDGBtsy+AS5TDP5bkT+Op3H+VzZvTI0HtffycUNWxA=
+
+Name: guide/images/julaunch.gif
+SHA-256-Digest: DLKSkix/xfZKlwLBjaFyi3US2sHVvGZbqQKfB5s8NyE=
+
+Name: guide/otjld/xdef/s5.4.3.html
+SHA-256-Digest: xKqSa/NxhXFZp1sNNpnmebQ4oFNTkDOc2jEYmYsT3rg=
+
+Name: guide/otjld/xdef/s2.6.f.html
+SHA-256-Digest: 16ehPcNO5P6KjkpjK4qJSn+g0CZDCoX2+7ZJVGUfIMk=
+
+Name: guide/otjld/xdef/s4.3.html
+SHA-256-Digest: PGq5gvr9f7r94eMzgIuGEzoQvv7jQMFClmttkyHjNXg=
+
+Name: guide/images/bug.gif
+SHA-256-Digest: /PZqhHgedV+B8SXY8GNbmU7lz1zNFutdFY4TdDRy79g=
+
+Name: guide/images/screenshots/BindingEditor_FlightBonus.png
+SHA-256-Digest: X9fyf38n02OIktM5dyMvHd267Bf9wxtY3kcZNuV5eik=
+
+Name: guide/otjld/xdef/s5.4.2.html
+SHA-256-Digest: H2rBAKS53WUF/Dv4ibU6+15VcIp5AVNMFyTzF7gY//I=
+
+Name: guide/otjld/xdef/sB.1.2.html
+SHA-256-Digest: Uq4MXjkxuEskyjXCE8sL9v9fHO6gD3gD27Hj0PcON2o=
+
+Name: guide/images/screenshots/NN23/QFAddAspectExport1.png
+SHA-256-Digest: 4Xtj/LDKkOtsAXtuF+HWFsB7kaSUt6R1iOCb9+OJgNE=
+
+Name: guide/otjld/xdef/images/implicitly_overriding_playedby_base.png
+SHA-256-Digest: pSuxS/DXZILTzdwg6AcBOCZGAT8ktncI55deNh2hj9Q=
+
+Name: guide/otjld/xdef/s8.2.html
+SHA-256-Digest: QIiIaj22PHVOnCyInfRAbrpN605L+oH0GhS+Ke7+stU=
+
+Name: guide/otjld/xdef/xhtml11-flat.dtd
+SHA-256-Digest: F//0g4X7JIhRF0C1QXxCI/nm+2CZajzzaaBVi53LN5g=
+
+Name: guide/news/new_in_0.7.html
+SHA-256-Digest: WPNRWuecF/pAgGvQ0GZcfqmaKOw0kH+tgja/YQKunVI=
+
+Name: guide/otjld/xdef/s6.1.a.html
+SHA-256-Digest: TH31qccsnopq2JEJh8X03NiUepj0EZJjAXX68L566Sg=
+
+Name: guide/images/screenshots/NN07/GoToLangDefGutter.png
+SHA-256-Digest: Ey2GubNJ25nyTmsMaZvld3+uM/bRTNrsKhspTsOnSBk=
+
+Name: guide/otjld/xdef/s4.1.b.html
+SHA-256-Digest: rvLZkaUrtWp0SktB7D9MQFTIa4S10AHQhtwo+Kzr7aU=
+
+Name: guide/otjld/xdef/s1.2.2.d.html
+SHA-256-Digest: kiAwYwxtfeKuAZhIGvBP+D1cYSQuudh/E/o4ykUF+QU=
+
+Name: guide/otjld/def/css/valid-xhtml11-blue.png
+SHA-256-Digest: 2MqpT0Jv4MKGA3sds3olFghVuQH+cLbB8UYIHcnwX1A=
+
+Name: guide/otjld/xdef/s4.7.a.html
+SHA-256-Digest: ChdQHyDDW3UL2i0UIS5r5MbzC9s8nS599PARnBI+Ve0=
+
+Name: css/swt.properties
+SHA-256-Digest: DUCDlyOyk92LZOxlXmXrYnKw8AroJlsSyetK4bHdi+I=
+
+Name: guide/otjld/css/ot.css
+SHA-256-Digest: exEYeURuA/J/4A8Q9tZYdSkZtKm2mehNOdF1A6vDr2M=
+
+Name: guide/otjld/xdef/s4.9.1.b.html
+SHA-256-Digest: GUicdYIjH36gbxG6pWfengWQhnVGWnvGVvZ8cobGw0A=
+
+Name: guide/builder.html
+SHA-256-Digest: 0Ooks4AV2ckRnMS7uwqnCKMVjr8ezxuOZeXzeR2Gliw=
+
+Name: guide/otjld/xdef/sA.4.html
+SHA-256-Digest: lAC5ue6SVQrKJg4K9EUVS/QsmeMekjqISX4N24SirLo=
+
+Name: guide/otjld/xdef/s0.2.html
+SHA-256-Digest: e9rJjauPV/XYAW7XFk29q4Qn7uEnGkxx+niSOaQsa54=
+
+Name: guide/otjld/xdef/s4.9.3.html
+SHA-256-Digest: oc86xWaKSCNDFvZZjvLrZ+NLDYmgqN8HTEg1Mtaty74=
+
+Name: guide/images/screenshots/NN07/BindingEditorCalloutToField2.png
+SHA-256-Digest: +nwiorGmfsksM3TXAy538N6XzZp3uGUTriunIjjopVk=
+
+Name: guide/images/screenshots/RemoveSignatures-QuickAssist.png
+SHA-256-Digest: z1aG8Bueuiyn335a7op338axRu/17q0ny1OGzTzZX90=
+
+Name: guide/otguide.css
+SHA-256-Digest: xj3eIyFNr/7G0qLRrVV93WV0sxP9xB4gG7FojCfozoc=
+
+Name: guide/otjld/xdef/s5.3.a.html
+SHA-256-Digest: 4WuV4DYn8Cy4uOowJKOTJkUVjNJeqh5DncnmoBDZWT0=
+
+Name: reference/extension-points/org_eclipse_objectteams_otequinox_asp
+ ectBindings.html
+SHA-256-Digest: /OKc/JKcmjBosynyMsKYnPr8zYNcvsZnniLkdxcIrSQ=
+
+Name: guide/images/screenshots/NN07/ProjectMigration-QuickFix.png
+SHA-256-Digest: V2kXashInHD0E5BOuvMPDI9aj1/jDixpTuZlmmy2ASU=
+
+Name: images/heading_right.png
+SHA-256-Digest: Uur70LCiPeqVyvlKccf9ZpmqxcImkYkPbJinvBmzD8k=
+
+Name: guide/otjld/def/s3.html
+SHA-256-Digest: c+w48v51ngl5CcRpJPuWILzMlPFGRlhTpmOSTKbqlsI=
+
+Name: guide/otjld/xdef/css/line.gif
+SHA-256-Digest: i4yfMAYTZfgH7sEbLkFb/0koqTdA1xOKWatNAWnRyfA=
+
+Name: guide/otjld/xdef/s3.1.html
+SHA-256-Digest: aF5c2KqlJqWId32uJoi9IrqdvnsTJ96c/hRBSM2mswc=
+
+Name: guide/otjld/xdef/s2.3.5.b.html
+SHA-256-Digest: Aa1N2jadpQZ4cef2KgyDLlnNY97pwq7kledMJ90ACRA=
+
+Name: guide/otjld/xdef/s4.5.f.html
+SHA-256-Digest: Uqpzw0LrXEsrptT5PKLwVR4M7tb9efjSjPGlPF3ZYXM=
+
+Name: guide/images/screenshots/NN08/ExtractInterface1.png
+SHA-256-Digest: 2XXr//RfLq6855P+F6n4NIOgFLihZFqOtaIz6AluSHw=
+
+Name: guide/otjld/def/css/otjld.css
+SHA-256-Digest: ZD29rPhV/wv/GQ9j4s2AktxkqZuy0ATMZWcvUFvwoMA=
+
+Name: images/jcu_obj.gif
+SHA-256-Digest: /WY0gtC1MRRAYmoRw7oGgTZLWTOBt1xTKJmynsyF3ow=
+
+Name: guide/images/screenshots/outline.jpg
+SHA-256-Digest: w89EFoS865A5vPzO3AnGvkQW8tC5moOF3NKK/JXZWqI=
+
+Name: guide/otjld/xdef/s2.1.e.html
+SHA-256-Digest: ILRKoq1UOIEN/MIITiIGXo9CLqPxcoa+8KqTweNi2UY=
+
+Name: guide/images/library_obj.gif
+SHA-256-Digest: ybbpLgjspNK9OIR/AZdvx/SHIzeWB7qrHElzTIqXkQM=
+
+Name: guide/images/screenshots/complete_binding_3.png
+SHA-256-Digest: IprJ0Pm7RfPFEAMpmpADBkrnNGHT5iR8BFOr8vigoTI=
+
+Name: guide/otjld/xdef/s1.3.1.a.html
+SHA-256-Digest: bg13ovOKk34nm3jo2h1e29wogv8KEvErATzQFb3QqzA=
+
+Name: guide/otjld/xdef/s1.5.a.html
+SHA-256-Digest: Uov0WHhHYtsXriusDc70yseTafdo8SB9I6jDRpLzd7o=
+
+Name: guide/otjld/xdef/s3.3.c.html
+SHA-256-Digest: Py9JCCN5LprCun30BjYhbW0bKBfA5u3Fe5I1t5VfcFw=
+
+Name: guide/otjld/xdef/s4.8.e.html
+SHA-256-Digest: rvuqtoQFeDEA1/t2LRcU+8T6Q5UIUbCcYSjGvSfuvR8=
+
+Name: images/heading_left.png
+SHA-256-Digest: 7G9d+90c6LNuHgR62zBO1aJ2hkNOjv6lu2qR8C2ph58=
+
+Name: guide/images/team_act.gif
+SHA-256-Digest: 9jg+8iMdb/fhoo2l0+pMhs6+8dPCrW+Jv2GVNyLR+QE=
+
+Name: guide/otjld/xdef/s1.3.2.e.html
+SHA-256-Digest: Fj3TrlrH01u9bKSA/u9gLUfHtqxW2LTK2CY1pDn5Nq4=
+
+Name: guide/otjld/xdef/s2.1.2.e.html
+SHA-256-Digest: RFfSq6a5GZWUN0CV9ZoKGvLGUNvvCpfgA3GlVM8gJIs=
+
+Name: guide/otjld/xdef/s4.3.e.html
+SHA-256-Digest: IXBB9H6VJotlOYkaIKPX3clnmMqPPu99eP9W3cs6shE=
+
+Name: guide/otjld/xdef/s1.2.1.html
+SHA-256-Digest: PvpB/lVGZ4Ghkhdw+7LZKMPqnbVxd4mcC7lSrmjKKBk=
+
+Name: guide/otjld/images/WebHead1.png
+SHA-256-Digest: 3/OHDtGgDFRkX25cQhrqiYJlhJCIrRTTeQvbwk5kQkE=
+
+Name: guide/images/screenshots/NN21/AmbiguousBaseMethod.png
+SHA-256-Digest: 7jv8clH06ksGZKAUGG3r4iOJt7b8sPPVZAE/OCkuKI4=
+
+Name: guide/otjld/xdef/s3.1.a.html
+SHA-256-Digest: UjrFvYBXCqVeZM0L4oEZn7pOA/C96Jf8INKT6CEkfSg=
+
+Name: guide/otjld/images/valid-css2-blue.png
+SHA-256-Digest: TyDUKjk4bmhFqUvqDmyF1ZdROZkO9uacHkWlhUT3klE=
+
+Name: guide/otjld/xdef/s1.2.5.c.html
+SHA-256-Digest: IauhboxZpdSlfFoc9IYCoPK8m2O96haEGNJBPEy08j4=
+
+Name: guide/otjld/xdef/s4.4.b.html
+SHA-256-Digest: H2Z61FCUGXG1lQGv7rm8YPwDsYPypkGczptnkr0YILU=
+
+Name: guide/images/screenshots/NN22/ot-elements-in-structure-compare.p
+ ng
+SHA-256-Digest: xDlcgDaUQkf55nF49i2ToQtANsf+K79WKeiwi588oic=
+
+Name: images/team_inact.gif
+SHA-256-Digest: LUZD5zO6H8ZitxTkkMyA3QzV+O12MxvVI8NPB601m3I=
+
+Name: guide/otjld/xdef/s1.2.3.a.html
+SHA-256-Digest: j7rZGVHhkte5XmB10w/0H0GstM676sFcKj+AUaawXX4=
+
+Name: guide/otjld/xdef/s4.10.c.html
+SHA-256-Digest: mEX0R43VL5C9pqGam6VEs7+aK48zdv5jkdWAqt/M+N0=
+
+Name: guide/images/screenshots/launchConfig.png
+SHA-256-Digest: wmkA19hEu5vEaoYW17ggTS08bDm7EIOiDaeQKfm7BZw=
+
+Name: guide/otjld/xdef/s4.9.2.html
+SHA-256-Digest: XUAvO6S8xKHDg5Xo40W41+wa6CUTV0hMDjVxcO41Zis=
+
+Name: images/boundrole_co.gif
+SHA-256-Digest: N2w+ubnPn1Ub8T3HlO80G+X5RgvanKpD2ztTYaTQF6M=
+
+Name: guide/views.html
+SHA-256-Digest: MrpQSVFtpl+NmAGYkGp/4fJB3gUFM/Tua5fUK6DYJck=
+
+Name: guide/images/screenshots/NN07/CreateMethodBinding3.png
+SHA-256-Digest: KiBnXIpMXW3pprnphvRacpzHIroQQ541mBL+fRWsV2M=
+
+Name: guide/otjld/images/pdficon_small.gif
+SHA-256-Digest: hxTItthIZcp83+9Vro96FoGE+qCCItEhqq0lPLFCXuw=
+
+Name: guide/otjld/xdef/s9.2.2.b.html
+SHA-256-Digest: ZJdjC7n1fx0BhKA68cKcmLDzsq3RMeobzkvY9K8t4xw=
+
+Name: guide/otjld/xdef/sB.1.3.html
+SHA-256-Digest: 9xIPZhsPYOPAGFq1vK8CqeBaXqKPfc49QtieSamOxLs=
+
+Name: guide/images/screenshots/packageExplorer.png
+SHA-256-Digest: T4496MLMZW1BU2dPBGQHoMwHbna7+yZwBtBfnNgsQcU=
+
+Name: guide/otjld/xdef/s6.3.b.html
+SHA-256-Digest: 5laHjY97Xsc6f7kCOfYUDmhaBCXXP/uk+fV4BSew9Xc=
+
+Name: guide/images/screenshots/BindingEditor_AddTypeBinding.png
+SHA-256-Digest: DVRk52QSzy4XyK7iUBGzzGRpyPvEMP2DVy0TsBpJOkY=
+
+Name: guide/otjld/xdef/s4.1.c.html
+SHA-256-Digest: PGn9Azjz9DTYcWvTw1Z0WnmQPEYmakk8zvVEir4wM0I=
+
+Name: guide/otjld/xdef/s2.6.a.html
+SHA-256-Digest: Z1RfEKo7/rvTurQ8LkKC8eJSIMTAzC378a3llZji9gs=
+
+Name: schema.css
+SHA-256-Digest: q6i7T+83tM7KzETRFuwYFLTEZdOyubKpIrt345S2pXk=
+
+Name: guide/otjld/xdef/s4.1.i.html
+SHA-256-Digest: yc7XLx1xsevJRKBq6YSi9+sBsOstwy+iOx9UzC5FZEE=
+
+Name: guide/images/screenshots/AspectBindingsInPackageExplorer.png
+SHA-256-Digest: bnZ519mbgF0tGzmJlE1uZZx7/P9+BtaRWm03M9Al+Jw=
+
+Name: guide/syntaxhighlight.html
+SHA-256-Digest: IUTrq9SWO6dXvOayzp8Onzc96K/YjH4/7fi09rHzli4=
+
+Name: guide/otjld/xdef/s4.9.html
+SHA-256-Digest: qmLitZUoFyTJAJyl6vOe+DfyGqW3y3VGm6jltJRqZCc=
+
+Name: guide/otjld/xdef/s2.3.b.html
+SHA-256-Digest: zN9LWyu5VDsK0UP9IPfE9ZvSyrgpawUZNg2gGU4gT54=
+
+Name: guide/otjld/xdef/s2.5.b.html
+SHA-256-Digest: rYip9H5uh5FboRsVbgmNxa5A4oGogHFIJTcWEFZCuIU=
+
+Name: guide/images/debugt_obj.gif
+SHA-256-Digest: GuLotBEc0rbQYC0Ezn9dMmtx/aSv+eRyJJ74Gu5kmb8=
+
+Name: guide/otjld/xdef/s2.3.2.d.html
+SHA-256-Digest: lBPhCs7C4/LrdYQib8tRM+LDMO4y1ZKl6Th1QTFKHrY=
+
+Name: guide/images/java_attach.gif
+SHA-256-Digest: rz+lt280cH8/dcdtl9VfKwv4sSKGQ2tcRmgmDKsatNk=
+
+Name: guide/images/screenshots/NN07/AddPrecedenceAfter-QuickFix.png
+SHA-256-Digest: 3ZbtLel2dWpHa2Pjgfvw0IUkbVPtqcQqcEPP4O4FIog=
+
+Name: guide/otjld/xdef/s2.3.2.html
+SHA-256-Digest: K80SjUe/prVA391a+zas5YkpjO4rM1TfMHHmWlFAenE=
+
+Name: guide/stepping.html
+SHA-256-Digest: ef19W15zRAbyKF0Se4G3L3BRWssTETl847gDBMWiU5o=
+
+Name: guide/news/new_in_2.2.html
+SHA-256-Digest: wupCVywjk2EpQm3ozW2/nAKEbZjgNcYlOhA/JqeQ8KU=
+
+Name: guide/otjld/xdef/css/otjld.css
+SHA-256-Digest: 3EfK6WSR5jMNQKhlnRRv+YYqj90rLZySGJxanTyckk4=
+
+Name: guide/otjld/xdef/s6.2.d.html
+SHA-256-Digest: OXhwnCz8HHI7+EubBfGI+fonbsNUFzlardEBHeJ5nIY=
+
+Name: guide/otjld/xdef/s2.3.4.html
+SHA-256-Digest: jVkree0BdQezO0gCaXlJM9Dck6JUNlgLfkqloMTzr7E=
+
+Name: guide/otjld/images/heading-left-small.png
+SHA-256-Digest: U4thjaNrDIHLyHsxjxsnQIF2IiZgYgr52vM3aGyRa5k=
+
+Name: guide/otjld/xdef/s2.4.1.b.html
+SHA-256-Digest: atH75WqyAcX0MZMRbmWZQpDQViwwXycKQ5nFpUXK18w=
+
+Name: guide/images/screenshots/OSGiLaunchSettings.png
+SHA-256-Digest: vs5fPts0N3gXY60chvQHm+MPIdTmYZc9r4BJoFxQOFc=
+
+Name: guide/otjld/images/WebHead2.png
+SHA-256-Digest: yQaZrMau564ulSINEdMjhRriJKxxHJVElS3bT3EJDBo=
+
+Name: guide/images/stepover_co.gif
+SHA-256-Digest: D9vlTVJQx+a8v8tqmQRvRah/UjgefYzIKZjI8FXQ22A=
+
+Name: guide/otjld/xdef/s1.2.2.i.html
+SHA-256-Digest: ni0DQ62DCqj0Vu3IQ233XL60xazf2dz5pPZi/sNrrUs=
+
+Name: guide/images/team_inact.gif
+SHA-256-Digest: LUZD5zO6H8ZitxTkkMyA3QzV+O12MxvVI8NPB601m3I=
+
+Name: guide/otjld/xdef/s1.3.1.g.html
+SHA-256-Digest: EFwKaT0oWA57fzlVZg0vdT5f0gje3ESc44zpVQhTiLI=
+
+Name: images/jar_src_obj.gif
+SHA-256-Digest: AkQ0gJBhHy0vo+bWX6GTTsdSIDqYGDB0Gge6B8Oo+V0=
+
+Name: images/run_exc.gif
+SHA-256-Digest: Tg4q5ZjAkJcBMqlzxjIKbtrhu0jAQPkE69v2KwZukw0=
+
+Name: guide/otjld/xdef/s4.1.g.html
+SHA-256-Digest: Nn+jiVX+J5uym7NgoSepxMVbXTiusu+hY2ZLC6AXRCo=
+
+Name: guide/otjld/images/trac_logo_16.png
+SHA-256-Digest: RKYdWo3rj1L5l6YdKv1jAkecSLUsutxPkDARn+E/qtw=
+
+Name: guide/images/screenshots/launchConfig.jpg
+SHA-256-Digest: TfGFeY5qqCFgKddSv6Kjsi01qG0Ojqfw8O5TG7+6/Bo=
+
+Name: guide/otjld/xdef/s5.4.2.d.html
+SHA-256-Digest: BPT22m79Xk8ATjdEtHW5NKgspf+Ss9QbERTCznkN8lw=
+
+Name: guide/otjld/xdef/s2.2.a.html
+SHA-256-Digest: BkcsszDcfHGpN2ZQwVtrONqf9pQK9D625ThXlbNZ18A=
+
+Name: images/callinbindingafter_obj.gif
+SHA-256-Digest: 7Wop7gLtboGpWgVAL4wWgcaBF6/J6iEtylJk1Rsb+bQ=
+
+Name: images/role_ovr.png
+SHA-256-Digest: KFW1DHPzpon19+020ifGVOnMzEol9RZ9tbXwrCHJ6dM=
+
+Name: images/callinbindingreplace_obj.gif
+SHA-256-Digest: xcpv98C72iOSHfBNteeguO3Cqs9WqtPMNH3v3Qfsor4=
+
+Name: guide/otjld/xdef/s2.3.4.b.html
+SHA-256-Digest: IuOkdKSURJyD81T1EfkiJ6tltz6L5eZkR2XUGmvgKMQ=
+
+Name: guide/otjld/xdef/s4.10.d.html
+SHA-256-Digest: 0yKhBPxkEtrDEThfsb7dLLi1AxTq0Opg4k3OWtsCmAE=
+
+Name: guide/otjld/xdef/s7.2.a.html
+SHA-256-Digest: 8Bv2GT/6rBhvLqTviZcTUkFem48d11meC8JyJbE/Sp0=
+
+Name: guide/otjld/def/index.html
+SHA-256-Digest: m/oWy/zfutoo7qrO2JAI4opJEpnJumyjVFR/nEHCRB4=
+
+Name: guide/otjld/xdef/s1.1.html
+SHA-256-Digest: kHZCXBT/VyKj4A9QYQSX968zLKH1Ap+Jx8SbWf5/QDg=
+
+Name: guide/otjld/xdef/s9.1.b.html
+SHA-256-Digest: KUTj6zPirol/zrXcAIMi8D6kjNWajxnZx/H6GxN2at4=
+
+Name: guide/otjld/xdef/s2.3.1.c.html
+SHA-256-Digest: FyAAFxtwTQ+WL+J2TxBORk21psCbaf+0QtbMB67yRxI=
+
+Name: guide/images/stepreturn_co.gif
+SHA-256-Digest: J92V42xbg0ay1mLqCzw/kiSliq6OVMEj/FSyXMjoe+4=
+
+Name: guide/otjld/xdef/s3.5.c.html
+SHA-256-Digest: jsHKXFGaYdZoU9rz1VgVps+kil1Rza1dfxd87DWNYQs=
+
+Name: guide/otjld/xdef/s4.4.a.html
+SHA-256-Digest: oUni72pUOvow8im5U+xBv+6HSGILAgTRFRP0Gxd136A=
+
+Name: guide/otjld/xdef/s1.2.3.c.html
+SHA-256-Digest: ddfsLq58lZSp24iqKbNVaKHc64t4Tks+zqGpozFsSYs=
+
+Name: guide/otjld/xdef/s1.3.2.a.html
+SHA-256-Digest: OOtscv/YT1VEQUElubgKqczmorrwHdrUE3oUcCxOj00=
+
+Name: guide/otjld/xdef/sA.6.html
+SHA-256-Digest: A7brP4cUAf51SSnZCJiAN4gB5znLkfzeiNldSvfxTGI=
+
+Name: guide/images/screenshots/ForcedExports.png
+SHA-256-Digest: vfSftdd16K5ujoYOhaaX4y9SRx4AitVnQxeW7GYP9Yg=
+
+Name: guide/images/otdt/ot_paragraph.png
+SHA-256-Digest: SjEw0FB4vnWFwDIl2ypJ66Y6CtVUU8uoIGPKgXgIPfM=
+
+Name: guide/images/screenshots/NN21/ImplementFromTSuper.png
+SHA-256-Digest: I9/5251IJZ+Ah9kX5BH3Rwik5FYv6AhLtiGlG5C7u0s=
+
+Name: css/book.css
+SHA-256-Digest: EcdBtavEQ8e3/fvzjPXGGPQ7n8D7YnEkc0ehMMDzDJU=
+
+Name: guide/otjld/xdef/images/guards.png
+SHA-256-Digest: CsmEpARLWwPs0eTTpKVVDli0ZqkX/tw5ex3Dwno8Od0=
+
+Name: guide/otjld/xdef/s5.4.2.b.html
+SHA-256-Digest: QByT7RdpvxM+ewvNSk+4uxjdgpG7XNWNm107FYz15TM=
+
+Name: guide/otjld/xdef/s4.8.a.html
+SHA-256-Digest: cmf02+kf/vbeII9BegALldYUVqRcegZAik/KNm3lKPg=
+
+Name: guide/otjld/xdef/s2.6.e.html
+SHA-256-Digest: gjZ90R7pJznRJWP7vc3D2caNhVVn77Vog5BXKlvExME=
+
+Name: images/callout_marker.gif
+SHA-256-Digest: 7+YJ7/jdxv8G5dB5k7YXG7Zqawhda0uhRVU1Nkt6oKs=
+
+Name: images/calloutbinding_obj.gif
+SHA-256-Digest: 0hz7jCjXsYc8rIF6P1iFGqR2McXSth9ddpFep58hhwo=
+
+Name: guide/images/screenshots/NN07/CreateMethodBinding2.png
+SHA-256-Digest: tpR551mHDp2g5/vSGZuL8GKQyx8ewggvwY+6uQ82Kcc=
+
+Name: guide/otjld/xdef/s3.5.f.html
+SHA-256-Digest: Cvzm3B3yKL4R5UDRUMeyejOf75213coI/Udr56c8Y8w=
+
+Name: guide/otjld/xdef/s1.2.5.a.html
+SHA-256-Digest: 2YjfInW1Zzr9ULy4NfuRDTg0WcYs5su58s+31cz4rS4=
+
+Name: guide/otjld/xdef/s2.3.5.c.html
+SHA-256-Digest: WXHeQ/QoosA74FzPRfNGF02IEXT2jwKoqhEwPu7+2Qc=
+
+Name: guide/otjld/xdef/s4.4.d.html
+SHA-256-Digest: sxnMNOsUchpv4YVLeeR7Ud4LIJhlIQAEZEmzGqiaa6Y=
+
+Name: guide/outline.html
+SHA-256-Digest: 9c1g7Ps3EWqFsv1zaYo+GiNJ+h/jY0Tih14HpE0EPkA=
+
+Name: guide/otjld/xdef/s5.html
+SHA-256-Digest: KUWmULv3mG2NLLNgE+OlSBIb8Y3yZ256VkRs4Gyo9lE=
+
+Name: guide/assist/addRemoveSignatures.html
+SHA-256-Digest: nAO7BAaEpl+fWFZpt7eIlPDMCR+aSuksSVRcMm/SF94=
+
+Name: guide/images/screenshots/OverrideRole.png
+SHA-256-Digest: JHu3VvWR2tmFCikPN6MxVDO95TXbdx2jo6BBe3Kx1Ng=
+
+Name: css/shared.css
+SHA-256-Digest: u7ksurTwnaVyJ4vRP7uCdSsMQ3mQf5qEOwji5ctQXVA=
+
+Name: guide/images/over_co.gif
+SHA-256-Digest: 44wJsiy9KwwO/xATN/JXsjgDPCulMKxB0HJYjI6da5U=
+
+Name: guide/otjld/def/xhtml11-flat.dtd
+SHA-256-Digest: RdFQMi7beto501EZBoBulS0kxJOsAyj977bPf2dls7I=
+
+Name: guide/otjld/images/Layering.png
+SHA-256-Digest: 03YZ4vY6wo02ZoXGZWcuxC2UrVY7MxpLXNW35/HbFLQ=
+
+Name: guide/otjld/images/team_nesting_hor.png
+SHA-256-Digest: GG3L6W4fScTnsUFSnu7Gcljhz3t1Dsi2VrwS+WWSIyo=
+
+Name: guide/otjld/xdef/s1.2.2.b.html
+SHA-256-Digest: eleIwGTDli0vM3bO1dB+jlKlUEWjQNMyGaF+hk70+u4=
+
+Name: guide/otjld/xdef/s5.4.1.a.html
+SHA-256-Digest: 42EYSYbN9fq9hDB4ZhWlSB25FsTNIWetRlz2Xlh07JY=
+
+Name: guide/otjld/xdef/s3.4.html
+SHA-256-Digest: h0hxRLcFxkZP8XEZq+pOadw7BNNSYBvfRFCF+Kyh7Pc=
+
+Name: guide/otjld/images/pass.gif
+SHA-256-Digest: xISz/Vm1RB28bWRSN/XFJigG8YEf7bckEbdtXCk4Iwk=
+
+Name: guide/otjld/images/line.gif
+SHA-256-Digest: i4yfMAYTZfgH7sEbLkFb/0koqTdA1xOKWatNAWnRyfA=
+
+Name: reference/extension-points/org_eclipse_objectteams_otequinox_lif
+ tingParticipant.html
+SHA-256-Digest: Qfh5Ft26aLCDu5VAcR6sahgeI1aAf/oXh1An86ER4Bs=
+
+Name: guide/otjld/xdef/s5.3.b.html
+SHA-256-Digest: z9GMEUXc4mHb8phiKycMc1Z8eHPGeJ0O4XByirzBqZ0=
+
+Name: guide/otjld/xdef/s5.4.b.html
+SHA-256-Digest: SPzGbhsfYh+OSHs0TzDYIJu2ktV721o/fjLkHVTAsRQ=
+
+Name: guide/otjld/xdef/s6.3.html
+SHA-256-Digest: ZlqnJlXm9+YHTJRhasmu9jaNkqwkEyr5cUvjs4d0SM0=
+
+Name: guide/images/screenshots/NN23/QFAddAspectExport.png
+SHA-256-Digest: MKCUTEtDD98e1jIRVNaXGw8zBugcMBVVlxsY968Qzf4=
+
+Name: guide/images/screenshots/NN07/CreateMethodBinding1.png
+SHA-256-Digest: douvErYKPsiVVl5mIobxFRGRBygcvLmhBz4LxlUTNlg=
+
+Name: guide/images/screenshots/NN21/GotoCallin.png
+SHA-256-Digest: crDMq9MoFrpZ34Zg1tAvF2Hk8vT5rfkLBBwj+6Td2Zg=
+
+Name: guide/otjld/def/css/heading_left.png
+SHA-256-Digest: 7G9d+90c6LNuHgR62zBO1aJ2hkNOjv6lu2qR8C2ph58=
+
+Name: guide/otjld/xdef/s1.3.html
+SHA-256-Digest: WAuPq5JyM+ufT7ehVX4dM1uuC927ah4T7Zp7HbVyRW0=
+
+Name: guide/otjld/xdef/sA.3.html
+SHA-256-Digest: KtjFUmJ/MlV8WlHkK07yLaz4lrTQk931C+B5nkiqpx8=
+
+Name: guide/packageexplorer.html
+SHA-256-Digest: 9dxyXmQYajw91YFqfpOKHVcqJc4Pm9zEtuiru0oorjI=
+
+Name: guide/images/screenshots/callinmarkers.png
+SHA-256-Digest: rk2jXUR0Ixsh0PbAPeRhdNfAa6hmDTvyVMnbMMjILng=
+
+Name: guide/perspective.html
+SHA-256-Digest: YuHlLiVhG6zWYBtUi1LMrLVlYZxwW6mCQ9KHSB/2Beg=
+
+Name: guide/otjld/xdef/s4.1.e.html
+SHA-256-Digest: Do6lDjsMzo3HKnRPJSpbmLFG2iNnDBT5mI7hWfo/3/U=
+
+Name: guide/otjld/xdef/sA.1.html
+SHA-256-Digest: /Xw5d34lRMSxK1acibphAH6BX+PW9XePviMQGCi0F6g=
+
+Name: guide/otjld/xdef/s4.5.b.html
+SHA-256-Digest: tJ2xj90eVil6z/HuOim/+olNrJra/pNwcu0YbXqAufw=
+
+Name: guide/otjld/xdef/s1.2.4.c.html
+SHA-256-Digest: 9v38EXwEH9irmwSUft5gBral5MuQ2YVqyRRHYxkEsLE=
+
+Name: images/file_obj.gif
+SHA-256-Digest: UCV/cK3z6+TRi7JDKmE3DawG2tekXyNcjl83YIElGsM=
+
+Name: css/root_swt.properties
+SHA-256-Digest: tbYID1Y6OCCcW72vNuq5o8+oEBwre6iSjSzZDX3dFVE=
+
+Name: guide/otjld/xdef/s2.1.2.b.html
+SHA-256-Digest: /0e6hMsyRF7j4uyrMfxbpYnAqY/7DzjE2wu9PXM0VuY=
+
+Name: images/ot_paragraph.gif
+SHA-256-Digest: Uf9/ZCEy4JIugtoQweJ5OIKBWZp9Lw29e+hKAYiNTUs=
+
+Name: guide/otjld/xdef/s4.5.d.html
+SHA-256-Digest: mCSiXzbjBr+k5WqfBDhiwqVVPJLWyFuA9OPkQkUsvOw=
+
+Name: guide/images/screenshots/perspective.png
+SHA-256-Digest: CuHcnqBmgjPsdR/ZBqZAwqgb/cjF90D+zFgAG2+qja0=
+
+Name: guide/otjld/xdef/s0.5.html
+SHA-256-Digest: FdXNje5lYNW2pyLWaKOPcTp72kI+il7VVyL/dN2MkPY=
+
+Name: guide/otjld/xdef/sB.2.3.html
+SHA-256-Digest: PFDk2sBL9FRSLy0YxHxSm9fv50IqQas6HZrp+kTBBBc=
+
+Name: guide/otjld/xdef/s6.2.b.html
+SHA-256-Digest: 18DYAsab7kBRlu9x21fj4Wv2fOTZF7omoeReXBAZAVk=
+
+Name: guide/otjld/images/WebHeadBar.png
+SHA-256-Digest: DgzyVP0bcRjeEnl2bU2JjvH7QWOL3DMr7xC41Geo6AI=
+
+Name: guide/otjld/xdef/s0.2.b.html
+SHA-256-Digest: 4CzO9cNh7OksPk8TrNVCHBozkP48Xveo/8aWqqH7XlE=
+
+Name: guide/otjld/xdef/s4.2.html
+SHA-256-Digest: 5gk21tCLybriftIQ9HQQq3raW3zZ/ZPX17tltT/tj3U=
+
+Name: guide/otjld/xdef/s3.3.e.html
+SHA-256-Digest: MrxAozFiXfMdR9jPUHcpvTzuZ20qbYUG021yNXNZc1M=
+
+Name: guide/otjld/xdef/s4.2.c.html
+SHA-256-Digest: ZrJ3imNDDeUmTXXsvE8HJ41CFn45gI0m53foeWWPe7I=
+
+Name: guide/otjld/xdef/s4.8.c.html
+SHA-256-Digest: O5lPGTlvdp8QhzvghBkT08yQBIyxRt42OyondWp0gAk=
+
+Name: guide/otjld/xdef/s1.3.2.c.html
+SHA-256-Digest: 3f+UPis17M2yuu3CeXrRzJQGLew1dwLwsb/FXF2PCKw=
+
+Name: guide/otjld/def/css/heading_right.png
+SHA-256-Digest: Uur70LCiPeqVyvlKccf9ZpmqxcImkYkPbJinvBmzD8k=
+
+Name: guide/otjld/xdef/s3.5.h.html
+SHA-256-Digest: QhycMY2rm+G2pDhkp8kckVpSULZK0KB8NCgxn0qc3u4=
+
+Name: guide/otjld/images/arrow-right-trans.png
+SHA-256-Digest: +yWlW82G2q9GFF6+m97KfD/l8NYa9k8alSDigRjeCs0=
+
+Name: guide/otjld/xdef/s4.7.html
+SHA-256-Digest: Nrv2cSMEEVVOlskfgJr0/Y2lwvo8PfcIARv1HqkM5LI=
+
+Name: guide/otjld/xdef/s5.3.d.html
+SHA-256-Digest: AfbAwF3pKOY0HPcnTMtxIUp2GPJZMsT4o3Inj1t8kOM=
+
+Name: guide/otjld/xdef/s7.1.html
+SHA-256-Digest: SbH31jFYpWow/o4vuKhIm/hin6ZECXcv8OOQwFnCTP8=
+
+Name: images/package.gif
+SHA-256-Digest: gld7a0Frv2XMmbwcJJ5kYq5Kxwhof+LhQothDASTAMI=
+
+Name: guide/otjld/def/s7.html
+SHA-256-Digest: or9KMimTpHhiD1rFoxfHZEYi9xppkPPKLzWiD4OjDCw=
+
+Name: images/team_act_implicit.gif
+SHA-256-Digest: dA2HU5Gk7b9zjeqWCvEC9+MOUvEibYiZlx+QFI9vbT4=
+
+Name: guide/css/nn.css
+SHA-256-Digest: 3TJDXeWKb8NE3N8nl6XsF+nm4aYF/3oDo9pfUr2ZcKM=
+
+Name: guide/methodcompare.html
+SHA-256-Digest: u1xfp50aLfhY+aQBby/XOeDe6nLj81SEA6sYclbiYRE=
+
+Name: guide/otjld/xdef/s3.4.c.html
+SHA-256-Digest: Dcn9jg6+sOPdIhenaldBS7CBlU4Ob2VyfgBMlzqLQgE=
+
+Name: guide/otjld/xdef/s4.3.a.html
+SHA-256-Digest: 9m5ZRwD+RnS4WfTQQtKePCwY510veXyT1vfmTeTCwrk=
+
+Name: guide/otjld/xdef/s4.7.e.html
+SHA-256-Digest: VdxZUB27E0U/36Fa6Zj1ksdS8+I70tDl0M3sIEMhuSc=
+
+Name: guide/otjld/xdef/s1.2.2.g.html
+SHA-256-Digest: l2MRd6MlVCLfFvHD4nsDb2eRaWG2z0D3vpOJlDxVsV0=
+
+Name: guide/otjld/xdef/s2.6.html
+SHA-256-Digest: UKId9AVMqZhDPJxWyCRcPmRaNImPBNhtsUZaPAlrO3c=
+
+Name: images/class_public.gif
+SHA-256-Digest: L8otXUmtgDTeTaEBRycNqFw1KQB5cAc0SJS7AYEOD+I=
+
+Name: guide/images/screenshots/RemoteDebugging.png
+SHA-256-Digest: 2id6frBTl1MCU9Z8QIyEscCSQGrGCoHC6joCi1h1AaQ=
+
+Name: guide/otjld/xdef/sA.0.1.html
+SHA-256-Digest: pbweiNE44bY5Ko4kabC/QT1YPqarzJ0qSCtgOLFGWmQ=
+
+Name: guide/otjld/xdef/s1.3.1.e.html
+SHA-256-Digest: VW+oupiwd6Gz80ngV8n7DXNFq7xb7hdmfxJq/QB6kkg=
+
+Name: guide/otjld/xdef/s3.html
+SHA-256-Digest: SEwAi+HcoiHD7Z4PkBrUE/otOMZ9dwvSL7h46MWpbsY=
+
+Name: guide/images/screenshots/stack_hit_callin.png
+SHA-256-Digest: poSuCygh8+z91jzBeapXAjCax5z4qUctji0iOwwU+EE=
+
+Name: guide/otjld/xdef/css/heading_left.png
+SHA-256-Digest: 7G9d+90c6LNuHgR62zBO1aJ2hkNOjv6lu2qR8C2ph58=
+
+Name: guide/otjld/xdef/s1.3.1.html
+SHA-256-Digest: pek12BZKaksQCb7MXitnQi9hD6k4aQcUCUMBQMkQhvM=
+
+Name: guide/images/screenshots/projectWizard.jpg
+SHA-256-Digest: gNpgajULpEonPjsL27Fc5iqWCtoEV6TlJ774zDtYOi4=
+
+Name: guide/typehierarchy.html
+SHA-256-Digest: ih6X8sMSWxwi/htm1ft/mjV/3Z/GiIVv3mevPNvbPNY=
+
+Name: guide/images/screenshots/CompareMenu.png
+SHA-256-Digest: Fb56S4Vsc3wrdkLcse5ksbbCVY7/BxS8uxihQYg1BWE=
+
+Name: guide/whatsnew.html
+SHA-256-Digest: trrV/KzZ8/uFf9bd7bHc/LZjJbApIfvuwkeOsXP8xu8=
+
+Name: guide/otjld/xdef/s3.1.d.html
+SHA-256-Digest: 7NkeasORJyx9Ii1yljGHOg5yZRUKBiuVqyIgXGhjXnc=
+
+Name: guide/otjld/xdef/s2.2.f.html
+SHA-256-Digest: Cctzhn8Tn8c8HEJFIMnhlEcCYVN0ybEYRp7/b4e2ouQ=
+
+Name: guide/otjld/xdef/s2.3.1.a.html
+SHA-256-Digest: i6uidJMWFUnzDlnjZRGffAX66xVOjr6bssy/Rfha380=
+
+Name: guide/otjld/xdef/s9.2.html
+SHA-256-Digest: qKX7CVd69Q5jxdFUXAvs/Q3DDmBA+FXpCLK0cIS/Do8=
+
+Name: images/otj_launch.gif
+SHA-256-Digest: oocni/rrQ4k7Gprya5I8cybEeqTzpJNSABmbRgESdug=
+
+Name: guide/otjld/xdef/s2.6.c.html
+SHA-256-Digest: NHnwEZKdHin725SU41XKhBrsygQreR1BYg/ri6F9174=
+
+Name: guide/otjld/xdef/s3.5.a.html
+SHA-256-Digest: B12/RdFskos62GtHBohcTdshM4fXh5sNcT8Y72Ol9VY=
+
+Name: guide/otjld/xdef/s1.2.5.f.html
+SHA-256-Digest: ZRimSyAzdEuK/0y3LFD+fcvhLfe4mKgkm/f2lnH7J5Y=
+
+Name: css/graphics/obj_48/otjdevhov_obj.gif
+SHA-256-Digest: XOmBoq4O5b/DhmLMZt6tOeNxHDy0sfKwm432z8d4ON8=
+
+Name: guide/otjld/images/ot32.png
+SHA-256-Digest: UdFKk+KjA1UOsGGqYExlRfjDNJa5G78iwsU3wAZcDWs=
+
+Name: images/team_role_ovr.gif
+SHA-256-Digest: +UYIGbhdGI2C4LKfMTlxhyKFxrbwnFm8wUIjAy8FM0E=
+
+Name: guide/news/new_in_2.0.html
+SHA-256-Digest: Pk8Se6QC2fJSx3YTamMx1z1B3+Kp/HE3KQYAv1YJdwY=
+
+Name: guide/images/screenshots/otequinoxMonitor.png
+SHA-256-Digest: PG99UE3Wk9Sx1PnnmXNF0agoWfvasp+nDw1o3TAJO5s=
+
+Name: guide/images/screenshots/NN07/Variables_Base.png
+SHA-256-Digest: 6hjcTq5RyK44dAUWkBWGvs3QiCmdSP1aPdfJ8NznlVc=
+
+Name: guide/otjld/xdef/s4.9.3.a.html
+SHA-256-Digest: w5f/7Ehoqg3FurfQoPFYREA+T7a2kcELu0GhrsfjoWE=
+
+Name: guide/otjld/xdef/s5.1.1.html
+SHA-256-Digest: RxJlJl0gdyaSBK/Q0T4+3RuDZYsRO+rW455p5uGVomY=
+
+Name: guide/images/screenshots/NN07/RunJRE-OTRE.png
+SHA-256-Digest: VMoOxypr3IO/w9wrzrWRu4VfAeVzSp5QDlM3/3DrPyk=
+
+Name: guide/otjld/images/arrow-right2-trans.png
+SHA-256-Digest: Yn3KzKbw2Pg524Na/eO0Y63weq8c2f+kniOv0N/Wdt4=
+
+Name: guide/otjld/xdef/s5.5.html
+SHA-256-Digest: +kGJ4a/oQUMVWwlIZI3VLNvFdwf4E54odO+h9yl8kd4=
+
+Name: guide/otjld/xdef/s2.3.d.html
+SHA-256-Digest: YNfalhWkY/Djtgtn1f0Ec2drWPpE4UAg1iBYmspk4Yc=
+
+Name: guide/otjld/xdef/s3.2.b.html
+SHA-256-Digest: 6+iNEQJ7TInnFFQnGLx1z1GeIuI4Apa6RWxVRioVCwg=
+
+Name: guide/images/screenshots/debug_prefs_callin_stepping.png
+SHA-256-Digest: uHW7A7MtetuBUcg9zv6E+lHdWDsIbmI11XAcEGTitYk=
+
+Name: guide/otjld/xdef/sA.8.html
+SHA-256-Digest: ZKWTJOtsynJAaWYWczJQEAKhSzJ+0pCcmoh+T9Q5dRM=
+
+Name: plugin.xml
+SHA-256-Digest: 7HiqasJSiKwwatpFSdfsizOWIyowHo6ktEHhIKcsXlM=
+
+Name: guide/images/screenshots/CallHierarchy.png
+SHA-256-Digest: sidVSL9FdeQT5tNx+Q+nkdNvb2OWKIBEFZzEbv3puEo=
+
+Name: guide/otjld/xdef/s2.7.a.html
+SHA-256-Digest: ttU43PSPFBNLhN1wku661SGXrp0nMg5Jq7McSmZWTAk=
+
+Name: guide/otjld/xdef/s2.3.2.e.html
+SHA-256-Digest: N0b/tL3atL3SYWHdCaai7JiF1T/hNo2Jdfk/Lo+WyXg=
+
+Name: guide/otjld/images/arrow-left-trans.png
+SHA-256-Digest: ohEEy0xIVIrSiKqzbx3lkDu2hm8uhq+g9AmeXQKo23s=
+
+Name: guide/otjld/xdef/s4.10.a.html
+SHA-256-Digest: ENSvph+eYRs68uuI0XYwVpMP0oBX2WOHJxi8UXcVyVM=
+
+Name: guide/otjld/xdef/s3.1.k.html
+SHA-256-Digest: Ia/cj9I6hUlfpmkT9KSjZ66UCjKnl622/noQckQoddc=
+
+Name: images/newprj_wiz.gif
+SHA-256-Digest: QOih68ptDIBHR29GW4i83vo+Vb0FZdZm2QytmrLw+1c=
+
+Name: guide/news/new_in_2.3.html
+SHA-256-Digest: 1pCz+a2D/7hY8xt/FrhtE02jzhHJ3sN6fqOjNAkQl6M=
+
+Name: images/team_ovr.gif
+SHA-256-Digest: Q8Ap3tQ4hHDEwXgKz375qgDRV3DI+8qhikrUrswJvrA=
+
+Name: guide/otjld/xdef/s2.3.5.d.html
+SHA-256-Digest: YdH7+0W1E8CbIyyqADcISWCDR1JGjIs98jSKQNrEwKs=
+
+Name: guide/otjld/xdef/sA.9.html
+SHA-256-Digest: nIAV/BYwY9t1vBKM9/De11aBvPJvnb6KPxUvApYHb7c=
+
+Name: book.css
+SHA-256-Digest: EcdBtavEQ8e3/fvzjPXGGPQ7n8D7YnEkc0ehMMDzDJU=
+
+Name: guide/otjld/xdef/s5.4.2.c.html
+SHA-256-Digest: znSwDXO7ZGsdDP63WR3HL2zuu4bUgMXeaDmL4xrwj7w=
+
+Name: reference/extension-points/org_eclipse_objectteams_otequinox_asp
+ ectBindingNegotiators.html
+SHA-256-Digest: 36lRlzY7bra9VF6w6pDhGVB2ci8nz4n12F5/i0Y03rk=
+
+Name: guide/otjld/xdef/s2.4.2.html
+SHA-256-Digest: 4aMM2JSTCFY3ZaZ0g9MGwLCItVMCheBDJZWc7Kcpi3U=
+
+Name: guide/otjld/xdef/s2.4.2.b.html
+SHA-256-Digest: 8tjOc/uuxDb2OummZESHKo4wxamLhr2SEkOtUrzgmkU=
+
+Name: guide/otjld/xdef/s2.3.1.d.html
+SHA-256-Digest: JHDbQjd3parBlM1Ncypn8vu6qgpMOGDXvswJZgICxjA=
+
+Name: guide/otjld/xdef/s9.1.a.html
+SHA-256-Digest: Bxa8hexvFZi7vhH9DCVIVU4AHGCRPXEmKNPZUgcKWpw=
+
+Name: guide/otjld/xdef/s4.1.h.html
+SHA-256-Digest: BsnwgcXLBIjUcwHWgNL9dKM5aeO9HdIVYdu02Hk8Rb8=
+
+Name: guide/otjld/xdef/s2.1.c.html
+SHA-256-Digest: UYKOH6YlcBHt3IEI2o+IMn1F8ubkL2Rd4Qnaf3YPH3Q=
+
+Name: guide/otjld/xdef/s2.3.1.html
+SHA-256-Digest: SqRMrFFHKVy4SaqnfHkjZNl5rLjCSolNN5v0c5RBX2Y=
+
+Name: guide/otjld/xdef/s1.2.3.html
+SHA-256-Digest: dkUxpBT1DJEDSNBWzGB55wLSSAi+wyjU+vs4qrMSW6E=
+
+Name: images/team_package.gif
+SHA-256-Digest: T83a6xBruITdjLpVAnM7K19ENKc35SxcSaix1rgIQQI=
+
+Name: guide/images/screenshots/NN08/ExtractInterface3.png
+SHA-256-Digest: dD1ks+s48jLjK53TaRdyEElVOl0xY+THSjMUXGwksyM=
+
+Name: guide/otjld/xdef/s3.2.a.html
+SHA-256-Digest: gaS6kwWLWVeaeotbedIt9uFJjBk+znvZH02hdwRvr78=
+
+Name: guide/otjld/xdef/s9.2.2.html
+SHA-256-Digest: AjhDTRpzYz0+GjfnIGMi5CrkdXuJ3b6vBUMBaq8jc3w=
+
+Name: guide/otjld/xdef/s5.4.1.b.html
+SHA-256-Digest: sGbDQJIE/XK/Cpko8CtZbTLm1YM/UyRrkAMDSe+Eyus=
+
+Name: guide/teammonitor.html
+SHA-256-Digest: pjZN4oCG0WWLE4TsDQpyZ2gEvHH5ekG+PIvVEZIxHSM=
+
+Name: guide/images/screenshots/NN25/configure-compiler-weavingScheme_t
+ h.png
+SHA-256-Digest: E6dEi0I4Ve6WNMNwbG3J1/o+Wj5Cp08js6PyChHeNG8=
+
+Name: guide/otjld/xdef/s1.2.4.a.html
+SHA-256-Digest: qZqJUb250tv0AFIT4R18UnCBQfhlMJQPTUCO6FHdM7w=
+
+Name: guide/otjld/xdef/s2.3.4.c.html
+SHA-256-Digest: 9kFs7zlAQfglZeRCrpTLoft+5njm0KOjBKYzFBj1NEs=
+
+Name: guide/otjld/def/s9.html
+SHA-256-Digest: tO0ZSvaa7JD8dUFhuuyW8dJ8800cZKPzSYUdOG11IFU=
+
+Name: guide/otjld/xdef/s1.3.1.j.html
+SHA-256-Digest: sWRKEB0VtGG5/dkSK5vN3NmJMJ3cLA9jSfw9lKNzHUA=
+
+Name: guide/otjld/def/images/foo.png
+SHA-256-Digest: xyfXcwE8f7NPFWcHJBycpCwmxeEqh21FAbrSaMZwgtM=
+
+Name: css/graphics/obj_48/ot_obj.gif
+SHA-256-Digest: w3oMSVvyqUMW05RUohZCw2b53K+lLNZ7PU3bLixosqA=
+
+Name: guide/otjld/xdef/s2.2.d.html
+SHA-256-Digest: ZgGXPVTwVAY1zEM49GwQgoPPVgluXLr8evqyDnYZPr8=
+
+Name: guide/images/screenshots/packageExplorer_logical.png
+SHA-256-Digest: klG/UwwopSldekVHCDoG/ZfvuJia2SDgl0Lrv79/NUs=
+
+Name: guide/images/disconnect_co.gif
+SHA-256-Digest: fj7SKI1o7Kjg2CYD3UyXDqi3cfDGVoVsrZz+iXRZ/Lo=
+
+Name: guide/otjld/xdef/s1.2.1.b.html
+SHA-256-Digest: j3fXYA3K8kMSlwtygVAvsQDwyKF9fDg0pOTYsIB0Rnk=
+
+Name: guide/otjld/xdef/s4.8.html
+SHA-256-Digest: nKXXPy6E6oNKqcxXGQ9rkOKN56hBdzRb2rOh+x7ad1c=
+
+Name: guide/otjld/xdef/s3.3.b.html
+SHA-256-Digest: qDuV8bUDloZIG0CCninIXXCHS+eTMeb9rQw45Jwk0jc=
+
+Name: guide/otjld/xdef/s1.5.f.html
+SHA-256-Digest: 3n6BxVdPk85IBwG8g1WxcvpKsiYjGYc92pJGr5T2eBE=
+
+Name: guide/otjld/xdef/sA.10.html
+SHA-256-Digest: Oi2gsLv7+q/W6Qc0eu6qXtx8/30jN5RJlsfbrdbn/Tg=
+
+Name: guide/otjld/xdef/s4.9.1.html
+SHA-256-Digest: nh2s8CJ00aeiukhjHyZwHzKb7Jnr2w2s66ba38+AYzU=
+
+Name: guide/otjld/xdef/s2.3.3.b.html
+SHA-256-Digest: is1fLwXTWO4VwsMeyTIZXaRS6q7Y/Sk48nY7zoQG4YY=
+
+Name: guide/otjld/xdef/s1.3.1.f.html
+SHA-256-Digest: M2MGl1tlbJfDFIZFxwdP9Aur/7UhxQJZi5i3v85NoqA=
+
+Name: guide/images/screenshots/NN07/MoreDebugColoring.png
+SHA-256-Digest: REQLjXycCLb3seZFGUajVLW8M85bmuS/Me7kIZ+UWhg=
+
+Name: guide/otjld/xdef/s4.3.f.html
+SHA-256-Digest: ZcdjLTWhCZ8qC5ehqrAhpTgKUEzF1reHwjvBnx4j9FQ=
+
+Name: guide/otjld/images/jira.png
+SHA-256-Digest: Dbe/ylY1M92Ks29HYU4UeEOp1r7/29cUBmJZPuQsaFA=
+
+Name: guide/otjld/xdef/s4.1.a.html
+SHA-256-Digest: 1oMpept0O8JC7/SG0nXpy1k4u5y4Fg8gYvjzxNMFDiM=
+
+Name: guide/otjld/xdef/s6.2.c.html
+SHA-256-Digest: ic7wqD6KvQp+yYqCas1eq400/LeW4hGZ1mDM4JV2dQc=
+
+Name: guide/otjld/xdef/sB.1.4.html
+SHA-256-Digest: qku7Ec0aYz39CqD0Xry2wjXSdIdrwJB9o5OwbXRCY9s=
+
+Name: guide/webindex.html
+SHA-256-Digest: UWhmCac7H8QW1Cr2YA6hTbZXTK5lMiX2PC3ANFl90EU=
+
+Name: guide/otjld/xdef/s2.4.1.a.html
+SHA-256-Digest: wIYtDehHE11MWrUcJWCtenlrhHrVuXeso8j7YF2kodM=
+
+Name: images/newpprj_wiz.gif
+SHA-256-Digest: DCSBk9eMXLcUX5FFS3K3zisyeXHmUBK2F5Rgk3k5hoY=
+
+Name: guide/otjld/xdef/s1.4.a.html
+SHA-256-Digest: 3Y/GAry5ROUB8LWEOvsuTvgaQhEN0PHzcUkFVjlVngY=
+
+Name: guide/otjld/images/button.down.gif
+SHA-256-Digest: I/T76Xsl55OJYeoI6o7ZxHAm7c+Hn15H0Eh3bZuV0l0=
+
+Name: guide/otjld/xdef/s4.5.a.html
+SHA-256-Digest: qKsoXQsC+vSKh6vds24xYi/oUXO0CuE/Ujfn7iPll9U=
+
+Name: images/callinbindingbefore_obj.gif
+SHA-256-Digest: 1XlwNEarfdPqSwyYJ4gxOJ9G9jJkb2jPws9BSWj+qn8=
+
+Name: guide/otjld/xdef/s2.3.5.html
+SHA-256-Digest: KcjXIw7nzwfy8CRaQTc39M/rIyw0EvzmLXNegTyD7mw=
+
+Name: guide/otjld/images/heading-right.png
+SHA-256-Digest: OxqDgRS+yqmG5gMrBLguojpOBNxG0+Oae8ycfGFAiGo=
+
+Name: guide/develop.html
+SHA-256-Digest: UsGo37ZhC/LJkolhzOXUvcDChVJKmIMvTJuyx6+Nk0A=
+
+Name: guide/images/screenshots/roleWizard.jpg
+SHA-256-Digest: UC3mbxxnZs5Wz743oVDwP2vCvSq9CaTk2uYv/URQNFo=
+
+Name: guide/otjld/def/images/smart_lifting_small.png
+SHA-256-Digest: WgV1tuXEJdSYbT1VXozR4TuHWgg4mDOfNlHuXXGLmA4=
+
+Name: guide/running.html
+SHA-256-Digest: wmUBT8eDuDyQc4wqx+ZFCHWXHLyYfAhBPjnbksOxqhI=
+
+Name: guide/images/eclipse_launcher.gif
+SHA-256-Digest: VupV3nNMCQG8MUuBKCIPZEDDk4zva4sU5FratKiTkb0=
+
+Name: guide/images/screenshots/NN07/GoToLangDefHover.png
+SHA-256-Digest: 6G3QFl0q9t59caEzyLfQ15IeHNUgj89LkhoSRJLm2GI=
+
+Name: guide/otjld/xdef/s4.2.b.html
+SHA-256-Digest: o82KxhQ+RnuGT0gBSHl57vzYqEuRxer6ru5QOBwBNRw=
+
+Name: guide/otjld/def/s5.html
+SHA-256-Digest: 1e2t/Qm342hv0gjWynkEwdU4a/VM+kCwcABBHFyEEJ4=
+
+Name: guide/otjld/xdef/s1.5.b.html
+SHA-256-Digest: +cs7jUlTyTJ96y4yagJH2wF+ahS5N8Ri1f7ADFwR+Q4=
+
+Name: guide/otjld/def/s2.html
+SHA-256-Digest: yv6IIT/uIj7YKHTQvdPXvq5xt3TMHHQr7SO1PX8VJ7U=
+
+Name: ot.html
+SHA-256-Digest: NGjHhwN0hUwq3dWNyZDNe6NEENGoozH6lOfQGg/rlfM=
+
+Name: guide/images/screenshots/callinMarker.jpg
+SHA-256-Digest: pv7pSzsgXOcxkWECn+CiZkXRWW+dj/Yt33CWOCnTl7g=
+
+Name: guide/images/screenshots/NN25/configure-compiler-weavingScheme.p
+ ng
+SHA-256-Digest: oUO4zzvda2wuAiRJnOL+cMtFi4IIqy8L8bzXRPDGPN0=
+
+Name: guide/otjld/xdef/s6.1.b.html
+SHA-256-Digest: Xtc3xRWYQ8Rq9ynor7GXUPTGCdzhCJp+9Bg74JSTXNY=
+
+Name: css/root.css
+SHA-256-Digest: qlP2BPRG3PRcDDf26EmeHPTkfaighv4X1mTS3UX5WL8=
+
+Name: guide/otjld/xdef/s4.9.1.a.html
+SHA-256-Digest: ogS7RYmb22B2gcqFNYnVVEcgFr2LfN350IH34KspBOo=
+
+Name: guide/otjld/xdef/s8.html
+SHA-256-Digest: e68J+B85PRX/zKDGGTAguMRyyIP/djr9iXHjGbi1lqU=
+
+Name: guide/images/add_correction.gif
+SHA-256-Digest: QX24ceO3qHBAZYUPyiOOkvztr0B1unzcDqtacF9GkJ4=
+
+Name: guide/otjld/xdef/s4.3.c.html
+SHA-256-Digest: E/Y8a3lODcuoSU1RN2gOb62Ny3qmf8+DDffqEraAuWQ=
+
+Name: guide/otjld/xdef/s1.3.1.c.html
+SHA-256-Digest: X6oDnBSSAyzprc0uo7WWfSCBLaURy6l5LXSSGd4fZD8=
+
+Name: images/built-on-eclipse.gif
+SHA-256-Digest: No6FwZp4m5fes8AVhMFy+1c9H0iWXy03HDgghMSqw/U=
+
+Name: guide/otjld/xdef/s2.6.g.html
+SHA-256-Digest: t9kb/OG92rGepAN7R5p6koUN/YdWG0WZ/pq7rjXhIFI=
+
+Name: guide/otjld/xdef/s4.7.c.html
+SHA-256-Digest: JtPLnT4LkM+7HtNRNOzCK5t3D2t06LTVsysN9+j9prY=
+
+Name: guide/otjld/xdef/s1.html
+SHA-256-Digest: D3+9VJEZJdY+tiEkLdxVZK9INcyMLG1zl5sB7XUdzQM=
+
+Name: guide/images/screenshots/NN08/CalloutToFieldSeverity.png
+SHA-256-Digest: aSCFbPWEM7RIDvWOdy3M5U/p/EKqisu2/6haBiMtshw=
+
+Name: guide/images/screenshots/NN08/CreateRoleMethodQuickfix.png
+SHA-256-Digest: 3PWvNx9e9M2Cu1UVd+Aj6P/SgIfKNOLrhOpiysUqE10=
+
+Name: guide/otjld/xdef/images/implicitly_overriding_playedby.png
+SHA-256-Digest: RsVhBQ9aV1j3pNBNP5xUPTOSDEVvD8at1oi0I8LlmPU=
+
+Name: guide/otjld/images/linkto_help.gif
+SHA-256-Digest: K8TNWtrr8CbiAyz1PLTnN1fVgXWoSCZmXiKFU418/Jg=
+
+Name: guide/otjld/xdef/s4.4.html
+SHA-256-Digest: xv6BDjJ3BPGwQN8Du3MW4B1pm4T0xo/aJgcqPBfyGf0=
+
+Name: guide/otjld/xdef/sB.2.1.html
+SHA-256-Digest: EARZeCm99ajtsxtQTAdjJ01C8SJTyHeq4LjOA1DVHFg=
+
+Name: guide/otjld/xdef/s4.1.d.html
+SHA-256-Digest: xtGMo5UC9DlHeUWKBGiKGeUtqZsC9psNkLKwhltv7wo=
+
+Name: guide/images/screenshots/selectTargetWeavingScheme.png
+SHA-256-Digest: seVVQXctbdWfafk3rbaGBv0lKdFHQ0XPacktbsN1aw4=
+
+Name: guide/otjld/xdef/s5.2.b.html
+SHA-256-Digest: idCU4pctTWVrbTyJog5Zi+C9mlSMeyE0EuSRJWqZL1M=
+
+Name: guide/otjld/xdef/sA.0.3.html
+SHA-256-Digest: kpEP7PuDyYFBIjsVeqceKyU+HsihTRLGWCyf8ZFvzyk=
+
+Name: guide/otjld/xdef/s2.1.2.d.html
+SHA-256-Digest: EymIfQAI/WDeEAnxfcmVspFtauEiALp0b2pjJniyP4U=
+
+Name: guide/otjld/xdef/s4.7.b.html
+SHA-256-Digest: Z9j3/uUqs7Ie21k2GNVPR8LlWdOs/J/vmvxGnyYUA2E=
+
+Name: guide/otjld/xdef/images/foo.png
+SHA-256-Digest: xyfXcwE8f7NPFWcHJBycpCwmxeEqh21FAbrSaMZwgtM=
+
+Name: guide/otjld/xdef/s3.5.d.html
+SHA-256-Digest: SwS6RZQRAsLjKKICpbX/t8fKYZkZ08NJlpOzrN5SuYA=
+
+Name: guide/otjld/xdef/s0.html
+SHA-256-Digest: A75NGa9tYkvva+qYWskUaLPG8xQxQ1XnRvGgjK/On60=
+
+Name: guide/otjld/xdef/s2.3.html
+SHA-256-Digest: zqCjPbd+xDqAkcFeCzed44FI2M+BafI6h5bcvFkBx4s=
+
+Name: guide/images/screenshots/completion1.png
+SHA-256-Digest: /T1DI1gjIlv65Jex+ggnt2kihILgszrBzN4FtkLzqp0=
+
+Name: guide/otjld/xdef/s4.9.3.c.html
+SHA-256-Digest: RcxKmSRb2eWYCtPptpiFHltkY6E6ZGgn2YI2pH+cAIM=
+
+Name: guide/otjld/xdef/sB.2.2.html
+SHA-256-Digest: EloIuP4XIu+OwppFO8jepw31sLBV3rVS7en3Ojiopx8=
+
+Name: images/baseguard_obj.gif
+SHA-256-Digest: jXsme3hGckbhz5R4F/7A9DBCY2zqJJ8u0CBF/l/0XTI=
+
+Name: guide/otjld/xdef/s2.1.f.html
+SHA-256-Digest: /Z3/loudIXqFUMFsy1xFVe5Jtx07M0Z+wJLqF6/1Q3A=
+
+Name: guide/otjld/xdef/s6.3.a.html
+SHA-256-Digest: gd83+tT7Fd+pwAhU+zvP3FbN1ZgXkdGgXUFO/Hxo0hM=
+
+Name: guide/otjld/xdef/s5.2.c.html
+SHA-256-Digest: V1TJH7nNbSRgq09sBkICCEq3vWBvAYjHXXx5wIDyAGk=
+
+Name: images/role_obj.gif
+SHA-256-Digest: bm03VR14/95LX/kzR8KduKu0WNxQ58eq3m/bmuyRR8E=
+
+Name: guide/otjld/xdef/index.html
+SHA-256-Digest: p7nlJzxzYFu+NvYVFo3Zoq+28W3ONRSa62YQQygzEJQ=
+
+Name: guide/otjld/xdef/s3.2.d.html
+SHA-256-Digest: HIjYDntSufmM3l9y4mvWquYdLX8vH77iRbr+wRnK19k=
+
+Name: guide/otjld/def/sA.html
+SHA-256-Digest: dRUi4M/5ViTPLbaPBnSZVwzcm7hDG+tDhvr3YfHUgnI=
+
+Name: guide/otjld/xdef/s2.3.2.a.html
+SHA-256-Digest: 6baanxDubQW1hCRT14ZqTy7AwQgA1olTkmtNGRNQsvg=
+
+Name: guide/otjld/xdef/s1.3.1.b.html
+SHA-256-Digest: XEL1vZtGulinNKCb5PUDJjv7sbtcjWESizjimFp0BIE=
+
+Name: images/ote_osgi_launch.gif
+SHA-256-Digest: Jjptx9Q5rDOxSIbrzhYwPFwSeV2RJx3pxVnNOOgjqt0=
+
+Name: images/playedBy_obj.gif
+SHA-256-Digest: z/vEKKtVswY3fnNbPtHWip4WUdXyagqxcPOKjosHN8I=
+
+Name: guide/completion.html
+SHA-256-Digest: pFwhQ6xE4y0V+llFq4X2050JxwCotr/3zKx7/vztFtI=
+
+Name: guide/images/screenshots/packageExplorer.jpg
+SHA-256-Digest: mtcird6iUafmlJVZrcZQIezh6EkQ0Z1w/DGgJZajXhw=
+
+Name: guide/otjld/xdef/s2.2.html
+SHA-256-Digest: 2rNOSxa9wIEposm5EIKyvzqc2mHgMljO76gdT4KKsXE=
+
+Name: guide/otjld/xdef/sB.2.html
+SHA-256-Digest: nsVUuKA5xkaE4mAVD+T0U3GeQTRXJeepLFtpPmW7Njw=
+
+Name: guide/otjld/xdef/s4.5.html
+SHA-256-Digest: T81y6+aVyQgRhv02nrMlon+hkPiAqyhaOCCoN5oQ+MM=
+
+Name: guide/otjld/xdef/s4.4.c.html
+SHA-256-Digest: MjjtgXT6VK9j+06zn8jSQwugmRhwqfW5NpwpUN1Qcxs=
+
+Name: guide/otjld/xdef/s1.2.5.b.html
+SHA-256-Digest: 7SuXr68gHY+3v5xmPPoZk3kzktYBa5Nw1IN/bBeDgos=
+
+Name: guide/images/screenshots/NN08/ExtractInterface2.png
+SHA-256-Digest: eU2nPy3ITXvK0tVfyIlZzbfkKU8OzwXB5NW2UFA0Xt0=
+
+Name: guide/otjld/xdef/s1.2.1.e.html
+SHA-256-Digest: ZMS8XZrGxdc3acrxEyLQgU7hq6qy5fnXdyNY9hgkI4c=
+
+Name: guide/images/screenshots/NN07/OverrideRole.png
+SHA-256-Digest: JHu3VvWR2tmFCikPN6MxVDO95TXbdx2jo6BBe3Kx1Ng=
+
+Name: guide/otjld/xdef/s0.1.html
+SHA-256-Digest: 7azh7yyJMtbfi/Og0K2PBegsgymt/SCVd3fGiDY8Sjw=
+
+Name: guide/otjld/xdef/s3.1.h.html
+SHA-256-Digest: zCGZUQUi7eYlItkicFlhZFtsd5/wdsqm8h0AoHgOLM4=
+
+Name: guide/otjld/xdef/s9.3.b.html
+SHA-256-Digest: D89CWGQewrOwNaHicNw7NBgo00a7Q2lMp861zl8tAFI=
+
+Name: guide/otjld/xdef/s8.1.html
+SHA-256-Digest: t3AAnFpgrFM2Ftz8qDzMb7WPumYHXst6uzhfI2tAWFU=
+
+Name: images/external_roles.gif
+SHA-256-Digest: Gee7j7nIfB3L10WPHzJa0THCJmXU33aRKygfFF8B9E0=
+
+Name: guide/otjld/xdef/s4.2.a.html
+SHA-256-Digest: cvfiA3v81q73FRBowT/tYQCTAPX3CEQxZGT4iV5oCG4=
+
+Name: guide/otjld/images/guards.png
+SHA-256-Digest: CsmEpARLWwPs0eTTpKVVDli0ZqkX/tw5ex3Dwno8Od0=
+
+Name: images/class_hi.gif
+SHA-256-Digest: EnC/yFPEuDaJaotMXFMgKh6/910UgcPN296DrcJNanU=
+
+Name: guide/images/screenshots/stack_entered_earnCredit.png
+SHA-256-Digest: 7jXB4vYJGwchnX0aOEAXz4MazBr8ZX3hTGpPV2fxmp8=
+
+Name: guide/otjld/xdef/s5.4.2.f.html
+SHA-256-Digest: 6cc3w1iNRqtC8RAWcbVsTLsLzHeKqrhR2IEkk2cSVYs=
+
+Name: guide/compilation.html
+SHA-256-Digest: a7JkA/vjVEISlz0CfrKES+IcsQ8BptqlHG660U66nn4=
+
+Name: guide/otjld/xdef/s1.2.2.c.html
+SHA-256-Digest: gnYRQ4hs3SvId8egJezEXr1vW4fjT2yexLosoUaNULk=
+
+Name: guide/otjld/css/ot.fix-ie6.css
+SHA-256-Digest: RN9FbRoxU7usjkncN9inq1N2ZuIznSMcpuLQ/7tLQsQ=
+
+Name: guide/otjld/xdef/s2.3.5.a.html
+SHA-256-Digest: noeosULceCknTB0C/O5KJHgJJzptI/dwAoCjUeYXg2o=
+
+Name: guide/otjld/xdef/s4.10.html
+SHA-256-Digest: 71qusIti/8iDtjAF8jhl1f0Wko2oiWnOeYKIJVde/wM=
+
+Name: guide/images/julaunchpgn.gif
+SHA-256-Digest: Lu8hQ7ofUO7qmfr/G7ffp1O89oQHx+mOgeX/pW706N0=
+
+Name: guide/images/screenshots/teamWizard.jpg
+SHA-256-Digest: 0Odk1xJ7xTRtf0fD36E0zhJ1sZActorulymWKuZOrbQ=
+
+Name: guide/otjld/xdef/s3.1.g.html
+SHA-256-Digest: XWEAatlVXu2kvAGC76jlAq8aIpiHmHbvanNEd0kgq2Y=
+
+Name: guide/otjld/xdef/s2.2.c.html
+SHA-256-Digest: p2eKd4Bwho94ebl1pA1hkhZdoEWOHgbX40lY0wYWVZM=
+
+Name: guide/images/screenshots/calloutmarker.png
+SHA-256-Digest: R+sEVO1oDGCxwWEiDl1/idInYP5wkH0eSXoAAnStJHo=
+
+Name: guide/otjld/images/implicitly_overriding_playedby.png
+SHA-256-Digest: RsVhBQ9aV1j3pNBNP5xUPTOSDEVvD8at1oi0I8LlmPU=
+
+Name: guide/otjld/xdef/s5.2.html
+SHA-256-Digest: zcg3pyiCsYD9ohmfO6f6ogZmxN8YG9/J+Ttc2RA5mD4=
+
+Name: images/team_role_obj.gif
+SHA-256-Digest: FvBaLBlv9UgbAr0AIvb7VEfMYikWaTyEJ+zqetal5bM=
+
+Name: guide/otjld/xdef/s1.2.1.f.html
+SHA-256-Digest: vrRmcDRC9LjUuXpmyBNasp/ZQYZbgSUY6L3NfCvNcfM=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: G2hFTVPngfh5NUf96Pyy87A7XIE083udjEBFy4pUc/M=
+
+Name: images/plugin_obj.gif
+SHA-256-Digest: 6kblN11J4QXn1CEhx6lNtscfkaFp5mpQ2ciXAw6Y7A0=
+
+Name: guide/otjld/xdef/s2.3.a.html
+SHA-256-Digest: X7JD7Z3I5qZ/x793FCrrzVCOaNMV+qGyDUMKY5LZiGQ=
+
+Name: guide/otjld/xdef/s3.2.e.html
+SHA-256-Digest: rAr4GHhQBLyRGV3RqVchuH/T5RhDRkOOFG901bjcxX0=
+
+Name: guide/otjld/xdef/s2.3.2.b.html
+SHA-256-Digest: C9uJ5M2J6rLfIp53lzeUv8BfpVKNLJIRxHBnih4omvk=
+
+Name: guide/otjld/xdef/sA.5.html
+SHA-256-Digest: uqNbMxzxNWSqTcjug27pSqhUefy6afmPkf2+3tyXUZI=
+
+Name: guide/otjld/def/css/line.gif
+SHA-256-Digest: i4yfMAYTZfgH7sEbLkFb/0koqTdA1xOKWatNAWnRyfA=
+
+Name: guide/otjld/xdef/s1.5.html
+SHA-256-Digest: pxbr0ynvoyGrvcWXe0Sp+m2kgQgv8mNo/BwbmxXoml4=
+
+Name: guide/otjld/xdef/s2.7.d.html
+SHA-256-Digest: 1I84179BE0hry6ZcDXVQYls04/12sIdcuwd08Q+QeUk=
+
+Name: guide/otjld/xdef/s7.html
+SHA-256-Digest: d1bPByMs8zJBTMxMNErDomVs+/j8sZwasmEV7d5tTNg=
+
+Name: guide/otjld/xdef/s1.3.1.i.html
+SHA-256-Digest: AZrr8yUn+uibgDj6ZFU2uy6u6cSWw++PGSs1TIPyFM8=
+
+Name: guide/otjld/xdef/s1.5.c.html
+SHA-256-Digest: I8h3zAvw66M3G1qOJZ09Teva1YjFiRwljk/+F6S5Fgc=
+
+Name: guide/otjld/xdef/s2.4.2.c.html
+SHA-256-Digest: flFwWNJDhbRMc47/ntdJBzHQ1cUsdx4hq/X3FOOUysw=
+
+Name: images/callinbinding_obj.gif
+SHA-256-Digest: NagC3vUUZKFOw3GQlosNemSKTR14X1PhPXCzVbnqEGk=
+
+Name: images/ot_paragraph.png
+SHA-256-Digest: SjEw0FB4vnWFwDIl2ypJ66Y6CtVUU8uoIGPKgXgIPfM=
+
+Name: guide/otjld/def/images/team_nesting_hor.png
+SHA-256-Digest: 86gC7NF69QWmNT9c0pn7eWuyiBfyIUDPWmgKbeyR9lk=
+
+Name: guide/otjld/xdef/s5.4.1.c.html
+SHA-256-Digest: N31wKLj2opUtUeDdLOvZNJJIWbzweLev/ySVZGLCRIE=
+
+Name: guide/otjld/xdef/s2.1.2.html
+SHA-256-Digest: G9B/kl6DmXZSwsZBf4LS/bdt23yGzZZNZ1cLA7cbnRo=
+
+Name: guide/otjld/def/images/implicitly_overriding_playedby_base.png
+SHA-256-Digest: pSuxS/DXZILTzdwg6AcBOCZGAT8ktncI55deNh2hj9Q=
+
+Name: guide/otjld/xdef/s2.1.b.html
+SHA-256-Digest: u0bhbo0rXsO74AWFxlY6GPcwfgxDtIa+8xOU2wcw+LY=
+
+Name: guide/images/screenshots/NN07/ChangeSignature2.png
+SHA-256-Digest: qUQtP02g5xKfF2hxtjby3RB0BoF2mnkpgV1Ah1p04R4=
+
+Name: guide/otjld/xdef/s2.7.b.html
+SHA-256-Digest: WCW5L1uechyKs0eHlfEK8gwcF3dBsuv8qJfmikZ7wtA=
+
+Name: guide/otjld/xdef/s9.2.1.html
+SHA-256-Digest: 6h+WXB89rf0ma/WvNJHjRbooiIdx9Pk/GlgduBMUaEA=
+
+Name: guide/images/bundle_obj.gif
+SHA-256-Digest: YF3cYXReMzrbKmuPaMIe2Y1pNQQ/07iWdpPb7omMSoM=
+
+Name: guide/otjld/xdef/s2.3.4.d.html
+SHA-256-Digest: vTUqscZsWuh6T+YyUBz82FaQ9pgSaoJx+20QXs11bbg=
+
+Name: guide/otjld/xdef/s1.2.4.html
+SHA-256-Digest: h6M2BmaKHB55XWHcU0SGjP1FPaWDEwa1KY8+1N1NrSI=
+
+Name: guide/otjld/xdef/s3.1.j.html
+SHA-256-Digest: Fxkgw9vwOM3w6lnBan4yJ/zdxKhD+xp+/zTcmC7M1iE=
+
+Name: guide/otjld/xdef/images/team_nesting_hor.png
+SHA-256-Digest: 86gC7NF69QWmNT9c0pn7eWuyiBfyIUDPWmgKbeyR9lk=
+
+Name: guide/images/screenshots/NN07/BindingEditorCalloutToField1.png
+SHA-256-Digest: je7+bRmd7M8fqR5caVpfobRITh6snQNgu+7fjj+3S+c=
+
+Name: guide/otjld/xhtml1-strict.dtd
+SHA-256-Digest: Vs0kQSKdguMPuTa5itrpHdWnLpb6eOgiqn17xPIdoTw=
+
+Name: images/line.rainbow.gif
+SHA-256-Digest: i4yfMAYTZfgH7sEbLkFb/0koqTdA1xOKWatNAWnRyfA=
+
+Name: guide/images/junit.gif
+SHA-256-Digest: SaqZ2k0jvBGEy/bpaiQvgfQcO7fxnB8OVq7o47D/sT0=
+
+Name: guide/news/new_in_0.7.1.html
+SHA-256-Digest: xBuokju7THl2S5dT1ym7ez2SlLSPdqXnALvDeN2Tm3k=
+
+Name: guide/project.html
+SHA-256-Digest: 2k5WprvYSXyMi5IK8pMXD+VguoIP+w8l/azHxy4UkvI=
+
+Name: guide/images/screenshots/complete_binding_1.png
+SHA-256-Digest: ah2A+5RJfVRBjV493o9Q+/VKwn7W2yZMbuaa8zStApY=
+
+Name: guide/otjld/xdef/s1.4.b.html
+SHA-256-Digest: pTg79YnLFBwIlIAocyhjlpmPz22mvxAv3aOeHVnk18U=
+
+Name: guide/otjld/xdef/s4.10.b.html
+SHA-256-Digest: QJZ8n4SKTi+DGfU1eEanqQIXIXmrK365/gRKfsXParI=
+
+Name: guide/otjld/xdef/sB.html
+SHA-256-Digest: MW7J77Tf2XD8kRo9jvmWqieFgCFi2ezii8+x1lVpwho=
+
+Name: guide/otjld/xdef/s2.4.3.html
+SHA-256-Digest: T19rIqgUZvLjGn8pTAEiSRtCP4EE6t9aabmBHbvMqbc=
+
+Name: images/role_obj.png
+SHA-256-Digest: xpCLhpOCSv9Vg4j6kCrUYM6/ICr8rVrbOrA5uL3VclA=
+
+Name: guide/otjld/images/feed.png
+SHA-256-Digest: Wqm9aI/WQORp0/TdUE1KITOue9p4h4McU6Ih+t2BT88=
+
+Name: guide/images/screenshots/NN07/othierarchy.png
+SHA-256-Digest: N+l0xZ4R27UM6REXIlDoAJABgezEBqELg5toW45zKUA=
+
+Name: guide/images/screenshots/team_monitor_marked.png
+SHA-256-Digest: w+Oiz8wNirjATlJmnFVHH8dsArDofheoothArJkz7E0=
+
+Name: guide/otjld/xdef/s2.7.html
+SHA-256-Digest: I2Bxpe/Oj7hER6RVGDLlu/oKBz566d7p1PVAIWwzPQ4=
+
+Name: guide/images/screenshots/NN07/RemoveSignatures-QuickAssist.png
+SHA-256-Digest: z1aG8Bueuiyn335a7op338axRu/17q0ny1OGzTzZX90=
+
+Name: guide/otjld/xdef/s9.2.2.a.html
+SHA-256-Digest: NpTwvPeRr0FzNE8Zo8nmfr9zyZFSsIkgUROwk8jLbQs=
+
+Name: guide/wizards.html
+SHA-256-Digest: MrDlkY58KbwbTBUCwMW98hoC2zdEfKHNwIf9UMfMIco=
+
+Name: guide/images/screenshots/BindingEditor_ParameterMappings.png
+SHA-256-Digest: W+U2lIYjDrz5CYKSsjaZ6OXtockYQr7O92VK1clhnDY=
+
+Name: images/ote_launch.gif
+SHA-256-Digest: sWaxWb2J33UFd6VfbM/SRePX2EkkUKLSxfUFOMLRZYs=
+
+Name: guide/otjld/xdef/s1.2.2.html
+SHA-256-Digest: k/id2a1J6iNLngehjOioR+r7ATrlFfcExBPyVvZJ+jk=
+
+Name: guide/otjld/xdef/s3.1.c.html
+SHA-256-Digest: hT2JGeQJ3QTKPtyvBWxUpOaSOX7shYuv8E6StrQ2Pw8=
+
+Name: guide/otjld/xdef/s5.1.html
+SHA-256-Digest: QGI3OxValQduAm+cfUPF4wIK8vwra39Nv06XvqaSpTc=
+
+Name: guide/otjld/xdef/s2.2.e.html
+SHA-256-Digest: Nvlmqt2FPsR8c5Lj7HpsqP0Vy7u8SshaWFHz2DqjE+k=
+
+Name: css/overview.css
+SHA-256-Digest: 9MvTxFzeLrriH+uu4vMeDBN/m0xin6P+Vgsk6v6NiuQ=
+
+Name: guide/otjld/def/s8.html
+SHA-256-Digest: HLoVmJgyoEbNu4OZ+UFScJPFDZw5pIWHu4jFUsW5/xc=
+
+Name: guide/otjld/xdef/s5.4.c.html
+SHA-256-Digest: IAKGFv4hv+QJo6awalwL1VC6ZftOiqgTrhIho5WVaL8=
+
+Name: guide/otjld/xdef/s4.5.e.html
+SHA-256-Digest: XzFSkAfaAnuUPEO9QjhXtYwqR+TbGdyPmQYjWK2e5jI=
+
+Name: guide/otjld/xdef/s0.2.a.html
+SHA-256-Digest: RlYbMtAE8Uyb1Wr05tMIwqpffrgCM3UOjV7xuq40NZk=
+
+Name: guide/otjld/xdef/s3.3.a.html
+SHA-256-Digest: 5Kb6XkUC9zVP532RcUrMuRlwr2afzO5yC4wF7wWRy10=
+
+Name: guide/images/screenshots/langdef.png
+SHA-256-Digest: VTRoucY/eRibgTfGnQmmqb0uut1Le0au3IxyzvaMyzc=
+
+Name: guide/otjld/xdef/s2.3.3.a.html
+SHA-256-Digest: cJn/j44tQr/vYXEMOciaGjqOhUdCHvKEnPdG6VU4kcg=
+
+Name: guide/otjld/xdef/s1.5.e.html
+SHA-256-Digest: NN9jr1yECyIbOaiNyuQ21cdPxse8rh6AK5lNDqh6Wco=
+
+Name: guide/otjld/images/bend-trans.png
+SHA-256-Digest: MGGSJQCQ02YaTxdfe06Q8pljvn4y5SiY91dQH1Vis2Y=
+
+Name: guide/otjld/xdef/s1.2.1.a.html
+SHA-256-Digest: Srbcle4K2inqPoSRXP6eVwp7Vnw6pxgsJHUAtbq+Rho=
+
+Name: guide/otjld/xdef/s1.3.2.d.html
+SHA-256-Digest: UtijcDLryp0OhjoGSqYtRw+d8GQUrF5tNVlhqGen6f4=
+
+Name: guide/otjld/xdef/s4.8.d.html
+SHA-256-Digest: Thjv7Gj6byXytlPz2EejfiNVGuE9XKjKQ8isxOYGWYw=
+
+Name: guide/otjld/images/bottom-left-small.png
+SHA-256-Digest: 3QvAm1wRJazs9wrDyWs9i3T2N2HhcYNIM1+FROon6Ss=
+
+Name: guide/images/brkp_obj.gif
+SHA-256-Digest: 8sVJr/2dFyEh4CsS+M+LVLeObo9kE8VT84PgZUowEOg=
+
+Name: guide/refactoring.html
+SHA-256-Digest: vSqWIqHWTAdLZCniSeXdAemjERfLcNGu0tLt/guyF3g=
+
+Name: guide/images/screenshots/NN07/BindingEditorBaseCallout.png
+SHA-256-Digest: wPW8n5fH6jjkmyp45fxjTYxB2HagJZD+SIyBG5dp3eI=
+
+Name: guide/otjld/xdef/sA.0.2.html
+SHA-256-Digest: bZiw6OT1M4Qx1DLwhLWedU1T1TWfkUZDje0zY7Iq6m4=
+
+Name: guide/otjld/xdef/s2.1.2.c.html
+SHA-256-Digest: VJU8rBH3U3sneTdA89CrA78I+kb7HbCfI0oxIRaBAqI=
+
+Name: guide/otjld/xdef/s2.1.d.html
+SHA-256-Digest: lhqDClVDjDCFKv5lp4ts3OLz6ZsoZc0v0uhOiyc4beg=
+
+Name: guide/otjld/xdef/s3.4.b.html
+SHA-256-Digest: YJFJ4TEGql3++bLrU6JBMjgsTAtg6n5aQMZGHupIuAw=
+
+Name: guide/otjld/xdef/s4.5.c.html
+SHA-256-Digest: Bha33cU0/90e2B7gl3ZqZIsWB/jxLTS1OE/yPKo8Pj8=
+
+Name: guide/images/team_act_implicit.gif
+SHA-256-Digest: dA2HU5Gk7b9zjeqWCvEC9+MOUvEibYiZlx+QFI9vbT4=
+
+Name: css/graphics/obj_48/otjdev_obj.gif
+SHA-256-Digest: bBt5CNXguK0eoxHizlHBG6pZ4HneqNqDk6jKYAB5JdU=
+
+Name: guide/images/screenshots/NN21/AddSignaturesAssist.png
+SHA-256-Digest: xfhxY10KhI6ZLk/MjBODYxv6OC+kh6fRSQzMqq7sqxw=
+
+Name: guide/images/screenshots/GoToLangDefHover.png
+SHA-256-Digest: 6G3QFl0q9t59caEzyLfQ15IeHNUgj89LkhoSRJLm2GI=
+
+Name: guide/otjld/xdef/s0.4.html
+SHA-256-Digest: 3d+Tr8TgLt9mnt7lFnBqwPVMaOC7ehKSc72SNxh2FHc=
+
+Name: guide/images/screenshots/CompareWithBaseMethod.png
+SHA-256-Digest: 676dsC42o40RjamvdfrwjxJLdLcs0nk/AL4xcmDqqTA=
+
+Name: guide/otjld/xdef/s5.4.html
+SHA-256-Digest: gAEBtlbPL6FAqq4vgk4QFtqcVy9iQnsID66C4voeuSU=
+
+Name: guide/images/screenshots/GoToLangDefGutter.png
+SHA-256-Digest: Ey2GubNJ25nyTmsMaZvld3+uM/bRTNrsKhspTsOnSBk=
+
+Name: guide/otjld/xdef/sB.1.1.html
+SHA-256-Digest: LErCuCTMIui6sRQ1j/ZLpUU+7aNZKh6Kp4wKzg9+diU=
+
+Name: guide/otjld/xdef/s4.2.d.html
+SHA-256-Digest: 4jJyCQidIm32E4a6r1bCIWvQo6cgAej1GUNWqDKDXC0=
+
+Name: guide/images/screenshots/stack_lifting.png
+SHA-256-Digest: WHc0YAlsHIybQSpoUokklFD5P5qm7SbMkpckFLRklEU=
+
+Name: guide/otjld/xdef/s1.3.1.d.html
+SHA-256-Digest: tjKSHOTOO0BgY8T1UdV3BChkpdzj/S5XqCpdy3S7MXE=
+
+Name: guide/otjld/xdef/s1.2.3.d.html
+SHA-256-Digest: pojKPKW3587zp8piLMEE3WzsEO89vY12AVG1hTsDTTk=
+
+Name: guide/otjld/xdef/s3.3.html
+SHA-256-Digest: XbxTzRaVU/A/wyJZMkw3BulZ052RI3vqYGs+PH3WwO0=
+
+Name: guide/otjld/images/permalink.png
+SHA-256-Digest: d6NZikyqQmHN8qDZKExCA8HuhF7ZY0FM409ksw9FaXA=
+
+Name: guide/otjld/xdef/s4.8.b.html
+SHA-256-Digest: 6DyzmmN6X0GYACHbTVeAj0wdDLLR4XQ8to6O0YoVGl8=
+
+Name: guide/otjld/xdef/s5.1.2.html
+SHA-256-Digest: h4xVF+xeu8ZgGb1lAdKkjlUnbGgmr9cEz3ASEhzc2CM=
+
+Name: guide/otjld/xdef/s9.3.html
+SHA-256-Digest: //Sv+6ICvqbCJ+ayMCmlsr3uONmAm/LqVGl8QbL2yw8=
+
+Name: plugin.properties
+SHA-256-Digest: deiOEDEMU6ACYlRIovGxCvARY0b6DhIuYLuLX2i28ps=
+
+Name: guide/otjld/xdef/s8.3.html
+SHA-256-Digest: F3xuGkZBLD4wEVcyucQmAcMNt/Ooibbzc+HA5vwsevU=
+
+Name: guide/images/screenshots/callinmarker-menu3.png
+SHA-256-Digest: IQ0DoNptv2oXrmjvUuXkO8cWSO539GAqWUx9Ywim3QY=
+
+Name: guide/otjld/images/heading-left.png
+SHA-256-Digest: mp3k2n9/n3a8jdMv4Jlc0fwvZXbgRxLdns3/Bn+cueI=
+
+Name: guide/otjld/xdef/s5.4.1.html
+SHA-256-Digest: UTaTK+fAtdAItlNe7UPPA6v5FJ5y20p6RFMuz7CLhBI=
+
+Name: guide/otjld/xdef/s6.2.html
+SHA-256-Digest: wAyPsd8ah/DfzP1nNyAZrU9Z+N8WgTFztGQW+v1/Y0A=
+
+Name: guide/otjld/xdef/s3.4.d.html
+SHA-256-Digest: mEVN3nKsbsKITglTqZ5YS4fi/4bA2OOba9yzl3RgGsc=
+
+Name: guide/otjld/xdef/s4.3.b.html
+SHA-256-Digest: zH74aVJ4sWwwIin6cC3RHuMRrNkw/+7yhJHl5yVf3Nk=
+
+Name: guide/debugging.html
+SHA-256-Digest: zlipjGdAz8f1/oqjmtvszBwNBPImoczLdvp2QzRm/bY=
+
+Name: guide/images/screenshots/RuntimeWorkbenchMainTab.png
+SHA-256-Digest: ydjJc7w+DYm8B6tX+ylP7eGosjFX25lx5xWZKhyv1Mw=
+
+Name: guide/otjld/xdef/s1.2.2.f.html
+SHA-256-Digest: FjaJhE5MbABjWLPfOUKK6MpMEHKh11z+/vyu+cU/bgA=
+
+Name: guide/otjld/xdef/s4.7.d.html
+SHA-256-Digest: WS+VnnarORF79IXTxnVhuY9E33DqxN8dajX2duV9vtE=
+
+Name: guide/otjld/xdef/s4.9.3.b.html
+SHA-256-Digest: Kh3m2Kcoy0qjVSNWsFZmQ7pZZDXtRuRLfhhyYEPu3gg=
+
+Name: guide/otjld/def/s6.html
+SHA-256-Digest: UlFNIZ2W531eh44mcCisrjzzeQmcNsYkGh6/pr0UROs=
+
+Name: guide/otjld/xdef/s9.1.html
+SHA-256-Digest: S6O4/mqNnYQ2CuSRzDimpGyNX5iF71/V4xlbaUKZZ8o=
+
+Name: guide/otjld/xdef/s4.10.e.html
+SHA-256-Digest: 9RBrNrKPfB+GiJkw+0wOTD50pqKm/ixKSBTNxvVYxCc=
+
+Name: images/guard_obj.gif
+SHA-256-Digest: WatT2BLA7DmdEF7mdpY0678zcodWyjbmDCY/4FcohfA=
+
+Name: guide/otjld/xdef/s2.3.1.b.html
+SHA-256-Digest: fnw0eVi2rEpjv+6UIZwTvqLJBvKyFdm6pDn0Yivb43c=
+
+Name: guide/otjld/xdef/s3.1.e.html
+SHA-256-Digest: 3TJFnYOBEZ96ASEt0CRh7Gh+qjgd8IeIKFXeqXtwd10=
+
+Name: guide/callinmarker.html
+SHA-256-Digest: U9TWHUyrCtRrEp/bJZf+mprC4SYyl5X0z7xVsdC5n6g=
+
+Name: guide/otjld/images/heading-right-small.png
+SHA-256-Digest: 0bGUxLqmMhKCOsUU5eX+TQlCSnys++gQ5G0RkI0biH8=
+
+Name: guide/otjld/xdef/s1.2.5.e.html
+SHA-256-Digest: 5yGj9zCBrEpfLQFieOjT8rQr02r4mcv9Aw1dZovoJt4=
+
+Name: guide/otjld/xdef/s2.5.html
+SHA-256-Digest: PHRxt5yXsjNn/jSvNDnULrtiyO3Oel07AeiUXcqSH8I=
+
+Name: guide/contentassist.html
+SHA-256-Digest: findugEEV+phD/nd6umy+lAztyVSr9ldFvCbDSDSf/k=
+
+Name: guide/images/java_app.gif
+SHA-256-Digest: 7IdQkKSwCeWsr4mAdDCzRXjJimJUkRRDLcLkzURrDlM=
+
+Name: guide/otjld/xdef/s2.6.d.html
+SHA-256-Digest: hEgq4uoIcgE8hi+IXsIVLj+i/yUJ7u9RuKT9FFmYSl4=
+
+Name: guide/otjld/def/s1.html
+SHA-256-Digest: pROP9Iuf6RxSXDl3jwEo0UaEWviapYbYAzxn7emXE0A=
+
+Name: guide/otjld/xdef/css/valid-xhtml11-blue.png
+SHA-256-Digest: 2MqpT0Jv4MKGA3sds3olFghVuQH+cLbB8UYIHcnwX1A=
+
+Name: guide/otjld/xdef/s4.html
+SHA-256-Digest: zC4EKTqAKt1uu43hBAxj9jQLyoxtMeQGLFA+fr5zTvc=
+
+Name: guide/otjld/xdef/s1.2.4.b.html
+SHA-256-Digest: 4PDQWd59thDtXSgls1YjVdyTF3SADCUXKooRn+KoCcw=
+
+Name: guide/otjld/xdef/s4.1.html
+SHA-256-Digest: nkXOj8S6pvyz5Z4hzwOSyhlf44Yo4n6Kg8hlDAJseH0=
+
+Name: guide/otjld/images/bottom-right-small.png
+SHA-256-Digest: Yaz9oEmVTOXzyhS5FHQsZEOGJZRUbBJx52d9LrETJqE=
+
+Name: guide/otjld/xdef/s9.2.1.a.html
+SHA-256-Digest: LpZNsKHIiGEiuaIUntpaWDDBUjvQ/zWqNGpiI+wgzEM=
+
+Name: guide/otjld/xdef/sB.2.4.html
+SHA-256-Digest: RbkkQiqeiAhckJAGFeS5el/2vKv90qG9Dd+sdVD+T8E=
+
+Name: css/ot-overview.properties
+SHA-256-Digest: PMlSVPkScjJoq2QHFU1E3Tz2vBeENxUvRFvwFqhUJVE=
+
+Name: guide/otjld/xdef/s6.1.c.html
+SHA-256-Digest: 2Gc/QLia2QlLyDRiJRX64qsgqfxvwlsaccIzPhKM5Sg=
+
+Name: guide/images/screenshots/NN07/AddSignatures-QuickAssist.png
+SHA-256-Digest: +rjSNJopoiVVzuBhOspMQwwQV5mSuPcfQyn3UFke01Q=
+
+Name: guide/otjld/def/images/Layering.png
+SHA-256-Digest: 03YZ4vY6wo02ZoXGZWcuxC2UrVY7MxpLXNW35/HbFLQ=
+
+Name: guide/otjld/xdef/s2.4.2.a.html
+SHA-256-Digest: 4Xq+f0afJoVZ2R7MIKewlPmQxW0ugmr0z4Be+J0nbmE=
+
+Name: guide/otjld/xdef/s2.1.2.a.html
+SHA-256-Digest: 9c8e+5kYI0E5FfZ/U2ABuxqIU7iLKtvsTpU+H/7Sdeg=
+
+Name: guide/otjld/xdef/s1.2.1.c.html
+SHA-256-Digest: cu+cc0AVq0Q/kbXFKjgJRpMXYUSETcAPSL4xCwTHzp0=
+
+Name: guide/images/screenshots/stack_entered_callin.png
+SHA-256-Digest: B4yyCDqChhrztimP3BvGFB+iw7GySA8N1H7x3qfp0Zc=
+
+Name: guide/otjld/xdef/s4.6.a.html
+SHA-256-Digest: fBvKb7bb3g12FfpYRQCSPyG0B0rk9biR44HP6Ye1L74=
+
+Name: guide/otjld/xdef/s9.html
+SHA-256-Digest: mxynw51WMWE1r5BIOkGsey6yE9BuRGTB7qDHYE3eNRU=
+
+Name: guide/otjld/def/images/guards.png
+SHA-256-Digest: CsmEpARLWwPs0eTTpKVVDli0ZqkX/tw5ex3Dwno8Od0=
+
+Name: guide/otjld/xdef/s2.3.4.a.html
+SHA-256-Digest: NNo43yjoS26JDpLDbC2veplxP9rXhR7X1y3RE/c6lDk=
+
+Name: images/ot-eclipse.gif
+SHA-256-Digest: zR+Anem/rpqr3wDjgfwQovRQyQaUuitPnWSuYyYs8ss=
+
+Name: guide/otjld/xdef/s1.3.1.k.html
+SHA-256-Digest: 7kiLjrUHEQYx7kL3lLK3HMzIBhDCQBEPeLORKChzAPQ=
+
+Name: guide/otjld/xdef/s3.5.g.html
+SHA-256-Digest: 4AVQateNfzP1jkGj/cCUFTVpTlyljhsc+H6Gjw1GVNI=
+
+Name: guide/otjld/xdef/s6.2.a.html
+SHA-256-Digest: Usqaag6VH7daB3/69s+e4JDAMPNM/FQ4G/mC1wthfPk=
+
+Name: about.html
+SHA-256-Digest: M30GmY97/EWGpX9xUgtV9sWRu1h9ooPFRRTFF8iCPV4=
+
+Name: guide/otjld/xdef/s2.4.1.html
+SHA-256-Digest: OgUArhyskcj/oPZhGCIHbooZ+zKyp0g9+8VvvCSvGN0=
+
+Name: guide/otjld/xdef/s5.3.c.html
+SHA-256-Digest: vHRRs/07WkDGenDKwHA+knzjI4qFUpV/ZtKw83h8Q/0=
+
+Name: guide/otjld/images/favicon.ico
+SHA-256-Digest: WPE1G0YU1/ZJr2J4OnCc/FDI4l8cdt6j9zt2KSSO9fE=
+
+Name: guide/otjld/xdef/s1.3.2.b.html
+SHA-256-Digest: AGm81lWYCb4kPIGSpQh1niQNXnBgVbRKT6mCRDuBwUI=
+
+Name: guide/otjld/xdef/s2.3.3.c.html
+SHA-256-Digest: SQuPV1h7MDB90r24d4Mt3EDyMQethbFJ+RgaUKVWSv0=
+
+Name: guide/otjld/xdef/s1.2.html
+SHA-256-Digest: 8CHvWi5956+8A/QomhgnUDxGj6pmQhwTE64+KsCB1/4=
+
+Name: guide/otjld/xdef/sA.2.html
+SHA-256-Digest: dMiy0UphqklRs8UobB9wCBcROU4EEyV9buojJ3/7i+M=
+
+Name: guide/editor.html
+SHA-256-Digest: 04hVX429vKBx8GVSIbeAYbYBqZ2p2rgNkU5QHwDW+j0=
+
+Name: guide/otjld/xdef/s4.1.f.html
+SHA-256-Digest: rap+VkBac3AUEBk7VG7P0aitZhmI8mdNRT6AmY0MZ9I=
+
+Name: guide/images/screenshots/NN21/ImplementFromTSuper1.png
+SHA-256-Digest: y8Vtb1TVnkj2q0og7friGl/9qilJ10QViHx5uqJYSJ0=
+
+Name: guide/otjld/xdef/s9.1.c.html
+SHA-256-Digest: Qw+F7uVLpuRquVDGyiBYf72DjVtf+qMsoz0GRFj7Un8=
+
+Name: guide/images/stepinto_co.gif
+SHA-256-Digest: bOxiwVcfzLokFRtwUPNBGQo/siVdDX+U5XoTlG7uc/U=
+
+Name: guide/otjld/xdef/s5.4.a.html
+SHA-256-Digest: EVwMm6RwmB6IfkaGQiJ4U+O2ieyM05dheiFiQRa0fTw=
+
+Name: guide/images/screenshots/NN08/CompilerPreferences.png
+SHA-256-Digest: Wz0Z5osYib16CfSaasukCTkp6rNeHsKd9FC34wUcQaE=
+

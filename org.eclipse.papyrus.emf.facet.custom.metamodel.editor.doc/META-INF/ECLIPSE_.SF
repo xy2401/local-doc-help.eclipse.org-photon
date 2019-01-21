@@ -1,0 +1,122 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 4X0S4+Pg6y06AhecrG0NLdMtZjcW6
+ mPY3i6miRcKHtI=
+SHA-256-Digest-Manifest: Qg6QZwybYSsbJr12ZPAEsJHPDN6BGoLiy3XzNi5L68A=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: resource/topRightOverlay.png
+SHA-256-Digest: LDMw2swCtJoMyurdyQzeC0FklzKDqI8EpB87cWO4/ac=
+
+Name: resource/fontItalic.bmp
+SHA-256-Digest: BbvscMlEgF3lHNhLGv7ZhpcwEClYICjBzZAwnkjMtK4=
+
+Name: plugin.xml
+SHA-256-Digest: 7K3EddZi+iOMYhngTHFmsEMBZ8WHq55DB9ZqDK/3vDo=
+
+Name: resource/editor-toc.xml
+SHA-256-Digest: QH0mt28x10h2s0pq+QuufVIOXcMJJd16lKCD5INLkSk=
+
+Name: resource/rgb.png
+SHA-256-Digest: pHLd5ytsmRHffwnxL3FDpRvK3uWcx16wTWL+9TvMvT4=
+
+Name: resource/fontSize.png
+SHA-256-Digest: YxJUFrGep5sgFM20j1Hbp5oMJUa7o17WwBwC+fXn4a8=
+
+Name: resource/WizardCreation1.png
+SHA-256-Digest: VBTNx9kCVTf0lni8PxBdDOqZTcvCKVDlRpYbMpDNjOs=
+
+Name: resource/imageCustomization.png
+SHA-256-Digest: IjVdylnXabTLbU0RYt9k47wGNfxfQySCBpu6abcjOcQ=
+
+Name: resource/FacetOperationCreation1.png
+SHA-256-Digest: +vwFNhiJhdyAxkwLT7GyCP3mbnjInKpuNy+mBQk0l0Y=
+
+Name: resource/EditorWithEmptyFile.png
+SHA-256-Digest: G1I3b31Q8EEi7yeSmqUN08oRwgR2i2t12bslPlMYrY4=
+
+Name: resource/bottomRightOverlay.png
+SHA-256-Digest: nzpuhGvCZIg1pmq2jWOxd9fZvHBTkmh5I66NueOPIM4=
+
+Name: resource/FacetOperationSpecifyQuery.png
+SHA-256-Digest: SW80cAfRRJZWPN6uL165B2zP1Dy2Qv6elHACOL4muGs=
+
+Name: resource/editor.html
+SHA-256-Digest: sL0GYnDSBe/CSfVeA5YTTBoHeyXPHGAnXRCOCZfjr7o=
+
+Name: resource/customizationLabel.png
+SHA-256-Digest: K3eb9WzTi5RakASRqGY6jiHdqMFyiVkb6hhZDvKcK4k=
+
+Name: resource/fontName.png
+SHA-256-Digest: zWiX9geqf8pnNQLsw5HBECh4sicYmW0xSlQyJYfcGKc=
+
+Name: resource/middleLeftOverlay.png
+SHA-256-Digest: uUycaHFEL3V8+F79AKs3gjC4MJg0GTeeB2yiFNI0VKo=
+
+Name: resource/RightPaneldescription.png
+SHA-256-Digest: ywbmKDBzFbAzoCvit7NTXIRjYBkLLaET8NSazEMLga4=
+
+Name: resource/WizardCreation2.png
+SHA-256-Digest: qjJ+5txoQQfW1WUBo71UCq4zAeL3v9lBE34eDmgdloo=
+
+Name: resource/fontBold.png
+SHA-256-Digest: nxVTYr8RAIpnNafpBSoqe7Y+z1RmksC9jiwCXvfKTpo=
+
+Name: resource/bottomLeftOverlay.png
+SHA-256-Digest: Kz9BWTArEYOEIXYhZgOamWqf+Kh325haSoMjPldr0PU=
+
+Name: resource/FacetCustomCreation1.png
+SHA-256-Digest: w2LQeVrVL3ErQ1tnkO7mBuZUuPxPn4eErEy1A2fq/XM=
+
+Name: resource/WizardCreation3.png
+SHA-256-Digest: nZzJWZ3Cb8QHXk6k9k1VDJjL8J98HTQ6WiE5/LQC7KY=
+
+Name: about.html
+SHA-256-Digest: 29KxKTwDKsFIyPGl1+VPJZ9y1mU9JNXw+I2MgyAW0Wc=
+
+Name: resource/fontStrukethrough.bmp
+SHA-256-Digest: ey8ruqfe+W+drLhSeFCCQ/dbNCB/JJr5rfs/UmFdP+8=
+
+Name: resource/bottomMiddleOverlay.png
+SHA-256-Digest: By53EURcGwWKPqcemuhncLz72jvYCdp74Ls2LTo9TKI=
+
+Name: resource/facetOperationWithPropertiesView.png
+SHA-256-Digest: NSpjuhZ0VNIe2EUDezWm8k5uTbWVRWcDcs/3M1x4l0c=
+
+Name: resource/addParameter.png
+SHA-256-Digest: 3mn+ZJ6yj5DctCrTSTFVgn/1Tvg1nubunLBsjvTx6kI=
+
+Name: META-INF/maven/org.eclipse.papyrus/org.eclipse.papyrus.emf.facet
+ .custom.metamodel.editor.doc/pom.properties
+SHA-256-Digest: INpgrxrcCaHf4RAA0NeQvF+KeUHqH8XjPrJxXnGFlwg=
+
+Name: resource/FineTuneEClassCustomization.png
+SHA-256-Digest: CnmqAitmvuc6i3nfXLrxafCf6dMrTlNK1GfswTYIva8=
+
+Name: resource/attributes.gif
+SHA-256-Digest: AVkpsCi3GGqsivVec5dzT/5RAk+5oNfORwApoa8GaXU=
+
+Name: resource/fontUnderline.bmp
+SHA-256-Digest: jgSLe283veD2xDS7NxnoPmKdxlcpVJvzSQO2zeG/N+Y=
+
+Name: resource/topLeftOverlay.png
+SHA-256-Digest: We8LzoYpMv9wR4o017zdgRLhyf4Z7xJCi/LrhXJnFYU=
+
+Name: resource/EClassCustomCreation1.png
+SHA-256-Digest: xVXj562I87Dt3pgaPoofZ2Yx2DfL6YFLioeqYINl4NY=
+
+Name: resource/EClassCustomEdition.png
+SHA-256-Digest: EkOHJ7l0QRqvYpROa+qzt/ij7p5n3FG3wgYvWfbhl6s=
+
+Name: META-INF/maven/org.eclipse.papyrus/org.eclipse.papyrus.emf.facet
+ .custom.metamodel.editor.doc/pom.xml
+SHA-256-Digest: QB53CnYXjn+owDhHtgTvxf2cQqg/ZuoR+YS4ofad3Zg=
+
+Name: resource/middleRightOverlay.png
+SHA-256-Digest: VkgWZFm0o+7z+NDySspX3CLYMmXITkzyRdQCc1HZdWY=
+
+Name: resource/topMiddleOverlay.png
+SHA-256-Digest: qxOoPDt18D9JAe6h1EWNflUfGl/3fQC8h+gpKMCH0hg=
+
+Name: resource/editor.textile
+SHA-256-Digest: IuqGo3JusRMTFQ6X7C4uBPypilvk7/R/zp/tZXmSnCk=
+

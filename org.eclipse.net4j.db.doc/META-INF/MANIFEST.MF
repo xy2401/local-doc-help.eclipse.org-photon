@@ -1,0 +1,919 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.net4j.db.doc
+Bundle-SymbolicName: org.eclipse.net4j.db.doc; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.cdo
+Require-Bundle: org.eclipse.help;bundle-version="[3.3.0,4.0.0)",org.ec
+ lipse.net4j.util.doc;bundle-version="[4.0.0,5.0.0)";resolution:=optio
+ nal;visibility:=reexport,org.eclipse.net4j.db;bundle-version="[4.0.0,
+ 5.0.0)";resolution:=optional;visibility:=reexport,org.eclipse.net4j.d
+ b.derby;bundle-version="[4.0.0,5.0.0)";resolution:=optional;visibilit
+ y:=reexport,org.eclipse.net4j.db.h2;bundle-version="[4.0.0,5.0.0)";re
+ solution:=optional;visibility:=reexport,org.eclipse.net4j.db.hsqldb;b
+ undle-version="[4.0.0,5.0.0)";resolution:=optional;visibility:=reexpo
+ rt,org.eclipse.net4j.db.mysql;bundle-version="[4.0.0,5.0.0)";resoluti
+ on:=optional;visibility:=reexport,org.eclipse.net4j.db.postgresql;bun
+ dle-version="[4.0.0,5.0.0)";resolution:=optional;visibility:=reexport
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/r/p/cdo/cdo.
+ git;path="plugins/org.eclipse.net4j.db.doc";commitId=62c69ee2485b8a89
+ 72cdadd8f3f71765aa10c5fa
+Bundle-Vendor: %providerName
+Export-Package: org.eclipse.net4j.db.doc;version="4.1.600",org.eclipse
+ .net4j.db.doc.online;version="4.1.600",org.eclipse.net4j.db.doc.refer
+ ence;version="4.1.600",org.eclipse.net4j.db.doc.reference.api;version
+ ="4.1.600",org.eclipse.net4j.db.doc.reference.schema;version="4.1.600
+ "
+Bundle-Name: %pluginName
+Bundle-Version: 4.1.600.v20180530-1201
+Bundle-Localization: plugin
+Bundle-ClassPath: .
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: plugin.xml
+SHA-256-Digest: +Sd5BkZl3w7fssTazFGX7xEz+pbw2uixDRu+DH3YK0o=
+
+Name: images/editor-bottom.png
+SHA-256-Digest: XZbs17G9yXHztnBiOTl70kT1uLxRIqVpReAYexNBeVs=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/DBType.html
+SHA-256-Digest: XPDQhMdp5k5EcQ74RMVUn9woYkbmE0ZMkkpancNowA0=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/class-use/InternalDBElement
+ .html
+SHA-256-Digest: CA7so1PHrOfSJuAEDJIRIFTm/dLsIU9anMgUvsMP0/0=
+
+Name: images/formatter-tree-properties.gif
+SHA-256-Digest: bMYkavZR3mQJofvnpNdpMmDCzP3gruV/KmzXVNDcZ/M=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/InternalDBNamedElement.html
+SHA-256-Digest: 0ZrZXWDbQTfCT3PB8m6KSdpMlgANVBh0JGVsMWhiAO0=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBIndex.Type.html
+SHA-256-Digest: MIP9Q5VAw8EQFS+kbekw3oJL2aeisvKNQBWyIxKBrhk=
+
+Name: javadoc/org/eclipse/net4j/db/h2/package-use.html
+SHA-256-Digest: 3qr8jz++bMovv28S5wxdRkXzqqf1GVoxgsrVbTWfKm8=
+
+Name: javadoc/org/eclipse/net4j/db/dml/IDBParameter.html
+SHA-256-Digest: W+m7ROL/XWf3Ymf4W2onFwOzSzr0SLTmyaWudxJ+Zfg=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaVisitor
+ .Filter.html
+SHA-256-Digest: GyYDj3Z5wHm/fvyyKSViCfEMpiGmQM7HCTnq/YN2vgI=
+
+Name: javadoc/org/eclipse/net4j/db/hsqldb/HSQLDBDataSource.html
+SHA-256-Digest: pIk4io8cndUIfOH7Hyt4iKIwlBdxn7HKgt7nvfioiyI=
+
+Name: about.ini
+SHA-256-Digest: eHHHTqN7Y2eiBZGYdFDZeacrMj29Mm7niUh+P3i42Ao=
+
+Name: images/editor-top1.png
+SHA-256-Digest: LsAS0nk0PPKVVhkt55nHEtEe7nGN6pQsWsYkZf3vuhA=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaWithPro
+ perties.html
+SHA-256-Digest: /uUJWhm+RRwmuBj9wYKqcXVY9GZgTj4RBF+N6Xf15Zg=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaVisitor
+ .Filter.Policy.html
+SHA-256-Digest: +UR9uSPvBdMKhdeBgxiZLonBlbSupTTVAb6KWuVm8Ug=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/DBUtil.SerializeRowHandle
+ r.html
+SHA-256-Digest: cbJK3TuBH1D1yt3HAc4v8rKZ3ITj82y4ykSulI3V7r0=
+
+Name: images/callout-7.png
+SHA-256-Digest: g3P3kZLj4st84hXZZ8/uQyYiSOuaQSyLcgoa2S5qDJI=
+
+Name: javadoc/org/eclipse/net4j/db/derby/package-summary.html
+SHA-256-Digest: lp8NUTmO5iRWV6GTX213B2vmFBA1Vyt7cSch6v/YHxE=
+
+Name: javadoc/org/eclipse/net4j/db/mysql/package-frame.html
+SHA-256-Digest: jvvGmWSPg8/47aYiWshBVHUlMdDLA4FV4Jg3tkKDHzE=
+
+Name: javadoc/package-list
+SHA-256-Digest: oV7IEfwTcjjVBftEjEw2S+jl35PXSxmoUMYs0ShgQ0w=
+
+Name: javadoc/org/eclipse/net4j/db/dml/class-use/IDBStatement.html
+SHA-256-Digest: Yh+LF3ceXc4tvLMLJJoj7nnVg/1lqrd4pzgy91hbLus=
+
+Name: javadoc/org/eclipse/net4j/spi/db/class-use/DBAdapter.html
+SHA-256-Digest: clhLi+u0GkigmOZv0shczEprwhT4B+TPLhwLyGCX7Wk=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/class-use/InternalDBTable.h
+ tml
+SHA-256-Digest: EWOgDGs5kCC6kTVq6swxIb+CurWce0qGQDVoOu2vlc8=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/package-use.html
+SHA-256-Digest: 9Ju3OtAh4EEQt8uxNaT7tapl4Y4QSR484KBqgmVj2sc=
+
+Name: javadoc/org/eclipse/net4j/db/postgresql/class-use/PostgreSQLAdap
+ ter.html
+SHA-256-Digest: LdWr1WRcXubzYaIIqnGp0uEKwUKBPWdZnqyVYHZ/ENY=
+
+Name: javadoc/org/eclipse/net4j/db/DBType.html
+SHA-256-Digest: 6NTyvDCtWc2d+8zVhCRa5FtkaHfeFvH1krtVSsYdjHs=
+
+Name: javadoc/org/eclipse/net4j/db/hsqldb/package-frame.html
+SHA-256-Digest: umb79+L4jajCCfsq3J97IrKQFgLCznN4rs3NBAXX4uY=
+
+Name: images/editor-max-hover.png
+SHA-256-Digest: 3NhxGkmBil8CggIK8btPEZrTgiNF3BiJxm93ALa8R2s=
+
+Name: javadoc/org/eclipse/net4j/db/postgresql/package-summary.html
+SHA-256-Digest: uhlShjp/8t1x2zPDOvld7uBtus/UJ5beaGP7TAnDJEU=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaVisitor
+ .Default.html
+SHA-256-Digest: yfCTiX+42jNQILoS3UZDSsZwxHTZhhOYENnXbxcx0zM=
+
+Name: javadoc/index.html
+SHA-256-Digest: G2t8uorslbKHE6yipyY4Reiigkp8leCJC7vDhftQxXo=
+
+Name: javadoc/org/eclipse/net4j/db/package-use.html
+SHA-256-Digest: ywkLa9wPt+ie8tTS44F2jis2erP8p5JMQ5wP1Nd7fME=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaVisitor.Copier.ht
+ ml
+SHA-256-Digest: DpJ83AtOH6MMwT01J4rootZz9qYdTMNFP3+lLWyLhXk=
+
+Name: images/callout-4.png
+SHA-256-Digest: e2AlCCggV4vZ7X56NyaS29keLjXbDPqwMQd//F7/ltw=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/package-summary.html
+SHA-256-Digest: Heay2T20GVwrZQSnc4WcfsHBN1KkaY4+asZVn898eic=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/class-use/DelegatingConnection
+ .Default.html
+SHA-256-Digest: BJ5rRbVXJu8k93v+LMe90593mqFHVUrDMR/1FLspEOk=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/DBUtil.RowHandler.html
+SHA-256-Digest: u75vMA/6hIwEccs2dQpVXn9ueuyRXw5YcJYDjvR+Zrk=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/DelegatingPreparedStatement.ht
+ ml
+SHA-256-Digest: Hmd/kOzjD5ki/j2Wd7+PD1lWrineE67cK1TnxdQWD2Y=
+
+Name: javadoc/org/eclipse/net4j/spi/db/DBAdapter.FieldInfo.html
+SHA-256-Digest: yCtwsKN5oD3vRD6HRjRfIISNyxi2ZlNrGfDIygv5SQ4=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDelta.ChangeKind.html
+SHA-256-Digest: Dk8+PD+ImFE9ura5UPRC7DGI/zd+JSLh+6BmlmxXHEw=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBSchemaVisitor.StopRecursion.
+ html
+SHA-256-Digest: 0OBzixWrHiYb8N7VSIqaNTATSBEY4VtC7OhfZ64SfFY=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/DBUtil.html
+SHA-256-Digest: EaiZc0ax8yBqXzp3voxTfeEHg+qs2ThyxFQ8eZ+kIhQ=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBPreparedStatement.html
+SHA-256-Digest: Cl4UsFpGK4XQjZyfrdo7+cHHH+jD9f9WrXuGAaZF3MI=
+
+Name: javadoc/org/eclipse/net4j/db/DBUtil.RunnableWithConnection.html
+SHA-256-Digest: WRQVKMk0lOFcjbpj1WbO+O9sq4/PTVRJ34KayWb0NlE=
+
+Name: about.mappings
+SHA-256-Digest: 4Mpfeo/v2JZ2Lb3wZkuwm9DeQIcrnZt5PxGRABvOJZg=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/package-frame.html
+SHA-256-Digest: UoE/JTgzwscfw5VvVUH3zpWYdKpHY2C+YIpqU0edKqQ=
+
+Name: images/editor-close.png
+SHA-256-Digest: iOgMM2r8lCk2UBDaz+KNFNqvzUK+1c1OrRTfO+UgFx4=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBIndex.html
+SHA-256-Digest: fh7WuWCuzXxdQeFY/wL5AwrPrekdLQIv4ixzztTvD/8=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBSchemaElement.Sche
+ maElementType.html
+SHA-256-Digest: H8zhuXHkcifg7U9MDhWeMBnFgWvT0L2VySxNZEqEZgA=
+
+Name: javadoc/org/eclipse/net4j/db/IDBPreparedStatement.html
+SHA-256-Digest: g/I5BoHjOkV8n0EDfVgl+pcyu+/hNiW5YumSuGYXidg=
+
+Name: images/background-1.gif
+SHA-256-Digest: 0JNVqqFa4wQsCV3dTczjHOUdpn4ePEHfS97qc37joW0=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBSchemaVisitor.Stop
+ Recursion.html
+SHA-256-Digest: nPIrbSBEJ2kIdhWmImRwSZC6H1Pbqzwt74XxD5FWG7A=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/package-frame.html
+SHA-256-Digest: FuS8uW4FsFHqYrL3RItB4yHmcP6/NWETp7lpdtc+Vs4=
+
+Name: images/formatter-xml.gif
+SHA-256-Digest: 9M/U7mn24+olvbiAdaiS3aJo6iHZ/l8E9GIiTy+hm5o=
+
+Name: javadoc/org/eclipse/net4j/db/dml/package-summary.html
+SHA-256-Digest: MZa12nUkgOgTQHa4sUXSY1aXccVKdsj2lOoMBamwwf8=
+
+Name: schemadoc/org_eclipse_net4j_db_dbAdapters.html
+SHA-256-Digest: 3LdaJebfQj4zyyA3w4hDw8QPPtPSuO4TtbglYPpzdmc=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBSchemaElement.html
+SHA-256-Digest: s5JpKpOMkoYEPRdVHZbKFuoBy1AltvbUxuyHP4PNgwI=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/package-use.html
+SHA-256-Digest: VLikwgmVTIDlpFbe22kkSteVQuJ1AsAA8R7DhrR9H5U=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBSchemaDelta.html
+SHA-256-Digest: VqCEKaU7ooqN9NobI1kT18m/hgA8XDAk8XdP6kVYmOw=
+
+Name: javadoc/index-all.html
+SHA-256-Digest: rFWpPvGGciw/JXsLNFZzDnzSdGmx1pip18XggVZpOtY=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/DelegatingConnection.Default.h
+ tml
+SHA-256-Digest: Es3cLsG+WHMGBZHDrALUip3eRrGTS6hWTnksk1kfRJE=
+
+Name: javadoc/org/eclipse/net4j/db/IDBConnectionProvider.html
+SHA-256-Digest: riSYD3yL/yeUcDwkAudq+zvuFGhmO4i/mdDIouUMeZg=
+
+Name: images/editor-top-left-xml.png
+SHA-256-Digest: lXTpf9ZTGCk+Ue5C0RK+R2Ylw4NRazLqEed5SZhjCDw=
+
+Name: javadoc/org/eclipse/net4j/db/h2/H2Adapter.html
+SHA-256-Digest: 7zRjYHo3YDKvCiZ1dsowA7VSv8HwXuux4F41NsIdpRI=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/BatchedStatement.html
+SHA-256-Digest: 8h+789x5OGago8oV/bPB2AKCKYzuyZ4LT0GKcAlxxog=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBSchemaTransaction.html
+SHA-256-Digest: VO0Zz3GwmHEfa1FzYEIb9FSIHwJ3PodironbsIJqoTI=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/class-use/InternalDBSchema.
+ html
+SHA-256-Digest: P587kyP8JHGdhNG/UX0RMel0Ha3QC5CnQ/JkwFrj3Wc=
+
+Name: images/editor-3.png
+SHA-256-Digest: iOgMM2r8lCk2UBDaz+KNFNqvzUK+1c1OrRTfO+UgFx4=
+
+Name: javadoc/org/eclipse/net4j/db/BatchedStatement.html
+SHA-256-Digest: 1qerMLzX07Ky7PycIP6M+miIavZORXoOXZOGbVpFZdQ=
+
+Name: javadoc/overview-frame.html
+SHA-256-Digest: hyJcen8wQDZySprvCBlfB5nI4Qg3ul6JJw+3/MX8d9w=
+
+Name: javadoc/org/eclipse/net4j/spi/db/class-use/DBSchema.html
+SHA-256-Digest: b8kPkc8EBAAuroOY+TYaL0DzTDN8H1qdOLyeHjWwdZ4=
+
+Name: images/editor-bottom-right.png
+SHA-256-Digest: pY4sB+DHXmeaUlf8LeldyqlFH2nV9Tbyem2m4Cre7pk=
+
+Name: images/editor-bottom-left.png
+SHA-256-Digest: kJ18GfGUNogVgxdCS78Rz/Jgg1r6cFhCYea2+b/C4gA=
+
+Name: javadoc/org/eclipse/net4j/db/mysql/MYSQLAdapter.html
+SHA-256-Digest: mfdHIcQxgjL/caqzyPltomRW/1Zpp40Np+yporVnsBQ=
+
+Name: javadoc/org/eclipse/net4j/db/IDBDatabase.RunnableWithSchema.html
+SHA-256-Digest: s3TgdNljsG53ZhDWq52S5bFg6Nb5WOQSBwTbl+niKMg=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBPreparedStatement.Reus
+ eProbability.html
+SHA-256-Digest: XzmLtJgxP5283BJFgWwAf7q2YJ5eGvATFmOjmf1ze0w=
+
+Name: images/editor-4.png
+SHA-256-Digest: avRb7VaJJWwGEuvSi/gNdh/ZLNS8T+loarbat5egHa0=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBSchemaVisitor.Defa
+ ult.html
+SHA-256-Digest: iTCiai/2z4SlzBNoKuPvdaSc1sg/SzTPuXLJbdkxv9E=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaVisitor
+ .Filter.ForbiddenChangeException.html
+SHA-256-Digest: OQSoWOKrbYBHTxHIDiPmlX56QGy7ELESHKQOzORSFBM=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBDatabase.SchemaChanged
+ Event.html
+SHA-256-Digest: VX7vIh67S2Sy795HHxLMTZbkonTRJ+zoJl4QMEGyM+Y=
+
+Name: javadoc/org/eclipse/net4j/db/postgresql/package-use.html
+SHA-256-Digest: KRCGUgOUz1asXNdNGyoVSR+X/xJekc6w09W4+80+ku0=
+
+Name: images/callout-8.png
+SHA-256-Digest: Qyb96bcekEb8bMpa2VJq4gqS76jsLy9PRvbeQVDiWuY=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDelta.html
+SHA-256-Digest: LGGxEpmmwcd1xasASi2lobrcPSZ4v9FnQbHZEXwIF8M=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBIndex.Type.html
+SHA-256-Digest: hi1eG4LGKCTS58nyfcAlWhc/EF+2uFcNmiv9ETwQpAE=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/class-use/InternalDBField.h
+ tml
+SHA-256-Digest: 9C0O9aruIgAVOdSBcAhbFfHBGTGmrnI0WyjtlWC8kFA=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/package-use.html
+SHA-256-Digest: xR36c/oKKvpggjwuuDsAN1fY5JiyVZgNCpXpyUNZDR0=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBPropertyDelta.html
+SHA-256-Digest: cUFS5sKWmkK0nxuJo7JX1l4QALkvbrhxwElshfn6RlE=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaVisitor
+ .StopRecursion.html
+SHA-256-Digest: SZe2kPhXJe6CenHP69GgK98RvY1x9tqhmXRfp7RkUnI=
+
+Name: javadoc/script.js
+SHA-256-Digest: UGOTFhtpJWj1iNaL6uz5rV0z8UerrZCdnN4SkY2857c=
+
+Name: javadoc/org/eclipse/net4j/db/derby/DerbyAdapter.html
+SHA-256-Digest: oK1l5ChiYfR1L4ZDmxAypvqChLMAoAiv20AiveHxrTM=
+
+Name: META-INF/maven/org.eclipse.emf.cdo/org.eclipse.net4j.db.doc/pom.
+ xml
+SHA-256-Digest: iLfthLG2ZMlDfSWo9GS0BwGsRAJEkb/YIF2Ze6SH6/s=
+
+Name: javadoc/stylesheet.css
+SHA-256-Digest: GQVKTx0XpLeIZRI+UZUvvKmrtz0F7Fj272VQIB4djLU=
+
+Name: javadoc/org/eclipse/net4j/db/IDBSchemaTransaction.html
+SHA-256-Digest: YPFn8IMDKI9jlt0VC8OBkKLFPZ5Ucz3UctexClWlCFE=
+
+Name: images/editor-top2.png
+SHA-256-Digest: avRb7VaJJWwGEuvSi/gNdh/ZLNS8T+loarbat5egHa0=
+
+Name: images/editor-left.png
+SHA-256-Digest: xLb0O6ah96fc2pB28JD2FXXoxkERMjATxgekc7tca3k=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDelta.DeltaType.html
+SHA-256-Digest: d+5wVGytaxRf4mQrSc9xDmeknOLtDJEFMlmqlBzjb0g=
+
+Name: html/tree.css
+SHA-256-Digest: 11wh+F/Rq/+KMgGN6JXP2HJW7LmtmS55/dTWFjM1UcY=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBSchemaVisitor.html
+SHA-256-Digest: 0s7eUN4fzf3GRIMFhlgOXJKSCizGq/Y2rVcOGP0QNrI=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBIndexFieldDelta.html
+SHA-256-Digest: etqIPdrY8/hUqZwUvVlO8RJMmaonz4x046VUi4k6LWE=
+
+Name: javadoc/org/eclipse/net4j/db/derby/package-use.html
+SHA-256-Digest: Vip6MKuHiUtX/aklJ4DYQ9zNF+3TXULl189IarJWPF4=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDelta.DeltaT
+ ype.html
+SHA-256-Digest: rOQgCTaNJhVPm8NwjLUFFBJDrHQ1qeLUE1ZsV0iSjuY=
+
+Name: images/editor-top-left-java.png
+SHA-256-Digest: BDNBGoBDL9EyoDc/ZY6N3GI52ap0H5v/KORO1w9L24Y=
+
+Name: html/reference/index.html
+SHA-256-Digest: T02kURrewxg0o+zvAQI0ek8uBUUX8yf12LyRRgN2a9k=
+
+Name: javadoc/org/eclipse/net4j/spi/db/DBSchema.html
+SHA-256-Digest: t0w9c2XsQl80fBk3XtdLrveI9wbczaeL1sU+epGYBAU=
+
+Name: javadoc/org/eclipse/net4j/db/hsqldb/package-summary.html
+SHA-256-Digest: Lor+iBi+/94VCymHAnCx0skwyLb7LEn38dx95yocx9A=
+
+Name: javadoc/overview-summary.html
+SHA-256-Digest: XU2vugC7wAxf3UdueBhuRWePVkkV71v0TlUHzw3ZiIw=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaWithPos
+ ition.html
+SHA-256-Digest: tfddl3jyhMKyVxLFUdECmUxLo9SPNcqTwYoTSYh9VZk=
+
+Name: images/editor-max.png
+SHA-256-Digest: eLXvGObAjd8H13dIj7DWMdpxBh6OMvUXmxf+6hDYzhQ=
+
+Name: images/editor-right.png
+SHA-256-Digest: FO5JL1S/FnKvd+uCOBCOayLnG24fqdoB7YCGf+Kqf+s=
+
+Name: javadoc/org/eclipse/net4j/db/h2/package-frame.html
+SHA-256-Digest: YZ9X5M3lzEgzY0cnXxnMUK58QOOgBJCBL53BfJ9kQWE=
+
+Name: javadoc/org/eclipse/net4j/db/postgresql/PostgreSQLAdapter.html
+SHA-256-Digest: HtOxvVkVMTyhVmCfGPXTXEsFouSQmAdFLNM9caEekn4=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/InternalDBField.html
+SHA-256-Digest: rVvXpklIHnn3TDJh+Ll3nbyacDXuM/8i9gvXEjc32lE=
+
+Name: javadoc/resources/background.gif
+SHA-256-Digest: tB7Yzvm2yPD5JDE1TIFOk9FIVBx/K3XBfKms42P9ZwA=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/InternalDBElement.html
+SHA-256-Digest: AzH9+dnU8X4YzWF9nfqSGO/LspETr480qNaOO1yO5p0=
+
+Name: images/callout-3.png
+SHA-256-Digest: 1cucuwQt4uneilhS7wqZz3fap+kp4YwEbi1iY0htxhk=
+
+Name: javadoc/org/eclipse/net4j/spi/db/DBAdapter.html
+SHA-256-Digest: EmRyAgsMGhHin1ayX5P6sqcYoVKBDiQLWjAYAnJMJEU=
+
+Name: javadoc/serialized-form.html
+SHA-256-Digest: Dff7CKDEjmf2fEahBwKbp3kZ1GOOOns13+eo+Y5Oth0=
+
+Name: images/article.gif
+SHA-256-Digest: W1SXQdPwwTrdZA2VuRK90U8mIMhms8qKfBoDSXocMpI=
+
+Name: javadoc/org/eclipse/net4j/db/hsqldb/package-use.html
+SHA-256-Digest: izYDFm/TE+urMAzeIWN/PbFRXrfRRWpOqcgg+T4V2Sw=
+
+Name: javadoc/org/eclipse/net4j/db/IDBAdapter.html
+SHA-256-Digest: fwcNFQ4DEbp0sAWSjp8063dzivCCNg4tAuxCWbFfGyk=
+
+Name: javadoc/allclasses-noframe.html
+SHA-256-Digest: m68xJCElXkxdU8+LdbM4mC38y12T5dc5QN0WBTeaQcc=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDelta.html
+SHA-256-Digest: SPFxnULng6Y4/LNHqkDhdxORK4FJMyFTXHg6c6piGRw=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/class-use/InternalDBNamedEl
+ ement.html
+SHA-256-Digest: zG2xo31bOaJBySidqq0qZeBmyFVv6ZgQe5ZdQQ6SIQU=
+
+Name: javadoc/org/eclipse/net4j/db/DBUtil.RowHandler.html
+SHA-256-Digest: T2Uu/laLwr0JBUj0+RRyJwaxi+G8em5NPRwHNLi9LwU=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/package-frame.html
+SHA-256-Digest: T7VZciMnxL3UEQjaB4w9qlR2rmIv1ULyYH1Lv6q8tvM=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/DelegatingConnection.html
+SHA-256-Digest: k/mq7qqflYQYWFN6ZlHN99OeGMxbDDzS4ogeKDpmuSI=
+
+Name: images/editor-top-right.png
+SHA-256-Digest: 63u59qmagN0OMzc3dyquN7g4zJdUn1NSWNr6KCl+yhY=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: Rr5LcOp+oA1o+OBG8dKE1JkMSO9EcD9X+5TLiaC/4Sg=
+
+Name: images/background-2.gif
+SHA-256-Digest: yGmeX/sPBzkwV9gqpAByEKT+tUZhKRa8XXPzGu4uR0c=
+
+Name: images/formatter-tree.gif
+SHA-256-Digest: YbEKYq1OM2+ZJ6fY86vbVGYRWUJmh7lD0vdRbbe+G+A=
+
+Name: javadoc/org/eclipse/net4j/db/package-frame.html
+SHA-256-Digest: qxJF2hxqTqDlBXQKLl7gc05FZimFg2KCWCPQa/85qt4=
+
+Name: javadoc/org/eclipse/net4j/db/IDBRowHandler.html
+SHA-256-Digest: jtcb9K1gU4HS39Xl6nrl9tmESH0EJgWu2IooQGqShj0=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBSchema.html
+SHA-256-Digest: gXrXAHcg7+q2YEo51+1iIZQ6sIYMwwHIqCIpVhY3s2s=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBConnectionProvider.htm
+ l
+SHA-256-Digest: 1o9PVtQ18pBOR4AJm4oaVsIRweApgvbm3yDQ3tHTnqk=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/DelegatingResultSet.html
+SHA-256-Digest: 6a1b7E+X4fg5QiZbT/BwJxDZZAsSwkKDuYCLbHmgsEo=
+
+Name: images/plugin.gif
+SHA-256-Digest: ZsOwYc4ZMigs5KViOkp50rrZ53fxeEmt0UDx86Pc/rk=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBPropertyDelt
+ a.Type.html
+SHA-256-Digest: 7mQyDPVh0L2h2TueVv8hL6I6gLLSbu1GzW1SAqbFqog=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaVisitor.html
+SHA-256-Digest: pkvtu8l77v6OxF3xz/+wdF1cAriiSr/KxPcMDDwDmFU=
+
+Name: javadoc/org/eclipse/net4j/db/hsqldb/HSQLDBAdapter.html
+SHA-256-Digest: 9K880/Jsgz4xYFDH7pjHqJG9c/DGJEI2M8F5ZWkAw2U=
+
+Name: javadoc/org/eclipse/net4j/db/derby/class-use/EmbeddedDerbyAdapte
+ r.html
+SHA-256-Digest: 5ZXvT3DtQUuHm9HtpGxSqIdKB6G0vUbj3f3qoAWkwOg=
+
+Name: images/editor-5.png
+SHA-256-Digest: 6qUQIAkwwgsVgS5TVBobK9AuDOf95NDJxdkOhYLQjKU=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaVisitor
+ .html
+SHA-256-Digest: V3KCjwNQHJOBpvrWRrZExbkdTHK9VLXCvsxOPuFU1/E=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBSchemaElement.SchemaElementT
+ ype.html
+SHA-256-Digest: MqKAx/VhXlY2ntnLnSLcgbKIKx19CHvd2Z6fD3Pksd8=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBSchemaVisitor.Default.html
+SHA-256-Digest: G7S4btDv/h3PYPE+rp2F+g1kSuKbEDgJQasE/WJgUGI=
+
+Name: javadoc/org/eclipse/net4j/db/IDBConnectionProvider2.html
+SHA-256-Digest: 6N9ejmaLe2sn9/1wfxt0JTI4X8tQEnGExAjNYew5l6o=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/class-use/DelegatingResultSet.
+ html
+SHA-256-Digest: ZGGZ6HiygqoOwpU6ZJ7abSgNWS8FFH1wXWgLunjb+RM=
+
+Name: html/Overview.html
+SHA-256-Digest: OCIl+CKIXtEZqBHkX+0/oF8LFKwvkDNKAZFDxDZFhEs=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/DBException.html
+SHA-256-Digest: 8wssCtjCrsNWBAqoqRhS90KrI2E8aXsgnQZGSsXWzYo=
+
+Name: javadoc/org/eclipse/net4j/spi/db/package-frame.html
+SHA-256-Digest: zQrN2oM/pYPcvaFWdpTuFEJsZCYwdRHao10fCpHBGdc=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBIndexFieldDe
+ lta.html
+SHA-256-Digest: unusrfeyFhZhYya8YbpE1Jqv5tEqJgDYbHavSgshXUQ=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBConnection.html
+SHA-256-Digest: KTPw+yRhyY4gzsS6DVudoki3Y51ctE08JOCBc2iqQ4M=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/class-use/DelegatingPreparedSt
+ atement.html
+SHA-256-Digest: iaf7vtW9ZYGz+wTJpHjf6McXCKSEbftZKWCPRi5jCzE=
+
+Name: javadoc/org/eclipse/net4j/db/derby/class-use/DerbyAdapter.html
+SHA-256-Digest: Hxl2/zgTAerF1dlRKAR2R2nzWnIkCw96q65EboFrq7M=
+
+Name: javadoc/org/eclipse/net4j/db/derby/EmbeddedDerbyAdapter.html
+SHA-256-Digest: fvccsYxS00xeF7oPh3rIE4B5Q4jTXfoaHoBUTr4oMEY=
+
+Name: toc.xmi
+SHA-256-Digest: d1/+rNq3P2VZMvLVMQSFOuLRCUTkHFO//+7K0G6hUHs=
+
+Name: images/editor-rst.png
+SHA-256-Digest: KQoq2T8nwvtxk8DQxypPajOfoK+IoeWR4xKtwAu0hs0=
+
+Name: images/plus.gif
+SHA-256-Digest: aMqc9gCyGSQduf3Fcqdvo/cpMuSW5m3CG9enX5YEAnQ=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDelta.Change
+ Kind.html
+SHA-256-Digest: CUIW9J6DRGmiRK79s2eh+OyQUWOUokpE//cbI/icnhw=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBIndex.html
+SHA-256-Digest: Xk213lKf7jefzvDnR29iCXEYZSMxVnsgxIO+3RMQUxg=
+
+Name: toc.xml
+SHA-256-Digest: lfOGZCGzU+LFcX5DBMPU2YnEJ7vMwSxd2TnbNafCB/g=
+
+Name: javadoc/org/eclipse/net4j/db/derby/package-frame.html
+SHA-256-Digest: grtrDoa9cWrFRpFRwDJYCQzaMITLRqZEFNp0gtt/mUg=
+
+Name: images/callout-5.png
+SHA-256-Digest: gVhcGnJwgDyuqMA3a+nILx7Op2SgZWPMJG7KBSs2YKE=
+
+Name: javadoc/org/eclipse/net4j/db/hsqldb/class-use/HSQLDBAdapter.html
+SHA-256-Digest: K5ZSWpukxWlfoV8Gpbm5Nxw/OilET6r0Xdrvd26J4Fg=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaVisitor.StopRecur
+ sion.html
+SHA-256-Digest: gRFaFBE8LEbGGMqY1pIzXaQpokJJgCzNMb/zmUYRxZM=
+
+Name: schemadoc/schema.css
+SHA-256-Digest: /xmuvByh8wAp2rv9Ll3zO3lXVukPUUYBgG5fGG4DosA=
+
+Name: images/formatter-java.gif
+SHA-256-Digest: KioimDI1U/sEwXmyAdefUYJcXu/RHvTj1QEQCLTjjYw=
+
+Name: javadoc/org/eclipse/net4j/db/mysql/class-use/MYSQLAdapter.html
+SHA-256-Digest: mbg3Eg+4dFV42Gn8g44Ac9rsJdn6Sjw52Ky5x6cc5XE=
+
+Name: javadoc/help-doc.html
+SHA-256-Digest: QGzpXK++LuM49UZXl9MMQYexVYKwdENCoeN9M0iR5nk=
+
+Name: images/forward.png
+SHA-256-Digest: AnofoDiwybpiqWiqOezG7UiNm10k4zZOTQ14zbBMlVM=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBIndexDelta.h
+ tml
+SHA-256-Digest: 6GvUK512X1jvcUi3VCDkXqtAmWbdC2VFJYaSWk53k44=
+
+Name: javadoc/org/eclipse/net4j/db/IDBDatabase.html
+SHA-256-Digest: qS/trZETTNh2APiHsRsc7YaJipboTHrFKNC8a4f5eA4=
+
+Name: javadoc/org/eclipse/net4j/db/dml/IDBStatement.html
+SHA-256-Digest: Fj8XiRX1vs4mnL/9svVb0ow4sHHYNlCroclF85RnlWM=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/package-summary.html
+SHA-256-Digest: ntzwtrryipI01oSmlO1eB8WQAL6Qhr1q7FdGhCde7wY=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBSchemaDelta.
+ html
+SHA-256-Digest: Wx8O7OIO9tIMVS6vwHdyvnkCdIZlABiZTjJSP19utoI=
+
+Name: javadoc/org/eclipse/net4j/db/mysql/package-summary.html
+SHA-256-Digest: K4paqOX8BMsWoRPKPIOJZVZhDNyfiT9JJhNmspu5U2A=
+
+Name: javadoc/org/eclipse/net4j/db/DBUtil.DeserializeRowHandler.html
+SHA-256-Digest: UvUEp5tppaypP7Q4rhVFwjHGOF8jsj127tC3gJ4Mzfc=
+
+Name: javadoc/org/eclipse/net4j/spi/db/package-summary.html
+SHA-256-Digest: UXwcVxzFFKSCo9Tdc5Wshp33VxiSw+lRu60fYdzzDNk=
+
+Name: images/editor-1.png
+SHA-256-Digest: HKwkBvMJShE117GDda9XV2fglUEBggkGSVUkHVaQdvM=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBIndexField.html
+SHA-256-Digest: +C4OCFBYvsHC0xYw5z5pno1jaITzfN2SJlfIq3SGwpw=
+
+Name: images/empty.gif
+SHA-256-Digest: FcT/0p3f6VA4/9MuAZrSnCXRaClTF2lRJY6kGzQSC68=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBTableDelta.h
+ tml
+SHA-256-Digest: ySPp+SHBU3xW7J/hNPJsIEEw2PMJ7pa9B+HZ0qEiGi8=
+
+Name: html/online/index.html
+SHA-256-Digest: 14IFLbBPSe4u1qpJnP15e5SdCcGjdmaUnLh4Cvb4IUs=
+
+Name: modeling32.png
+SHA-256-Digest: saSrfvJ79Uzl2BFpCbuVBho1UTuf14LrjD+wGJG44Ok=
+
+Name: html/editor.css
+SHA-256-Digest: ufH2Z3UXkQN0wRP52V69ohzPkONPSkkN8KLjCOTIZ54=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBAdapter.html
+SHA-256-Digest: 6AAQGTLesFmC951whVjtNPghkMd+m/C56fTEReLskLs=
+
+Name: images/callout-2.png
+SHA-256-Digest: vlbfqDNSPQ6mFN5JMGk1Kyrwi8cjy1mFMM5jJ4KmH/w=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBResultSet.html
+SHA-256-Digest: ibJJo3sPvxyR5ihypCzqwBJ7U+nL7qT+jnp7s/bcR8A=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/package-summary.html
+SHA-256-Digest: v2sBXcj6L/w0oimAX2bvnpVxpaRwgInCXAKbL7QOBVk=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBDatabase.RunnableWithS
+ chema.html
+SHA-256-Digest: kk79Rtrfr3xrEXwEaGqYIhsujsdRanujlkLVKdGvfNE=
+
+Name: html/book.css
+SHA-256-Digest: BZfkcXgp4pla3wKL6Ujl3UNJELnuWxnCfliDpICtnhg=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBElement.html
+SHA-256-Digest: eFulb2q9bRrFBpaAA6thkXoaDHg7nRePjzqkLfVIJac=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/InternalDBSchemaElement.htm
+ l
+SHA-256-Digest: AHkRFZ20Hh17KLdkdGdTJbaw59p2izDBd5GFo1xLSWI=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBTableDelta.html
+SHA-256-Digest: jTRz5nE3v4Fuiyuj4rZYYHL7vOtbu9D1+LqKpfiqxf0=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/package-frame.html
+SHA-256-Digest: SpFWIj5vpRLRr0Ef05GxlJSeatU9Pj+kntpasD2lKns=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBIndexDelta.html
+SHA-256-Digest: tKyLIGfeZu0YqVrNd68uvlwRH9+Vf8m4ikXNcimCPgE=
+
+Name: images/callout-9.png
+SHA-256-Digest: Yv4fCUt72kfuevFdAo/r42NX73LgByi1XbEj0tvur7A=
+
+Name: html/reference/schema/index.html
+SHA-256-Digest: HNe+JmzYiJN1Kwhy/GbKOY94q2+JipbpKaKlCFg6Bu4=
+
+Name: about.properties
+SHA-256-Digest: 6oAmz7BPrDa7r6GqtxW0sebng6duOCezOY9bRorZ1qM=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/DBUtil.RunnableWithConnec
+ tion.html
+SHA-256-Digest: JJEpkPDFs8ktnmLE/UtAMj2R/09+XV163byDFu+STvc=
+
+Name: javadoc/org/eclipse/net4j/db/mysql/package-use.html
+SHA-256-Digest: 6/cvgfs4h2XNUk71/L9yfH4adWqucigYVggwL1sOfJI=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/class-use/InternalDBIndexFi
+ eld.html
+SHA-256-Digest: sdYzsTeroP1vbgKVOupgVobwe4Cd/6f3uDojD2A7pqU=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBDeltaVisitor
+ .Copier.html
+SHA-256-Digest: 3tXHG4rhbwWm3kPPWRegF2QcERneGVX95tviJ222Mso=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBSchemaVisitor.html
+SHA-256-Digest: N225JQhMYhKYvqCx28awo9LhndvmPBhJNQjkbwv1K4U=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBTable.html
+SHA-256-Digest: ryuhOUrQ2Vgogqt0ppp/k5hnUfmdkUrZywRynhvKgYc=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBSchemaElement.html
+SHA-256-Digest: epFHRGuqSMS6YVi14c+t/I+kNgtVm6bNO3zagzQoKnM=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaVisitor.Filter.ht
+ ml
+SHA-256-Digest: yz6wQS5r6FpSS+cZE2+tAwx4wsRRNc1Qlq0LOKva0Gs=
+
+Name: images/extpoint.gif
+SHA-256-Digest: iat6lRiGVTvoNzT6BewepyrD6l3BKHp6kT4RQolfC70=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBPropertyDelta.Type.htm
+ l
+SHA-256-Digest: tXBFtMK5gwL+A5rhRmvPfXm2+0sIGem0N96ZVPEG9k8=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/InternalDBTable.html
+SHA-256-Digest: 75YcLb05/pIPmAcYDa8dv44noSnSY8N8aoQwUb4mnHk=
+
+Name: plugin.properties
+SHA-256-Digest: j+l0NSNL36fg16lbm0UYJJKcwTaZnVYimUdPn1v8zoM=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBTable.html
+SHA-256-Digest: Jn0GV2fJlklpc39uGyOsobrpFTlabTpTnqdRT1F9gpQ=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/class-use/InternalDBIndex.h
+ tml
+SHA-256-Digest: YJ+euq4gL1yp85/ngXqWEKipfjz6ot3uIrg4CSS10x0=
+
+Name: javadoc/org/eclipse/net4j/spi/db/package-use.html
+SHA-256-Digest: xoCraLPmenDTDIcWLvahjTw69HqVM4e/b4slfmfGEfY=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/class-use/DelegatingConnection
+ .html
+SHA-256-Digest: nRns5r3zUzwXnOTB1BYo8F+NYYd7ptNFRoGoXjYe9Mk=
+
+Name: images/minus.gif
+SHA-256-Digest: 3U7eC1Ec14pGX1LUpNcohKyL3/UReobaQaaUQKllSn4=
+
+Name: javadoc/org/eclipse/net4j/db/DBUtil.SerializeRowHandler.html
+SHA-256-Digest: TD0KbX5p48dCp2vJjUcASH4WCVe6kKt/MomExm3Sff0=
+
+Name: images/callout-6.png
+SHA-256-Digest: 5z6qTFpX35StKftfr8eZGkSqhRDCr/Q1xzqW5nWwjxk=
+
+Name: images/category.gif
+SHA-256-Digest: cBt5h1QpT3QywZmZrBzxdRRPzCGBQsD8pGWQYE7DItg=
+
+Name: javadoc/org/eclipse/net4j/db/postgresql/package-frame.html
+SHA-256-Digest: hQ38eA8Lxm/+AC7JMwc91gINRY7nUI4buKhlV2v/08Y=
+
+Name: javadoc/org/eclipse/net4j/db/dml/class-use/IDBParameter.html
+SHA-256-Digest: Lv3GjANpabyIVkQv7KmMYks/51+/7JnzTSmjn3hy5no=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaWithPosition.html
+SHA-256-Digest: rLZUyiwKyl8vKwNGeq7no0q7yVtq+ZLFu7KcvHqyZn4=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBField.html
+SHA-256-Digest: A7wanCG4cYAmWJFL3eFNvG7y04ZWDJJO9IfRbxNWuZk=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBElement.html
+SHA-256-Digest: 1vll+HxnCgvaz9U9M4k3SZBUBL4V2kEj8Vj71fwPbek=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBRowHandler.html
+SHA-256-Digest: yZ2Q+sqoCMCofkizZ5hVW3lJ5ojpB8WyGlswwgjv9S0=
+
+Name: javadoc/allclasses-frame.html
+SHA-256-Digest: 1B5MAYmER4mA+cp5fmKYrGZF+O7hHCDOKPKX4fjswwE=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBFieldDelta.html
+SHA-256-Digest: IVqcIXF7Qc6bACJVZlhlpAsxXLiEqgEB4nQVnqAKA34=
+
+Name: META-INF/maven/org.eclipse.emf.cdo/org.eclipse.net4j.db.doc/pom.
+ properties
+SHA-256-Digest: PYFfSX4n+HZK9w6g+ox9ZHh1NHZNF+6jymM69+ecR3A=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaVisitor.Filter.Po
+ licy.html
+SHA-256-Digest: 9yI1w179GbpCzqIW7lz5KIRXzx0O3/pXKwTLnNDHUko=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/class-use/JDBCUtil.html
+SHA-256-Digest: 2iPnWcT3MO9E4d+B004mYhyKocSltxnIQiuWR7eOEM0=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/package-use.html
+SHA-256-Digest: ho0HwBMAQ/maWSIzDMO0IoWGXbqcC0oRBWC6X5gT2mI=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaWithProperties.ht
+ ml
+SHA-256-Digest: 0gOAez+3suS01hQKPURc81iFkPei/tX2lKzMeej9Qs0=
+
+Name: javadoc/org/eclipse/net4j/db/package-summary.html
+SHA-256-Digest: JDEmhSRuU61pAH5HM2MehcfIytZ827OfLobcRXV15ZE=
+
+Name: javadoc/org/eclipse/net4j/db/DBException.html
+SHA-256-Digest: ZcbOOMwdL8KW39Ezvw5nfIc8oZNCrqJd0zLZ9Ja8FDc=
+
+Name: javadoc/org/eclipse/net4j/db/IDBPreparedStatement.ReuseProbabili
+ ty.html
+SHA-256-Digest: 3wlbhLijAeYlPw6REOre7Io7BAuMk4FVhcyzT9V17Y0=
+
+Name: javadoc/org/eclipse/net4j/spi/db/class-use/DBAdapter.FieldInfo.h
+ tml
+SHA-256-Digest: a9XHBIIFou4TPg9CDBtjJtKLpSj/LeprZSiq6EYcJ40=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/InternalDBIndex.html
+SHA-256-Digest: o5ZGNikjY45D2bPDfiXhjyzh3oRaVGw2rNXkLg6kKQc=
+
+Name: images/empty-icon.gif
+SHA-256-Digest: nZm2rEx8czvQ/LHIXLYIMRS6ZpTkiuoXwqmPQhVSE7k=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/package-summary.html
+SHA-256-Digest: Oj5IY808QNZFFhYE7LVGoVrStcE8+G126nNzfzPopWY=
+
+Name: images/package.gif
+SHA-256-Digest: EZPZadqTzMYVqSnpvt1ksENpA6RZ+UefMr7MiGwUO2c=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBPropertyDelt
+ a.html
+SHA-256-Digest: oH2Vp5FoSJKHTJGjNaWxXBEezZ7zbeYSqgdl+QCYG/A=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/SchemaElementNotFoundException.
+ html
+SHA-256-Digest: PYzCsTDC2Kendxmql3mZ5G/cf1t8OCAPpwPtz+ESovc=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBNamedElement.html
+SHA-256-Digest: 4kYpBN9xl2BjEJmH/SRkrKP8+4HDHrYsM8BLqOCUAt4=
+
+Name: javadoc/org/eclipse/net4j/db/IDBResultSet.html
+SHA-256-Digest: d+nrDoUhopQ7uw0o5pD8PDFXrj2D3AQkOLcW9ms/Kvs=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBField.html
+SHA-256-Digest: iShs6etB0MVA/SYV8u/s6/3Cn3/BmyKfrkz8u3C4RUg=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/class-use/IDBFieldDelta.h
+ tml
+SHA-256-Digest: a5m5tFKuQ2cCkxIXvcEYGtt5CRSrp6NrASC51pxd7R4=
+
+Name: images/backward.png
+SHA-256-Digest: rZGGYCmb0kjy1mX4xvs2zXHFHErxkADBMMQFdaKb8Fc=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBIndexField.html
+SHA-256-Digest: MJzeArJMwzyuTJoVbQ/eOpT7zrZAtpStSsqvvdHLtS0=
+
+Name: javadoc/org/eclipse/net4j/db/h2/package-summary.html
+SHA-256-Digest: 62diqxwZ8MsYceDCjfi2Y0POMsnvPw0k3TVsmO4XbVQ=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/IDBSchema.html
+SHA-256-Digest: melTMxV1m1M7ol/Qqvv4C6tuTByfYThGwz7dDMcxibE=
+
+Name: images/editor-rst-hover.png
+SHA-256-Digest: GLmuxrwlSDL0KE0QQDk1ollHbixHgUX6grAHyQFbyas=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaVisitor.Filter.Fo
+ rbiddenChangeException.html
+SHA-256-Digest: mxECwSOx/fEiHBuQAWLzkOUYll+106dvUYd6UJBAdhY=
+
+Name: javadoc/org/eclipse/net4j/db/dml/package-use.html
+SHA-256-Digest: c+Bf7HIvKNqv7p7354/PssMsjXiL94IZR6Ww0dLFrN0=
+
+Name: images/editor-2.png
+SHA-256-Digest: LsAS0nk0PPKVVhkt55nHEtEe7nGN6pQsWsYkZf3vuhA=
+
+Name: about.html
+SHA-256-Digest: ZYczHLHHJbJ2GSLe/MBOpU/zRznwNG9X6G0P5BecAYs=
+
+Name: javadoc/org/eclipse/net4j/db/IDBDatabase.SchemaChangedEvent.html
+SHA-256-Digest: W0hGyb7uY/d3jt9cNMDhrev0hyAAI36JSqGwTRRC6OI=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/InternalDBIndexField.html
+SHA-256-Digest: F+nlBlay8kie5DdzacpZgx+xlti9EhQ9s35RUsSHoKo=
+
+Name: javadoc/org/eclipse/net4j/db/IDBConnection.html
+SHA-256-Digest: 3sSOanIERDDK6E7Cl/+ruwIRhyKBvqSjB7QV1Oy4H/Q=
+
+Name: javadoc/constant-values.html
+SHA-256-Digest: RX1JARfSLiu5ryZnUVddwYwU1ExNUL+6Ma5PB1cJbj8=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/InternalDBSchema.html
+SHA-256-Digest: 7hC4w74gvRTEw68mTuVJktBjgSvWrTvAe0uY2PEShlg=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/delta/IDBDeltaVisitor.Default.h
+ tml
+SHA-256-Digest: 2FsBnT6efdS8BrXQ/jd1V0sank8KVepVM1wR1k/GbqM=
+
+Name: javadoc/org/eclipse/net4j/spi/db/ddl/class-use/InternalDBSchemaE
+ lement.html
+SHA-256-Digest: nSkaQd9Bb6OnChP9ExNf3DRa6/gSEBAMWWmVtSq0QyI=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/SchemaElementNotFound
+ Exception.html
+SHA-256-Digest: YgJsgqBSSS05HjqNOWnVsp4YGlnLN1mmoRyyNiLkzC0=
+
+Name: javadoc/org/eclipse/net4j/db/h2/class-use/H2Adapter.html
+SHA-256-Digest: UlSoMjhJeac0E7AgPQD1WYmnCa3rjc242EqDaR1nOXU=
+
+Name: javadoc/org/eclipse/net4j/db/jdbc/JDBCUtil.html
+SHA-256-Digest: z2VNmlLlNHitlknGJNbuCrIq57iiLLisEIpnZO/8n6k=
+
+Name: javadoc/org/eclipse/net4j/db/ddl/class-use/IDBNamedElement.html
+SHA-256-Digest: Idxt0Gt0HdfavCL+l/jyL6qPeTfhWN/C6WoWLalt7To=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBDatabase.html
+SHA-256-Digest: 0Os5PsaBToGyiPH5rrvYdK0Qdxwn5GzskaFzWw8+VVo=
+
+Name: images/callout-1.png
+SHA-256-Digest: 7UgmRpBAvzhBbChmYOKjavDlblghnWU9wVVKdw6h7IY=
+
+Name: javadoc/org/eclipse/net4j/db/hsqldb/class-use/HSQLDBDataSource.h
+ tml
+SHA-256-Digest: JsbGFRPF8qNeHKEwDzJ4byMl/0CYpcfXHa8vXbwGXxA=
+
+Name: javadoc/org/eclipse/net4j/db/dml/package-frame.html
+SHA-256-Digest: FjFPUsGQ2K34aeBlv//Jo6FMNR+f3QbK5MNCOo/oViQ=
+
+Name: images/external.gif
+SHA-256-Digest: dOBdLrZafBGpu/MMX/LLlLLCpIpqIlhp3p2yyY8gACg=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/DBUtil.DeserializeRowHand
+ ler.html
+SHA-256-Digest: Si5o+FObcoPiRhdfjLdmbZRpvGK5UP/cxRpChfvJhb0=
+
+Name: javadoc/org/eclipse/net4j/db/class-use/IDBConnectionProvider2.ht
+ ml
+SHA-256-Digest: BoboUKuMqAtpca5vD358AnXW2njBEqoMMPM+ZEeTL4g=
+
+Name: javadoc/org/eclipse/net4j/db/DBUtil.html
+SHA-256-Digest: K2BW7V174Tq38SRW9e+YVqqnhJEjZqsuRyB2NxrtvSQ=
+
+Name: javadoc/deprecated-list.html
+SHA-256-Digest: Rd+YPpceVMkIW/dVxFbUBrdolbXG7pxf+yuS+3NPG6Q=
+

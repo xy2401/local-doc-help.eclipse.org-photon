@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<toc topic="doc/User-Guide.html" label="Pcap Network Tracing User Guide">
+	<topic href="doc/User-Guide.html" label="Pcap Support Within Trace Compass">
+		<topic href="doc/User-Guide.html#Supported_Protocols" label="Supported Protocols"></topic>
+		<topic href="doc/User-Guide.html#Network_Tracing_Perspective" label="Network Tracing Perspective"></topic>
+		<topic href="doc/User-Guide.html#Filtering_On_Subfield" label="Filtering On Subfield"></topic>
+		<topic href="doc/User-Guide.html#Stream_List_View" label="Stream List View"></topic>
+		<topic href="doc/User-Guide.html#Limitations" label="Limitations"></topic>
+		<topic href="doc/User-Guide.html#References" label="References"></topic>
+	</topic>
+	<anchor id="additions"/>
+</toc>

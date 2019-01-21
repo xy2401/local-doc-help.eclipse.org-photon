@@ -1,0 +1,766 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: ld1b37/TZ0SXc3rWunYhaS5BkSac8
+ RV5saCEq+mGa0c=
+SHA-256-Digest-Manifest: sa6RtcdE+5q6W6tEAMzHkM8JhxtJxEX90yF7tDX4HWQ=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: html/reference/images/jsf_download_library.png
+SHA-256-Digest: kWeknf0uQbaHBIJqmD6Dfn8h38IkSatm1/CtKXn/RTY=
+
+Name: plugin.xml
+SHA-256-Digest: fhuaOcSrH/zrIZD8MtDqY7DU/u+f172fLdLy2WPRCGA=
+
+Name: html/gettingstarted/tutorial/images/jsf-config-facelets.png
+SHA-256-Digest: TreG4w0IoONlQCcyQcCPnJZlyU2GNhDP/kzqLe4Heko=
+
+Name: images/whats_new/3_2/new-xhtml-file-templates.png
+SHA-256-Digest: khEDQ0mJqfDO60IcrEy3bE9PlzZ2HlI37nG2srF4D5o=
+
+Name: html/gettingstarted/tutorial/images/validate-bean-properties.png
+SHA-256-Digest: +8ebuX25TNZov+IAkMyo3/PT7LEMGHPU0JvbfVIkdtQ=
+
+Name: images/whats_new/2_0/ComponentTree.png
+SHA-256-Digest: TXW+9Zqdz+Ys4KmBsKqjhqwXwD6jZ+y5+g8k3xOxuuY=
+
+Name: html/gettingstarted/tutorial/images/run-facelets-02.png
+SHA-256-Digest: yyfEbMOuMbhMlXZPS6Gp7/vlcXxmy6dBi+B76TSULn0=
+
+Name: html/concepts/concepts.html
+SHA-256-Digest: 4hWM98nlxitMGAsl+Rycj8NFcVzsJl5aGxBJGTbV/sQ=
+
+Name: html/concepts/images/tagRegistryView.png
+SHA-256-Digest: 422xZwiTd3jU07abztFEtafKKcCXQd8nZjLdJ4vx7t0=
+
+Name: html/tasks/create_jsf_app.html
+SHA-256-Digest: UMosVOjJnDcHwcczxCW6PTInN5f/CaK5sWjJhipkFOw=
+
+Name: book.css
+SHA-256-Digest: NMfHhuNJfwu9dcp7hGIPk4FRj8T4nv76L6U5noNO91E=
+
+Name: html/tasks/facesconfig_ui/add_facescontext_factory.html
+SHA-256-Digest: v7rlT9mr5BaH2w2to4IMmTVq36vIJTc9+OeWfC+f4ug=
+
+Name: html/gettingstarted/tutorial/images/jsf-library-new.png
+SHA-256-Digest: cLo+/dupt4u90+At8ZBE7tvQQUDutSU0cD25oVHj9m4=
+
+Name: images/ngrelr.png
+SHA-256-Digest: 6v0GQK18jAUVotvX2Ou4BolfYB9TGXNoiFOYEq8aNxg=
+
+Name: html/gettingstarted/tutorial/images/new-xhtml-file-templates.png
+SHA-256-Digest: /sTYnCW+NsYkTSs+WRQBEOLn40+8JHW2uCTe83CRmBQ=
+
+Name: html/gettingstarted/wpe/images/wpe_palette.png
+SHA-256-Digest: /x5+Hsfhtpbf1MON7jSDkJDT3BQmpwWx/m1dtMo/+4E=
+
+Name: html/tasks/jsf_validation.html
+SHA-256-Digest: Jgjj4YVeYdTtFR0wXKiq66yjL7HsUxQLR38ORF7zkoo=
+
+Name: images/whats_new/3_2/el-implicit-variables-ca.png
+SHA-256-Digest: hQdEwI0jMYK1hQ3RBLGTaIad596ik/bT78xSGywN/Kw=
+
+Name: html/tasks/images/jsffacetsettings.png
+SHA-256-Digest: fUNyhUcX+2x8xbuy37uwjnjx/U5sFB2RFJ9fWNGYrBc=
+
+Name: html/tasks/images/jsflibref_addlibrary_2.png
+SHA-256-Digest: SeMGA4vVUXzqLEUmiHLHbqlhs957/4FhH6jPMz+njXc=
+
+Name: html/tasks/facesconfig_ui/add_phase_listener.html
+SHA-256-Digest: sMJiRjJVhxUvEypDTWqW16t56iYtb2+jmi07nuuWtN0=
+
+Name: html/concepts/jsf_facets.html
+SHA-256-Digest: VluCCmXVkmAohb27qrCKzoimH6tWE0rz6zJp+E0/51E=
+
+Name: html/tasks/use_facesconfig_editor.html
+SHA-256-Digest: 4wnJ7SConmf7hMDOe2XYZR+P88sl3OGPUYMQzRkBJ9E=
+
+Name: html/tasks/facesconfig_ui/add_lifecycle_factory.html
+SHA-256-Digest: 1AKYyq35GNJoAlbP4AERkCyxeA99t8eaNzBbmVVv7D0=
+
+Name: html/gettingstarted/tutorial/images/web-page-editor.png
+SHA-256-Digest: IgzA0UX4sY6YcFxLxSGjeRKuZjhVZzWU+DDzcfe+njs=
+
+Name: html/gettingstarted/wpe/images/wpe_editor_inspection.png
+SHA-256-Digest: Bvn+EUXviPZ+jIvSjcxmST+HMQpWoPXvuyscTvzUNBc=
+
+Name: html/tasks/images/newjsfpage2.png
+SHA-256-Digest: tqB8OS9gtE+GIYX3v0XUi03fwb7KhxLo2W5IkfSjeco=
+
+Name: html/gettingstarted/tutorial/images/new-dynamic-web-project.png
+SHA-256-Digest: uCvL0dvLcKP76H0cHyPInS27Unnc5H5us4rn1hk9PX0=
+
+Name: html/gettingstarted/tutorial/images/validate-managedbean-error.p
+ ng
+SHA-256-Digest: RD6OPjN7mIgEGgT2+X0oxcb32zN4wiBOsTQmwp3H/P4=
+
+Name: html/gettingstarted/tutorial/images/tip.gif
+SHA-256-Digest: AlorKNnY2U0ocRbSjrTr4LHgSpYEEbLr22Let0E9MmQ=
+
+Name: html/legal.htm
+SHA-256-Digest: qhp9mxzwxM4rMM26HrM5qjUvoCk8Hq7UPF18cr+RNH0=
+
+Name: html/gettingstarted/tutorial/images/facesconfig-editor-bean.png
+SHA-256-Digest: Y5JybxPZicVk79S2v8KhjZfeMwODdCSdgpoynjQQI0s=
+
+Name: html/reference/images/DTSkinningUI_ProjectProps.png
+SHA-256-Digest: Z0HwQWkxkdQxLWyNvnueWyEARIC7ByrzjzZ3UI1aATE=
+
+Name: html/gettingstarted/tutorial/images/facelets-header-footer.png
+SHA-256-Digest: 0Y0SwIY7GpVoq828zF9h0tT7SAlh5a3NLyPeveIQaIY=
+
+Name: html/gettingstarted/tutorial/images/ca-converterId-lov.png
+SHA-256-Digest: Rfp5T/IMyTNMvMtxXi5MA0XSMP9S4IgoB+ek8f3XTho=
+
+Name: html/gettingstarted/tutorial/images/wpe-add-cmd.png
+SHA-256-Digest: YIMOM5ox/717e9ze1EXPLX9GB4hzFU5v1CAs8bZ6TgU=
+
+Name: html/gettingstarted/tutorial/images/project-facets.png
+SHA-256-Digest: WKygvTe1Z2vGamidDPSFC1KdLw/pjRKvaA8m1CS8yUc=
+
+Name: images/whats_new/3_2/namespace-composite-ca.png
+SHA-256-Digest: GY2gSocmQh9+AV7zlY65GxRAE836X6CyW4VrXX0Pblk=
+
+Name: html/gettingstarted/tutorial/images/navigation-01.png
+SHA-256-Digest: +FcZ1NDmQ5D13w/tfZQaczIYRK6Ec0uwUuQrAJM4AKY=
+
+Name: html/tasks/facesconfig_ui/add_variable_resolver.html
+SHA-256-Digest: sPGov45k7gWtuCDiVTB/f9GEFbxvgewNVwETT2jAkqo=
+
+Name: images/whats_new/3_2/tag-attr-ca.png
+SHA-256-Digest: 5tkWxyN4uH8IuTEOpQTj20LFZVpS+QC0wu09Fx83AnY=
+
+Name: html/gettingstarted/trinidad/trinidad_initialsetupguide.html
+SHA-256-Digest: xmDPuQirmcNzcDZ8KHsQWR73DhpVjnXayr48LvIPvhs=
+
+Name: html/tasks/images/jsflibref_javabuildpath.png
+SHA-256-Digest: H6DqkOagj+4SbjlaIifxH/03RHUhc75wapXk39DF1kk=
+
+Name: html/concepts/jsf_library_management.html
+SHA-256-Digest: wyhAzBRAUt8t89Aq5BfBiY5vyJI4PDuKL5PKc0zGxE4=
+
+Name: html/gettingstarted/tutorial/images/navigation.png
+SHA-256-Digest: 6XSGCw3SjJb5VREdjh9Gwqbx0rc9xeQgRx2t2VTMVmA=
+
+Name: html/tasks/images/elvalidationprefs.png
+SHA-256-Digest: zCkUDXimubuOaP43QTtRoaehkF1i5rb+UpXOnTbvshU=
+
+Name: html/tasks/facesconfig_ui/add_state_manager.html
+SHA-256-Digest: xrn5ikQ/ka0o4LWLthtiZ0n3/2qH1CyBRzaWlEN1IkM=
+
+Name: pom.xml
+SHA-256-Digest: D8NalCpE62fzjk61v+geo3TjwKFSmBl0he8TQRyU2FA=
+
+Name: html/reference/jsf-h.html
+SHA-256-Digest: 5498Zq6ZtjUUJEfjmJqYdKDV6bBKeZkftEVfwsmYJmI=
+
+Name: html/tasks/create_managedbean.html
+SHA-256-Digest: tkzdWRRbUSfVyLZkk7iPncD+Z44xZzEG8yvhbLy2PZA=
+
+Name: html/gettingstarted/tutorial/images/el-ca-bean-properties.png
+SHA-256-Digest: UDZfcsaOG7mAmkmd/hwVF3VDRbcGSMrdiyxZBCsY3ls=
+
+Name: images/whats_new/2_0/DecorativeResolver.png
+SHA-256-Digest: Z5LD12+p3bS/9RbFNBza1drJ/38pZoUYomKoqrvZ8o8=
+
+Name: html/gettingstarted/wpe/images/wpe.png
+SHA-256-Digest: 7nI7t6nxet/vGvNRw5XRIaBGqCuDtMAQ07jHpvB22YQ=
+
+Name: html/gettingstarted/wpe/images/wpe_outlinemenu.png
+SHA-256-Digest: 9dbGVvRh7vWror13z1pari53DMAddBp1dBQdqYk0TRY=
+
+Name: html/gettingstarted/tutorial/images/facelets-template.png
+SHA-256-Digest: 9ILY4IzqtqqAUjPKKUFqikkM9+Vw+kPLdg9YwmeYVwI=
+
+Name: html/gettingstarted/tutorial/images/syntax-error-no-bracket.png
+SHA-256-Digest: R1Db6DBv+3qU43+cImVeGBd1TpcAcGoftwiTiHQEJYY=
+
+Name: images/whats_new/1_0/Fig7.png
+SHA-256-Digest: iyl6fFP/SXnqHOJu66UqSvnrotO8vo63KRY8tJm7l40=
+
+Name: html/concepts/jsf_libs.html
+SHA-256-Digest: 7ydnLZ7ChMuyUfWzEs+K80gEWz4IpgXVcVLNExz4YZg=
+
+Name: html/tasks/facesconfig_ui/add_rederkit_factory.html
+SHA-256-Digest: MMoYGaRPcy9Nargu9mhxN3YXPjt3G6cQc4OMblKAVjc=
+
+Name: html/gettingstarted/wpe/images/wpe_editor_childcomps2.png
+SHA-256-Digest: m62l2x3URytKviUTocNUb9D1IWHGtacenbgFSDuTK0Q=
+
+Name: html/tasks/images/validationprefs.png
+SHA-256-Digest: NqSYmvSPBgGDNWO5eDVR3kyKTLNoz62VFUsahZx9/vU=
+
+Name: html/reference/images/jsf_validate_library.png
+SHA-256-Digest: 9T3TJiCmQEYJr6SCOGXP7Aul/Ggx9bwscOnQ8jbL6lc=
+
+Name: images/whats_new/2_0/trinidad_properties.png
+SHA-256-Digest: M4B8S3/N5pUIwHQdgmrMKDfOk45I9PypjicMaI1Quw0=
+
+Name: html/gettingstarted/tutorial/images/navigation-04.png
+SHA-256-Digest: nygErQ56sURUXWYIgUEXLYy7XZ5qau8H5g/ZHUOCOYY=
+
+Name: html/gettingstarted/tutorial/images/validate-attribute-value-typ
+ e.png
+SHA-256-Digest: XgmZb9SXmE789xBJDwPf031K68xlNRHgHbVILBkdwNU=
+
+Name: html/gettingstarted/tutorial/images/jsf-app.png
+SHA-256-Digest: rgzQkIpFyEECOzCixPepriRxWz8rb+Y/jnGVqM8ii1o=
+
+Name: html/tasks/images/migration_jsflib_step21.png
+SHA-256-Digest: s1oHzSHIejb/fO6ycndkZvCCpKN9PIHuCyb7LQCdBqU=
+
+Name: html/gettingstarted/tutorial/images/el-ca-messages-properties.pn
+ g
+SHA-256-Digest: 4S3w+Rh3TCwITW046/meAYUHLn7rC+5nbTKVAnu+hzs=
+
+Name: images/wtplogosmall.jpg
+SHA-256-Digest: BS8ap3FMebpuMYEI9L0GMf5vhwfS2o61eDYxBV/RBhk=
+
+Name: images/whats_new/3_2/composite-components.png
+SHA-256-Digest: NvgMB0WZeceowdjtGQB3yJUVkPfmbFfBRh26DijF77E=
+
+Name: html/gettingstarted/tutorial/images/ca-validator-lov.png
+SHA-256-Digest: rrKEijKwFQcd82xCPvlH21pI7JbJiJ+L8Gj/+42cGn8=
+
+Name: html/gettingstarted/tutorial/images/ca-valid-lov.png
+SHA-256-Digest: 9xo34VqbL0b2pcl0UfNiPNaqf+WKaf/uz+xg4Vfz9Q8=
+
+Name: html/tasks/images/addprojectfacet.png
+SHA-256-Digest: AiDjxJqG/qp3RLVTLQXjcEfotYvxsVZtCwcWLM2UUJ8=
+
+Name: images/ngrelc.png
+SHA-256-Digest: GYRSuqxHThT/W1wfWi+wkBb9K9x4yS/Oyy1vizULisc=
+
+Name: html/tasks/images/migration_jsflib_step11.png
+SHA-256-Digest: xuwUPVML7Lc/7mu21xfp6MNSBPesrAFTfoPyUf8Izjw=
+
+Name: html/gettingstarted/tutorial/images/note.gif
+SHA-256-Digest: UdQPWUl0f+m7A3vjzNgMGVlIvUjMz0xYK8QzydiuHT0=
+
+Name: html/gettingstarted/tutorial/images/Idea.jpg
+SHA-256-Digest: Myp6jJmGOKvPxoZoRBU7uw72u9H4zXjFw3fD3l+WO54=
+
+Name: html/gettingstarted/tutorial/images/ca-bean-properties.png
+SHA-256-Digest: dmOaV+cejPYPm9t2QMxBM5b7ojPDI98VhQgia1uuXi0=
+
+Name: html/gettingstarted/wpe/images/wpe_editor_contextmenu.png
+SHA-256-Digest: nIBzYt1wScATpKfSq5dgjBmf+USz1gATQ3amPvU3XUo=
+
+Name: html/gettingstarted/tutorial/images/el-ca-define-loadbundle.png
+SHA-256-Digest: P+j0/otrcNaeXv66AEmJyynbKduy7HXcJyj/nkTSuR0=
+
+Name: html/gettingstarted/tutorial/images/run-jsf.PNG
+SHA-256-Digest: SdumC7GWiGFEBJPSyHMZqB4TZejaVa6QhLIcg42/cug=
+
+Name: html/reference/jsf_library_management.html
+SHA-256-Digest: +rVozF2iV8suMdptENOC8tiCfzMrgUxsnLzBnHEHaew=
+
+Name: html/gettingstarted/tutorial/images/facelets-configuration.png
+SHA-256-Digest: a47sVJb4zZuHnF8qgqutoNkZSGUVWoktgIwoEJJqc2Y=
+
+Name: html/tasks/test_linked_pages.html
+SHA-256-Digest: D5014FWr0bOw7Rim55H+1s1v9dB6LuAgcEPET5NnaRs=
+
+Name: images/whats_new/1_0/Fig3.png
+SHA-256-Digest: IvQTrcxpQ0DXSr33fTXMm9dwXRmfPrRWT6RphLIYBWs=
+
+Name: html/gettingstarted/jsf_requirements.html
+SHA-256-Digest: uH9E2j1AQdoTEQE35AR2RXone0OAkqC8rRhw4nW9TYg=
+
+Name: html/gettingstarted/tutorial/images/el-ca-bean-properties-nested
+ .png
+SHA-256-Digest: Rz8g0eUHR+sjKZecV45uJPYUu/KERyGotM8/Z+6aleg=
+
+Name: images/whats_new/3_2/project-facets.png
+SHA-256-Digest: NAJMk9Il0mY0HfMG+2aMWJwyCvnPBKR9tHzwum5r+dM=
+
+Name: html/reference/images/jsf_library_legacy.png
+SHA-256-Digest: u8Xl4x8QWtmNmAYL714i5PkfO/xhoDO7y+xNWIJy1Vc=
+
+Name: html/gettingstarted/tutorial/images/jsf-capabilities-library-2-j
+ sf20.png
+SHA-256-Digest: DUdFY/xHPyE/IbFkMZil0YP79tfRCWxyLDZEPEuO1X8=
+
+Name: html/reference/jsf_design_time_skinning.html
+SHA-256-Digest: XOiyaPYf+SCr18pgEbRSn21K8+vpcOUiW8Igys9Zllo=
+
+Name: html/gettingstarted/tutorial/images/jsf-app1.png
+SHA-256-Digest: aN+1RbzKrdZ7va+OT//dGVXHiV6SOq1T8HSpTI+zdpA=
+
+Name: html/gettingstarted/tutorial/JSFTools_tutorial.html
+SHA-256-Digest: duAsfpJoYcNOhTUOCmwnyc0Q7ULG/zdW8xATBcC8HbA=
+
+Name: html/gettingstarted/tutorial/images/jsf-add-jstl-library.png
+SHA-256-Digest: Yw9qVOrMC88tkJRM1kN2I7eG0wTjnrRF41/qGUKlgXM=
+
+Name: html/gettingstarted/tutorial/images/ca-boolean-lov.png
+SHA-256-Digest: lcSRmS0oStYFW06trEce3YriW78ghS99NFYznp5aYRU=
+
+Name: html/tasks/define_link_properties.html
+SHA-256-Digest: m72pjqe0+6MeORbKnthPHvcxuBOghsfIz4EsAgO3ISE=
+
+Name: html/concepts/jsf_component_tree.html
+SHA-256-Digest: l/ErnQ/KTaVE79Y9uXKfD/6A0QP0SbOA8ZFqvb2YJ6w=
+
+Name: html/about.html
+SHA-256-Digest: kAoL97F4oAGr1dwrDMDLKqyXofVs3S7HpHbFzSgxiWI=
+
+Name: html/reference/images/DTSkinningUI_ToolbarButton.png
+SHA-256-Digest: 7G8DYAo8qr5qJJsWYUmGnGxzqAQdOiWBMm97Begv3WQ=
+
+Name: facesconfig_ui_contexts.xml
+SHA-256-Digest: sTbLTudmQ1em9EKhk4noMjOKkxVCPYd9g4rpfghxTR8=
+
+Name: html/tasks/images/addjsftaglibs.png
+SHA-256-Digest: VAfKD32KjP5wi9fpEuNBDtS8argDMH4n9WoBlJ65yCs=
+
+Name: toctasks.xml
+SHA-256-Digest: 8RNAhDkYsviaAb/qeI+BrEv4crqhTMLBUQ0QEFG280U=
+
+Name: html/tasks/add_jsf_facet.html
+SHA-256-Digest: ig9SHUdOA65El6/kyBOpfjrPp/SsI13Y/+9N+YAPKSI=
+
+Name: html/tasks/jsf_library_migration.html
+SHA-256-Digest: MYoaSpm5EIw1wMBrhVmf2QNDL1eg+vbTIZdJKMUvODQ=
+
+Name: html/gettingstarted/wpe/images/wpe_editor_childcomps1.png
+SHA-256-Digest: am7WcGHBbeBWI+28UMzyMez/shS0HDYQWe40zbKF15Y=
+
+Name: html/tasks/facesconfig_ui/add_default_renderkitid.html
+SHA-256-Digest: ubIAHA0N3ymTCaAikQziYNIOM6f4wBL6pQmG85L8bOk=
+
+Name: html/tasks/images/jsflibref_j2eemoddeps.png
+SHA-256-Digest: UxCBj69u3IP0nDWGLqyBlhLPBKyDexQLYNMfn3b/r0A=
+
+Name: images/whats_new/2_0/NewELValidationPreferences.png
+SHA-256-Digest: KfDfVa3z8VnwCshiIVf12eaQ5eSHP8/umY9NbhDLodQ=
+
+Name: html/gettingstarted/wpe/wpe_getting_started.html
+SHA-256-Digest: PN7Fd18hTQb4HKJGuIVTyfzPCwHJxYYx7kg3Ii4/JUk=
+
+Name: html/gettingstarted/trinidad/images/trinidad_initialsetupguide_J
+ SFCapabilities.png
+SHA-256-Digest: mCPA8SptpTmvsN8Rc8j2s58MfaqetMzeLRK79IzfLSY=
+
+Name: html/gettingstarted/tutorial/images/syntax-error.png
+SHA-256-Digest: oQAw0zVVEkR2jVqz7+TwMdW+Cqp3pvPEo4nwLN2ZZX8=
+
+Name: html/gettingstarted/tutorial/images/facelets-tagattr-validation.
+ png
+SHA-256-Digest: vhP1+IbOIujuj86HqwAfI6mg8K6ZV6Q3OA8XCyjc6rk=
+
+Name: html/gettingstarted/tutorial/images/jsf-capabilities-library-fac
+ elets.png
+SHA-256-Digest: LgcAc5pm7Z2CyQ2GszZcs3HT2Cvm8maczQ0EshwWpO0=
+
+Name: images/whats_new/1_0/jsf-layout.png
+SHA-256-Digest: /JXVq26cMNlcWymuxb5XRSPTuqcQF08qHAr++qwshzM=
+
+Name: html/gettingstarted/tutorial/images/faces-config-validator.png
+SHA-256-Digest: saUIacya4DsI00ubMdpIn8DPgnSEds7NBEFFn+jb0Tg=
+
+Name: html/gettingstarted/tutorial/images/loginbean.png
+SHA-256-Digest: ZgcfIMp1sS+llMTu8eNjLOY4revoBgmI8aCot1cQ6D0=
+
+Name: html/tasks/images/migration_jsflib_step22.png
+SHA-256-Digest: AtYae9uThMoadx14UXBMH5GXNT2OCMXTW120qIBG1NE=
+
+Name: images/whats_new/2_0/ImprovedHoverHelp.png
+SHA-256-Digest: 9QPEU0ntmxGU/RkJgjp9fLWJJ+taHictHpP2Z+Gt9tE=
+
+Name: html/reference/images/DTSkinningUI_WPE_ContextMenu.png
+SHA-256-Digest: P+wawQ6LbD+bVdnXMetUCzwjjd11G/Htl+g7M3bzUhI=
+
+Name: images/whats_new/1_0/Fig4.png
+SHA-256-Digest: Us+ukRflJty3kj6Bv0CPa3WkEwMpnDV9+Xiiqi1kVAA=
+
+Name: tocconcepts.xml
+SHA-256-Digest: OGTVgXO3qlkVPUfAadtLBBC/ZLSamCMjoBo6LNwRWpA=
+
+Name: html/tasks/facesconfig_ui/add_converter.html
+SHA-256-Digest: OXNmFncATLZJKPZKIAtkTmFTAD6iTNBt2YlXO/5FSqE=
+
+Name: html/tasks/images/taglibassist.png
+SHA-256-Digest: 2PYSkIqqtSPzeCJM/9/Yg3rolIEljvXpnDO6KULwSyA=
+
+Name: html/concepts/jsf_facets_uninstall.html
+SHA-256-Digest: dbWfvTPvSBb12ryDQS+SHSsFqtsZRFced06ShxtzMwI=
+
+Name: html/gettingstarted/tutorial/images/jsf-download-library.png
+SHA-256-Digest: Fk/pBvHajNIjzNzeRZOUpkpdnIgiaYr0LvUHt7zlU9I=
+
+Name: images/whats_new/2_0/ImprovedContentAssist.png
+SHA-256-Digest: 4CDJeszkXFotNWIQf9g+zu3/ZcrQ6kt62eFHTdFuLJY=
+
+Name: tocreference.xml
+SHA-256-Digest: B5c0Lxgps9Loq7fTnzQOL+2S9BmoTUOfk4jiU8u55ow=
+
+Name: html/gettingstarted/tutorial/default_style.css
+SHA-256-Digest: AP3TKh+ucZvyUPDJdHNB0SBru2gIbr9YEiVH3ZlInOw=
+
+Name: html/reference/jsf-c.html
+SHA-256-Digest: TG5pssFTwigqT5c84/5q/QVg7/yoPWuCoGycYU5pgSQ=
+
+Name: html/gettingstarted/tutorial/images/el-ca-msg-properties.png
+SHA-256-Digest: pMIK5x+4TXk2sRtkcNv9P+19Wh5u4D1CHasnOrQWtVU=
+
+Name: html/tasks/facesconfig_ui/add_action_listener.html
+SHA-256-Digest: ExQj9H6yoAke0ejPIXE5P5v/XxoUJLRlzgsPMI91DOY=
+
+Name: html/tasks/images/jsflibref_addlibrary.png
+SHA-256-Digest: hvbrYm3cmyc7MjmNqPYkYZfScenyRRtGqb3Q71eWsLc=
+
+Name: META-INF/maven/org.eclipse.webtools.jsf/org.eclipse.jst.jsf.doc.
+ user/pom.properties
+SHA-256-Digest: jp3S24qxV8LYZAEN3mSiEdQVu7eWNF7RLRDn6TcfTRQ=
+
+Name: html/gettingstarted/getting_started.html
+SHA-256-Digest: w98UHcMS/k2BulOPr5JGS8RRbj5NavcuWDNAJia90Ms=
+
+Name: html/reference/images/jsf_library_configuration.png
+SHA-256-Digest: Bl+wdTtdL6KHgJTzmZti+Kdg4XvOcaBH2bBERlYpBRE=
+
+Name: html/concepts/images/ca_el_mb.png
+SHA-256-Digest: C9h6owhd9aCRc1MfE+W7BGXTBx/e3kkpa5J/tBIe22w=
+
+Name: html/reference/images/DTSkinningUI_ToolbarButton_Menu.png
+SHA-256-Digest: wVp8nNMjrgQurpWSlbSU3BINMBeRY19Mr6DmR55UEiA=
+
+Name: html/tasks/images/jsflibs_prefs.png
+SHA-256-Digest: JUw+fpl7F/nD6wa4+FAqBsI9BVwC8NrLTkdM6XE0Ue4=
+
+Name: html/gettingstarted/tutorial/images/custom-validator.png
+SHA-256-Digest: A7FD+iPU5Zere5hcGH5xwt/ENMNsczdr6hpPdP9btHg=
+
+Name: html/gettingstarted/tutorial/images/run-facelets.png
+SHA-256-Digest: KOitT5VEM1EVziDDLjfr6CMilrXUtWHCz76md/dSRK4=
+
+Name: images/whats_new/1_0/Fig2.png
+SHA-256-Digest: DTHvAc+ozIKP4E3FcmBMsEooVebqwLrgDvJ2mlkhyAk=
+
+Name: html/gettingstarted/tutorial/images/facelets-template-final.png
+SHA-256-Digest: Ow34mY7EDlCQ/vqzmdTn591Qbw9/OJ0V7uq1pSuKxgc=
+
+Name: html/concepts/images/componentTreeView.png
+SHA-256-Digest: mLyhJdM5PIpGLIguhJyImPfrG04+01dHnq4Wv32DOPk=
+
+Name: html/gettingstarted/tutorial/images/el-ca-all.png
+SHA-256-Digest: haSz3ohSXMph01yvqMDz4xT08sdwRlEY97rcXYr9sUA=
+
+Name: html/gettingstarted/tutorial/images/navigation-03.png
+SHA-256-Digest: VccW47/wp+s6XrsyNNS7+6aSPoyyOgHY9/RftIe9H/8=
+
+Name: html/tasks/images/migration_jsflib_step2.png
+SHA-256-Digest: JdtI2MPnXHdxprhiTzA1IKDG5mkQR6hwGANShG2X7TA=
+
+Name: html/gettingstarted/tutorial/images/jsp-editor-validate.png
+SHA-256-Digest: 0S4ldsNAUT++vXpKYbzKSO4i9CFK+9mtQtRsnDa6tnY=
+
+Name: html/concepts/images/ca_nonel_validators.png
+SHA-256-Digest: GFmZ7RNSvN1M6upwL0uJEXVJBI5CKgRCb090lNPhV+g=
+
+Name: html/gettingstarted/tutorial/images/jsf-libraries.png
+SHA-256-Digest: m7kzDAI8bo9N/O+TMf+CkIi0Pijul2BFEWFLK6L0Mqo=
+
+Name: images/whats_new/2_0/trinidad_codeassist.png
+SHA-256-Digest: ZTzJVZ4K6dLji0Z+Jq+65aJrhkoX8nX0V2JMFGMnNyU=
+
+Name: html/reference/images/jsfimplmakedefault.png
+SHA-256-Digest: eY63PBWNidpIyZX+ker2J5O7eu5TaUVa1MhgdMbo2hA=
+
+Name: html/gettingstarted/tutorial/images/el-ca-loadbundle-var.png
+SHA-256-Digest: R8egahxxG0NqiQZXJV/g9VR1c8nNT4mpvT5kH9Gna60=
+
+Name: html/tasks/facesconfig_ui/add_navigation_rule.html
+SHA-256-Digest: Y0EvFvCnQdE/9oNU+wnOrROzrdGuWUBGt0DCHsoE01c=
+
+Name: html/gettingstarted/tutorial/images/jsf-capabilities-library-2.p
+ ng
+SHA-256-Digest: vtVpHzMjeTDcxlR8b8VGQ9yZuX/MaZrx9B02Lw7Co84=
+
+Name: html/tasks/facesconfig_ui/add_property_resolver.html
+SHA-256-Digest: 8zY8fwNqGTvhZgdR1YOclhqSHRV1ERmX7clYTFkpU0M=
+
+Name: html/gettingstarted/tutorial/images/fce-managedbean-class.png
+SHA-256-Digest: sRM8EZwctgTX8RqymIJqPbmYZdiVdcZsdAyZleNnw1s=
+
+Name: html/gettingstarted/tutorial/images/select-project-facets.png
+SHA-256-Digest: yQo52EZRE0yiv/QfshUC8+RCnwRVOGuWsQfhCt5pK3Y=
+
+Name: toc.xml
+SHA-256-Digest: XINU65OwK0sBcpTGj2CjTii19cPLHD/xGGgVmFj3Lqg=
+
+Name: images/whats_new/3_2/tags-ca.png
+SHA-256-Digest: CXYryY0itHjn+PKTIzTp9+0HjXtHs02l39UVnxF20Ao=
+
+Name: html/reference/references.html
+SHA-256-Digest: 8WMLZ4jYTNQyURsF6RlNEcKtnIJ1Q/Dso0hOvBgezOk=
+
+Name: images/whats_new/2_0/wpe-hyperlink.png
+SHA-256-Digest: 9UiuYJrHUvYFvi9tbQuUh2TC9ioZ5ZqauXTCPxeK27w=
+
+Name: html/gettingstarted/trinidad/images/trinidad_initialsetupguide_J
+ SFLibs.png
+SHA-256-Digest: 7pSJ8VDqZ2E86MdgNtaGp7560A5JEGmpR0hjM1Y5oYg=
+
+Name: html/gettingstarted/tutorial/images/facesconfig-editor.png
+SHA-256-Digest: hqxQEnroIGNxgJmvg0ZJ34pV+n8T2ATjOwf4bs6FMqg=
+
+Name: html/concepts/images/ca_el_vb.png
+SHA-256-Digest: GjZCQPreJ9CMo8nlkv3qxAhTy1y01wBIuuLXt43Ws7Q=
+
+Name: html/gettingstarted/tutorial/images/facelets-login.png
+SHA-256-Digest: AyWn3+nDF3UUIiDeMqs0jx9DRrs0ozG9sCxNlB41/7M=
+
+Name: html/reference/taglibsupport.html
+SHA-256-Digest: OLjWWeiRxdBu93sCQYcPDLmzT/TgfLoBswuYrLoCnoI=
+
+Name: html/gettingstarted/trinidad/images/trinidad_initialsetupguide_C
+ onfiguration.png
+SHA-256-Digest: sTDmRCJiapuEwqGr14gONYcVt7jO/ZWGsjDAZSsR7/A=
+
+Name: html/tasks/images/palette.gif
+SHA-256-Digest: 6Fhz+9sZsl4QJcMUFvpNmq53k0MJKrVQX0zZFD3Uev4=
+
+Name: html/concepts/images/val_multi_problems.png
+SHA-256-Digest: +/grOnIhBQxqFDWIcRBwxrCeltD/J6jRVu1ukO/FK8M=
+
+Name: html/tasks/images/newjsfpage1.png
+SHA-256-Digest: O9lH0vGA5bvKYA/J16YWr6ED5Ti5Fz4yA1OxBilIwcI=
+
+Name: html/reference/images/jsflibsmissingjars.png
+SHA-256-Digest: XhbwjmC0gB8nMwaMriZ00Lgl6Us2A/D+MXiA8ndTLSk=
+
+Name: html/gettingstarted/tutorial/images/facelets-tagattr-contentassi
+ st.png
+SHA-256-Digest: HOiLFhdiY542hDiuf2xAqfsqFW/hGW3iT/G5X+p3M7U=
+
+Name: html/gettingstarted/tutorial/images/new-dynamic-web-project-face
+ lets.png
+SHA-256-Digest: bk2rRUnrXWQsPVzi1kxnabISJsl3nEoJPxH+sC9fPk4=
+
+Name: images/whats_new/1_0/Fig5.png
+SHA-256-Digest: Ng+qX0OYy6MJkR78K6Gl75CwRuHjKWerQO55U813q6g=
+
+Name: html/concepts/jsf_tag_registry.html
+SHA-256-Digest: IJgFaDVoivi2/QEMdOlURV8GKbyibBLTfpitmKtnQJY=
+
+Name: html/gettingstarted/tutorial/images/new-jsf-facelets-page.png
+SHA-256-Digest: Ey27FznDaQwKzZrANUw35rKVaWFxLbnx+JTW9VlUzCE=
+
+Name: html/gettingstarted/wpe/images/wpe_toolbar.png
+SHA-256-Digest: lE0nO2V9QqsXYY3NiJzG5nsfP6ZH/sNx232NtB/azqI=
+
+Name: tocgettingstarted.xml
+SHA-256-Digest: wTlQlrXWNembRCrGL/Lp9BsoaOTD76UFnfdseE69x0Y=
+
+Name: html/gettingstarted/tutorial/images/facesconfig-register-validat
+ or.png
+SHA-256-Digest: xSOo5cPgWLizDqVWBHLecndPlB+pFPJ4U1ADIqFHHWk=
+
+Name: images/whats_new/1_0/jsf-faces-config-editor.png
+SHA-256-Digest: 3AYyOBUzfe7Ql5ZsOEJwr8xtgaBsGH/+M5uf7l3Mp2o=
+
+Name: images/whats_new/2_0/TagRegistry.png
+SHA-256-Digest: acXjrI5995h4asidCXZuH5AIiFwn5cZOyPkMX7/q2mY=
+
+Name: html/reference/images/jsf_disable_library_configuration.png
+SHA-256-Digest: g9WIwEJOWT9bzQEjr6Oufzpy4YGfQxyDcR2ZM33ua+o=
+
+Name: html/tasks/images/migration_jsflib_step1.png
+SHA-256-Digest: TshkznSHOFJYW5VtJ1dqrOcOG2WvvP0JYoPZ8RzbQtg=
+
+Name: images/whats_new/1_0/jsf-web-page-editor.png
+SHA-256-Digest: NxV4BuM2AUgKGvdnoQxpUfaCCQjPYUFKVGlfoi1zjvk=
+
+Name: html/gettingstarted/tutorial/JSFTools_tutorial_JSF20.html
+SHA-256-Digest: SjoalNNPg9COZWuTfrgNJE8TMKLfyeRSoM5isYnhpMg=
+
+Name: html/tasks/images/create_jsf_app1.png
+SHA-256-Digest: qWRf43jvQXku8EnXLvlNLwjGsot0YAU0k0kOmmtYQ9U=
+
+Name: images/whats_new/1_0/DataTableVariableSupport.png
+SHA-256-Digest: gJDk/IQWehOaxlCMu4lRgsL6nBBmxuRkZO67c19GP5Q=
+
+Name: html/tasks/images/newjsflib.png
+SHA-256-Digest: QO5akIjomlnwTPS2MNg130KzBDLBrH65KfHQMKVY9lM=
+
+Name: html/tasks/jsf_elvalidation_prefs.html
+SHA-256-Digest: I3KOJedpAHPBr9MsuS6I8jblBtVmg1TS01UlfzEkT1I=
+
+Name: html/gettingstarted/tutorial/images/navigation-02.png
+SHA-256-Digest: Tswjy0VVZ5eNGIdtzZVI/X7yeLzwUYkruZY6IeqsbKw=
+
+Name: images/whats_new/3_2/composite-tags-ca.png
+SHA-256-Digest: gHtCAeC+weaU6asbVPxqg/Bc8b3TbhFxAoBpJJYEwgU=
+
+Name: html/gettingstarted/wpe/images/wpe_properties.png
+SHA-256-Digest: rAX+f20nM7+uTvjEktqwkA+9yUxRUrWZ6zBdHzaLy9E=
+
+Name: images/whats_new/1_0/jsf-versions.png
+SHA-256-Digest: t7UXBKTs2fO76SzFBORlhQd6xJkC87EO8+J4z8R3Nl8=
+
+Name: html/tasks/facesconfig_ui/add_application_factory.html
+SHA-256-Digest: srj1Y2ihtQzpL7tiIra++1naKcVo82krEf+5T/w9ZPw=
+
+Name: html/tasks/facesconfig_ui/add_view_handler.html
+SHA-256-Digest: Qc4J3GiqNzLJgg5OCeytbvS2CfTuUsxjjV8TdBMseNg=
+
+Name: html/gettingstarted/tutorial/images/welcome.png
+SHA-256-Digest: OT59zD0UF7iGbRedesDWXLpvhS3gie3qIJ8Dl3GNoJk=
+
+Name: META-INF/maven/org.eclipse.webtools.jsf/org.eclipse.jst.jsf.doc.
+ user/pom.xml
+SHA-256-Digest: TE2LnNKzWYgloMHrMfLlrpEEBV9vo6A8nJPKdCgzGv8=
+
+Name: html/gettingstarted/tutorial/images/facelets_user_library.png
+SHA-256-Digest: q6TR6Fp24LlGHHAPRxhZiiYT35MkB6B70R9mWK/i12I=
+
+Name: html/gettingstarted/tutorial/images/ca-bean-methodbinding.png
+SHA-256-Digest: fNi40nhf2uHtUMWnZvErquCpSoca7UVcEaK3NDmBrnw=
+
+Name: plugin.properties
+SHA-256-Digest: 83O8hR838WvwZAW+qi0XBddXtiDG8XOO6VVBxsOpP8Q=
+
+Name: html/gettingstarted/tutorial/images/jsf-new-library.png
+SHA-256-Digest: 90rea8zMD6+ExanXLVhGCaJ6Cht02hfFP0AgsLrz3W8=
+
+Name: html/gettingstarted/wpe/images/wpe_preview.png
+SHA-256-Digest: aO5HoNPnRiBsxddR4owGGabsUyTTbnbIlVcA/VXXrjw=
+
+Name: images/whats_new/3_2/namespace_ca.png
+SHA-256-Digest: g466y1dx3A5UtOfv2BZfq2/UutQ97m4WskQmU4IgCQM=
+
+Name: html/gettingstarted/tutorial/images/jsf20-facet.png
+SHA-256-Digest: VwbK7PMQXlEWP0VwgoSc5DQMF9uiFiOetXxVFdoGoyo=
+
+Name: html/mainpage.html
+SHA-256-Digest: n+CGbjLiXUUH6f8vb+G1ZgA3Qb5jK43R0bwdi+UnlTg=
+
+Name: html/gettingstarted/wpe/images/wpe_elementnavigation.png
+SHA-256-Digest: 56wkjgxjghdVI+8xPmyCopmBg8JFKMOzuAD/pQpMYt0=
+
+Name: html/gettingstarted/tutorial/images/facesconfig-editor-bean-face
+ lets.png
+SHA-256-Digest: f1y33q6xOJcAWaeZ4KvPGbyCWaY2oyy178mM8/KXfVQ=
+
+Name: html/tasks/tasks.html
+SHA-256-Digest: Z/iKB/N+IBNKsEka7y9sMk/2B496cHQEyoeRbqV0aGc=
+
+Name: html/gettingstarted/tutorial/images/jsf-capabilities-library.png
+SHA-256-Digest: zwauuyBlZVXSOcc3yX4TC02aJ2AqpmDKQX7bniFhCuk=
+
+Name: html/gettingstarted/tutorial/images/jsf-download-library-jsf20.p
+ ng
+SHA-256-Digest: iyg14+Utj3bFjPbsW76GbL+L5fB/J4riUd5rbC4b/lk=
+
+Name: html/gettingstarted/tutorial/images/jsf-libraries-facelets.png
+SHA-256-Digest: AlpRe7BCI3Fj6sE+K160VotwShYDv1nPK/OXUAqyxvo=
+
+Name: html/reference/images/jsfimpl.png
+SHA-256-Digest: OWC2ujh9me0QWlEjlO3luCxhXZOwYWo39XbBTIfpszE=
+
+Name: html/gettingstarted/tutorial/images/wpe-add-panel.png
+SHA-256-Digest: eNqe1zV9HxP1cHDm/zXQkY3jm1E4KCbxUXFpz89GJjM=
+
+Name: html/gettingstarted/tutorial/images/login-final.png
+SHA-256-Digest: o9gYg/5aTAqDBsVKcRMNLBoWYatsJvd9gjySGMckL3g=
+
+Name: html/tasks/define_navigations.html
+SHA-256-Digest: 9xv/tppa9nQYydUaBjdwt7ieHDr8CySNvO4fl8GAA8c=
+
+Name: html/gettingstarted/tutorial/images/validate-converterId.png
+SHA-256-Digest: XqIl54ov91wgHQMkVWNfuBVI0Y6fTixsnkzn4FL/kKw=
+
+Name: html/gettingstarted/tutorial/images/new-managedbean.png
+SHA-256-Digest: skgpImCQjAJolX4RL/fgUfUeyQzTF4WQbYaMil5wjMA=
+
+Name: html/concepts/jsf_source_editing.html
+SHA-256-Digest: 7TxhQrS974rqsRryXKQuQabKB8kPJhcd3XMbjc5OcFs=
+
+Name: html/gettingstarted/tutorial/images/new-jsp-page.png
+SHA-256-Digest: FI0J9ZYKBj+rjwFH1SIF70bpRzDSthI9yp95z/h/RYs=
+
+Name: images/whats_new/1_0/Fig1.png
+SHA-256-Digest: NbQjeXlcI8kIZ4t+tzpwzLWI+3K4hplYgdXxaMeqLdA=
+
+Name: html/tasks/images/newjsfpage3.png
+SHA-256-Digest: Bt9v7//2AMAkuRSUoqxrOMp1B3P4+3MTVFNtI9z+cEY=
+
+Name: html/tasks/create_jsf_jsp_page.html
+SHA-256-Digest: KdEeqRniY/WpKQes7U57D4Za/HL7rH1qc8Arzj/cI3M=
+
+Name: html/concepts/jsf_facets_install.html
+SHA-256-Digest: mLBMLiuUey0aBykbzmFiYUrcnM4mlZWA5P1p5A57Zkg=
+
+Name: html/tasks/facesconfig_ui/add_messagebundle.html
+SHA-256-Digest: vwwToeH8Z+ARBwgFfVnYotH4vXPMSvJ4qewtvzy3u7g=
+
+Name: html/whats_new.htm
+SHA-256-Digest: L+WE1J9gsl3N8hIBOD6Kauf8cfx0D29RpkSoPVtPGQE=
+
+Name: html/tasks/images/jsflibsmissingjarsedit.png
+SHA-256-Digest: +3aKRNR4Uf+3EX+c7POe+EmHWbf71TKzDohyZJu8+Ss=
+
+Name: html/tasks/facesconfig_ui/add_component.html
+SHA-256-Digest: sJtRYfq80BcQ0syC0K4cpFoF30k2o+6OApJqS+Lgmk0=
+
+Name: images/whats_new/2_0/trinidad_in_wpe.png
+SHA-256-Digest: zHjXKE/4KMR9otGtXmExVsE8XGFO7x5+vRVPggC+u0U=
+
+Name: images/whats_new/2_0/wpe-hover-help.png
+SHA-256-Digest: uBAL+Ey6fyHmrTaQeMa6MV4nE66HbsjSJBx8gNChWbw=
+
+Name: html/gettingstarted/tutorial/images/jsf_add_libraries.png
+SHA-256-Digest: r3g4hEgLd6N5nWESk62pFXZo+52+f6CI93fMXdwE5nY=
+
+Name: html/gettingstarted/tutorial/images/project-explorer.png
+SHA-256-Digest: KA0dsZy0XVb4Hl03u0WF6LfZeRTxNE0kK+QQfUAUwbM=
+
+Name: html/concepts/images/ca_nonel_strings.png
+SHA-256-Digest: N5Id/+EkHEGqe9OQAMZ9nEsvzfWHeRdXtDrlzUFspEA=
+
+Name: html/gettingstarted/tutorial/images/ca-enum-lov.png
+SHA-256-Digest: xkvGEXh8Pl51dJVnegeE4Fsjxs69YTWPm9wI/aLuz+U=
+
+Name: html/gettingstarted/wpe/images/wpe_editor_selection.png
+SHA-256-Digest: 1UYaOy9S9vJwQF4carsRZMXbGKTMA6YpV7JKWLZU4rs=
+
+Name: html/concepts/jsf_app_config_mgr.html
+SHA-256-Digest: zFoLwCfxuOWFt0TKHVRy9nXGuRyc8qSeJQoNq4Jb++A=
+
+Name: about.html
+SHA-256-Digest: +pmnMJtlEMmOHF99lf8FOa77WWchROX+jPWplLr0OvU=
+
+Name: html/reference/images/jsf_library_jeemodule.png
+SHA-256-Digest: 7W2luFVsqHJE5MhhBeAPeRFJasEaawrvSw0Ofoxdb5Y=
+
+Name: html/gettingstarted/tutorial/images/validate-action-attribute.pn
+ g
+SHA-256-Digest: S/QaebNp3mbommu0IgOJjILAzHO19Y9FbthyhNNqS+8=
+
+Name: html/reference/images/jsf_validate_library,png.png
+SHA-256-Digest: a2KWxvjV3wad4/opNV91nm9iGhaVhVzWCg6W3o5plbo=
+
+Name: images/whats_new/1_0/Fig6.png
+SHA-256-Digest: +xhfvpphHwCAQffFSCj2Wnm7w0kE5IxyErqxnsSOsAk=
+
+Name: images/whats_new/3_2/jsf-download-library_20.png
+SHA-256-Digest: 6o8Kk1o4tVXtQhGUfh0zal2r5lPFon3uj0DPmQGwWsE=
+
+Name: html/gettingstarted/tutorial/images/jsp-page.png
+SHA-256-Digest: 0wB/ewvpNS2y4J4pvaboe9+MAU5+atDdAUuIonwBkrk=
+
+Name: html/tasks/images/dotbox.gif
+SHA-256-Digest: WAoPBv46gHpiKzz+gVygRUdz9qM8vazoNIcNmfUQ4hU=
+
+Name: html/tasks/facesconfig_ui/add_renderkit.html
+SHA-256-Digest: ahVEBpEduV2FXfpiSFQ1oOQklWSnzaWu7svppR/nYAw=
+
+Name: html/tasks/facesconfig_ui/add_locale_config.html
+SHA-256-Digest: a1v0ZlpG/gH6VFcebJE7JMRMKapCM+Tt3Pof9yD+Zx4=
+
+Name: html/tasks/facesconfig_ui/add_validator.html
+SHA-256-Digest: 1fhv3Mqi8M5rv0JZ8zrx1fMUG5cF89mt1kBZmvIFe64=
+
+Name: images/ngrelt.png
+SHA-256-Digest: eYWhuXZxGjWO+qycdS8MaizSY+3ZwWa11s7W0uV57+I=
+

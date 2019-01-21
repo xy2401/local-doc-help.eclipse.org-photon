@@ -1,0 +1,770 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.bpmn2.modeler.help;singleton:=true
+Built-By: genie.bpmn2
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.he
+ lp
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Export-Package: org.eclipse.bpmn2.modeler.help
+Bundle-Name: %pluginName
+Bundle-Version: 1.5.0.Final-v20180515-1642-B1
+Bundle-Localization: plugin
+Bundle-Activator: org.eclipse.bpmn2.modeler.help.Activator
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image025.png
+SHA-256-Digest: eXLUEnKvrKtmlgHLtzOliKB/GklwQ9vbIufkhTeIteQ=
+
+Name: html/PROPERTY VIEW_files/image005.jpg
+SHA-256-Digest: 2sSj7tr5hXnkS7YMkEvIYaEX5/LukUxVIsed6tv1wyM=
+
+Name: plugin.xml
+SHA-256-Digest: ZhCaOdzgxdzCJxOxPvz5t53YM+8t3Rsg3JDFmnq3u2M=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image033.png
+SHA-256-Digest: SQQkehH8Kd7egrAUwHqpZ6V8TPyfUVFWTEaptV99TN8=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image017.png
+SHA-256-Digest: MGVy1DaqnH+bD6ySXx73n/K++NxNC8swovzfU7jsozw=
+
+Name: html/GRAPHICAL EDITING_files/image005.jpg
+SHA-256-Digest: Q5CFYrM4P/lPzU7P/URUFAGzdG7nhJniJpBoPDDvTyI=
+
+Name: html/POPUP DIALOGS_files/image007.jpg
+SHA-256-Digest: MQqTjcKNNgejT+W/8v0Dy0bVsrh1L+HyW7WKv5AF+L0=
+
+Name: html/PROPERTY VIEW_files/image013.jpg
+SHA-256-Digest: pohKMhJR33EIakt4fW4QJtW2Q2zdh3KyVbi/3zjtVhM=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image041.png
+SHA-256-Digest: I37npIXyzm9/XMGGH/ClViGO9hL+GinqHcNl31yfDHg=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image009.png
+SHA-256-Digest: Xjoeb8oym5iNLhPGTRPLcn0w2tBv7t4Cv93IX3vPRcE=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image007.jpg
+SHA-256-Digest: 2DY5j4F951tcXX+ms+okq4/N7xvKKtjEdlmt9Bx8+TM=
+
+Name: html/USER PREFERENCES_files/image005.jpg
+SHA-256-Digest: kS50WLZ01TkDiCsEOhK+578Or/Ymvqzb8iEJZeGF3fo=
+
+Name: html/USER PREFERENCES_files/image013.jpg
+SHA-256-Digest: oKMJP3lFRn8f4EsmTApmr7IjPN5FJrdhEk2xBrh6tX4=
+
+Name: html/PROPERTY VIEW_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/FIGURES AND TABLES_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/PROPERTY VIEW_files/image064.jpg
+SHA-256-Digest: iC4ZqTJvtfhAYZodl1X9s2il0tUB0njyLCH/v7Ja9MI=
+
+Name: html/PROPERTY VIEW_files/image021.jpg
+SHA-256-Digest: cSSRTOrSIjBjp7MLyxVf3Od2d+qKruNOFca7zkaAToc=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image013.jpg
+SHA-256-Digest: tsuypmoBLyBxB4AdvaujsU63h0Cl6nb97TRguGOTrws=
+
+Name: html/POPUP DIALOGS_files/image015.jpg
+SHA-256-Digest: ClZkCenbF838etySi4/Uye7+kry88k9R88D1qHn+WRY=
+
+Name: html/PROPERTY VIEW_files/image068.png
+SHA-256-Digest: Nn7YrLdpQ/86A+edVbcTUJOl+KtRbrq9IN5YWzv6xTY=
+
+Name: html/GRAPHICAL EDITING_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image006.jpg
+SHA-256-Digest: HG3Dfku20p6GSa8+2gYl59QkWX19RfS1lOXDunoU7Jg=
+
+Name: html/GRAPHICAL EDITING_files/image025.png
+SHA-256-Digest: 7t2/oPoc+wt1y69x8mRR9P/coZB0M456asd+Lt/faA4=
+
+Name: html/USER PREFERENCES_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/PROPERTY VIEW_files/image033.jpg
+SHA-256-Digest: pZFGEOzxETVk0WOQoRoyf7ldLsSBu5aXzeSUACEJYpE=
+
+Name: html/INTRODUCTION_files/image004.jpg
+SHA-256-Digest: I3aDW7iLx3LaFPQzKNMTfPjBharHyrAndj6de1aRJF4=
+
+Name: html/PROPERTY VIEW_files/image028.jpg
+SHA-256-Digest: qhV+1PwoTjfp8Jz8aR53XO1mwgeIiGP3wm2iMNYs42k=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image045.png
+SHA-256-Digest: akLd5KzCOrPe0y8vF18nuIBdZQPsL8xSrqtQ2YsmtYA=
+
+Name: html/BPMN2 NEW FILE WIZARDS_files/image007.jpg
+SHA-256-Digest: xp6Lz1iLTJUIFeJtXPSgdha4j6hmtWUOMrpLbmEY4vc=
+
+Name: html/GRAPHICAL EDITING_files/image009.png
+SHA-256-Digest: hzgApX9XUzfTnElLyrKnsdI88Dd/tL1Dg0zG92YsCyQ=
+
+Name: html/PROPERTY VIEW_files/image053.png
+SHA-256-Digest: ZGhkX3CCx3JOkvl7vQcaAvSs266y1bsAkkHHFODEL8s=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image003.jpg
+SHA-256-Digest: unYm6uca0My8ngCV142PpxzoQQ3YnXAZy+f9lIwMjbU=
+
+Name: html/OUTLINE VIEW_files/image007.jpg
+SHA-256-Digest: zs1DBa4tACAtPHBfJjLmVbBcJQiWcnNTx6b03epr0oM=
+
+Name: html/OUTLINE VIEW_files/image008.jpg
+SHA-256-Digest: TSM1JK5a9XyMRPbu3z+68WmV66k+XN1WTjbgigISq0I=
+
+Name: html/PROPERTY VIEW_files/image056.png
+SHA-256-Digest: 3iCFryPi8/u7/sD+qDxFMHDJp+CIeW/yyUVVWq3+SVc=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image011.jpg
+SHA-256-Digest: bT0sHpnmsjA8jGReVZ7XctbLtJLfws6RtaAZIwrlEmE=
+
+Name: pom.xml
+SHA-256-Digest: GlTX9i5uXU5XKQ9MxQS4B5dD6oSq1ISEZMgIkaxMVzs=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image037.png
+SHA-256-Digest: pah+bZCaqWkX4W3uSgjKU7ug7vYSouBZGcUVzMYatp8=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image010.jpg
+SHA-256-Digest: oz8ZC57NOJhzeHBO3KRiAf6kuornjhHb+rIA8byp/DE=
+
+Name: html/OUTLINE VIEW_files/image004.png
+SHA-256-Digest: eII6Rhl7r+JlRbwSFVS8zdwGrbzJe5aBhmbPZnYKQe4=
+
+Name: html/PROPERTY VIEW_files/image061.jpg
+SHA-256-Digest: wg2QSwKCLEOVPSvP+zrRVFgiWvzHbJrA7xVVz5fnV6o=
+
+Name: html/PROPERTY VIEW_files/image017.jpg
+SHA-256-Digest: HKfolU0MZ2+iUR34Bm9UMgP6zzE0paV18zQvkfpvhuE=
+
+Name: html/GRAPHICAL EDITING_files/image021.png
+SHA-256-Digest: 4Az4TmEjM393Nkufqna01bRHJoZtK9DR8aZbUYVaKgk=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image029.png
+SHA-256-Digest: x5Zk9iWJk9i3eF1RGmNyniB/j4LYN8i+lcT6zteNdNk=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image030.png
+SHA-256-Digest: YuRyZXI44h2Zr3RzOmW+Adrt/bTKE4k78J+89kNHldc=
+
+Name: html/PROPERTY VIEW_files/image025.jpg
+SHA-256-Digest: pckFNIugEsvN3EoKourPx2mbqxfZ23fNo+Cahv9BtLw=
+
+Name: html/POPUP DIALOGS_files/image011.jpg
+SHA-256-Digest: z4lOS8w5OfOM6EH9fIWgaFo4TcS2R15zE+zB2knaeLo=
+
+Name: html/PROPERTY VIEW_files/image008.jpg
+SHA-256-Digest: 2owMx87PyhMYJvR19IHY+lTJSjjww6JY1iOrNIIm7H8=
+
+Name: html/toc.html
+SHA-256-Digest: YpdQl/xQ8dSlIm+8QE6zUbrlARAgJoW5xTZUuXHg55A=
+
+Name: html/GRAPHICAL EDITING_files/image017.png
+SHA-256-Digest: NksqWB6UeBL2oz+2q+jOSVt/nQ4ccyXsUgtHDJFKRXc=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image022.png
+SHA-256-Digest: UuuB1XkCNZP53IAuc4yEFtC5KM8mpNUamgg7SYg7sUk=
+
+Name: html/PROPERTY VIEW_files/image036.jpg
+SHA-256-Digest: enwmgwpvACPXrzqE08/ANBCudSFeaH4ktj8sgFDPc1A=
+
+Name: html/BPMN2 NEW FILE WIZARDS.htm
+SHA-256-Digest: 0yYDLlwTfmRz9Uk139brDhsEPIGXeNgguGxNSVnek5Y=
+
+Name: html/PROPERTY VIEW_files/image045.png
+SHA-256-Digest: 51cTJai6iSBSkUPOMJV8TczB0KxqY5FoNUD38l8XNkw=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image005.png
+SHA-256-Digest: reC9xet/4VnHB2mjSgpPEaNSwZofX35LJJ4gxMsVS8U=
+
+Name: html/GRAPHICAL EDITING_files/image010.png
+SHA-256-Digest: 0YLiFpPIS0ZMGPD5pVxJO2snHZmkaw+C7txmps2gAqM=
+
+Name: html/PROPERTY VIEW_files/image010.jpg
+SHA-256-Digest: RHWlfnUvt+Jfhq6/PHMc1vRUg3YoXaETLrfIjZrs0HE=
+
+Name: html/OUTLINE VIEW_files/image003.jpg
+SHA-256-Digest: qeVXhIAAm1CtQh1euk3qKlmMyMmEkqhstA6fyP/vG44=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/CollaborationDiagramType
+ .png
+SHA-256-Digest: 4JJCAZx1zR1QAghh5fJT6vx7fqvbrK/bVmr5ynw1Hlc=
+
+Name: html/PROPERTY VIEW_files/image030.jpg
+SHA-256-Digest: 6WWWW4ZmxTYL0E5ah+QQoWRY5hqslvyDqUydFguNhfs=
+
+Name: html/USER PREFERENCES_files/image006.jpg
+SHA-256-Digest: uac4oPBq/Lh7flUnDa0aga6dMYTbcLQQEBzzVtVjUlg=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image008.jpg
+SHA-256-Digest: NDdglf4u7tnPJDESdgcqws3cZS3LE8LO8banGZmRHOc=
+
+Name: html/PROPERTY VIEW_files/image039.jpg
+SHA-256-Digest: f7roedSAl/u8/Z1AEfYUy95Ei9Svirb0DcSNPMYw/9U=
+
+Name: html/POPUP DIALOGS_files/image016.jpg
+SHA-256-Digest: rbq7OBcpLqCOX7tTBYaqIvVJ3B2X4WTvOJ+0Xi73oHM=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image024.png
+SHA-256-Digest: PpTbTLppLNHYQRPjFEdSHwMcO9zofDHqb1e4Zr6auHM=
+
+Name: html/PROPERTY VIEW_files/image052.png
+SHA-256-Digest: 3V5fM37b06r8bgomgyBB7xm/ewPEEpPA/j+3iOFuyhE=
+
+Name: html/POPUP DIALOGS_files/image006.jpg
+SHA-256-Digest: 6SYx9eLNz+05O+YI4VYQb3dQQ1+IDoGozmML4fDpdPk=
+
+Name: context.xml
+SHA-256-Digest: iAvV0LFQvSNFL7pKO6HMFUUtB5e2kYXSscj3mrL1Fh8=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image016.png
+SHA-256-Digest: Jr0J9/Vhl9WCBErAOZGDcPzabwtZXSds+Rn9osCRQ2w=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image034.png
+SHA-256-Digest: 5U4K9C36+fBk/mL8iDqpBisPZ8/tprUluHrqsq04RLY=
+
+Name: html/PROPERTY VIEW_files/image029.jpg
+SHA-256-Digest: V8xOFOW2cOzVBggjanaTzTJqLm0a04Y9fHJbzJ/dOhM=
+
+Name: html/USER PREFERENCES_files/image012.jpg
+SHA-256-Digest: QLycG7mC+bgNgXBv3YVD3rP68Hdq+YaUgZVJ/QoVlys=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image028.png
+SHA-256-Digest: nTyQdMNbi6BfoR+TwmQu7r9j4C68Lvd7HtBTHlA9SHY=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image005.jpg
+SHA-256-Digest: BhJYxiK0LEm7hbbEvioreuDmU4LTVvrld1R3IaCkdV8=
+
+Name: html/GRAPHICAL EDITING_files/image008.png
+SHA-256-Digest: wWBnCjWA3T98gm5b1WgLaniVF7Uphv9W7wL1AqKsXLY=
+
+Name: html/PROPERTY VIEW_files/image020.jpg
+SHA-256-Digest: SSkCOp21xFsXzCK27nAV78o1oasTO72TQ1f2fWuhQDE=
+
+Name: html/BPMN2 NEW FILE WIZARDS_files/image006.jpg
+SHA-256-Digest: OaZxDz/qejJkKAtsaGf/uQwfDBmjcgb4Z6J66uORwRI=
+
+Name: html/PROPERTY VIEW_files/image067.png
+SHA-256-Digest: bqc7+CQsJBvUZdSuu5gm1bsdqlggsRO2fT+JJ44XaOg=
+
+Name: html/GRAPHICAL EDITING_files/image013.png
+SHA-256-Digest: WvoJHiLgSN40XhLwH5tANUdjKQTmtYhOnks3Rg2Vrno=
+
+Name: html/PROPERTY VIEW_files/image070.png
+SHA-256-Digest: gVdkFpNPa5uKi7K5A0Koe7Du3n3EtX7z6XNvmuVnPsk=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image004.jpg
+SHA-256-Digest: kUqGvIkOg0JZBhF+mjdf76pCwbBwaYOHUFnCtuxDR70=
+
+Name: html/GRAPHICAL EDITING.htm
+SHA-256-Digest: MKyReF+CY5CI+DLLBjJF+/ZJP2DFvR7kUXoWIM426Xo=
+
+Name: html/GRAPHICAL EDITING_files/image006.jpg
+SHA-256-Digest: WCGpt24a1TJM3j/H8e/qIcx69FSPocUJTniDPkAzQIM=
+
+Name: html/PROPERTY VIEW_files/image014.jpg
+SHA-256-Digest: fEs/5ArfvyfOTbztaTrDT4wXzl2CMXKxVUrPlInfJVQ=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image006.jpg
+SHA-256-Digest: yOuYSsEJ2uYEqgTmHaU2ZA4zKZ7c2USHVscwbH0diQA=
+
+Name: html/PROPERTY VIEW_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image003.jpg
+SHA-256-Digest: /k9+BzPbzV9ps8PP2UOo3UAuG/JZMDSQJKB4MYEZISE=
+
+Name: html/MsoStyles-modified.css
+SHA-256-Digest: W2EVfPPOl+lqyUXUhBEzHXRkGiLBuJIIQjQyBNe3MSA=
+
+Name: html/PROPERTY VIEW_files/image018.jpg
+SHA-256-Digest: xeYsTpWy+Q0Q4ihDVGhQIVGBo2n6KUF1qG5di5Dobdc=
+
+Name: html/GRAPHICAL EDITING_files/image014.png
+SHA-256-Digest: s5ZkqJwVESeuGffGfFJgzoddBm4y/9TS5LIuB/GJQ98=
+
+Name: html/PROPERTY VIEW_files/image057.png
+SHA-256-Digest: VX3nfhVOJxK9nX10k9tjHx/FQ9mQsSnu8eneaC8zwoY=
+
+Name: html/PROPERTY VIEW_files/image035.jpg
+SHA-256-Digest: 7dmGEEo+J472YJcgmoADQw33F9hKoXvOS9SbGyFukz8=
+
+Name: html/POPUP DIALOGS_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image010.jpg
+SHA-256-Digest: 5q5Ae9Z/GkDKhm3MJ12kGdxQONCzJzG2CsTcuSbgHfg=
+
+Name: html/GRAPHICAL EDITING_files/image024.png
+SHA-256-Digest: fwqG2EzoqbSpUe7A5Aa0lGNSgdvdHRnO5M7hE555nj4=
+
+Name: html/OUTLINE VIEW_files/image009.jpg
+SHA-256-Digest: SVPYejVknca3L0fHbGJzM3MjfsFisLzZPkxQaB7o6po=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image012.png
+SHA-256-Digest: Hwc6dPF1Fy2SaD++Gl76DhRv56KNPf8QWXhJ6bP+ZXM=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image038.png
+SHA-256-Digest: BP3DZIKactBQBAMrSbqqLkooDkroK85y2iT4RJbsbNA=
+
+Name: html/OUTLINE VIEW.htm
+SHA-256-Digest: UbPy6eIa4FTG6DGDCHx0wXv6KNp4/ENAsP9Uam31TL8=
+
+Name: html/BPMN2 NEW FILE WIZARDS_files/image005.jpg
+SHA-256-Digest: Lu5Rkl0qvp5gwvNfTqgvpewsc/O36SIo/kalu47RXDQ=
+
+Name: html/PROPERTY VIEW_files/image024.jpg
+SHA-256-Digest: PKX2TR++9bbXHBYA6Uer0xyckCUEw1QGMZ3s+gI9z2Y=
+
+Name: html/PROPERTY VIEW_files/image063.png
+SHA-256-Digest: TV/OIIQxxz7Mopm0EVAMSi1zNZ+25+H0BBpeei2w3Kw=
+
+Name: html/PROPERTY VIEW_files/image041.jpg
+SHA-256-Digest: nPHyKCPi3I7hDOgpHdjn9D8/NKHb1aH1k8yqNvIM900=
+
+Name: html/PROPERTY VIEW_files/image046.png
+SHA-256-Digest: VJLrFMqJSQ6/hD++tOU3jZOkmKGrJAcPoGk5FmYnf5I=
+
+Name: html/OUTLINE VIEW_files/image005.png
+SHA-256-Digest: EnZIuNFrGKCorX4huphip/NJS+5W0Ph4YVZiNZXabNQ=
+
+Name: html/INTRODUCTION_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image044.jpg
+SHA-256-Digest: PkM+9rK853XSUcPMxZXUf78U31zkfvgM+g5lA+VQT+Q=
+
+Name: META-INF/maven/org.eclipse.bpmn2.modeler.plugins/org.eclipse.bpm
+ n2.modeler.help/pom.properties
+SHA-256-Digest: 3YmcmE2aVa3KBoN+qpNMFE/CHUxbp3T8j50fT/V19hc=
+
+Name: html/POPUP DIALOGS_files/image012.jpg
+SHA-256-Digest: bLQMDMyASUfiKErGninVUEPxWwYUHh03vRPKXLr/5mU=
+
+Name: html/PROPERTY VIEW_files/image007.jpg
+SHA-256-Digest: ErQbvP5Is9GohL9O7tWupj6kVeeMC6TlFFUi+zVqmVs=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image009.jpg
+SHA-256-Digest: va2t+9w3n3qQwvBJ86NJZRYio0nZ/aaldygTw7rXnms=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image040.png
+SHA-256-Digest: nFRnQMWMQFUBPRyG+A+yAYOA6Jr7jNIUf+ud54UiEnE=
+
+Name: html/GRAPHICAL EDITING_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/USER PREFERENCES_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/GRAPHICAL EDITING_files/image018.png
+SHA-256-Digest: Hetk/zKCbIDmSX/uPmMC7SPxwTAK0PeRIdsTZk9PwEQ=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image023.png
+SHA-256-Digest: wD/kpbdQinJErqPzPFzs/ivqwG4mzXMMz7GoxW1dL5E=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image046.jpg
+SHA-256-Digest: xLJ9pJx7gltV/y921YDJrgoES8JYXILVuLlVNMr7/Do=
+
+Name: html/OUTLINE VIEW_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/OUTLINE VIEW_files/image010.jpg
+SHA-256-Digest: NVOnsiQf7t0b1wrrkLUyOsDZ3Al3RewiyVeCbnK3Zgg=
+
+Name: html/IMPORTING BPMN2 FILES_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/PROPERTY VIEW_files/image043.png
+SHA-256-Digest: dqIesUhZxt3JPplEw2maTIZdi0Kzr3tbobviPdZ2Su4=
+
+Name: html/PROPERTY VIEW_files/image031.jpg
+SHA-256-Digest: 58DRJjwEzAEsU37V4Lq9XciuGuYuufhXiAoHOYEqmAI=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image003.jpg
+SHA-256-Digest: 64DF7hdfxwt4mg10AjcyNQbrOsd6zeNk2HmLObEonsY=
+
+Name: html/GRAPHICAL EDITING_files/image019.png
+SHA-256-Digest: l6l/EXmTi6QsqFfGtPPUWKWxw9uMa8T4gw04DC0U21Q=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image009.jpg
+SHA-256-Digest: Z1Tbr6JBAgW6Jv2I098wXJ8mrhcqwXyHAUDEW7RSjII=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image043.png
+SHA-256-Digest: X95LDR3VGVyYo32DolK7fXg7iOSIblAHA1l0XOuPRhY=
+
+Name: html/USER PREFERENCES.htm
+SHA-256-Digest: huyzNOPMbvqi4huaA8WXuc8ZAQFBzvr5kDk7vdRbl8U=
+
+Name: org/eclipse/bpmn2/modeler/help/Activator.class
+SHA-256-Digest: iN0aOBlCHl2oBzG6SST87D52Czc/TOJcQUSm6lzn3dA=
+
+Name: html/PROPERTY VIEW_files/image051.png
+SHA-256-Digest: U5V+alzDXvM7cOvG1/dCqwRh4QCjvGkklV25C1dBTt0=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image031.png
+SHA-256-Digest: Q3GtTAhqsdtSDDRK9CSRhaYOUpyU1snFtvLD4s3R/WE=
+
+Name: html/GRAPHICAL EDITING_files/image020.png
+SHA-256-Digest: +jctf/xQ8sqElMg6R1NPP8uJMdQ1JWLrUaPnKr5+zco=
+
+Name: html/PROPERTY VIEW_files/image062.jpg
+SHA-256-Digest: YUNPIHcTgzPUndac5cGuaUbU1P+KUOl6XMusWZcmHTI=
+
+Name: html/GRAPHICAL EDITING_files/image012.png
+SHA-256-Digest: np1VSDGIjS0tk9ZgMHMDrh2tq9/oHTOIjfgiiBOftvE=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER.htm
+SHA-256-Digest: rPh3KwIlUSMuTsdc8b5eyCkWQBovqPbizEGQZM+CDQA=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/ProcessDiagramWithLanes.
+ jpg
+SHA-256-Digest: EmPrR+kX4wQgIa+FOoZkicGkB2akqKWcVx3EHeUsXQE=
+
+Name: html/PROPERTY VIEW_files/image071.png
+SHA-256-Digest: zn60qR92FpOYd/Y+V5teOtvPvMwdoqVFAukvb2FonM4=
+
+Name: html/GRAPHICAL EDITING_files/image007.jpg
+SHA-256-Digest: 2EvctxyhU46wk12ZR3H5cuAGKwNDY31R1Sp7a50HBV0=
+
+Name: html/POPUP DIALOGS_files/image005.jpg
+SHA-256-Digest: dn70Wa6YMjwyKo76bkqqHMngTUOo/Q1Q4tZENlwiZUE=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image005.jpg
+SHA-256-Digest: YgWJO21UObC7qsAM7B2DIeKRrJE/dUrlKyaDnJSI1tQ=
+
+Name: html/PROPERTY VIEW_files/image003.jpg
+SHA-256-Digest: 8c0zLjVhfRC9STK21KSh5M/2oIq+KwAZFCJOtrnmago=
+
+Name: html/USER PREFERENCES_files/image007.jpg
+SHA-256-Digest: AX8hX5NakFKOoNju85sL+CvpUl2dSG1etzUYXrAWNps=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image015.png
+SHA-256-Digest: IpO2EgyDCK6wHoRy1LBpT9Z2ONs4v7/H9NrUNWDwSNs=
+
+Name: html/USER PREFERENCES_files/image011.jpg
+SHA-256-Digest: 64ylvzCyICyJ2+iAGL+yr1ysUYN9g81l+DTdTnlYXYs=
+
+Name: toc.xml
+SHA-256-Digest: wmmaW8ZytypzyeYWwQB0NRVovjfsGFxDoidD2780hlA=
+
+Name: html/BPMN2 NEW FILE WIZARDS_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/PROPERTY VIEW_files/image015.jpg
+SHA-256-Digest: dfLVQTWp4IG0z9DMCiGhWXcCEJboiNPQRdGBEWFa1pA=
+
+Name: html/PROPERTY VIEW_files/image058.jpg
+SHA-256-Digest: ERGHZ9Jp58uol9ntbAsgi2iMTD7f+jftRSUp3ZGYAw4=
+
+Name: META-INF/maven/org.eclipse.bpmn2.modeler.plugins/org.eclipse.bpm
+ n2.modeler.help/pom.xml
+SHA-256-Digest: GlTX9i5uXU5XKQ9MxQS4B5dD6oSq1ISEZMgIkaxMVzs=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image027.png
+SHA-256-Digest: XsqLP7XhxFQa4IsOtFR5yMFA5enxPA+mbWEJjSURvNo=
+
+Name: html/POPUP DIALOGS_files/image017.jpg
+SHA-256-Digest: OZAwKPrHPHEtNSMM6KHcnovt4uffo7AgBJI8yXixjN0=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image004.jpg
+SHA-256-Digest: i0m8/qy/+PvycEx5saApQAKCm7+NpIxUlqjg3nLLFJg=
+
+Name: html/PROPERTY VIEW_files/image066.png
+SHA-256-Digest: 7vNDc1S+KXRypWzRbs/b3E8EtWk2W74ifV4QMluOq+c=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image020.png
+SHA-256-Digest: eWpuVsJPucoZaj2ajtbwHnj8tlIrjVwlKHYyUhmSVhI=
+
+Name: html/POPUP DIALOGS_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/GRAPHICAL EDITING_files/image023.png
+SHA-256-Digest: ocN2G1GCUwTlNhpUOBGWQhUSgCTLcIsemdj76106sKY=
+
+Name: html/PROPERTY VIEW_files/image027.jpg
+SHA-256-Digest: NlceRLaJHQK45zH8qxINpZvVNwi0snGxacT90qCmsJ8=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image011.png
+SHA-256-Digest: FXWLmBD23PTPwaQGrqlnd7j7mXPG6HpsRYpGyM02UCc=
+
+Name: html/GRAPHICAL EDITING_files/image015.png
+SHA-256-Digest: MZd4Q6P8pFLempaHrubRiwalvrfJwuPWoRKePOdXpZI=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image007.jpg
+SHA-256-Digest: qpzV4uHdHRO+td3CRQ0SXjMM5La9no1yKe4e8p2qH3s=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image039.png
+SHA-256-Digest: wgYQzVMzRs0866GKNioahVbSpDDUXJKWEQTWVM4kdko=
+
+Name: html/PROPERTY VIEW_files/image042.jpg
+SHA-256-Digest: WbJl0L0LDfXxHrez21YeVs1jpuzdmfExcEktBU08Zpw=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/ChoreographyDiagramType.
+ png
+SHA-256-Digest: Ior06WBgKxO2IsDPyISwslR7qKu7JW8MNgVVCE7alW4=
+
+Name: html/PROPERTY VIEW_files/image047.png
+SHA-256-Digest: rhHctZaRiA0MqX+NtkTspra7S5GgUNnIoVB9AIR8gqs=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/INTRODUCTION_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/PROPERTY VIEW_files/image034.jpg
+SHA-256-Digest: 9ggr8/F+Ptn93qMD4OcwzXbHtDwBWz46l43S27z2EFQ=
+
+Name: html/INTRODUCTION_files/image003.png
+SHA-256-Digest: wWBnCjWA3T98gm5b1WgLaniVF7Uphv9W7wL1AqKsXLY=
+
+Name: html/POPUP DIALOGS_files/image009.jpg
+SHA-256-Digest: lgq/gjGENRmJVi7xf6zrRk19kzATxZGxKlJ2uO4/AoY=
+
+Name: html/GRAPHICAL EDITING_files/image003.jpg
+SHA-256-Digest: ZHd6UDc8vz/B7mxg9Z3VToNEJq6eGte7TpRIKCHmeso=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image035.png
+SHA-256-Digest: FDJNE0H217yUXX14nNLO96dLUDVVoHX4hcU0tM+/6OE=
+
+Name: html/USER PREFERENCES_files/image003.jpg
+SHA-256-Digest: 8mm2OVjj+OTiAJp56i00KvCwzSNFbwtT/rBf0kJlbK4=
+
+Name: html/BPMN2 NEW FILE WIZARDS_files/image004.jpg
+SHA-256-Digest: 07lgbRxsBCo9rYZ7rMo+ePvMIW8ODqPwrC3VdOUMSyk=
+
+Name: html/PROPERTY VIEW_files/image023.jpg
+SHA-256-Digest: DFWicHQJyXIgKvDUY4xf+HWImMuWUHyk4AhH2KfXDIA=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image018.png
+SHA-256-Digest: MzQKUAv/s2iVJaNRkjiXd2iI02c1d1XYKR29lIMHM0A=
+
+Name: html/OUTLINE VIEW_files/image006.png
+SHA-256-Digest: 3DjIXM5pOOPf7qoLOpHOUhs3t7uBuR5MwZUTc9FyokY=
+
+Name: html/INTRODUCTION.htm
+SHA-256-Digest: 0xF78YS45XTUeA5v1pgi8dKTHpPIyizBcyhjXrFv7zc=
+
+Name: html/FIGURES AND TABLES_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/PROPERTY VIEW_files/image019.jpg
+SHA-256-Digest: njXYA0FX8im0YIFHzCpAAUvJzz8IOmX5awYY1tMuBmY=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image008.jpg
+SHA-256-Digest: wu6U/hIF6dh0+pMfhUNsYu0ZR5kR+cgfQ1+1iYTwwhc=
+
+Name: html/POPUP DIALOGS_files/image013.jpg
+SHA-256-Digest: miQ/uXmhBI1AaRA8/jtmHADRX7C0guN0M0utoCY5xLU=
+
+Name: html/PROPERTY VIEW_files/image006.jpg
+SHA-256-Digest: 2XtesgeA4nayTlClFGiEn8oSINH5cuAjM+uisYCT6Wo=
+
+Name: html/TARGET RUNTIME EXTENSIONS.htm
+SHA-256-Digest: lSu9cQCf4X0eWAVnYcQWhNqUBcQV6f1a8hTkjfvzbp0=
+
+Name: html/PROPERTY VIEW_files/image044.png
+SHA-256-Digest: /OiJyBA1yTSwMzALPCIDytOE34uNHjXFbrbvgfQ6RFE=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image042.png
+SHA-256-Digest: mt8Dvqaw0XpikCiXMHl+0zpPFZT2kU+NZ2Qd+ONmHqs=
+
+Name: html/IMPORTING BPMN2 FILES_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/BPMN2 NEW FILE WIZARDS_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/PROPERTY VIEW_files/image022.jpg
+SHA-256-Digest: nuDOftUhm1coDEgh02fkwyxxagsJugpK48FAuZcpNIg=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image007.jpg
+SHA-256-Digest: P9w7ou0FP/5Wu0T8YxX9UoxxidDBSM6la7L1i/kVBXA=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image004.jpg
+SHA-256-Digest: Hx3wCTm+woUF0Q1pNWFwfB7CpZ8a5s+3Ch6EvhZcMVk=
+
+Name: html/PROPERTY VIEW_files/image012.jpg
+SHA-256-Digest: f2Cn/A4i8DInKWRyb2kwsW4mclXkGYS9uSSRBj7Y/4A=
+
+Name: html/PROPERTY VIEW_files/image069.png
+SHA-256-Digest: 8mHl4+pM/hcMAUWHETG4L5s43KDsQ5Ud3eI672NeAyc=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image026.png
+SHA-256-Digest: /jMZVWIDhdiKfzy9NB7fxXYeL6QGdY21qn/1X+dpTe0=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image047.jpg
+SHA-256-Digest: INWimKyjvvNSMX9pjuOzMsXneMhWDWTR4wjBEYOZmTM=
+
+Name: html/GRAPHICAL EDITING_files/image011.png
+SHA-256-Digest: Hfe1JsryVwYySdBVtQcKIIk7pi+4MUFcpx4JHV5Rx1s=
+
+Name: html/GRAPHICAL EDITING_files/image004.jpg
+SHA-256-Digest: jDWut2/8OnbAJUGpxZSOSpvxp4VVvmcer8JTk/y1xuM=
+
+Name: plugin.properties
+SHA-256-Digest: yBf2TluZ4K8G8aAgDni15GbWdtvvEhqsEa34S7AQH0M=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image006.jpg
+SHA-256-Digest: mOFU56pi41A657p3PB1I4z7DnaM9J6JlRY+v+l/UvSU=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image008.png
+SHA-256-Digest: Niw8qEwvF8nVBbBdRsrCZou7CDed0+EHGyG0GwUiSnc=
+
+Name: html/PROPERTY VIEW_files/image004.jpg
+SHA-256-Digest: 6T3cYtZDmhyqhXQRH9j/X52KkK+RhSIGABK0TrA4PE8=
+
+Name: html/USER PREFERENCES_files/image008.jpg
+SHA-256-Digest: m+mA8Gteeed2O4Hl/2OFpfiDfVnMl+1FQugw27wo9FA=
+
+Name: html/USER PREFERENCES_files/image004.jpg
+SHA-256-Digest: XYtSB7wR9v1KZzb1VqzZEkA/O6JWEpPQykdrilEJlqY=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image014.png
+SHA-256-Digest: FljgpOThOqKPqZ+aogRG7Vvl5pwY1XIQs1xjV1e+8fo=
+
+Name: html/POPUP DIALOGS_files/image018.jpg
+SHA-256-Digest: Kk+vnDsw+B5R/arbHTpRo1WhM0vQs4I3fktW8KJdh7g=
+
+Name: html/PROPERTY VIEW_files/image016.jpg
+SHA-256-Digest: muusu+dxO7eC7VGsIkEr5gdDtuigvKHW4xUY0LM+Hq0=
+
+Name: html/PROPERTY VIEW_files/image059.jpg
+SHA-256-Digest: miQ/uXmhBI1AaRA8/jtmHADRX7C0guN0M0utoCY5xLU=
+
+Name: html/PROPERTY VIEW_files/image054.png
+SHA-256-Digest: PJIawAHn+d8zDBjp4Ovoj9ranC/m5n/9ovP7F/dm36Q=
+
+Name: html/PROPERTY VIEW_files/image040.png
+SHA-256-Digest: Vl5vTFzGO3CQDhe3iePSaAKJpQ+OqEkU3phhctlI1vo=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image032.png
+SHA-256-Digest: ZEF8YRz3O1FpP58QPIGttUngrsN6h7jAybiQLJexyQY=
+
+Name: html/OUTLINE VIEW_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/USER PREFERENCES_files/image010.jpg
+SHA-256-Digest: c1JQ3xpEvA3BYBSosTwLq/Imux2jrhhfOOhpAJGUTEA=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image019.jpg
+SHA-256-Digest: cCsj8+/PlkfA1Lb4ZYCsptVBq50e5NQfF860N9TKevA=
+
+Name: html/POPUP DIALOGS_files/image004.jpg
+SHA-256-Digest: L1PXWpkKPq8DJpCPfsVjGEdHo83XCTn5xACSqBac9+Y=
+
+Name: org/eclipse/bpmn2/modeler/help/IHelpContexts.class
+SHA-256-Digest: hMxTgNxneEUO/2Ip/dG6eNzo54FihYvJeRNbt3EASNo=
+
+Name: html/PROPERTY VIEW_files/image032.jpg
+SHA-256-Digest: O1VQ+8DO5JGBI5z9IsBea0hGIu0+mW5GDJ5Eknnuuyg=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE.htm
+SHA-256-Digest: XBeN8uDZyzihLZtDd3iyoZn/S+23DeKyYHGKiN8crK8=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/ConversationDiagramType.
+ png
+SHA-256-Digest: DzbIEyCWOU+/TwGGBcLJKWwsgYKA1wJmPHaOwZy8Eso=
+
+Name: html/TARGET RUNTIME EXTENSIONS_files/image001.gif
+SHA-256-Digest: q/4XqLF+Je8l/j74+F3IQ62wiPPq+wsw/hmL5twcJ/w=
+
+Name: html/PROPERTY VIEW_files/image049.png
+SHA-256-Digest: dT/cdwXhhF29qx8Gjcv9R9Js8sIydYuHFqtD7cgGsFw=
+
+Name: html/PROPERTY VIEW_files/image026.jpg
+SHA-256-Digest: y9UeJMxmwpMByYgoy8h2mL2L/C8qdC7Szuou+fLniFg=
+
+Name: html/PROPERTY VIEW_files/image048.png
+SHA-256-Digest: 6K3rl2ezp9bl4Cz1Pk+9PtQfHVFv8oSGLmkFQfkN4S0=
+
+Name: html/PROPERTY VIEW_files/image065.png
+SHA-256-Digest: 8kgJiEbJSBonDd+rTZB54m1Y+F0ci4GX6eRFwHPdCbk=
+
+Name: html/POPUP DIALOGS_files/image010.jpg
+SHA-256-Digest: Uwx/I4s20sBgFeR6GkdHaJzaGgXD/K0IFUGcvMK5mL0=
+
+Name: html/PROPERTY VIEW_files/image009.jpg
+SHA-256-Digest: lRR4EkVgnfZudCm/FC1VRFAjKLxrst1puUw0OCZy8ic=
+
+Name: html/POPUP DIALOGS_files/image003.jpg
+SHA-256-Digest: 2VKOw3c8aBMBptiMioKecGcmB5B+H0qDmPbBJO+dtZk=
+
+Name: html/PROPERTY VIEW.htm
+SHA-256-Digest: 3kZp/99WQOVZ4a7KHMGsyFgdkWLdwHK32vQyBAXB9Qc=
+
+Name: html/PROPERTY VIEW_files/image072.png
+SHA-256-Digest: a/ELjsSZZ64ATu/IG68JwKxXQHcOAVBh+aeL2lqJ1IM=
+
+Name: html/GRAPHICAL EDITING_files/image016.png
+SHA-256-Digest: bqmbVa2Ubm3vCgOFDMc2vapRt8+JMtL7SukoyHgqLjU=
+
+Name: html/IMPORTING BPMN2 FILES.htm
+SHA-256-Digest: rk3UufSurBwZa49jDVPUexbOT28JV/nphHM9txn+Mbk=
+
+Name: html/PROPERTY VIEW_files/image055.png
+SHA-256-Digest: oiRB0jjr3+goEgtdFLuDZNoceylNBVHB7A8ASN/ORyc=
+
+Name: html/ANATOMY OF THE BPMN2 MODELER_files/image002.jpg
+SHA-256-Digest: 8Ms2P0DgUkMEJFKP99DoJkQci2JgW0bCFgLJMtjuI3s=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image021.png
+SHA-256-Digest: Yur12seQB4J1NKvYrNptPVK+mu/tpbRywTUoQtnGNug=
+
+Name: html/PROPERTY VIEW_files/image060.jpg
+SHA-256-Digest: rahIX3uyp7cpkCl9g5GBDvZL7ESAZi54vIMqGl6SUes=
+
+Name: about.html
+SHA-256-Digest: a6obKWX5mSmwf4+Lh/xJjshn7wENLC9UzToKtBhCPew=
+
+Name: html/PROPERTY VIEW_files/image038.png
+SHA-256-Digest: hTdZ5okUs5NSLjoXPS0kz4yrMpcdKJIhYfSNVWS/q9s=
+
+Name: html/PROPERTY VIEW_files/image037.jpg
+SHA-256-Digest: vkuTJqjFmSw2JUe4skBe2EzIRGPAHC7Q2FXd9gdRDjo=
+
+Name: html/PROPERTY VIEW_files/image011.jpg
+SHA-256-Digest: F7XJQEdmFGQ4leenVfcTIilgYDFFFK8mAhpp9EHPDvU=
+
+Name: html/USER PREFERENCES_files/image009.jpg
+SHA-256-Digest: 5sKH2uVhLp/gCNoyouvbwBLKEy3nZ1z2hs4RF9qcNzg=
+
+Name: html/PROPERTY VIEW_files/image050.png
+SHA-256-Digest: QmDuBWpRlTqOyOaTKNCR7ryAJT721AYbaeo8CURsrpA=
+
+Name: html/POPUP DIALOGS_files/image014.jpg
+SHA-256-Digest: cVIyhbdJ25lATGBQ5zOvjDPDKLAbPnGqhwRZ72HWTXA=
+
+Name: html/FIGURES AND TABLES.htm
+SHA-256-Digest: oYkzp8O8BFDFyB+3c2f68s+AvYlmw+BKvx3KJ/YskQs=
+
+Name: html/POPUP DIALOGS_files/image008.jpg
+SHA-256-Digest: 0YC3B22rJXyIQysPBcmhV6wTMWRYnE3+2rBlRuWxl7g=
+
+Name: html/POPUP DIALOGS.htm
+SHA-256-Digest: k/pJpfHPq51T3WRaY7Phc5J2Uc4QucGucZG0d+8HwqU=
+
+Name: html/GRAPHICAL EDITING_files/image022.png
+SHA-256-Digest: iO3HZqe5cwikyqGIIxk2IASD07uCAoxY5LF7RKIsmU4=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image036.png
+SHA-256-Digest: 8qzatu8Os9JQpS3+Jxp59YQqP2vWTKxxrkUE2NzhUqY=
+
+Name: html/APPENDIX_ BPMN 2.0 REFERENCE_files/image010.png
+SHA-256-Digest: sydyozCyTy9NtBxFOx05vwjrKvnDWDw48ZVaKUNncu0=
+
+Name: html/BPMN2 NEW FILE WIZARDS_files/image003.jpg
+SHA-256-Digest: 30j8mxJI1xDwR9f3C/vvPL67FVf/8xdEdyYNQo03xzc=
+

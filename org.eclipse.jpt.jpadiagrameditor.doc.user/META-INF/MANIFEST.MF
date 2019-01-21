@@ -1,0 +1,109 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.jpt.jpadiagrameditor.doc.user; single
+ ton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 1.2.102.v201803012210
+Bundle-Localization: plugin
+Built-By: genie.webtools
+Require-Bundle: org.eclipse.help;bundle-version="[3.3.100,4.0.0)"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/dali/w
+ ebtools.dali.git;path="jpa_diagram_editor/plugins/org.eclipse.jpt.jpa
+ diagrameditor.doc.user";commitId=795496d1ae653954e615db2b20d6c24b6125
+ 9080
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: html/element_collection.html
+SHA-256-Digest: poca4rjb6CKLPDt4LBOyYPDtUUv44KJMjpAJeL5K1dc=
+
+Name: img/jpaeditor_embeddable.gif
+SHA-256-Digest: skQbp740RoM/2PzIePJSY514pu8cJhX2ZxMZETwURRQ=
+
+Name: plugin.xml
+SHA-256-Digest: 1Zc6Vi6oQGq/z4C0/kFoXUezXrqf3qpb6gyVygS02J4=
+
+Name: img/jpa_diagram_entity_operations.gif
+SHA-256-Digest: Nb0TZhk5eq5rNwu8J4nc5OdbyayHp2eM6NkUW/5aXp8=
+
+Name: html/reference_project_page.html
+SHA-256-Digest: FCqSrMz2sbEEjScC+6ZDWN0xpGqSIfsJDHUAkvbIx1E=
+
+Name: pom.xml
+SHA-256-Digest: eDa6l6KYXfBJSHNY3PKL6CwJA12Z25ZNgr8Std8XOlQ=
+
+Name: META-INF/maven/org.eclipse.webtools.dali/org.eclipse.jpt.jpadiag
+ rameditor.doc.user/pom.xml
+SHA-256-Digest: eDa6l6KYXfBJSHNY3PKL6CwJA12Z25ZNgr8Std8XOlQ=
+
+Name: img/jpa_diagram_editor.gif
+SHA-256-Digest: skAbJh9jaAbJlEVZoiYs0cAuGroVMtXUyWA56yGFpqk=
+
+Name: html/task_configuring_editor.html
+SHA-256-Digest: R1eV4h6WTDcDgT68PcNcbfQeslRMLoiJmFPC9rjHojM=
+
+Name: html/xml_entities.html
+SHA-256-Digest: H9Q2ICWd+rOrwtCHHIiXm4H/X4pu5sFP01jUbQXT2x4=
+
+Name: html/embeddable_relationships.html
+SHA-256-Digest: TY4DiyndzZhO03l2uZVxtNIUPK+Pv85//c4MWzh1smU=
+
+Name: img/jpaeditor_entity.gif
+SHA-256-Digest: cwYb9eTibA2TtfKlHJ1RUDuXYxQdOX+7V55nS9TWFc8=
+
+Name: html/task_manage_types.html
+SHA-256-Digest: u5c5c9Rt6/MpSHKEZUmxhzAwGY7WpewYieKDbNoFwfM=
+
+Name: plugin.properties
+SHA-256-Digest: Lal6TVdIrz2svqNSY/GYOKEpQ4Fg0uVzmxmKimqpEak=
+
+Name: html/task_refactor_entities.html
+SHA-256-Digest: EPE5mI4lB97zWm1uEqiDg49qVjLbbYl0KMR/pC5TMLo=
+
+Name: html/toc.html
+SHA-256-Digest: owztNpVcyA1xIGzvWnZwt2Xy4EWPvXzuT5D2avzE0YU=
+
+Name: img/jpa_diagram_delete_attribute.gif
+SHA-256-Digest: wfBV3TBq/59gDMrt1Vv0tFHTcSvnBXqTvfEIT/vkRME=
+
+Name: about.html
+SHA-256-Digest: 0atLK7SdXbPAOJmfC3gXJhwRznzvhKBUw536LH0zuDc=
+
+Name: html/derived_identifiers.html
+SHA-256-Digest: qjYqkc0LA+pPUlT0KbaFcYTVksT8nFqaH629Bfw9vtM=
+
+Name: html/entity_inheritance.html
+SHA-256-Digest: SypNbtSvrf7O7jWYzfXrslnQo0rG3q3Z0kfxYg56FqA=
+
+Name: html/task_remove_entities.html
+SHA-256-Digest: cRvKt0d1lJPzSlOTL3DdIzjUbdpfnDIXZaK1J+sfGUQ=
+
+Name: img/jpaeditor_mapped_superclass.gif
+SHA-256-Digest: u6bzv+lEeHJWr/hbh7sFBbAQ6fhCVqfV0VcvCUxvVVo=
+
+Name: META-INF/maven/org.eclipse.webtools.dali/org.eclipse.jpt.jpadiag
+ rameditor.doc.user/pom.properties
+SHA-256-Digest: QCrMTe+yYtosVdy8uITswDjPi8Z9OAIt4Ou9dcabRMQ=
+
+Name: img/jpa_miniature_view.gif
+SHA-256-Digest: clQcn+E/v84wieE79v5tN9NKFLP37kBzsVvUf0DoCRw=
+
+Name: html/embeddables.html
+SHA-256-Digest: JEs5U0yZY+5mGjZfeLEsDfIPHbSeLV4AlGhC2r2gnQ8=
+
+Name: html/task_open_diagram.html
+SHA-256-Digest: tNKvMZHexgNMp+SP3PSaLPwwvPxmx95yFNJpGBpM0Bc=
+
+Name: toc.xml
+SHA-256-Digest: ZNLn1KmQVJ/3Ha+oJnYbKu4gfMNVzHsBwFlUR2cVgxE=
+
+Name: html/task_open_miniature_view.html
+SHA-256-Digest: DGNFky0WqXAM1qLUBpH1cmuURc0jkW2ADmxl7veWIa4=
+
+Name: html/task_20_support.html
+SHA-256-Digest: X9JcuobbTGyXtzzQiHhrcKRzYumfZcQ3Hn7sBTCCIhQ=
+
+Name: html/getting_started.html
+SHA-256-Digest: y5+4lvfV6XVmbzF3GKwDG4ZNC70d0iD7KRd7OCSxJPg=
+

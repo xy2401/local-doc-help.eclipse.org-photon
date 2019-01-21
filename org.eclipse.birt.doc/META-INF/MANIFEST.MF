@@ -1,0 +1,1566 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.birt.doc; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.birt
+Require-Bundle: org.eclipse.help;bundle-version="[3.2.0,4.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-SourceReferences: scm:git:https://github.com/eclipse/birt.git;
+ path="docs/org.eclipse.birt.doc";commitId=909d8fc3bc76a6787b1d0b4a2c5
+ dfb578950a875
+Bundle-Vendor: Eclipse BIRT Project
+Eclipse-LazyStart: true
+Bundle-Name: BIRT Documentation
+Bundle-Version: 4.7.0.v201706222054
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_121
+
+Name: birt/ct-TutT2BuildADataSource.html
+SHA-256-Digest: T3OEm4bpBIkrfBtmA7GhjE+P571S+XmKKMlxVa7Nl1A=
+
+Name: birt/images/CH_GradientEditor.png
+SHA-256-Digest: VLG5c/8jD0o+V8+Jc05rR3K9he2Mniydrak+cYH7EUE=
+
+Name: birt/lib-HowToPublishATemplate.html
+SHA-256-Digest: y3FAjyOVtW2LhNdyXRMMWtD8Bg4PEUzrnPfONxi7k2k=
+
+Name: birt/loc-HowToAssignAnExistingResourceKeyToALabel.html
+SHA-256-Digest: sWmlEv+ZuW4VEnFvnGVQyd/KBMAIQbdiVX0Lzl3TP2o=
+
+Name: birt/bd-BindingData.html
+SHA-256-Digest: 11Qu8QAdiwykbSQ8Z66eLJOnkd8VLzh64GBTGrGI03g=
+
+Name: birt/css/ScriptingWithJavaScript.css
+SHA-256-Digest: T1hZtAkxM/+jnHFyj9tQHH/cRS86SCjzzdG1gFB4g+k=
+
+Name: birt/images/prop_editor_table.png
+SHA-256-Digest: sCfFgHKO9hKRcilHczmck6Yu0w5mblgwfCbT7OseUH0=
+
+Name: birt/sg-SortingAndGroupingData.html
+SHA-256-Digest: eqxU2RrhBAlwCO+wfV2/vp5QAuYZmzEI8enkJSNAluM=
+
+Name: birt/images/data_set_view_tables.png
+SHA-256-Digest: Y5dDtqmiDwVlm5iHWFOvNcw7WjNMx9C2gFFX0B90Q3I=
+
+Name: birt/con-HowToSpecifyConnectionInformationForCassandraDataSource
+ .html
+SHA-256-Digest: nNp6DNjftJIXJ1VQ6DO8I61j+5Ve/awcmtjBdxNgRPw=
+
+Name: birt/ch-TutT1QueryTheDataSource.html
+SHA-256-Digest: 6tUfI+uYeGNt75WEXCi1kwXmxYgKLGVwRKP/2dOaIgE=
+
+Name: birt/sub-SubreportsTutorialIntro.html
+SHA-256-Digest: WRsF0i/zK5uoB0K/o8zoTjDF6Td5A8rpjCpar9PY7Ko=
+
+Name: birt/css/ChartBasics.css
+SHA-256-Digest: ikvOGLVIzs1F4VW0VoxKTKsB7FmIynXpAxfPVl2vLl8=
+
+Name: birt/ScriptingWithJavaScript.22.07.html
+SHA-256-Digest: yeBVkFh4erlHkIhH+i1eV715BbU+piyNJfgc6zKA6Cs=
+
+Name: birt/images/dsparambindingupdated.png
+SHA-256-Digest: 8m4goK0iti8YmUi6jcjnQFFspPujBZACkXw/F6+B93g=
+
+Name: birt/fm-HowToSpecifyARowHeight.html
+SHA-256-Digest: WC9KZnIQHYFZbSixLuKwKlWwjCGop6SWP/ANplOaFYc=
+
+Name: birt/images/newrptparam_big.png
+SHA-256-Digest: d33wKky7w31cZZfqc4Pg7u3Wxiq5nAoKdkQj+M3h9e0=
+
+Name: birt/iv-HowToCreateAHyperlinkToLinkTwoSections.html
+SHA-256-Digest: GS6oFXIg0PQBMvslKdHGJkhDrKxyy4BN5VxjxBdxegI=
+
+Name: birt/images/bold_button.png
+SHA-256-Digest: TfXVCNhcsuZ0KxjstC88BznOt9MlR7dHi7inIYOh1ls=
+
+Name: birt/images/hyperopt2.png
+SHA-256-Digest: xC5xRBEnoSGyVsINbLlLcSfGNR3PvoC44uKfYQ85IcA=
+
+Name: birt/toc.html
+SHA-256-Digest: SeTJLbUELHuN3Yu+6KohsyfH7pAKBcFcsx4mWuUNWNg=
+
+Name: birt/ScriptingReference.24.4.html
+SHA-256-Digest: QdZjo9wzX5WB65WovT7/1hZGJilGlWjqiv8AfGSrI4s=
+
+Name: birt/UsingScripting.21.1.html
+SHA-256-Digest: SXzb+guwFBhevM6iHhnYKqR2VA14Jwpgdv3a5UvYo2E=
+
+Name: birt/images/CH_Preferences.png
+SHA-256-Digest: 2iQSlVHALoN2ItEp7gdLVoJ46eaBE4epAq4cYAusMSc=
+
+Name: birt/images/Cass-Open.png
+SHA-256-Digest: vjvydeH55ZyRrQG6kTpWtALYlHcrO/mOPF1kEfBIm/M=
+
+Name: birt/images/ChartBasics.13.6.1.png
+SHA-256-Digest: HPhf/syNRM8XmjGbNRB7pYrdNeobuv8MUBfHQUVJl3k=
+
+Name: birt/images/grpt_agg_grp.png
+SHA-256-Digest: +Tn9YYXg8DaRdqRMmqiu7PpbDvOLDobeswaI6WV+Kko=
+
+Name: birt/images/grpt_output7.png
+SHA-256-Digest: SWDTraZ7elXWA6YLo8u0WCIPjXSH20ExyQw1iBbFt2Q=
+
+Name: birt/images/grpt_output8b.png
+SHA-256-Digest: fxqOWkGIWyzmRjwxlYR2gBw4nXKG6qHAh+uTT99xBfQ=
+
+Name: birt/images/tablefilter_03.png
+SHA-256-Digest: rPUejSiOydn7bkM9NnmNcmpuycAmkzS1oYexhqPdCcY=
+
+Name: birt/ds-HowToViewAndChangeOutputColumns.html
+SHA-256-Digest: IYrphVN+vBvx1U1I6Kt3NYR91nGVBgopObnZi/zkvV4=
+
+Name: birt/ct-TutT1CreateANewReport.html
+SHA-256-Digest: MS09ijW1JR1O4aasGCH7XPrXZ8NBLJUcrgDgCcfNhUE=
+
+Name: birt/images/grouping.07.11.2.png
+SHA-256-Digest: GjLIvhhU9gDtmdRyn5dUK3LD9u+6RzBlaaoZtP0O1hs=
+
+Name: birt/lib-HowToSetAThemeForAReportDesign.html
+SHA-256-Digest: x/15VUsLjkYE2S3pIujYbonJP9/nztp8YcMz7utYzjo=
+
+Name: birt/images/ChartBasics.13.8.01.png
+SHA-256-Digest: 0EbSFGCpC0pPFm77LTvhgrHC0QMNFcnpbL4C8PAzM90=
+
+Name: birt/images/format.06.14.1.png
+SHA-256-Digest: 0fSE+OE7dyBm3oW7dqzViFaIWkTBpiatGfHrsglmD5Q=
+
+Name: birt/webworks.css
+SHA-256-Digest: iQWRN+4N70neT5mOkZOAESzLKAO5CIUN84PUKd8U4M0=
+
+Name: birt/images/ChartFormatting.15.1.1.png
+SHA-256-Digest: BbBHjBNl9Nh5ADtsws2TCJ9kBqNNUrbkmf3A/rynwIk=
+
+Name: about.mappings
+SHA-256-Digest: CRKJBOzDETxEt2h2yFyvg5iJncBeU/Z3lM053zoUcNs=
+
+Name: birt/images/ChartBasics.13.8.10.png
+SHA-256-Digest: 9V9khKJ6l11hiHN4U5kZP+xQ/qFq+Q69VPSeLiBEWuU=
+
+Name: birt/gs-TutT5LayOutTheReport.html
+SHA-256-Digest: w5Bp6nkDBLgiQ+99FnfuXzzO7ExtEIBkslohaIP+/ys=
+
+Name: birt/images/tutorial3Shot1.png
+SHA-256-Digest: 6PMLHo5TENw/0neQf1KwC9olpA3rTwO9Nb6zTp4YXdA=
+
+Name: birt/images/layout_tabletab.png
+SHA-256-Digest: 3h1Jl8jeX3biNjG9lnWdMvNDfd0VBJb93cPlLJyln3s=
+
+Name: birt/sub-TutT13ViewReportOutline.html
+SHA-256-Digest: MRUinZofnhAoCRnS0nW5+8YIS9hbNPNJipH421D0vR0=
+
+Name: birt/images/oprpt_output2.png
+SHA-256-Digest: nm42GE7XoOcjxC53YS6YyN5U2mz+4XR+RlDkkoHYddY=
+
+Name: birt/images/blank.gif
+SHA-256-Digest: X7O9t/lmyFJXn7awV0UXRF1bLRccgE1mIn7mexv/ypw=
+
+Name: birt/ScriptingWithJava.23.2.html
+SHA-256-Digest: OTY3sh63FDmX/I9oKjHW+2HXtcKWn/ieF4MfIRHpoXg=
+
+Name: birt/css/expressions.css
+SHA-256-Digest: xzlL+4hKMitskhARiSApCHrW/IYSX6ZsoR1ZuiNUR1A=
+
+Name: birt/images/grpt_output4b.png
+SHA-256-Digest: Jr+Ics0kwvYY0RsluKxnwsz3pON+o8qM3XVKDr9w/hk=
+
+Name: birt/images/ChartBasics.13.8.08.png
+SHA-256-Digest: SINOCg1JBZwkBO/kf9M4NiP+sqQrumJE7mLYLzVx5oQ=
+
+Name: birt/images/output4.png
+SHA-256-Digest: cmSpZgs98KwoB/gTyohpqxMRODms64jb3dHEQXEVteE=
+
+Name: birt/images/xtab_FilteredReport.png
+SHA-256-Digest: PN/Mh9HRI8Z3+dLvN/TpB00py4Wzpml4lBuspoEnlqU=
+
+Name: birt/images/paymentsdsresults.png
+SHA-256-Digest: y10QEma9c260oqLWA5NZqLenM14Sp4z78K4Y1QXHoEU=
+
+Name: birt/gs-TutT1CreateANewProject.html
+SHA-256-Digest: qImARQ3j+BxflKokzbi3snU3bUIkYBiaOJoRh7lOsQY=
+
+Name: birt/images/EB_combined_fields.png
+SHA-256-Digest: bgAUmVhOSKBMVxCVyah/X3AKtBkU4ovJzwRfoDLbE60=
+
+Name: birt/notices.html
+SHA-256-Digest: Fv4Xesw83PFLdqRa4TdZnC8kxbjGcSVMchOzz5/mPik=
+
+Name: birt/images/ChoosethumbnailImage.png
+SHA-256-Digest: 8qrRJI1MGdkMbpiR/bfNBgqUW3nuuhSGtR4V1GaY2rQ=
+
+Name: birt/images/oprpt_output9.png
+SHA-256-Digest: gUxoqypuXyO/WCUdAAVZA0uom5rs9CeihcZ7dsML1Jc=
+
+Name: birt/images/Mongo02.png
+SHA-256-Digest: 5IehopXR/apzL4JoFp4Y6/O5QQyr5pnuxrIHt/G4hBk=
+
+Name: birt/css/ChartData.css
+SHA-256-Digest: 2zpc8HSuZZnC6LdFX64wlylc3BZ1x2yrEb0Lu5L8W+w=
+
+Name: birt/ch-TutT2AddTheChartToTheReport.html
+SHA-256-Digest: J3x9LCv02rr7SyaJKXUotVaODb/c3xXwFCJ56ayixmg=
+
+Name: birt/ct-TutT5AddACrossTabToTheReport.html
+SHA-256-Digest: Xv1B0EDpoQZWG7FmKGPwv08sZqrRWMez+DvGmixcdac=
+
+Name: birt/lay-HowToBindADataSetToATable.html
+SHA-256-Digest: BM6KObcclvgh1q5I+k9n2PDPEHyuFuvJXOZQYIJmV68=
+
+Name: birt/images/addcssfile.png
+SHA-256-Digest: EK+cW/qyUZ+pa90L49ZIKKrCEj916ihxYXbAw8Rb3gs=
+
+Name: birt/images/superclassSelection.png
+SHA-256-Digest: 6YghCTD9BLIoD0JmxhA2WQRrdIqSxi2LJB7X/yqpB8I=
+
+Name: birt/images/xtab_dspreview.png
+SHA-256-Digest: 6UEqpxcLAePMUnLDoxxgMQ7gD2k1xuB2JHhaQ/pnc48=
+
+Name: birt/images/collapse.gif
+SHA-256-Digest: RGWnecwJ1I8La1HO57rSZJ9vWQH4vCRA+1JFoRdWfwI=
+
+Name: birt/images/seertup.gif
+SHA-256-Digest: JwL52DRh4qcFn9bQ/HjxCGo0OiNA3vj5va+GW9wC0YE=
+
+Name: birt/images/indexx.gif
+SHA-256-Digest: PqjzuJz90pUJA0QICHDmfWHjMMYRlsAqAEjIqAcSH8g=
+
+Name: birt/con-ConnectingToADataSource.html
+SHA-256-Digest: g2JKfWUANgmjlPBvjjYfXup/W9NOG5mVObu8x+QYLlM=
+
+Name: birt/images/enter_quantityinstock_parm.png
+SHA-256-Digest: 087+DDuj9zJBJGt/tqpyTPpo2crLAjtilWNGdPBZXl0=
+
+Name: birt/lib-HowToUseATemplateReportItem.html
+SHA-256-Digest: OpOVrxy5wACZkrqWu1i2kFHFcS0xGaj6loJLnnhJdsw=
+
+Name: birt/images/add_ds_filter.png
+SHA-256-Digest: 1D5m7jELGk5NW2yOWg8xM1cNn/wrm3ruA9CZ04DdeZQ=
+
+Name: birt/images/grpt_layout4b.png
+SHA-256-Digest: F0/HUNCR7SHytXeZ2DaE9ghG+DwcF7lIewOJCcjdPko=
+
+Name: birt/images/hyperopt.png
+SHA-256-Digest: SJtd2tqVqzDwL+PvQt19+CY885exTu0QewN6uO1K22U=
+
+Name: birt/images/bottomborderbutton.png
+SHA-256-Digest: m6+oAoR0U2wZRhV3G3ZDO4tM4pS6oJTTgx6y36S/ovA=
+
+Name: birt/images/format.06.04.7.png
+SHA-256-Digest: pG2p8Z/S3Tc4TPDQYFWAvHow28Q0JbniAGA+KqpIYHE=
+
+Name: birt/images/edittext.png
+SHA-256-Digest: z4HWwTKDg1lm4OlBjbTqutzFZQf0F8d1Ba4tRJgVkp0=
+
+Name: birt/txt-HowToUseADynamicTextElement.html
+SHA-256-Digest: augbE6o/tUc+5fxLk5FMPksBi7JBjLv9YzizfOyzl3g=
+
+Name: birt/images/crosstab.16.8.2.png
+SHA-256-Digest: H27chmD+KSX8eo7UHEeL4Ugx4Evml8cAlu/KzFIHwNw=
+
+Name: birt/css/ScriptingReference.css
+SHA-256-Digest: NSFulHNHD5YIKskQ3Zq9CmanDZSWxYLwlWxOqWCSSa4=
+
+Name: birt/images/grpt_output8.png
+SHA-256-Digest: NfbJLAljpBHWX68QbKLajakiXVW6a3EhK6E8zyEAdGA=
+
+Name: birt/css/crosstab.css
+SHA-256-Digest: HO8l7oNhwUq/BfqCz6Lc31Ar+zkASN4muwjVeG6N3+I=
+
+Name: birt/ds-HowToCreateASQLQueryToRetrieveDataFromJDBCDataSource.htm
+ l
+SHA-256-Digest: NHAbLqECanCiuOQlvP/2NASHtbaWpGJYltA8DUdx9rA=
+
+Name: birt/ScriptingWithJavaScript.22.03.html
+SHA-256-Digest: Nx7tBsWPU8OnXwa3KVaBr06x2uLb04IYBmmcu14+3rs=
+
+Name: UserToc.xml
+SHA-256-Digest: QOFYmwHPS+DfUn78fKgoBNdaN2CrXxoipX35S1EedtQ=
+
+Name: birt/images/styles_in_outline.png
+SHA-256-Digest: j0W8KEPwvX8I189xt1A0CvkaRDTlwMhEkXTnW91AfaM=
+
+Name: birt/images/newsql.png
+SHA-256-Digest: 36+kmKDchvJq8JWOcY2zVj2q9I3yMNt+ERVA1MOrhfs=
+
+Name: birt/fl-HowToFilterAtTheGroupLevel.html
+SHA-256-Digest: n/StQBK2rvbGekinaj8ZYCymDAm/ynWS9knEvb6NQsw=
+
+Name: birt/images/Excel-04.png
+SHA-256-Digest: cEg8JITVk1q4kt/lYpufFh3i99qVScqXXKThmx1CwFA=
+
+Name: birt/images/crosstab.16.6.1.png
+SHA-256-Digest: HwpnDgqeRKj50r1NDSVc8vHft3ILNZQOPRkWjyaNLOY=
+
+Name: birt/ScriptingWithJavaScript.22.04.html
+SHA-256-Digest: 679bpLsaDiOqxxbVuQ8oWQrwVGkg2x8JWj7WncC3BXI=
+
+Name: birt/ct-TutT6AddGrandTotals.html
+SHA-256-Digest: WjpG10sgHJtLs/XtEUKkwhvCUuBdUJqsppjA/kuIamU=
+
+Name: birt/fm-HowToSpecifyAColumnWidth.html
+SHA-256-Digest: BL09NUvuPq+KtVLzWsgvaDWH95VE7Jyewk8qFRUTRWY=
+
+Name: birt/images/grpt_agg_table.png
+SHA-256-Digest: hxUiRmKKdMDsXKOv6I8ryAncFs+wCA1fvqN+e/jO6Mw=
+
+Name: birt/images/CreateTemplateReportItem.png
+SHA-256-Digest: OyGEZ/DZFPDnEvQ/UlHNl1jHnAUbaos0oQ3EspYPi20=
+
+Name: birt/images/oprpt_output3.png
+SHA-256-Digest: +elHzLFTmX6fBIKfsWZxlopMpH3Ttij6fEtZqlN5nCo=
+
+Name: birt/sg-TutT4AddCreditLimitDataToTheReport.html
+SHA-256-Digest: gUesFtQuxbrRoKrXBkF72JTuvpWrdf04kV1HpSqUiYc=
+
+Name: birt/sub-TutT1CreateNewReport.html
+SHA-256-Digest: s/LPKx/8UcaYGF9Hdl7qQYYHaMiuuihOBo7VsAgsfwY=
+
+Name: birt/images/CHT_Preview1.png
+SHA-256-Digest: 3/hGqzg8Eoipx6ZWk5MKMy6lUYHsMj7RkpO9qWM9SgE=
+
+Name: birt/images/output5.png
+SHA-256-Digest: ZZwL3w1nXc87NSvx0zZrfaXtCIlXBreFhV6b/MqfVvs=
+
+Name: birt/images/ChartBasics.13.8.02.png
+SHA-256-Digest: GYM7WQVoo3W2YvnH/zzGYfvW0xqz92t4z/Dvb7iYhDY=
+
+Name: birt/images/grpt_layout5.png
+SHA-256-Digest: WYEGu9hcjYuRDp7xzLirzTLlo/aLWrcb86VXZCAG1TQ=
+
+Name: birt/gs-IncreaseTheSpaceBetweenRows.html
+SHA-256-Digest: 9bs04qERIejLySTR4ODnlyljgt1wwkP3Hkq4upxUD94=
+
+Name: birt/gs-TutT8CreateAReportTitle.html
+SHA-256-Digest: nfwoPO1+tKxpxvq8L+AHlAA78RYbhiYKwVQ9Ht6JThs=
+
+Name: birt/images/enter_param_example.png
+SHA-256-Digest: Xcw4JXUQ3uBT2I/oaBmA4EpXs/MFw6owEZhB6+G+JfM=
+
+Name: birt/images/setrowheight_qs.png
+SHA-256-Digest: lamwBcvykBwHItrm8TTzYTjz8/hXA/FoDdPp9fp6Wto=
+
+Name: birt/images/embeddedimage.png
+SHA-256-Digest: ZPNPHq3UCIn3I3HXhbg1Y3zHtZZcMoGHKwXASajbkhQ=
+
+Name: birt/images/ChartBasics.13.4.1.png
+SHA-256-Digest: AyshYkhrhSLtJ2Wk4yyf2NkdvTzyW3A2DKWODlOvZ9w=
+
+Name: birt/cd-HowToGroupCategoriesOnTheXaxis.html
+SHA-256-Digest: jl33/BXZO9zbyKvuPkfYh7qlhyBffwghv+WZI3i/clA=
+
+Name: birt/images/selected_row.png
+SHA-256-Digest: znL3HGJld/W3UNwAoTUcjxS605goJ81WkiQ5fAeVCl4=
+
+Name: birt/images/edit_data_set_stored_procedure.png
+SHA-256-Digest: eaSUhe4h3KGXv3UuWT+IGZanB0ZPD5qGYccN2KT4Fho=
+
+Name: birt/images/join_ds.png
+SHA-256-Digest: ZV5YXBMO2n0538DxQ0VpLosOXCINusROvKT9z92h8M4=
+
+Name: birt/images/chartformatvalues.png
+SHA-256-Digest: xpeaaoit6L9Mj4BP6g92hhZ38GidY97oZq0tJYsg4WI=
+
+Name: birt/mp-HowToDisplayTextInTheHeaderAndFooter.html
+SHA-256-Digest: pAc3xEtRTHMcAg9UDGaoMXbIHzV9gOSEt7XsX5usdlc=
+
+Name: birt/sg-PreviewTheReportInTheBIRTReportViewer.html
+SHA-256-Digest: yTTznp1kJ7febICinIPPebvETm5cqnCCKOcAEOOsuQo=
+
+Name: birt/ct-HowToFilterDataAtTheCrossTabLevel.html
+SHA-256-Digest: e0sOTENmAZFof+TRX4jSd/gRtd/3seL5xf7NnapANCk=
+
+Name: birt/images/output_sorted_1.png
+SHA-256-Digest: hMe2gq1KPD2sdrlf3kPr8HJ18cczX2ZM2uwkAFxHJf8=
+
+Name: birt/ds-HowToJoinDataSets.html
+SHA-256-Digest: 6m+h1EVSjFmj3aF9PLQlYNrtrKu3/3lpFs8qJ75B+DQ=
+
+Name: birt/images/grpt_tablebindings.png
+SHA-256-Digest: +ypBzvyb41VmvxyFoElyWjQ3RUIFGQEi0J9C+XLXbtI=
+
+Name: birt/ch-UsingAChartIntro.html
+SHA-256-Digest: ffSfknC91RGNYk6l1OwrKwvTiRasNQRjqY5ZfyVnd8M=
+
+Name: birt/ScriptingReference.24.3.html
+SHA-256-Digest: JJNP6yujSyInGgT/Dczaw7mc80yEh0cid4A2QaGeMho=
+
+Name: birt/sg-DisplayTheNumberOfCustomersTextOnOneLine.html
+SHA-256-Digest: GXcz9LoiHV9MQx2PR+VLgQLYctl77VH3wUbQduGGg7E=
+
+Name: birt/UsingScripting.21.2.html
+SHA-256-Digest: s0wg5aBl/vgArudn59/fpj73jnKjRXDYGI8o1GdOtLQ=
+
+Name: birt/images/filter_with_reportparam.png
+SHA-256-Digest: Hnpgw+WVjyRvrIi4vrn3+dJfSSMAClvX7IiTQfV9CYY=
+
+Name: birt/images/agg_count.png
+SHA-256-Digest: IilZKR1GQFRlW4N+w1wSwrVLccWMCHZij4umNgk9UnE=
+
+Name: birt/images/oprpt_layout1a.png
+SHA-256-Digest: +TERHeDEpuz1aXtx+KlQZ2R+steF71qPl4EHScUrDg8=
+
+Name: birt/images/select_key_window.png
+SHA-256-Digest: UUj7sSNvcgv0oFJATPssBGT+MF+gqbhAoigPjrmb3oI=
+
+Name: birt/fl-HowToFilterAtTheDataSetLevel.html
+SHA-256-Digest: R+VSe+5l/0L7VwYxaWbMhg/dEiH4pc65TREDPD1Kny0=
+
+Name: birt/images/new_col_binding_contactname.png
+SHA-256-Digest: QcJ3tZhu9jHMva4HRyXuyRjETVLp5IiQc+DcnLDW4Uc=
+
+Name: birt/fm-HowToApplyAStyle.html
+SHA-256-Digest: gaxfbUhV1X/yyzdrKxuWlwxmCkFhMlq1QzwJy/FDPTI=
+
+Name: birt/images/oprpt_expbuilder..png
+SHA-256-Digest: ManFPeJ3dspOREBcoBkjvyRQ3Mr9Uwx8wgwyohU/PhY=
+
+Name: birt/images/editdatabinding.png
+SHA-256-Digest: PTXxrzMme3yj5zGLhmSz7as0ij8PUCtKq08ec2d8b3A=
+
+Name: birt/images/table_data_binding.png
+SHA-256-Digest: IY+5WNhALRDend+owje89RicKtUJWd/CawA3mc79zhQ=
+
+Name: birt/images/ChartBasics.13.5.2.png
+SHA-256-Digest: /603OGXMux9ZoorupkzqZYta+prOWlM4DjUOVL/Pjok=
+
+Name: birt/sub-TutT2BuildDataSource.html
+SHA-256-Digest: zWR8L83etz2kpZtpDt6XZYG1qR9U6/+ne/o6ok5vXQE=
+
+Name: birt/gs-Tut1BuildingASimpleListingReportIntro.html
+SHA-256-Digest: 61QawdATZk88JmS9LSBqsiAGnxXMSzzwCznBjWrGtHE=
+
+Name: birt/images/grpt_grptotal_text.png
+SHA-256-Digest: zNvly9ByQWYwqDhKTexaYPYbvwQDNvTRVEeZpKnseq8=
+
+Name: birt/images/prev.gif
+SHA-256-Digest: biBh3gW1aPHdSi+qzsaC4IsRjAcSVbKQqJq3KmFo2/I=
+
+Name: birt/images/Excel-DS-06.png
+SHA-256-Digest: MwKN6PXLoip/3orKdobULqgNfZ/7XyJlVo6mq5KPjEs=
+
+Name: birt/images/seertlow.gif
+SHA-256-Digest: HQwi5JCdLpNkeldi/7QCmL4a20FqlzBibd3rHHLzywI=
+
+Name: birt/images/Viewer_PreviewTOC.png
+SHA-256-Digest: NqFP83bF8A6PLAUA4re2zxJ4XLPNKVk56rppGJlPPMU=
+
+Name: birt/images/grpt_databinding.png
+SHA-256-Digest: jw6+C2AWXbUTI8HAhqOIsW12EHxVSE4PjfiwSDyS9kM=
+
+Name: birt/con-HowToSpecifyConnectionInformationForPOJODataSource.html
+SHA-256-Digest: xdGKT/3QC2flujR+YiXEPjRSLds9/bqwEBuhTLhehw0=
+
+Name: birt/images/grpt_layout6.png
+SHA-256-Digest: WWkwgs3YHxrB176WQDHW74fxok1fmy3OKqgwS/Ssn40=
+
+Name: birt/images/browse_resource.png
+SHA-256-Digest: gM+a/BbKmH9DpfubsnrurLYzGDchhytOUfCjwqhDDog=
+
+Name: birt/images/New_Report_01.png
+SHA-256-Digest: JLionxnK3XrNLDlOt2jEzmv0sD9jyaMrTWwhSaO3WJY=
+
+Name: birt/ds-HowToSpecifyWhatDataToRetrieveDataFromExcelDataSource.ht
+ ml
+SHA-256-Digest: SdyyNjQ429a71vdlFLmxt1sVhbXRXZT6J9F7h8wvIHA=
+
+Name: birt/ct-TutT4SetUpDataForTheCrossTab.html
+SHA-256-Digest: QT0XbPegFsCgpSMP59awIisbdq3z+EW3rluWnzV3aV8=
+
+Name: birt/images/pojo_datasetPreview.png
+SHA-256-Digest: IWQdXuEgEC1x1Or/HtplahWNPYzZ9t3/sV3HVUn6/Dg=
+
+Name: birt/images/CH_FontEditorBtn.png
+SHA-256-Digest: zQfzpu9NtuHs/c/ubD2JwOnchja8sIxOcQZjGQ/sBi8=
+
+Name: birt/images/grpt_expbldr.png
+SHA-256-Digest: 5UiPXu7Uy8vk3UEWbtMQUD1m5IW9bV144Pb0Ceqkjp4=
+
+Name: birt/images/newreport.png
+SHA-256-Digest: cJXhtJKp0pLGTa/dwtopML8DiwfQe0zeqAbq6U6up/U=
+
+Name: birt/images/SelectLabel.png
+SHA-256-Digest: dl3EsyJBiP+GSBnrlwqo6G+Iegsfr6qOMyqFIGYUXcc=
+
+Name: birt/images/Nav_view_01.png
+SHA-256-Digest: 6NG4rwhIsynaJ9iJNg0NKoqnKeFA/0FzTtRtIcRyxbk=
+
+Name: birt/images/ThemeProperty.png
+SHA-256-Digest: 4jBb2rPMBZXyHw+CJFt7PyPjsXmGnolB5pVvfZ5Rsic=
+
+Name: birt/images/ChartBasics.13.6.3.png
+SHA-256-Digest: 0W9xzx93USE+Q49PjSHhbi+WbgspaegVHi/BLxKRxfA=
+
+Name: birt/images/ChartData.14.2.1.png
+SHA-256-Digest: fbLMcSxuqd6YKgV3Lza5nHB9+DKIEgdriP+N1LZSSlk=
+
+Name: birt/images/viewing.18.3.3.png
+SHA-256-Digest: TicKqpxcfUZ2MDY1RVKwR5iajYuGs7kGb/XSOtSQqEQ=
+
+Name: birt/fm-HowToMergeTableOrGridCells.html
+SHA-256-Digest: QkF6lCZbUNlNf5B2uqtXOb8A1VaO+lwqsovDMz1vyws=
+
+Name: birt/images/SelectingReportDesign.png
+SHA-256-Digest: ZqORIBzrfiJaJgU+ssZahbTPELTxDGIs6sMLFI6Rz/k=
+
+Name: birt/UsingScripting.21.4.html
+SHA-256-Digest: 09KBw9KD0u6m1Jo1UVS4A35GNLMoaNiCXG2JLZNPnA8=
+
+Name: birt/images/oprpt_newsortkey.png
+SHA-256-Digest: Ozct3aeliS4c2w1WpO8HhC+KghJPqTRHk6MnwZqEd2M=
+
+Name: birt/images/xtab_rowtotal.png
+SHA-256-Digest: mctkxkE3gO7Ti0OrCqKwrSRjD1sKKaq7rk3oj2VRu6g=
+
+Name: birt/con-HowToSpecifyConnectionInformationForMongoDBDataSource.h
+ tml
+SHA-256-Digest: vuYl2+c37yMqCkcsjK6YA412I07Z3lo/MIDOGDvcOnU=
+
+Name: birt/images/insertURL.png
+SHA-256-Digest: 9ADChukq3mYaM6116BkRgpLgsAdgDtBXNzVS6nss5js=
+
+Name: birt/con-AboutBIRTDataSources.html
+SHA-256-Digest: 0zKHDiEEbK2rLsDOqQtTUyq/1h0WiTfp54nDoZ+p7cM=
+
+Name: birt/images/maprule.png
+SHA-256-Digest: 1036TTWMs9IfRDo1zQti2xBUEaY842QLPyrToW0e0Io=
+
+Name: birt/images/mergecells.png
+SHA-256-Digest: Xb22X/3hNpE9H8XOI8caaMFwKKNX6LRZuWs7WOhKX+E=
+
+Name: birt/images/grpt_output5.png
+SHA-256-Digest: zRKSA3bFw5DuQBLjg7Jw0geuxkmjG9II/U/OKRryqbc=
+
+Name: birt/fm-HowToModifyAStyle.html
+SHA-256-Digest: dwCdEHo/WxDBCVEOvwmsBjPvzu1xtk3feYnjBbnSSxw=
+
+Name: birt/images/index.gif
+SHA-256-Digest: QMNmYuRFtNtpqwLB7uGIqlXlnAgLc2e98KrkrLRmbBs=
+
+Name: birt/images/editdataset02.png
+SHA-256-Digest: c9lMxohOfDlGCKnw6MARxGmTQFbAdGgHwhAasSKxhUI=
+
+Name: birt/images/new_data_source_new_JDBC.png
+SHA-256-Digest: XRu5xiNQbnynx2uIldXg47gUpSkbv2v1cVly3gVbpYY=
+
+Name: birt/images/Listing_report_full_screen_01_PTO.png
+SHA-256-Digest: gOV9Shd0MkeByWPQO05Jew52x9REm1OvzMlxyogh9fg=
+
+Name: birt/fm-HowToCreateAStyle.html
+SHA-256-Digest: oZVDjdRgB21Zn2pdIHjvOwqPG35d/d17Ml2H6QtHg6o=
+
+Name: birt/images/seebttm.gif
+SHA-256-Digest: goMSbWAwuFdU09pbuVGaCw7kfqHpTsKC64I7gzIulX4=
+
+Name: birt/images/layout3.png
+SHA-256-Digest: R8SphZjoo36aoBmvaCZKpJQQwT3Q6GVddSjTqJqcIqc=
+
+Name: birt/bd-HowToCreateAColumnBinding.html
+SHA-256-Digest: ycnm60bk/niRe516qRBY4z7VnP2qgc9GH742d+Fc1EY=
+
+Name: birt/css/SharedWorking.css
+SHA-256-Digest: q/lh2LpjQPpoIF9muKpphRIYPATWFtMGyz3cu2itiNU=
+
+Name: birt/ch-TutT3ProvideDataForAChart.html
+SHA-256-Digest: h+qQmPBeDLtNq+llsBJ1rqY7OLdpYLRQV4mMkT48pH4=
+
+Name: birt/loc-HowToPreviewAReportInADifferentLocale.html
+SHA-256-Digest: 2ttKKYJ+Ln0fBqEtULhIIfHauw8qWouiYGZC+VDrAWw=
+
+Name: birt/images/ChartBasics.13.4.2.png
+SHA-256-Digest: cu9ZEnrUSUMIvJV7OC/1x5TaIKVe2WpFjdC+uIzyYtg=
+
+Name: birt/sub-BuildingARptThatContainsSubreportsIntro.html
+SHA-256-Digest: CSaUBnYw0gIN1yzn8aNw3RwBvdoYeWgx5qJ9GM+Tz0U=
+
+Name: birt/css/webworks.css
+SHA-256-Digest: 0tOEOpwepKxxI47wrUTZXQSXZ9xjG+j3JoZGX+6niZA=
+
+Name: birt/images/ChartBasics.13.7.3.png
+SHA-256-Digest: D2yEAn/FEyhuDog4QskrzBTk8x/69nRADd5RT0APNMw=
+
+Name: birt/lay-HowToInsertALinkedImage.html
+SHA-256-Digest: wPBEbHdY5KDMkoTJV5hx7iltrlfF9gQU1GsdELGMPSw=
+
+Name: birt/fm-HowToLinkACSSFile.html
+SHA-256-Digest: oNjrnfd/UHqwIQTc96yD68KVDohKTpwUVaHWa8x/KLc=
+
+Name: birt/images/styleproperties.png
+SHA-256-Digest: 0vayte/iTEG4CTOeh83+U3O709eo+yOuTsncQnYGM2M=
+
+Name: birt/images/output2.png
+SHA-256-Digest: C1L0nuHP23/8VlqHLR3n+3Y6Hf2I2N0RjTKEvRs3gYE=
+
+Name: birt/css/ScriptingWithJava.css
+SHA-256-Digest: fxLQ+yJGnedmbSwX1pnq3gQaoTxT5Vn17NRYXaD4W4Y=
+
+Name: birt/ScriptingWithJavaScript.22.02.html
+SHA-256-Digest: o/F8hwQ9b8sOx/vWch4u+A2knZ/twLcYNt2Z0yZr5r4=
+
+Name: birt/images/tut_newdataset.png
+SHA-256-Digest: vREEx3jZyKXfbmwkX1Uvk/RH3vYlMy65FgzpjCMYNxg=
+
+Name: birt/images/sortpage.png
+SHA-256-Digest: sPWTdefrZg9ATmnJsNxMIhlKwVSDwYK31+QMGa6gGrg=
+
+Name: birt/images/xtab_FilterCondition.png
+SHA-256-Digest: Mk+dLLCmLsHFqVeXKZaOKoxlb+2xkbFRtGCUDKx59UI=
+
+Name: birt/images/oprpt_layout6.png
+SHA-256-Digest: vcHM7yEP6xkey1Lo0GRjctq8mKNIev91FQ1eVSpTAss=
+
+Name: birt/mp-HowToSpecifyAHeaderOrFooterSize.html
+SHA-256-Digest: CUHNm/lwT4a7AP4QJjFEEJ1R/2CsE0wjTLOqvaCUadA=
+
+Name: birt/images/NewSortKey_qs.png
+SHA-256-Digest: JjBdPQuZK1zzMOkiiuIovPvIFXoWe9dwtTrzUzu5eUk=
+
+Name: birt/ch-TutT4EnlargeChartAndPreview.html
+SHA-256-Digest: qKtDr3OsGriqV0Jq+G4aJsiwZBFVI2arEy4D/Wk3JD0=
+
+Name: birt/images/PropertyEditorEventHandler2.png
+SHA-256-Digest: o1XSU/u4qDG/dagb7wP/dxS6XAs9KwigbTWpJinL1S4=
+
+Name: birt/images/MyLabelClass2.png
+SHA-256-Digest: 0WB3uZWb43D1gNEA4n1TAd+ThLQeV4KiuKKxtZkeSNI=
+
+Name: birt/images/oprpt_outline.png
+SHA-256-Digest: 5gus7ln6zBtMKTJ5+oniCOqQJa1F3hcQOL/2b+qpyQM=
+
+Name: birt/images/Excel-DS-07.png
+SHA-256-Digest: 2U+wVlR4xhZwq1M6IcMp6EMJqcLFBwLkqmrOCDGHgGE=
+
+Name: birt/images/highlights.png
+SHA-256-Digest: mYcG5nNC7UJkJhifrGLQhkVo4P4zeH7VlNUPjDqWclI=
+
+Name: birt/fm-HowToResizeAColumnOrRowByDraggingItsBoundary.html
+SHA-256-Digest: gTb8CZPHkMzRLyx7EDkimCDPqd73iUHkHdiAXEowq2c=
+
+Name: birt/images/libexp_with_css.png
+SHA-256-Digest: Awglqe9xPZLmOG3iZEDN2uO5v5NxPeYGBKwwpgGVuQ4=
+
+Name: birt/lay-HowToInsertImagesThatAreStoredInADataSource.html
+SHA-256-Digest: ujpNQudx1yoypRLvSNEzndG/rcj7IdNu9Neo8hTwbCg=
+
+Name: birt/ag-AggregatingData.html
+SHA-256-Digest: rkw0538RkgEw4JfHF3MqaGbHBp1qhKQ5EFph7thrnN4=
+
+Name: birt/ScriptingReference.24.8.html
+SHA-256-Digest: 19iWEtqlEL2qxAGrQXMW6uh4RphxvxTM6m1EQnQCJi0=
+
+Name: birt/images/JavaProjectPropertiesDialog.png
+SHA-256-Digest: cd+ZQS7lFHHJ6JH/3JiSoNyXXSvw1a9BA4UnNaXTfyw=
+
+Name: birt/cf-HowToModifyThePlotArea.html
+SHA-256-Digest: XlluZVf38TgcvNlC/JWtUJThTMAZf4P95p1bWurXY1k=
+
+Name: birt/images/layout5_print.png
+SHA-256-Digest: VCj0stMeIl7UMnTrBgwnFJIioFOndpR2WKB+er6NTu4=
+
+Name: birt/images/oprpt_output5.png
+SHA-256-Digest: DkO5YPabuq4rk0TDGRq5sdrKRY9gbtKeZ78sF2Umo/8=
+
+Name: birt/images/ChartBasics.13.5.3.png
+SHA-256-Digest: DJKx9ZQVQpZYgXJMT+P8RIUWQpaV/iXllUfGacX6SfY=
+
+Name: birt/images/viewing.18.3.1.png
+SHA-256-Digest: 6c4rU0yOl06mPYehIFwcJ+VtOQwi5jpekHFXZT7zQH8=
+
+Name: birt/sg-TutT5GroupCustomerDataByCreditLimit.html
+SHA-256-Digest: CpUXIjS79L5gp0r6r9o2y8TVnvgRmvgDpkmOBbaEjJM=
+
+Name: notices.html
+SHA-256-Digest: jg6U772uZIuLjtdX7GCBlYI7xP02alUZrwtJ2zzzJSQ=
+
+Name: birt/ds-HowToUseAStoredProcedureToRetrieveDataFromJDBCDataSource
+ .html
+SHA-256-Digest: Gw+Bkz2rrl1m3IjiXT1GaFdCYAu8kyhSYHbZOB+5daE=
+
+Name: birt/images/selectcssfile.png
+SHA-256-Digest: K3X851mADXB/LKfhxKHxbkX8vJdpk405eABmzobSXgI=
+
+Name: birt/images/dsfilter_results.png
+SHA-256-Digest: sIdX3jsTOz1g9YTp/s/TmzP3XODBkCKUJUQjHHagms8=
+
+Name: birt/images/tutorial3Shot6.png
+SHA-256-Digest: 0kWrgLCXS8aHMQ2oaUReDBv3Cs22qRFaH9O5fEVbCL8=
+
+Name: birt/sg-TutT1OpenTheReportDesign.html
+SHA-256-Digest: 40nU+n/aAbKQUCkeV5I+P7yjOBQnhLlqmB+RsMJOa98=
+
+Name: birt/images/grpt_output5b.png
+SHA-256-Digest: IGYkqEYcd3pm+9cGqCXqxq6HdUdsC7P84knLYWXsH0c=
+
+Name: birt/images/aggregate.08.2.2.png
+SHA-256-Digest: H27chmD+KSX8eo7UHEeL4Ugx4Evml8cAlu/KzFIHwNw=
+
+Name: birt/images/dynamicimage.png
+SHA-256-Digest: /j3sy94oAxjBhcYq7VWcC+l+QZbciJHDPE+boZuMdyE=
+
+Name: birt/images/localization_page.png
+SHA-256-Digest: B8TEuUxT690xRV/IEIE9g//XV2t4AipnwIf3KAiAmMk=
+
+Name: birt/rp-HowToDefineADataSetParameter.html
+SHA-256-Digest: D4C9U0/8zr4Vrwd+29kJkFaTSW5zbgKbnPHSEEsivlc=
+
+Name: birt/fm-HowToModifyAFormattingRule.html
+SHA-256-Digest: iV/RL8CahqTwO+tPaHQkvE1+InU2EzMDWu9ZvB77OHY=
+
+Name: birt/images/oprpt_finaloutput.png
+SHA-256-Digest: crh499pbDKjA2CZ6lr6YweFHZX1tu5goISsUQd39sis=
+
+Name: birt/images/hyperlink.png
+SHA-256-Digest: 0O6ATC2t+ps0Ks7Y+C6BOabh7md3O64fmQy+rE/+WwE=
+
+Name: birt/images/grpt_output6.png
+SHA-256-Digest: dP26WrHDkfj7i6sIoqceeunYtWRWM4IWnK3hXSNQzvY=
+
+Name: birt/images/newproject_tut1.png
+SHA-256-Digest: PzUOru1N3T53XJoNBPnFxAtZVWPiF5dzMo7bPf4yxXI=
+
+Name: birt/images/seeright.gif
+SHA-256-Digest: 8Kuy7PhhsH1f9UQDZwl4T6ikLNZbolZpmGIk+EYHEVs=
+
+Name: birt/fm-HowToHideAnElementConditionally.html
+SHA-256-Digest: ADjt5C+0d4AVngr1Wczz8tGvQcevFdRsPVRMw/tANxQ=
+
+Name: birt/ScriptingReference.24.1.html
+SHA-256-Digest: uNAHFGi5brrqCa2Q3lXoGJgfzCUEueK0ZLvuJxZF5Is=
+
+Name: birt/images/newfilter.png
+SHA-256-Digest: sTCgMdmTmLrhmtDYYcrF8JlcLobBQ6DajWmcrqil2hY=
+
+Name: birt/images/pojo_DataSetProps2.png
+SHA-256-Digest: srsvM72cIAX/UNWD5xlttoQeaocIO3A6BxX+P1AQU1M=
+
+Name: birt/images/layout4.png
+SHA-256-Digest: VSi60LwiQE1+xW7aYYXqaRB77EW7mHL9DKpOHtjpnCI=
+
+Name: birt/images/tutorial3Shot5A.png
+SHA-256-Digest: hLeSY0zRuo6lFOlB0tfepiH8FZtQC//Riin7aVe9lX0=
+
+Name: birt/images/xtab_computedcolumn.png
+SHA-256-Digest: +PlwYCt2UYf6JMxbJgAsFp9NjwQbyPR4NiMXSZfzbhM=
+
+Name: birt/con-HowToSpecifyConnectionInformationForHiveDataSource.html
+SHA-256-Digest: YruSXwT1+xS5ypKW3YNxUFCb0R0jhLi6B/xicEBEFWI=
+
+Name: birt/css/text.css
+SHA-256-Digest: koKfcUEI6r7UXQLfctT7PulxwU0sbpThBWS0QdpjAns=
+
+Name: birt/images/ManageThumbnail.png
+SHA-256-Digest: rGwksEwUy8HJoGF0Lqr2N7NPTBFnHe+bpCtnjaHJG9c=
+
+Name: birt/images/hive_outputcolumns.png
+SHA-256-Digest: KnVR7n4Cm2mGpEzOoggAckbJ4cwLYbYVjKtDCpc9jlk=
+
+Name: birt/images/RootSelected.png
+SHA-256-Digest: 8xRexWfUGWdSp+DiIGVf3fVtN2CDVq2IMbK+pK7i+60=
+
+Name: birt/images/import_styles_step2.png
+SHA-256-Digest: 4v7+IKsUA+yKheZIgUbFpAjt16jKaTi6c6xBeQg4LoE=
+
+Name: birt/sub-TutT7CreateOrdersSubRpt.html
+SHA-256-Digest: kioMyb8pf1YceIistpT2Z00JTfru238Xu3zoGOWELX8=
+
+Name: eclipse32.png
+SHA-256-Digest: 8QPCikcWzrhRTRxhnf4/DrXD4rmXchxYv5uaKchP27Q=
+
+Name: birt/images/output3.png
+SHA-256-Digest: /Rj1FXjzhzNDxTojXxIaYa2cwuIAOzXZFI+6God0F6s=
+
+Name: birt/ScriptingWithJavaScript.22.10.html
+SHA-256-Digest: d0qWXU+Kvz/D9OTv2vUP51exrkEIrRNIe3anT+9w1/0=
+
+Name: birt/gs-TutT2CreateANewReport.html
+SHA-256-Digest: dDaf+Mq99q40kl3QirA7l9V+NGavMPPVtD+8TSFqc+4=
+
+Name: birt/images/getstarted.01.10.06.png
+SHA-256-Digest: A862sQ8szKFVBtxVlt8Z11BTDnrk8VrzD8lBWu2FnW4=
+
+Name: birt/cd-HowToChangeChartPreviewPreferences.html
+SHA-256-Digest: 3Zf0Jk887N4QLqu7GRrLQuBI9vFC1v9kg0AVCbguSSc=
+
+Name: birt/iv-AddingInteractiveViewingFeaturesIntro.html
+SHA-256-Digest: GYp7tfyIG7QsdNKRloRWmZkA94DdXNIbMe4CeIXLhi0=
+
+Name: birt/images/usecss.png
+SHA-256-Digest: 8TiIb229vpPJdbVUGCzz9Oirr+WSqPKkGWQJJ2a5KHo=
+
+Name: birt/images/crosstab.16.1.1.png
+SHA-256-Digest: ktNHQsQBmvMDL+ekzL0zaL07LhJSwlOgPxaYVywI5jk=
+
+Name: birt/css/multipage.css
+SHA-256-Digest: f6uyagbRDr3vb7XuXMd4ciQG9QvmN5/zNszjuei6sW4=
+
+Name: plugin.xml
+SHA-256-Digest: usSJC4xz/YK/sfYcd+/F83+IfFeHxFnxWJNSptutqK0=
+
+Name: birt/images/xtab_layout4.png
+SHA-256-Digest: Cg4Ebb9BqYcs6W0jgDmZi3OeZSu2S2BtOnN7lKnrNSc=
+
+Name: birt/sg-Tut2GroupingReportDataIntro.html
+SHA-256-Digest: mYTO39hPgnBP5C6v+BMuM43Jg6jh7ojaqiaeJW7eeSg=
+
+Name: birt/images/mergedcells.png
+SHA-256-Digest: ZUEPdcbuA5ncME3Y3o7hIN0UpFOd9sJnNsIUQn64cHk=
+
+Name: birt/sg-DisplayCreditLimitRangesInTheTableOfContents.html
+SHA-256-Digest: 7tZ6g5n2ipcZ47b4RuVIwwhqHpcIGpkV/IgKsY7Gxh0=
+
+Name: birt/images/tutorial3Shot5.png
+SHA-256-Digest: MlWdmWyn0eq2khrQ1v1+k3cQQL60gew8gbFR5fkQlx0=
+
+Name: birt/images/ChartBasics.13.8.05.png
+SHA-256-Digest: o05l7vhnj94cT2osAq6Kk4hiNMz0Fm4y8Eq+385v604=
+
+Name: birt/images/ds_add_driver_.png
+SHA-256-Digest: GbLSazRmmMkOtFxQMIkKxTTEjngMCM54xmYcIW/byrk=
+
+Name: birt/images/basic_query.png
+SHA-256-Digest: PVEG6iNeZbXRWqG+A9sfc7QGBi9r5RveE7FkLHYQUi4=
+
+Name: birt/images/providingCode.png
+SHA-256-Digest: GIFw0LjCijzX2YxvpmuIoxp/q/xbp8dzHraGFf3pP3w=
+
+Name: birt/ch-TutT6RefineChartAppearance.html
+SHA-256-Digest: Jjv1IyVGt7L40BdxS3WWfjz7lt0d4oKCicWHhtocpO0=
+
+Name: birt/images/css_in_outline.png
+SHA-256-Digest: 27EfieRp/Ol9aZ/ngqcHvpoFcA7EaYl6tM1PUy9vTFk=
+
+Name: birt/images/output1.png
+SHA-256-Digest: JLZOWQH1KDXEJRf9eox4yV3Wqhj2OroTv8PBMFqz67o=
+
+Name: birt/images/chartpreviewresults.png
+SHA-256-Digest: xjqA/hY+6vOJJl934ymMwUXBXnoI3EoabmNOTgUDEYE=
+
+Name: birt/images/oprpt_paymentbinding.png
+SHA-256-Digest: W/xKhhWvtb9Vw1DZHT76cdzqvdnrX0y/0J0zbgzo0js=
+
+Name: birt/images/newdsparam.png
+SHA-256-Digest: xDUizhEhh3o+IlVRGQb7G2cAS9zykEFRJCpfkR8cUCA=
+
+Name: about.ini
+SHA-256-Digest: 5PHaEwV4lZ3Tmh8DO6TJWx5zfCakxyW0FhHiJjr5XSY=
+
+Name: birt/images/xtab_cubecomplete.png
+SHA-256-Digest: 9DSIi1Ro/gkZH7Yh/ZiF5ng9E/8wIL+hKHR8BoCCxV0=
+
+Name: birt/images/grpt_layout1.png
+SHA-256-Digest: w/sJ5maDwTis6EbRXxHVYxuoBoneypSORwjMKtcP17E=
+
+Name: birt/css/layout.css
+SHA-256-Digest: za1435QabL0+Tbu2HfSjZUf27fBdmsfk2sQyxI6XNGI=
+
+Name: birt/ScriptingReference.24.2.html
+SHA-256-Digest: Ei6psx0XRjUAbr1vL0lUc4F/HnpRTo3LAOtnp6b3zW0=
+
+Name: birt/UsingScripting.21.3.html
+SHA-256-Digest: dJs/u0pEtypPxXxdyZiUYquGwn5AuBshHSUd7CRyNWQ=
+
+Name: birt/rp-HowToCreateABasicReportParameter.html
+SHA-256-Digest: 7MEiMvUvN6wEcatIQkvOWDvBASkyrKRuK6122Nkh2SQ=
+
+Name: birt/images/manage_jdbc_drivers_drivers_selected.png
+SHA-256-Digest: UvcCWSD+osYlzuxnBepVeIlr8Grf2t7Bg7KmaZzH2js=
+
+Name: birt/images/xtab_cubegroups.png
+SHA-256-Digest: 7mGR59LzUvuKc3Qp6nNakF8CVqsCRV4wYqSDtdN73eQ=
+
+Name: birt/iv-HowToDefineABookmark.html
+SHA-256-Digest: e2MHMS4GcpgTJsjC7UQWqNbLr3aoLYgx4vOd4XQnnWU=
+
+Name: birt/images/oprpt_layout3.png
+SHA-256-Digest: 2ksbk5JldZBaNfcU3aK0/lbXMV3TSe0kX1wp3UWmqdQ=
+
+Name: birt/images/prevx.gif
+SHA-256-Digest: I5JH/UH034l7LEhx4SX1JoEJph/Ee945AHODtsuYSq4=
+
+Name: birt/gs-LearningTheBasics.html
+SHA-256-Digest: 4itw+2NJ+Zt6i8ihnu8yWZeCkDW+lIr6KivimD+05Q0=
+
+Name: birt/images/getstarted.01.08.1.png
+SHA-256-Digest: XqBu0Bem2w7NlKuoNROrr4PypJdfBlk6A7SFjE0rQ34=
+
+Name: birt/images/expbuilder_rp.png
+SHA-256-Digest: eS+a/ChsmoNrArDLME9QUQ07TbPoREnraSJOIHSfH9Q=
+
+Name: birt/con-HowToDeleteJDBCDriversInAJARFile.html
+SHA-256-Digest: RlnTB4ql/tFzppMXOBLS44qD33+kuOeRhs4TY9gHo+A=
+
+Name: birt/css/ChartFormatting.css
+SHA-256-Digest: 5evwGQgzyYBgxFBAHV9pXJSb+GWxIb+c5PyommItfKE=
+
+Name: birt/images/propertyrow.png
+SHA-256-Digest: XzRWnm9rK2a13REtbST0GpwHK+4kC2y/TTRoWCMMXgM=
+
+Name: birt/ScriptingWithJavaScript.22.09.html
+SHA-256-Digest: uI2SGJmL1C/cyH/ehZ55svVIIgpP2+xRHpMsa2wBUR8=
+
+Name: birt/lay-HowToAddARowOrColumn.html
+SHA-256-Digest: YgEUPTuObxWf9X4gsNkuaat6NbloPxL+HtZSGdnJ080=
+
+Name: birt/cd-DisplayingDataInChartsIntro.html
+SHA-256-Digest: FxUzeUwDsqxOrSXkII/wtM63tdusCVOokyxUUq1/+/M=
+
+Name: birt/lib-HowToAddAnElementToALibrary.html
+SHA-256-Digest: EwPTTM5ZDb27CM9q3y8udZ1ILWs54TTgXthEpq31VVI=
+
+Name: birt/lib-HowToSetUpATemplateFolder.html
+SHA-256-Digest: h6tMxrDw0foouqGWhGnlcYkiddQZhWeoMOYTauOKvao=
+
+Name: birt/rp-EnablingTheUserToFilterData.html
+SHA-256-Digest: S+EQJck+lOEIQXopeFZ1L6ONTHH8yDeOwYoSl3cqv0M=
+
+Name: birt/images/pojo_AddColMap.png
+SHA-256-Digest: TYDaRTdtJZEQvNFeyj/hs4JE1/1uTROQgjmO5mEbSUQ=
+
+Name: birt/images/grouping.07.12.2.png
+SHA-256-Digest: 1fW5m577O3XnNZr98GDDtexWpBjar25gj0SjgejAuJE=
+
+Name: birt/images/JavaClass.png
+SHA-256-Digest: EulU6Ns2mCDHJkgsN6b2fHJwcGOAEMr6wF7KtpuyVdg=
+
+Name: birt/images/hive_query.png
+SHA-256-Digest: PcOhzjfVSm9l5S0/GpNTQAsXGH0u6BDib/ehaCxqzJ8=
+
+Name: birt/images/CH_WithPicker.png
+SHA-256-Digest: RFrm761w4mzOVLHmXc6ZAEFysMae7uSHHMD+IOAu9O4=
+
+Name: birt/images/Excel-DS-04.png
+SHA-256-Digest: zagz4b4Af0xXlRzrJqi7Jzko5b1Qwr7E8jXqN8kiUXw=
+
+Name: birt/ScriptingReference.24.6.html
+SHA-256-Digest: wbkneE12Dfmw7Vz/sykMVFGq+tlsZwbKLDBGQppdeIs=
+
+Name: birt/ds-HowToSpecifyWhatDataToRetrieveDataFromHadoopDataSource.h
+ tml
+SHA-256-Digest: kD1IuNCoDUhKMrkKhcbB7iUqYaBLVeXbaVe1xF+hmGY=
+
+Name: birt/sub-TutT11DisplayCustomersWithOrdersOrPayments.html
+SHA-256-Digest: CNW6bkgIVzc/ZP+HT6rEfR5mmt0BpkqXSada2/9OiNQ=
+
+Name: birt/images/ds_dataexplorer.png
+SHA-256-Digest: 5oxT5L5rhBSKEQdw98tkET6rEcszsZFm9oCYFrcQ/KI=
+
+Name: birt/lay-LayingOutAReport.html
+SHA-256-Digest: IiM1RtxyYc2IgWSLliNKoV3UorHZNlgrx1IVPofm278=
+
+Name: birt/mp-DesigningAMultipageReportIntro.html
+SHA-256-Digest: MYLLTW1LCNNaDVJ0C5KDtICTbZ+HUc0+6MRhUNzAizo=
+
+Name: birt/images/finaloutput.png
+SHA-256-Digest: VNubI34EP9WU4WQidj3zlsDX9TlNwdn9AXViWo1zmWo=
+
+Name: birt/fm-HowToCreateAFormattingRule.html
+SHA-256-Digest: 1iwZt3H0B+t3QCY79u+dv/AxMuivSn3Um2O5ySgV2eU=
+
+Name: birt/lib-HowToCreateATemplateReportItem.html
+SHA-256-Digest: ALN/WDKey3OsJ6kgOv2k819+d0Og7W5jjheKPGpKNAg=
+
+Name: birt/images/ChartBasics.13.7.1.png
+SHA-256-Digest: dB0bTwRYYRJp9/VmdJw5Tjh9k069zM7REtMnkF8lemk=
+
+Name: birt/images/ifcondition.png
+SHA-256-Digest: 56+jYJTuJOhuzk5gw7EfKoUY4RHk2WrD4d4eSPGb89E=
+
+Name: birt/images/hive_datasource.png
+SHA-256-Digest: 27KjTFBSOjE5QSGeYfOKdaWKCh+CubeIA7Ts0UM1eHk=
+
+Name: birt/fm-HowToImportStyles.html
+SHA-256-Digest: PO1eJVArLsaoBT4z93WJVhwew5c8aNGtDi6kqTP1Yq0=
+
+Name: birt/images/grpt_output3.png
+SHA-256-Digest: Oo9+Ngl+HWubvDMwG3F83rjmalEFGWMkodJL1WqZWPI=
+
+Name: birt/sub-TutT14FormatReport.html
+SHA-256-Digest: Ub5e5Gm1CwY77f1QtEmXBqlBWgP05HDTCwYF4ATgBIk=
+
+Name: birt/images/X_image.png
+SHA-256-Digest: ZsK5u2IM0opc1nTDB8zxA8F49agkE45wi9oYBxsaLtg=
+
+Name: birt/con-HowToSpecifyConnectionInformationForDatabaseOrOtherJDBC
+ DataSource.html
+SHA-256-Digest: 71B4mTeHQWxXxQEE1G329GrmkDYg6gtGVGutXXyGJS0=
+
+Name: birt/images/oprpt_listbinding.png
+SHA-256-Digest: e8vXKluoZWVuBvVDUudQ5AKvhVu0dDR1p20xO4PX628=
+
+Name: birt/ds-AboutDataSets.html
+SHA-256-Digest: i2u47AzPXRkrNoZlps5iiiTYPqsfjnq/yv9tpt2frvY=
+
+Name: birt/images/Edit_Group_filter_example.png
+SHA-256-Digest: 2qAw+UQoPFMH7YAMehBtt0A+cDlpu672flWZOlwl7h8=
+
+Name: birt/sub-TutT6CreateCustomerMasterRpt.html
+SHA-256-Digest: 0oQU3kdOMzU+hvsh3TvvN2X29qaAJ3vllnSbauhZH9c=
+
+Name: birt/images/EllipsisButton.png
+SHA-256-Digest: pq4HgACzNroV7MprzUC2m83G4tU7LQwUSAcw8lFNmBs=
+
+Name: birt/ScriptingWithJavaScript.22.05.html
+SHA-256-Digest: bBeOseXmWhZ5BnPwtqjvyYPpbKDCkLBeeRnO9sWXfYk=
+
+Name: birt/con-HowToAddAJDBCDriver.html
+SHA-256-Digest: +sJCdTso4bAlz+5du8zOjNa6+N2GZdtWpr9/ZBsl78U=
+
+Name: birt/fm-FormattingReportContent.html
+SHA-256-Digest: NMlcJGmkwGsx20GP8cCke0+IKvCp8BATTKpMIsWAaLM=
+
+Name: birt/lib-HowToDropAThemeFromAReportDesign.html
+SHA-256-Digest: RbigHe4dKyGSKUc3BKa0yqxzUKfeI0HAetjdYvHnUPE=
+
+Name: birt/images/pojo_colmapcomplete.png
+SHA-256-Digest: OPGOYMmHOAquMeffzeZqwDOVQA6jBJ+koA9hiRw7xkY=
+
+Name: birt/ds-HowToSpecifyWhatDataToRetrieveDataFromCassandraDataSourc
+ e.html
+SHA-256-Digest: tF9lCkBIbf/xfLKyQnnQAP/SyDIqu5r3RFf9HE7WzvI=
+
+Name: birt/images/image_selectbinding.png
+SHA-256-Digest: UQPJJbHYyD5YQLK/6rHsap69EIf306He9JjZnPdyihU=
+
+Name: birt/ag-HowToDisplayAggregateData.html
+SHA-256-Digest: d6Zut7ZAAk1cLwl53c296jUYzujd9RC7rtugTRuScrI=
+
+Name: birt/images/ChartBasics.13.8.06.png
+SHA-256-Digest: CNARWNTQANRoVofEJ0NXZxR3Pm3VKY64kXc/EYtFLJw=
+
+Name: birt/images/print.gif
+SHA-256-Digest: FaVJJmh8ocSwYJOb6OyIAIFzkOOyMQP3ddA5G7PBJ04=
+
+Name: birt/ScriptingWithJava.23.1.html
+SHA-256-Digest: p8EJaemBVvqZATwzsAXjg8OdLxREhFrhyOPi+f1sAIE=
+
+Name: birt/fm-HowToDeleteAStyle.html
+SHA-256-Digest: A+lcts14yNEBM5+oScrjnajERLZ+knOz22+Uoe1xo/k=
+
+Name: birt/css/subreport.css
+SHA-256-Digest: Ez2QhDg+OoAA8qY7UhvTSyIQdAUgSkzwrSt4a98aQ5k=
+
+Name: birt/images/dataset_filter.png
+SHA-256-Digest: YnBrhhMsI9Y7ZZbyiOXrNwmbEFEE0BT7W5bJaPKSbgs=
+
+Name: birt/images/tutorial3Shot4.png
+SHA-256-Digest: 7ocOvto34QI8fo4olJeZvgHZbtpsfHdDe1gpg7Rrr+E=
+
+Name: birt/cf-OverviewOfFormatting.html
+SHA-256-Digest: H9BFARPa/BZFHIFRDZuuyJcMWvx4+DHwhehyUlgmCe0=
+
+Name: birt/sg-TutT3AddTheCreditLimitFieldToTheDataSet.html
+SHA-256-Digest: /y3RelCRytx/aevCnFtkJfJj/8RtsTxj+GUXUR1VoVc=
+
+Name: birt/images/grpt_padding.png
+SHA-256-Digest: ltPBqcG41ho9VmwomahVixGZBz9L3baEOcvABrhPrik=
+
+Name: birt/loc-LocalizingTextIntro.html
+SHA-256-Digest: 9i5ZoKjvPQlYCj8CHNeo4U8xZaFr2IfqPmtweNVa9hc=
+
+Name: birt/images/pojo_DataSourceProfile.png
+SHA-256-Digest: 3hoa+gbEck4rWb3Xwo0zgj9JtOnvJFhWMr84rl34wb0=
+
+Name: birt/images/ChartFormatting.15.5.1.png
+SHA-256-Digest: 2E8hdE26jYuoHwqAB2z0ZyrQzx6E0Dzq0WktrEtb3Lg=
+
+Name: birt/css/format.css
+SHA-256-Digest: xNLbb85PD3y5wBVjrcOMOkj+AMUZML0vgjxfgo0rixQ=
+
+Name: birt/images/sub_query.png
+SHA-256-Digest: zv9zk4Pq8JKXU/LMAZg5ZqT46KJvcyIUbR4g+fFyhLI=
+
+Name: birt/sub-TutT10LinkPaymentsSubrpttoMasterRpt.html
+SHA-256-Digest: V0IHJaIn5YG+a4OlJr/yBZ3f2fKo9v7Ou8atY8dC/Kw=
+
+Name: birt/images/newstyle.png
+SHA-256-Digest: 3rIFNFULUuLw+1Uu6OFxDDrRgChE+jftfBiSoQLxxaU=
+
+Name: birt/gs-TutT3BuildADataSource.html
+SHA-256-Digest: VhuRmICiXyPdGJKDli+KPI2K/0fbZyLHJzM3Cr5nRFU=
+
+Name: birt/images/query_output_columns_1.png
+SHA-256-Digest: 3aEOFmvAKrNYuNCiNKuiOhIfTr1Zuh2YXxziNnRwQHM=
+
+Name: birt/gs-AboutTheReportDesignEnvironment.html
+SHA-256-Digest: BTOqJc2Lqugi9UMu8fKK+m3AFxGQqvTwPlRUbPFyVIw=
+
+Name: birt/images/xtab_cubeinDE.png
+SHA-256-Digest: BR7Mgk5+uBz6m3RNcWog6Kxld0RDWZGiSsr1PIsvofg=
+
+Name: birt/images/preferences_preview.png
+SHA-256-Digest: L5nFjtwdQXc3FkiKjv1OFdGb8EzgD2+SzIpUdWzT5Hk=
+
+Name: birt/images/layout.04.2.1.png
+SHA-256-Digest: dYClV97z/c/SLClxyl2qo6YRXSDriMhAfJ/ovb3jOvQ=
+
+Name: birt/lib-BuildingASharedDevelopmentFrameworkIntro.html
+SHA-256-Digest: /gpzD06OVc+5SEPcm8mxCYJkbR4x9JeNmI7vyzjehMM=
+
+Name: birt/images/getstarted.01.08.2.png
+SHA-256-Digest: 3VCZsNAT4ECDjtRjBZ9+OYNl84dRrYvE7X7N1/RNrBQ=
+
+Name: birt/ct-TutT3BuildADataSet.html
+SHA-256-Digest: JGEQj5gabnEpIu9v2z6K3wgXoAVP5f/eZPPDhTEjpZ0=
+
+Name: birt/images/crosstab.16.7.1.png
+SHA-256-Digest: CHX96d9hZrU9rKmvl+ET9a7mOxyYwh4jS4kUnnHCs3U=
+
+Name: birt/images/datasetparambinding.png
+SHA-256-Digest: JNfiiZu9d575KgEwf+S4nVN4/eKIYPsAebv1Lwlnh5Q=
+
+Name: birt/mp-HowToExcludeHeaderContentFromFirstPage.html
+SHA-256-Digest: 6EuIfapS8UMoSjlpDlOZt3dwjai64YYbRi61oXPcY+4=
+
+Name: RefToc.xml
+SHA-256-Digest: RqHepf4LWJ+Zljg9R9RlkZ99Q1eFBTC4tHMvhvwMQAM=
+
+Name: birt/gs-TutT4BuildADataSet.html
+SHA-256-Digest: ICpb1Y6eo3a92rsiomB5gU6LzWGmgA3TLqxo6FuQzgw=
+
+Name: birt/css/localization.css
+SHA-256-Digest: nMoKV/F2d7tPZV+SDqITF0fZ174zL8/tGzNb+D/rhEg=
+
+Name: birt/images/expressionbldrbutton.png
+SHA-256-Digest: NIkzeoJ3oLheklsoB8ZHXt5dOl2dcJtjNiRUlRBcamw=
+
+Name: birt/css/data_binding.css
+SHA-256-Digest: ibzVu9JU6QQCI4DPzK4tJO7Yxcg+8Csp9QF2SH7a8zc=
+
+Name: birt/images/filter_datasetfilter.png
+SHA-256-Digest: dn5bDyrpCYtCfGcA5IkXJvlAa4Ln+Oe3FqnZ0lu6sVs=
+
+Name: birt/ds-HowToChangeTheNumberOfRowsThatAppearInPreviewResults.htm
+ l
+SHA-256-Digest: G2bawN7QoRC48RuGCnwWQx01Cqwpy8RXJCFAMAjkAXY=
+
+Name: birt/images/LibraryOutline.png
+SHA-256-Digest: LLaLp86/7r+oZYlUV2GEBh+B5gmS60tYopm1sxqnIqc=
+
+Name: birt/images/edit_data_set_previewOutParams.png
+SHA-256-Digest: Mmm8S/r8ioVbUBmuyDxiOmeTqg5wiNHED1zDhSrxswE=
+
+Name: birt/images/nextx.gif
+SHA-256-Digest: 0RMfjQ+mFfs+Lkmjca7sp8NATTwfD24khqGZwFgLc1I=
+
+Name: birt/gs-TutT6SortTheData.html
+SHA-256-Digest: qDoTkB2yme8vTUylamp+gApZ3HHU4cewxIEYjn1gIZo=
+
+Name: birt/ScriptingReference.24.5.html
+SHA-256-Digest: d461t+q0tJBBuAocb+1Lbc+3LPf2jwz1aQ6qmqQrgVQ=
+
+Name: birt/images/ChartBasics.13.7.2.png
+SHA-256-Digest: 9AN/blEDQY3DtlG6xf20rtwMX3cTniIqNjM6snkONKo=
+
+Name: birt/images/getstarted.01.10.10.png
+SHA-256-Digest: EPqcjAnPAqPKCLO8wWX1S6diuF976P+5dWGUSQ/tiHA=
+
+Name: birt/images/imagebuilder.png
+SHA-256-Digest: Un+Fb+GMun3Ke7DPtG+GZOX310fOs5tGihjPYWA/YO4=
+
+Name: birt/images/PropertyEditorEventHandler.png
+SHA-256-Digest: ZAmkjR4JbIlSK/h3VBv7Ek8rQ0Wp7So7HMRgkUZtJrk=
+
+Name: birt/images/grpt_colbinding.png
+SHA-256-Digest: MhPWn3PQxo6gYipx+SeSP5Lp/gRySiXmovPUQ9nTktc=
+
+Name: birt/images/MyLabelClass.png
+SHA-256-Digest: LYQC7OgmsrEa0rz7BQIXUgO3yAmfPJlVOJQx0M7tLJQ=
+
+Name: birt/images/editdataset.png
+SHA-256-Digest: IdliiAoxzMOM8fF8s+VpBcg2dj9aIlORXbPrepHamC4=
+
+Name: birt/images/grpt_output4.png
+SHA-256-Digest: GX2bU0bpsahVjPRxAildMoybB3nBA8b5va1dMAa4qTU=
+
+Name: birt/con-HowToSpecifyConnectionInformationForExcelDataSource.htm
+ l
+SHA-256-Digest: U5wDmqD1ZB0jqUJLQ+ThFLmIE4vBFDH7atGQwfOyK3c=
+
+Name: birt/images/left_button.png
+SHA-256-Digest: IHilQyQ2ZMCzYbBaPKeOmorvCKigIzrx0czTqObfUq0=
+
+Name: birt/images/newreportproject.png
+SHA-256-Digest: 0C0OxS9PUyhv8DDyySlSn4k1hUNczxoyJ05bu7iocl4=
+
+Name: birt/images/CodeEntry.png
+SHA-256-Digest: IbRiMwh8DCndxRpJdGiZhX5SlyXFTRsggP/LV4Ujlcs=
+
+Name: birt/images/TextBeforeTemplate.png
+SHA-256-Digest: LqatPJ3X5kB43/HoWe/C/nKV5pwWyUp4ig73kbPRPq4=
+
+Name: birt/cf-LayingOutAndFormattingAChartIntro.html
+SHA-256-Digest: mZi64x+JlFzDzcTh964amJaIUJvseYSTVfcfit8gUfw=
+
+Name: birt/images/Mongo03.png
+SHA-256-Digest: /NrGcxcvAawxXssKrrXKOSs9PHhhHNlj5qHwNlDaVIQ=
+
+Name: birt/images/masterpage_properties.png
+SHA-256-Digest: CD6SEmHHNV8WPrMtv1H4wkhtzhaWa1vruuey1Mqw6Lo=
+
+Name: birt/images/oprpt_output8.png
+SHA-256-Digest: avZStALfQ+rHMseLiayKiSu48DLQpsuGCB7aJ9Ez6Kg=
+
+Name: birt/images/SharedWorking.19.8.1.png
+SHA-256-Digest: IlxtTdmGaRKIY31FRxrkU/CmTX2GlhUteW+SS/X7H5c=
+
+Name: birt/images/next.gif
+SHA-256-Digest: w0yWv0oTBg7P+TFbN3rOO3a3lAwdapThhcW0pe7ZMiM=
+
+Name: birt/images/ChartFormatting.15.3.1.png
+SHA-256-Digest: 6P3lv4z+pOkUgd7YIBDSPJ6Unkp2D1r5syTl5UhzC6E=
+
+Name: birt/iv-HowToCreateATOCEntry.html
+SHA-256-Digest: qfpKETAntQOI1sxQ9MErH7lQ6+PMxWOipPZDuRz6Qak=
+
+Name: birt/images/edit_jdbc_driver.png
+SHA-256-Digest: jDqQw2ywlA1D4J3af4/wOq58ZK25x93AILPqzSHL+Pw=
+
+Name: birt/images/ChartBasics.13.8.03.png
+SHA-256-Digest: OqvC6ZJyoniUDUTesoHSxXqU22QJBfNrNRbYUUbNTgs=
+
+Name: birt/images/grouping.07.07.2.png
+SHA-256-Digest: c/e6UavpIdczg04I/yfeSKMfl2gLWxTEjjbWbTsV7HA=
+
+Name: birt/sub-TutT9CreateOrdersSubRpt.html
+SHA-256-Digest: MRYqauAxG6Zk2Qtl8nKnAIN+OgOP0sLrOUl4bEWmOdI=
+
+Name: birt/images/computed_column_expression1.png
+SHA-256-Digest: h3L+0RiniOmLBE+m+rTcHDC6EptjSuHn/KhHZXcD/Ug=
+
+Name: birt/cf-HowToSetAChartBackgroundColor.html
+SHA-256-Digest: wmFP9PO9xOcAjevCuUUqi8bzotTEdPK28KV56Mp/gRc=
+
+Name: birt/ScriptingWithJavaScript.22.11.html
+SHA-256-Digest: d971KDAvL3aiW8eixAlc7OplmyNTTiwVn+MDCUaG9I0=
+
+Name: birt/sub-TutT12DisplaySubrptsNextToOneAnother.html
+SHA-256-Digest: 7D5/x2Ud0PyJzYtP6k4EPbLt1Zl3O3rWKtGssx2MdKE=
+
+Name: birt/css/grouping.css
+SHA-256-Digest: XioleI4oF5oWQPo+iwnCM1hMIg9rL//KSgm2qnJrHlg=
+
+Name: birt/fm-HowToDeleteAFormattingRule.html
+SHA-256-Digest: nYypC3/mfOAtj2gHVhi4edqEOBJVx489tEIOEk+4vZ4=
+
+Name: birt/images/CHT_previewSmall.png
+SHA-256-Digest: L16J9SiSG8po2SAjDBFao5MKMVHB4H6T15cix8IAQR8=
+
+Name: birt/ScriptingWithJavaScript.22.06.html
+SHA-256-Digest: KI1BY0SkXAql+IWpIrjc89ruurQoui1mwqRXakjhL60=
+
+Name: birt/images/thencondition.png
+SHA-256-Digest: 089vuVr59YUTxJhp0tqAhqqyXn0n4BjcAtx94ZsHxog=
+
+Name: birt/images/Edit_Group_filter.png
+SHA-256-Digest: clQFFu83XNuycCd5ziO+2S9SkcKcpcoRRUIXa9RZsqg=
+
+Name: birt/images/format.06.17.1.png
+SHA-256-Digest: KMhKIwpFF68X2cyeRi5p1EiImhuNjrl7cE3fJoWk/A0=
+
+Name: birt/rp-HowToUpdateAFilterConditionDynamicallyWhenTheReportRuns.
+ html
+SHA-256-Digest: 8Mz+fQHOz3CHrDCscz+GtxrImWvbddqNXAyzZ3sT38M=
+
+Name: birt/images/oprpt_layout1.png
+SHA-256-Digest: 6cFpP7g+Rl4g9EEI1I/ggUPA3mTs0+1NQz9j7RrTOZs=
+
+Name: birt/images/ChartFormatting.15.3.4.png
+SHA-256-Digest: YUtsjgalfo5K9siKFeW8MithbM3/rLZWkzZ3udbGR64=
+
+Name: birt/css/aggregate.css
+SHA-256-Digest: HxyStstzidumeduf9rsWXGsUPuQ4ToqOIsOeChYStKo=
+
+Name: birt/images/CH_Plot2.png
+SHA-256-Digest: oaKsiBmILYajC6Ppo/icqKGisQEtd/VVuAGfZxjozZI=
+
+Name: birt/images/dataexplorer1.png
+SHA-256-Digest: NAxC50EAj4y9Lnv/QJj0FXH+VZbICAzcJSFwGIZpB4I=
+
+Name: birt/images/previewresults_ordpayrpt.png
+SHA-256-Digest: sYIRCeA3/uZCdEZDL4YpYN1Hg/hcg4CNtdtVU0kkriE=
+
+Name: birt/images/ChartFormatting.15.4.2.png
+SHA-256-Digest: SNn33Oml3i8Tj9wTfUZDGsYSzN6VyODXAwMmx1UPzso=
+
+Name: birt/images/PublishToTemplateFolder.png
+SHA-256-Digest: 048XCUL7YrQZy3QuTRuis6IuIZWAYULNcyrR7FJqVFk=
+
+Name: birt/lay-HowToInsertAnEmbeddedImage.html
+SHA-256-Digest: KKvqPpNOapTWYspDBGb1q4v2p8u/8QFVGVq3oRz8LL4=
+
+Name: birt/images/grouping.07.09.02.png
+SHA-256-Digest: H27chmD+KSX8eo7UHEeL4Ugx4Evml8cAlu/KzFIHwNw=
+
+Name: birt/sg-TutT6DisplayCreditLimitRangesInTheGroupHeader.html
+SHA-256-Digest: IFZIyzTspp9PrEF30BLFsGcIF2gpsJDJqAqd7L+3F1U=
+
+Name: birt/css/UsingScripting.css
+SHA-256-Digest: ccDO+R6Djx8j9M/4++wwUlqk34SywtVhG6IKGEU8KI4=
+
+Name: BIRTToc.xml
+SHA-256-Digest: GanK+wei5m6MPyNyfq53+2M8XIiJAinvWX4iUrjqLJo=
+
+Name: birt/images/pojo_DataSetProps.png
+SHA-256-Digest: jNgnHbmBuWXHGTKTCxDlvpsQQDGC2P/zkTEZUkXvtco=
+
+Name: birt/images/EventHandlerSelection.png
+SHA-256-Digest: 9KhxaPJWO4ZgXxCfOfTf9bflTaD8tx/q7PYUx1lmSp8=
+
+Name: birt/images/grpt_newquery.png
+SHA-256-Digest: C07xl5YhmF6dTfYk5+12Qx/XlEFh/LinkpeQkRqsbbg=
+
+Name: birt/fl-HowToFilterRheRowsToRetrieveFromAJDBCDataSource.html
+SHA-256-Digest: CeryUc9798b+vMfgA+JIDIQodaSvJaxoS6Dw4L3fqnE=
+
+Name: birt/images/tutorial3Shot3.png
+SHA-256-Digest: ISehGr4Vbd0HIIhx6Afi86swAfgPkBIbntwtQLcR8Z0=
+
+Name: birt/images/xtab_layout2.png
+SHA-256-Digest: i1WEMaoPe/PFoFO3Wo3D2NTCd2kBsJavQL955oR6G2g=
+
+Name: birt/ScriptingWithJavaScript.22.08.html
+SHA-256-Digest: NXEgNzvmdxtc4R7I8CXPKF/vgccUDXE0Xj+UYDKF37M=
+
+Name: birt/sub-TutT5BuildDataSetForPaymentsSubRpt.html
+SHA-256-Digest: uebCr/mdNBB6pWa5dx0kqQuKEyqxq4+SUXTxaR8PUrM=
+
+Name: birt/images/querywithmarker_03.png
+SHA-256-Digest: PX0/pFbYQzZPia6FgUy6kELmGG+ZLN9sHRgb7m1BzDc=
+
+Name: birt/images/grpt_layout2.png
+SHA-256-Digest: yy1jwnjO89uHoFrM9fV1wLRD+NMrcmNIrtO6IOc9i8Q=
+
+Name: birt/images/bookmark.png
+SHA-256-Digest: qgLDTy3Qv+GWmtfnre2rAJxShd/sm4H+1oyZdrJMqg0=
+
+Name: birt/images/header_properties.png
+SHA-256-Digest: Dh2RJh+a6+3yx4n1EJ1atG7kH7Fe/oAQ6IfVmQqfI1I=
+
+Name: birt/images/newdatasource_qs.png
+SHA-256-Digest: nq0gxqV3gnmEL9TpeSRRCijXaeZ5rzztqLvUkcpfQJY=
+
+Name: birt/images/connecting.02.13.2.png
+SHA-256-Digest: +lUikzT1+xAJ22DIIOotLAMfHr+NWhY55uVaoqWNlGE=
+
+Name: birt/fl-HowToFilterAtTheReportElementLevel.html
+SHA-256-Digest: tMPAyc8EgCt+5slpWqVd+6lOhAYI6er6byX6PoZaDVE=
+
+Name: birt/images/xtab_output1.png
+SHA-256-Digest: i39q3w9vRwe+GUBoA/lMcL0uGkyOzv/ctJNDV+ZttmU=
+
+Name: birt/images/grpt_selectcells.png
+SHA-256-Digest: Bf3DG85RRqIQdApCSHgJfVE9XPGSDzEs0dSO3i1WpZY=
+
+Name: about.properties
+SHA-256-Digest: 8elk0QIUC4XAqP4RVeQ1a3honAqvAf8Zu/nypg018rE=
+
+Name: birt/ScriptingWithJavaScript.22.01.html
+SHA-256-Digest: XQ2RB6V3IsezZVOQgWsV1XSMj3ax13cay4EmxdBysB8=
+
+Name: birt/fm-ResizingMarginsBordersAndPaddingOfElements.html
+SHA-256-Digest: JHUx0m51ZZExwZ+vHa00EcAmaR/U4M69ii2dUKUUyT8=
+
+Name: birt/images/mappage_3maps.png
+SHA-256-Digest: izmC/VtSIb21tmON9HGfwwNdvy+gc9ohw0xp1vo3g30=
+
+Name: birt/iv-HowToLinkTwoReports.html
+SHA-256-Digest: slCSMmHnqPFKCO+yEjS1Kpuxedy8plEPSrhq9P9kpEo=
+
+Name: birt/ch-TutT5ChangeChartAndValueSeriesTitles.html
+SHA-256-Digest: caq26Vmc1NPW4gHJuPBJR7L08Mgj8lXOD8D1Oc091as=
+
+Name: birt/fm-HowToMapDataValuesToDifferentDisplayValues.html
+SHA-256-Digest: R3Bkyfk/H4qXAGB++jlVno7TmyjpFOxiVs0+G/g+RdY=
+
+Name: birt/lay-HowToDeleteARowOrColumn.html
+SHA-256-Digest: obHjY9kVlPPWA+dJn2Nie7O7hySAuhTb5bKCDsRdD74=
+
+Name: birt/images/nosubreports.png
+SHA-256-Digest: w/xeQxyqfybpcC2S4aA+fLFbdEFvN7hLSYSDr5ODMCE=
+
+Name: birt/ScriptingReference.24.9.html
+SHA-256-Digest: cg7x+CcuMH0ygEthIErq2am8HdYujL3bLgp/4088cek=
+
+Name: birt/sg-TutT2SaveTheReportAsANewFile.html
+SHA-256-Digest: C9ZHiy/am4gQD1cpvf5ZAObyb1byb0V7Sie5+qpIRWs=
+
+Name: birt/Bullet.png
+SHA-256-Digest: fAm/naMio+GMkiDakOUQl0SAmU77nE2Km+gbdoR5vmE=
+
+Name: birt/images/Cass-OutputCols.png
+SHA-256-Digest: bhup+dGn+jjMDe0QR8aP0fC+zpGPk454ORH3/vVLJgs=
+
+Name: birt/images/TextAfterTemplate.png
+SHA-256-Digest: mJGX2pIR2/9aO4BH4PafYW9WQrGqpaU1ENNjAFaLFK4=
+
+Name: birt/css/getstarted.css
+SHA-256-Digest: ihamjQu9wZPgYxmsGkYVO1U64Bpz0gAHIn/LYkijlO8=
+
+Name: birt/images/pojo_SelectJar.png
+SHA-256-Digest: 40lnxsJnmKvd2bEu1mpZ3Q11H2lt1gAohxMpCCjz1CA=
+
+Name: birt/images/select_resultset.png
+SHA-256-Digest: /JJ2XwlY7LNWtBKbFbMgNHxkn143RRaLqfA1ENCYnOg=
+
+Name: birt/images/tablefilterwithparam.png
+SHA-256-Digest: a+Yopolpyq/7Owjm1Fs0NU5SxYpl/menRcBhobdqJ+s=
+
+Name: birt/images/mappage_onemap.png
+SHA-256-Digest: BFIeTpvYrU9xIuipJCFgocufRDq1OfzbmpNQFxZpSq8=
+
+Name: birt/images/proptoc-2.png
+SHA-256-Digest: Y8FtWf3b+fyF6++LRfIUtQkmN1K5bekSrllQ9vepJeM=
+
+Name: birt/images/xtab_layout3.png
+SHA-256-Digest: 0de5Zk9bBjAqUahtqh2NTEOAvm1X+94LLH6hGp6gSMQ=
+
+Name: birt/images/grpt_output1.png
+SHA-256-Digest: 4gclNqtG0dtAnAIYJAlEH9BDUWXgY/DWQhJhbhuX3VM=
+
+Name: birt/ct-PresentingDataInACrossTabIntro.html
+SHA-256-Digest: MmQ2owxil1ob230UByMZmQD+opMIldSOYDJrvbhxMMk=
+
+Name: birt/css/parameter.css
+SHA-256-Digest: u++hzl9a9KrSOdFBGj1IFpM56OpfE56mCVcVX6zOqHk=
+
+Name: birt/images/grouping.07.12.1.png
+SHA-256-Digest: CTgzmmy8LRwTUEyQyuiqjqi9x3ZTPDKqg6kSUP4FIvk=
+
+Name: birt/images/Excel-02.png
+SHA-256-Digest: ALXeix7nPBiq6AajiOp1BHmiV49oQhy0PEICQeMDzwE=
+
+Name: birt/images/cssbrowse.png
+SHA-256-Digest: Pp62hnFYDqp0hKc0PhFTABuPjfwIuuordUz/OCXN8XY=
+
+Name: birt/ScriptingReference.24.7.html
+SHA-256-Digest: GV9Pe3iyhQATv5hNtTFeYWZyT2LN5ZHTA4gVtxxUBcI=
+
+Name: birt/sub-TutT4BuildDataSetForOrdersSubRpt.html
+SHA-256-Digest: yAEH77R8F/QJNsBlW6zpsV+Plh2RZskAaUyhyX4QI3Q=
+
+Name: birt/images/grouping.07.07.1.png
+SHA-256-Digest: ADgaLbEo2VV9grHANR07GU8q+7K90apnEDvmYkb2LT0=
+
+Name: birt/ch-ChartsTutorialIntro.html
+SHA-256-Digest: HO6BVkXpJyy78x4bEgzkyQsl1lsRlY5kmUsFId1WmxI=
+
+Name: birt/images/ChartBasics.13.8.04.png
+SHA-256-Digest: KVx5LOBwFN5mSJb9zTHjAIehFxQ+L60fAUpln6fI6GA=
+
+Name: birt/loc-HowToAssignAResourceFileToAReport.html
+SHA-256-Digest: CAf16+u9rSKpdWwDf99vTuSZeJauXRBdSJVK91Ilkuw=
+
+Name: birt/cf-HowToFormatAnAxisTitle.html
+SHA-256-Digest: Vw2HZhMkhE0D7LJRH91+D6VZqc88525gjAIYmAnnc8w=
+
+Name: birt/ex-WritingExpressions.html
+SHA-256-Digest: yjfchg0xHKn+KffdqVeUA7jvDhXC0uIV5agfuhLlTf0=
+
+Name: birt/images/connecting.02.02.1.png
+SHA-256-Digest: 0lJRoDW2hwyZQxPOH8kZzJtINtLNGaLhgslF6o+BTVE=
+
+Name: birt/css/filter.css
+SHA-256-Digest: k8N2rx8JrR8HOYjYj6QaDFnFH4HRq3Z4Lzf9FIHSWOQ=
+
+Name: birt/sg-DisplayTheTotalNumberOfCustomersInTheReport.html
+SHA-256-Digest: /IYfAvem9I29FQAxZaJhvnE3qSE3TPYStbPZkWEErh4=
+
+Name: birt/ScriptingWithJava.23.3.html
+SHA-256-Digest: fmMgBRqNhQRgvpZ1vdeIYuM7SqqcnDVLzjYWC/uL1wI=
+
+Name: birt/images/expanded.gif
+SHA-256-Digest: 7pZsUG3jnPMH4q6ZIzmxHaTlMl22TxP7mYTxUx7IF6k=
+
+Name: birt/images/CHT_EditFont.png
+SHA-256-Digest: 19qAd7+HjQzNFOC/H4ZIFAsF/B5cyYnPq+bh6FAzXoQ=
+
+Name: birt/images/previewresults.png
+SHA-256-Digest: Z+lUebn+LF5soX4xW9IsZzTlZ0rkUha0fJgv3hua9RY=
+
+Name: birt/images/highlightslist.png
+SHA-256-Digest: FiNvtq2PFE9nwZJLpvx/1AOAjWnZDh9Nr0GWoUlAcEw=
+
+Name: birt/ct-CrosstabTutorialIntro.html
+SHA-256-Digest: AwLDuTk/6btNoSIbexsADorkGVuK9xPU1lOOLKqxeNk=
+
+Name: birt/sub-TutT3BuildDataSetForCustomerRpt.html
+SHA-256-Digest: kqn8rotXAvTt4POHJ1lYnfAKoIvmeBDKhwakaPWULHQ=
+
+Name: birt/images/format.06.11.1.png
+SHA-256-Digest: 8hoOIJNwNm0+Y4PSCt6tZQsK50rK4KI22Tgn5YFv3dk=
+
+Name: birt/images/localization.20.1.1.png
+SHA-256-Digest: sfjjt3VvL6Xne6MGZBjI+fkl396PSAR6qdQ6nNAYZPo=
+
+Name: birt/ds-HowToCreatePOJODataSet.html
+SHA-256-Digest: STv6ufFfi9vA2fLz0mw5BDdUYLeEVJyDvnr0W8lPd1c=
+
+Name: birt/images/CHT_P4.png
+SHA-256-Digest: UDqHtMba74D1Rsu8GQLRl6JmaUK1HzZd6j4w+Z8Oixw=
+
+Name: birt/images/Cass-Fetch.png
+SHA-256-Digest: Re/7ztL4qEwQkRcrAE5EE3rIFv87Aa1cN7+dWqmCL2k=
+
+Name: birt/images/jdbc_new_data_source.png
+SHA-256-Digest: VgzDz6NTDEfrDuUPrxgsXV9g723sz8XcohPUQT6QKE4=
+
+Name: about.html
+SHA-256-Digest: 6Fbu5rcTswd7m9KjaIXZkSlJiJ5y1vFXxTOZ0LbuL+4=
+
+Name: birt/fl-FilteringData.html
+SHA-256-Digest: OSrA9jHkEe1t5aKDwFF+O8yCeqy/pFNFtWz1DRJS6X4=
+
+Name: birt/cf-HowToSetTheDataTypeAndFormatOfAnAxis.html
+SHA-256-Digest: mB1anC48NZu65Nr0yS2eIH+zgH/c0j0wDg6tpfunUA0=
+
+Name: birt/images/tutorial3Shot2.png
+SHA-256-Digest: qzf+8k3ULo3Yfn+1S55HqIWu7bkw2ayN0KaZ7peOnQ0=
+
+Name: birt/images/CHT_TSelectDatatop.png
+SHA-256-Digest: ncBFSnFz5ML80PFw4IQ4rOy5h39WKpzkFoeb/u7LoBs=
+
+Name: birt/sub-TutT8LinkOrdersSubrpttoMasterRpt.html
+SHA-256-Digest: Vl/LP4rJYgShZr6xPrG/kSHXhGdHvv4YUXJIiBRLs94=
+
+Name: birt/images/dsparambinding2.png
+SHA-256-Digest: E15O3mBOas1aP4Uz0ifekQYtWH3ZuLu/5NsrmyBoKIA=
+
+Name: birt/images/CHT_TData3-2new.png
+SHA-256-Digest: APHCtvi7tpXnYkLn6eqshVyQrSkjEF58gQS6OvBlkWk=
+
+Name: birt/images/oprpt_output1.png
+SHA-256-Digest: cIMrAVSDyk6OyUTl85oVt8L3ZnU49qcoHcsi4kq2woo=
+
+Name: birt/ds-HowToSpecifyWhatDataToRetrieveDataFromMongoDBDataSource.
+ html
+SHA-256-Digest: dczQ50DNF0lyx9UKKxuL8TsJDP92UnB/p6GbR+sxXqU=
+
+Name: birt/images/Cass-NewScriptDSCol.png
+SHA-256-Digest: ad5MKCeM5fHdqExK0rG2QWkfYei0yQOaTtquRoAZ5yw=
+
+Name: birt/images/grpt_layout3.png
+SHA-256-Digest: 5HB5FpGIPGD74JtFFcjXuzjAGEbDDAY0Ft+9Z5sO/lY=
+
+Name: birt/images/propeditor_resource.png
+SHA-256-Digest: 24/ZPEIdEvL1FOlJsB4oARtowaXaWnfDKrV36fn+bOs=
+
+Name: birt/ds-HowToAddAComputedFieldToADataSet.html
+SHA-256-Digest: 0EaMjM17jSPZfztWLZqU4s1lfoCttwGc7eexU7sh1DM=
+
+Name: birt/images/seelflow.gif
+SHA-256-Digest: GstoMSMqiz7DX6ij3I07sNvPI18NPv0X1vwIgjsROy4=
+
+Name: birt/css/connecting.css
+SHA-256-Digest: hjsK3dmiEM8BpDZ4nH4VTGgzFLh3VG07NKWSQopHZaY=
+
+Name: birt/txt-DisplayingText.html
+SHA-256-Digest: 5cFUztYjhigv3EfvO0utJ3dXqM7n3UZBeRqq2skyYzI=
+
+Name: birt/css/viewing.css
+SHA-256-Digest: kJxNoxZx5XBsIUyR1lSrwX88sWwFCJIaD4L4kFta4i0=
+
+Name: birt/images/optrpt_tableindesign.png
+SHA-256-Digest: zu6Mt65N14ENmAzujmS9geuFs6nYE0xsvudW+pTE19A=
+
+Name: birt/images/ordersdsresults.png
+SHA-256-Digest: bGPWskYYiiH+fXalg2xmZuJeeEhjPYOhlPYRTrxDynE=
+

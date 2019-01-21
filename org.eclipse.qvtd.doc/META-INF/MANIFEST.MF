@@ -1,0 +1,175 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.qvtd.doc
+Bundle-SymbolicName: org.eclipse.qvtd.doc;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.qvtd
+Require-Bundle: org.eclipse.help;bundle-version="[3.5.0,4.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Eclipse-SourceReferences: scm:git:https://git.eclipse.org/c/mmt/org.ec
+ lipse.qvtd.git;path="doc/org.eclipse.qvtd.doc";commitId=05cd031218e3d
+ 914c10d18767617674e07645793
+Bundle-Vendor: %providerName
+Eclipse-LazyStart: true
+Bundle-Name: %pluginName
+Bundle-Version: 0.15.0.v20180612-1115
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: help/AppendParameter.html
+SHA-256-Digest: HsKKARjOKwMGTPFBJq2D/n6I7kGMiAZNt1cO/E3UTII=
+
+Name: about.properties
+SHA-256-Digest: o+DlGaJjZBehLYkohPAfOiRXi6RrW3lJ64SvXuYtG0s=
+
+Name: plugin.xml
+SHA-256-Digest: +T0EXwzsqzlhjgrgYr4blmiWabGSVavXE6Y/SQJRxTk=
+
+Name: help/CheckStatement.html
+SHA-256-Digest: tWGnpnoRMgdaCceplpzI/6Wqy45TrXMQfTGn6tWasyo=
+
+Name: help/MappingParameterBinding.html
+SHA-256-Digest: UienCXc0vlEz5F9QQfRf7eJrIBtRpqBV2rZzHDnTlvg=
+
+Name: help/ConnectionVariable.html
+SHA-256-Digest: iIsYLnxhtvYjEwzYm9CcL/P8uR5+EK8CpURsjT3J8ns=
+
+Name: help/GettingStarted.html
+SHA-256-Digest: W+oP7v/q3/GAGzWvC3qASiKhVabq3aNyn3F0vt8YDOY=
+
+Name: help/glossary.html
+SHA-256-Digest: TLcudBTytaTMcuAAbi5hNOF0iBkaYipqW7VFgX7SAIA=
+
+Name: topics_Reference.xml
+SHA-256-Digest: eil8qF+LaqKKZlKTpUcejW6R8hqucz3B1WllAncXnbE=
+
+Name: help/MappingStatement.html
+SHA-256-Digest: nflE03HmakapDannyDuV9lxytBRw7gu05WLS6qxyovk=
+
+Name: help/LoopVariable.html
+SHA-256-Digest: b+VEEtbsAhWjReLGV7lpXrNQuBcnMiRtYiXbDf/o5go=
+
+Name: about.ini
+SHA-256-Digest: eHHHTqN7Y2eiBZGYdFDZeacrMj29Mm7niUh+P3i42Ao=
+
+Name: plugin.properties
+SHA-256-Digest: EdBWuAfMbmWXNNkaSSC/R6Y0X7jrsQ80C4GfrYdmSY4=
+
+Name: help/Property.html
+SHA-256-Digest: XiRuf9q2Lar4PYKzrwyLlSGTBlnp4IWoT/9fcKPQ3Dc=
+
+Name: help/index.html
+SHA-256-Digest: PsiAzAiUB9aDdP3FamCb0CcVLq+ZlbpO4TZgZTb84jc=
+
+Name: help/ObservableStatement.html
+SHA-256-Digest: zG/G8nqtnxkER2XIycEs/rtqMVnrfF1dJzhV3weHNr8=
+
+Name: help/HowDoesItWork.html
+SHA-256-Digest: e438oPI0nFzzl/ePtBCQzGBPdXS8pKMKRthsTAd9rgs=
+
+Name: help/ImperativeTransformation.html
+SHA-256-Digest: iLLQAtOrQUdBHt8idH5OMjMjjYw/31yywKmEYM/73+k=
+
+Name: help/DeclareStatement.html
+SHA-256-Digest: yREtrYRdcLCSCubeKIZao8yZRZI13iKh1wSxogwuaEA=
+
+Name: help/Statement.html
+SHA-256-Digest: 2kyPgsyfU69VUUKBWKJoaojx+LzqI5XF5+MR2arSHiU=
+
+Name: help/GuardParameter.html
+SHA-256-Digest: iSdWqTu2g8f2org/yZzRDigKBifr2a14WSn+XVQcP4Y=
+
+Name: help/SimpleParameterBinding.html
+SHA-256-Digest: elvczy52r6/cixgLsRLxdt+mlZh0/CLO2tUB+P1LEmY=
+
+Name: toc.xml
+SHA-256-Digest: myOqcCpZMyxTyxfjNIUVI+bocZBuW095I8vFmTHIjGw=
+
+Name: help/MappingLoop.html
+SHA-256-Digest: yxTlVVJwkCGipEALH4Cp0Wu38uGli02sMEXaa/nNxg0=
+
+Name: help/index.xml
+SHA-256-Digest: UBvZ+cXwNvRRNmmfb5QgQeChgB8e97WovVNtE/Ah2F4=
+
+Name: help/ImperativeModel.html
+SHA-256-Digest: 2e1aQEkUXGGu6u5nVOwDzKq2vBVb2yYB4SfPQlMV1HY=
+
+Name: help/SetStatement.html
+SHA-256-Digest: uoy0ILa6JeUoS9jkam/Bk1sFl0IG/jrw+Wyf1QB8R3Y=
+
+Name: help/NewStatement.html
+SHA-256-Digest: IoVTfkkLsv5Q+3oL3qz7G5MIB2DMFv7yBvasolVtEOA=
+
+Name: help/VariableStatement.html
+SHA-256-Digest: +WjEUKVxpejzs85YmNJUDoB2B51RvkLCXshemn7vk0o=
+
+Name: help/qvtimperative.html
+SHA-256-Digest: pB3tln7AaYfM/efb2LsFrgiyGLDHarZhMzQOIB10MQI=
+
+Name: about.mappings
+SHA-256-Digest: wrAs2F9NiVQa4n7AD8U+MWyRkJ9wZpKtZAmiUf4ujjk=
+
+Name: help/Extensions.html
+SHA-256-Digest: 0rfET9KDq7Vrjmk/zouYRxlLNeLLXfxSxJib0KDZUUg=
+
+Name: help/GuardParameterBinding.html
+SHA-256-Digest: A0FGtMvMGSwe+iv6/NF0kpJQ/NJW/4DFTnLLm2jUbGQ=
+
+Name: help/VariableDeclaration.html
+SHA-256-Digest: V4kYeRGraA4HL8uqEHHIRe6blrL9O62JBCxx5SVfrE4=
+
+Name: help/LoopParameterBinding.html
+SHA-256-Digest: 9FYp/Iw/X7zQYvvLvWXCt5Q9MLPbs63VyEK9Oc89YTA=
+
+Name: help/Mapping.html
+SHA-256-Digest: 9/ai5LsH1PEmXGTratFXsR8rlieJIkSjXeFYfcnZXaQ=
+
+Name: help/images/QVThorizontalAlphabet.png
+SHA-256-Digest: LgMxKI8UsV/FA/FTwEOFwO+MEs7to78ApD4ur9DdLc8=
+
+Name: modeling32.png
+SHA-256-Digest: saSrfvJ79Uzl2BFpCbuVBho1UTuf14LrjD+wGJG44Ok=
+
+Name: about.html
+SHA-256-Digest: mgQAdJMKju8PMQdaZjcCtvx5x7lcv4mhnY5u10G9rEs=
+
+Name: help/book.css
+SHA-256-Digest: BVamdWOpxe/XVL7m3xVmShTNeCjQ7YTyvVCs39XQclc=
+
+Name: help/images/QVTrLaunch.png
+SHA-256-Digest: BD9vFDBbs6vYRTVvUOUZRa4Zw9oo+3bXGzNfnLIdf4w=
+
+Name: help/OverviewandGettingStarted.html
+SHA-256-Digest: +o22wkicmdXncKEguBQXUNGALS5Nv4nfO1G2mrbs5Fc=
+
+Name: help/SimpleParameter.html
+SHA-256-Digest: puBKVCx2YOBNNU4OzfGf5WbIfWJ98RDUusLbykamXRo=
+
+Name: help/AppendParameterBinding.html
+SHA-256-Digest: 9+kBTi/1dw6XTJ7zzojOxSd/FdQ0K+q2wOfkTTIk6yI=
+
+Name: help/BufferStatement.html
+SHA-256-Digest: fO7ovVOEPplaqI0f5h5XZcTUjGQSXpivWyka1zK4uDs=
+
+Name: help/ImperativeTypedModel.html
+SHA-256-Digest: +G7tdoBFOt65gUISDKW0xopWHUi3UOc1+YhjdqujdKI=
+
+Name: help/MappingCall.html
+SHA-256-Digest: Lx5Xh5YsSA3HLOI818syQS6+/ZVwRUyNVoOFuH+SkaY=
+
+Name: help/images/QVTrProject.png
+SHA-256-Digest: WIspH500IIkHL+G8uaLLQjpfYAIGgT6SAUKOr5dLvSo=
+
+Name: help/pivot.html
+SHA-256-Digest: LBoblID0v5xq++qaxHIo2Q4YzgDYN8BU54SDsrH5oxM=
+
+Name: help/WhoisBehindEclipseQVTd.html
+SHA-256-Digest: BWkpAN56kd+Ji96xZ+W42BHJRzHA4Pe6guQ1uVENsSk=
+
+Name: help/images/QVTrEditor.png
+SHA-256-Digest: SxIC+R5KsR80j3cE4xBm6S8TcdWSkFHtu5Cl3gPR184=
+
+Name: help/MappingParameter.html
+SHA-256-Digest: OT1FVYymNKOoqL4XxEPqkHZdyHulKGulsSexA8ZBGlw=
+

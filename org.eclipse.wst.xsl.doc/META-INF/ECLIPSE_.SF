@@ -1,0 +1,233 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: +OIhuds8e7+rin4BfQACEtWoSUToc
+ awG66pD4NxWHUY=
+SHA-256-Digest-Manifest: X6cUF2XkuH7NOPf+SFD/+wd/m4AKg5usyKtfZend72o=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: html/images/launching/XSLDebugging.png
+SHA-256-Digest: c++OIjvCJ2Bqr668jzo+zSsHr+Nwn0L6kg0FMEp1FXI=
+
+Name: html/index.html
+SHA-256-Digest: 3AAHhzqDwFX2O80vHk4Y4l9Gjr+rJ8jtm9EMD9UlVNg=
+
+Name: plugin.xml
+SHA-256-Digest: GUfE8YpWXiYHOmBT/xGJmhyXFjwqVnz3MtkXksb9iEc=
+
+Name: html/launching/debugging_processors.html
+SHA-256-Digest: ZKfT3RiNCDQ+D4o1ZWorhXqJ9Hm1khb7Yy9SIMVlNaU=
+
+Name: html/introduction/gettingstarted.html
+SHA-256-Digest: hXEznGuYSJ816VFYQlbd3+rWUW1dEuXw9ubTXGUQ4B4=
+
+Name: html/concepts/resources.html
+SHA-256-Digest: OLIdD6SfT7RkboYSQ9otsKo56ZwJuemu6NqEQhhGDMo=
+
+Name: html/images/preferences/projectLevelValidation.png
+SHA-256-Digest: AOwyhsRRhaR/AVpx7vkfH+R+spN2Q1Lb/eSLDbTUSbw=
+
+Name: html/images/preferences/xslpreferences.png
+SHA-256-Digest: qxDxo4E1/HKhZuVSfPFL3lLOvF+eSmBn5pqo+HhNlGU=
+
+Name: html/concepts/concepts.html
+SHA-256-Digest: xT5rV19ENrbalw0P9FjQU1kGQou1h6XtGYzomegeJOk=
+
+Name: html/editor/xsleditor_contentassist_namedtemplate.html
+SHA-256-Digest: 7ztJtpUiP5XK5V4UX3rPFcOOVf2IhIHHzJADzYcKlgo=
+
+Name: html/editor/xsleditor_coloring.html
+SHA-256-Digest: 0rCYO9Eevv8qT78h7bZkjy0TBQhkFDtL0OUKy0zxLgc=
+
+Name: html/legal.html
+SHA-256-Digest: hBUYuLU23UnEWkiFPRnZsjMnSEpPUkmQMz73p0vKCHU=
+
+Name: html/images/editor/calltemplate.png
+SHA-256-Digest: 9pzljtMQDTQcugBS/+SgpYmcQ8gCS+dPVqFPPdxTFNQ=
+
+Name: html/launching/debugging.html
+SHA-256-Digest: Oy6d8lu8iKWcabmvU2iqj4yHc2Q3zhXk8InW1u3tnJA=
+
+Name: html/preferences/xpathimport.html
+SHA-256-Digest: nq0qNx+utMl/ciPZcZ7V9M3mW+oBXEUHj1xd+diO51w=
+
+Name: plugin.properties
+SHA-256-Digest: /PJFio22Hl9/L/bO7+HPIiVGFr7tQnx8mS9sPk20gXM=
+
+Name: html/images/preferences/xm_template_xslnewfile.png
+SHA-256-Digest: 4bCPV2B9P9PzRfL+4tb9X0ZxvCoXurWx+lUJIYrP9Cc=
+
+Name: html/preferences/xslpreferences.html
+SHA-256-Digest: eIZGj8J2toEmB2pBMJjpcbSFb0lA/e3CfC9CrO9Emco=
+
+Name: html/editor/xsleditor_templates.html
+SHA-256-Digest: i622q0FCjwmTNUhfa5ywkysw/VCRr56hL2TIY99zxkQ=
+
+Name: html/editor/xsleditor_debugging.html
+SHA-256-Digest: Tvx0nszbgsvTeN1BMNV97sb7dEDabYrGXOxzqURVxF8=
+
+Name: html/images/preferences/xsl_outputproperties.png
+SHA-256-Digest: 1u0yShIVBOEmfnqov/eHcFO2AcJOOYHUeex7lC+JrrA=
+
+Name: html/images/preferences/xsl_InstalledProcessors.png
+SHA-256-Digest: cQ2nkWa1uFG7Gg2GQ3NtLsPs/5lchTUIEnQJCsbY4mk=
+
+Name: html/images/launching/XSLOutputTab.png
+SHA-256-Digest: 24oN6x9fhhWB8MFRzrDrFaE0ScfAIOZ8KlPxI2Hfl9E=
+
+Name: html/editor/xsleditor_contentassist_exclude.html
+SHA-256-Digest: 975hH9i8b9tDvXp6qWu7COo2lz2h+ysIc18agjPxlAY=
+
+Name: html/images/editor/namedTemplate.png
+SHA-256-Digest: zLIeRukZMs7isvgIVduEhQEbGz3OOabfMgKowUTYJT4=
+
+Name: html/images/editor/ExcludeContentAssist2.png
+SHA-256-Digest: nZ47ioGbDW+YzEqy3X73cM8kTDXUWvyeYUod2qIhiqw=
+
+Name: toc.xml
+SHA-256-Digest: X8HK1VeHnfmA1WyEwYwAgD6sTA/w+9Eb+dhCNil+UbQ=
+
+Name: html/preferences/validation.html
+SHA-256-Digest: /qon09K4IRlbU3zI5nsjwoG/WUCAKARtE9OakI27fgc=
+
+Name: html/about.html
+SHA-256-Digest: Bn6CFxP005xZhUgUEvuMJfKh133f4VNhUy8GVzX8RwM=
+
+Name: html/editor/xsleditor.html
+SHA-256-Digest: gVlNH1rHAvpjnSoajI+mSDzY5mizj3vw2fzLK1Nw4QA=
+
+Name: html/editor/xsleditor_validation.html
+SHA-256-Digest: RuwpqalDEJve4vkO3jTyqpB4KG6Qy1v+YsZGu52dsvo=
+
+Name: html/preferences/xpathtemplates.html
+SHA-256-Digest: 2IZxRY6UjTolcY08qv/kojk7KWIFI/Ww9cIqZtalXoE=
+
+Name: html/preferences/syntaxColoring.html
+SHA-256-Digest: Ebo72TLsNMIDXw3/LYD3ao6XMcEAkqFEvqgQOljsOLc=
+
+Name: html/launching/debugging_common.html
+SHA-256-Digest: 7/GY/pyAXYATTlXtbKbNfzBEt588poJtcKxIUkuddHo=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.xsl.doc/pom.properties
+SHA-256-Digest: E4/FQCgZvCKzIg8i+wV5qXCOzjF11jX6UtB0ME6dP1o=
+
+Name: html/reference/subtopic2.html
+SHA-256-Digest: 5+Ll/wB9BDIjS99CYx8+niRAM0FX6s7QRza4yR4ad3s=
+
+Name: html/images/launching/XSLRunDebugConfigurations.png
+SHA-256-Digest: 79eey909kvMf15AkUZaCBP/5Fpni1+XcNMP4vb7CO5U=
+
+Name: html/preferences/xpathexport.html
+SHA-256-Digest: pwfq9ilFJf0c4neDJQpxYG2JFH0DBfyCOnAyFbkTqFQ=
+
+Name: html/images/editor/override2.png
+SHA-256-Digest: B9wkzrmHflTbJHCZMLgyN3Z8CBMXFZjSLEQ8e9jUFC0=
+
+Name: html/images/preferences/xslfeatures.png
+SHA-256-Digest: vdoSJMHrw5iJM26P7PeAj+Bqx49Eh1mpGV0ExrY5rwc=
+
+Name: html/editor/xsleditor_markers.html
+SHA-256-Digest: s7TX7UTUQpEqqMWi1Q2DZQrUD8rogxgP7t+Gt4owu2k=
+
+Name: html/images/editor/ExcludeContentAssist1.png
+SHA-256-Digest: DPOct3obid3JbzcAigniDI/sXZBqu5N3oMFuoLDB2sY=
+
+Name: html/images/editor/hrefAssistance.png
+SHA-256-Digest: pZprALkzCalcv/zVnv5fPRou4mSvGFXBpADT+sKgmrs=
+
+Name: html/launching/launching.html
+SHA-256-Digest: l2HylAlzASOxXyvX7DS9a6mXZjU3+U2lGAYz82ul4Ww=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.xsl.doc/pom.xml
+SHA-256-Digest: fkyJFFI0cK8GgjEr1uWkPLihcS+Kq+7lx2x3ShqDTzA=
+
+Name: html/images/preferences/xslSyntaxColoring.png
+SHA-256-Digest: AWC67I7r2t6li1L2/H7gKtrWxV4eAhQfEcX1cwGyIcs=
+
+Name: pom.xml
+SHA-256-Digest: icQ+C8kUQOnBy55ivh0eUe27JKa1qfNqk6LXWLZweag=
+
+Name: html/reference/maintopic.html
+SHA-256-Digest: +25pLe7h1xeSK0Syo3LABK6bEpvMcScY/H2U67kpgtg=
+
+Name: html/images/editor/syntaxColoring.png
+SHA-256-Digest: yca5I2VQTXecaR7JleFILmL5eDhGlfHDTeEDVtwBz54=
+
+Name: html/images/launching/nodesetVariable.png
+SHA-256-Digest: WRW4KTtet9OElM8h5mdE7dsB5BxNrVWCLRlf54MmlvM=
+
+Name: html/preferences/xslprocessors.html
+SHA-256-Digest: j8R5NB3nlEUjCErAew0zEwTMG7oKOwfvHZ0/RkxnZtY=
+
+Name: html/images/editor/xslproposals.png
+SHA-256-Digest: OXgxr9wdeYq0H+Dc3HDE6aS7kWtPn8s7jna/72RueIs=
+
+Name: html/images/preferences/XPathTemplates.png
+SHA-256-Digest: YWhWz6nT+5yDqBZrGVBRaLVH6p6fe6ik6ylAiUShuQ4=
+
+Name: html/launching/debuglaunching.html
+SHA-256-Digest: YKixXKfNpF9gdy96jzlgU72CgvPquWk5Cq40zUpmPIs=
+
+Name: html/images/editor/override1.png
+SHA-256-Digest: ih5c3kxU1DCaZgAF17JrpYjXb4uEIS1n7HjOI/l4TDU=
+
+Name: html/editor/xsleditor_contentassist.html
+SHA-256-Digest: TF2JWyOSYRwPSFd/M1UjO/D909NjI46IltEuVi416qM=
+
+Name: html/editor/xsleditor_contentassist_modeassist.html
+SHA-256-Digest: XsC4Kxq67CjXhwTWd3QWL92oH+1j3mr7pC1cH9PcvBc=
+
+Name: html/general/general.html
+SHA-256-Digest: kRYtZMHpxcbEFvUSfaS7LdcHHQZPcUZU7Y7bsHWyVLo=
+
+Name: html/images/launching/launchShortct.png
+SHA-256-Digest: bat8ET9pNMPo1NVRkJYxNhr/M9AXMeL4dkgd0UryyME=
+
+Name: about.html
+SHA-256-Digest: KhIdYdENj7BfcgvmdGPcVeTOdBsyuntM3zuL+BGsu+Q=
+
+Name: html/reference/subtopic.html
+SHA-256-Digest: nikaxdYGgFly1o+6j0NKQqsomTIB4hvPao/Go+Au8Cs=
+
+Name: html/images/launching/resultView.png
+SHA-256-Digest: j4REV5fY8dE/AOqVO7M0dZ/czy8FZ7CT8/Y2Y028WLg=
+
+Name: html/images/editor/modeAssistance.png
+SHA-256-Digest: 6pPHQvCaSOtu+m4sCZamWMKCJgDqM0NnB+VJ5rOMG38=
+
+Name: html/editor/xsleditor_contentassist_include.html
+SHA-256-Digest: dHXdpv/SiQHhPCJysRmvc+fw+Z1wF/wSvma/i4mHe7o=
+
+Name: html/book.css
+SHA-256-Digest: I4ks9agibLF9GuHuRu5n3vaaCLdi7nYdIswUDt9wwh4=
+
+Name: html/launching/debugging_variablesview.html
+SHA-256-Digest: TB2oooAS+44pgwKwi7KhynYsdIcMAiHho8UN/LJ6DUQ=
+
+Name: html/index.xml
+SHA-256-Digest: ERG4JOHdCexLKXad3kMf2czFwUaXJ2C7b+zYBvix8O0=
+
+Name: html/samples/samples.html
+SHA-256-Digest: I4hUMTch5rhez8fAOEAvpTD2cZ+nM7wL1Whn1TCvXog=
+
+Name: build.xml
+SHA-256-Digest: gzaGR707ra/B1gotfy02Ds5GrbcfRfeF1d2iFk9o4tM=
+
+Name: html/images/general/xinclude.png
+SHA-256-Digest: 48eQQQ61kmekb393GwDtDi9tV+CKIVOYeLQdeAA0MgI=
+
+Name: html/preferences/xsloutputproperties.html
+SHA-256-Digest: URW0uSz1KtEavYlB5zvAhsI4MjYi/0aSo/FycCFboj8=
+
+Name: html/images/editor/templatesView.png
+SHA-256-Digest: tXurxaphGnUkqvlmF8yMxpQ5UGm3PkMceD8sUiA9a+s=
+
+Name: html/editor/xsleditor_contentassist_calltemplate.html
+SHA-256-Digest: mFyup9iaQLp7PBSeVh3UTsnYa6tx0jpwKnTAQ/JoA2g=
+
+Name: html/editor/xsleditor_contentassist_selecttest.html
+SHA-256-Digest: 3cYWYFeOg+1hEy7kK7KKbY7PfCimpecZokyomQnWqn4=
+
+Name: html/images/launching/XSLProcessorTab.png
+SHA-256-Digest: kBFRgC6tiS0zL++1vn6MjPvPMXzYhvNdf2WejIwNAe0=
+

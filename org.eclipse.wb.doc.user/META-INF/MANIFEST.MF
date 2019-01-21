@@ -1,0 +1,1295 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.wb.doc.user; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.windowbuilder
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-Version: 1.9.1.201710100405
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_131
+
+Name: html/userinterface/images/palette_extract_as_view.gif
+SHA-256-Digest: zyCpzcnvfdYCnXD7M5emC+uxg4Cs9l2duGcTa7/XjRs=
+
+Name: html/features/images/menu_editing2.png
+SHA-256-Digest: AdKl46M+6EpKnU5qMdxYuWcA/VUb3AGeWaSUArg3mWU=
+
+Name: html/features/images/visual_inheritance_expose_property_menu.png
+SHA-256-Digest: VdllUVCcMWyEEQxgekn7xnoMeA8b0hU18scgomy9OAM=
+
+Name: toc_installation.xml
+SHA-256-Digest: l49Le8stejWjZeTyjT2tW/nX/1XbxtrZ5NxyWJAY/r8=
+
+Name: html/wizards/images/wizard_menu.png
+SHA-256-Digest: f4SefaSt451YyQjwi0NFZ1ryNTuwglcUESJmWu/JbIs=
+
+Name: html/whatsnew/v650.html
+SHA-256-Digest: yxnIpx1s6j9oZXDCuSf9EC3zBTzLEkXxh1oB1wlquQo=
+
+Name: html/userinterface/images/layout_assistant.png
+SHA-256-Digest: 5bJ1MVcltStmpDqEMHkRLFRd354KGhDurSCs7h7SipA=
+
+Name: html/features/visual_inheritance.html
+SHA-256-Digest: 7ua6j4tSuEIoCH6Q9eAzSUdabV5YVxYrYwgRhH1qlD0=
+
+Name: html/error_reporting.html
+SHA-256-Digest: gqY1XW9pdYiic2mN7SZJEl/LtwHB6SoEfSTXpQVEaZI=
+
+Name: html/userinterface/images/remove.gif
+SHA-256-Digest: rvefCbcrUR7ReYbQDqo/8ahlei306gYBodoRMulQkd8=
+
+Name: html/installation/images/install_new_36.png
+SHA-256-Digest: Xt6TYNw8N+DymB3e3tUmheMOjuB1RYmzehs6QCcAjZM=
+
+Name: html/userinterface/images/align_v_bottom.gif
+SHA-256-Digest: tI7IKCanhfV/zjVoWQEav48nu2Vo0xtCuC4Z7wB4Ia0=
+
+Name: html/installation/images/wb_updatesite_features.png
+SHA-256-Digest: I1j0RQhGata0q1Yi9rwQKGGpYq4qdG36Wkv9DK2GHNY=
+
+Name: html/whatsnew/v600.html
+SHA-256-Digest: xnIaKArNwVPjqTLi8ApkdWvXqmX4tfWIRUWJo5URzHU=
+
+Name: html/userinterface/images/property_editor_point3.png
+SHA-256-Digest: JtjFDACD9IOyBmFYvnrxn7fMJmbnlVdRt3IfJLMe6Fk=
+
+Name: html/userinterface/property_editor_rectangle.html
+SHA-256-Digest: g/884ALqv08ye4AzvmF4lyjCf3xCZGnx/EgiYatAftE=
+
+Name: toc_preferences.xml
+SHA-256-Digest: +cCAbW5diz3Gn9buipminZRKLOeo44dutcn67Oj6PHk=
+
+Name: html/userinterface/images/change_style2.png
+SHA-256-Digest: lXbr8R3pMRnfgfQMy3p3V8H5ycqjblNq4kuSL4H44B0=
+
+Name: html/userinterface/images/filter_advanced_properties.gif
+SHA-256-Digest: tosmBXu5fEz/e8qHzQq0DHAk/IeCH3MP1w9qKL4Fq4M=
+
+Name: html/features/images/nls_select_messages_class.gif
+SHA-256-Digest: kFPmphKB5wT0Jea6wHXNbFRG+uzS1ZGCl5PRaYrFbAE=
+
+Name: html/userinterface/images/events.gif
+SHA-256-Digest: 0GEeotbZCxfESVzrtFIhEgktrQgwHXJZv/ZXvdXfqRc=
+
+Name: html/userinterface/images/event_icon_decorator.png
+SHA-256-Digest: bWl2eUazftJjcncYEm1UX1CwT+N/UUyncKKMeoGKcnU=
+
+Name: html/features/images/nls_button.gif
+SHA-256-Digest: /YZ+QvYuTi/sTF2l/gq4Wsg5LVAlbVoAnpifG97+pj8=
+
+Name: html/installation/updatesite_3.7.html
+SHA-256-Digest: DuYkEt3CFL40jMZJhQ3Vg0cwPie2VSNX0TJRSSOXwVs=
+
+Name: html/preferences/images/new_wizard_uninstalled_toolkit1.png
+SHA-256-Digest: V7vBzL6RN/QgMbo8jSvoI7JDn5uhlLwCzfpNiHglFO4=
+
+Name: html/userinterface/images/wizard.gif
+SHA-256-Digest: vu8rxu2hCLZxnb9/5AV31ouD/3FS20fgHPYwcHrFNZI=
+
+Name: html/images/screenshots2.png
+SHA-256-Digest: 0ZkKdQOFOoHp9pkptFEYQ1EEMmY051addyAZ6kEkuOM=
+
+Name: html/preferences/images/palette_view.png
+SHA-256-Digest: 7bXSOZz9b1VIbym1UqukhE8aP4c1f6u2RYRZlDr45Ww=
+
+Name: html/userinterface/images/exposeProperty.gif
+SHA-256-Digest: W0T/r8/IHRLOIqI11CViuBtvleCELlReJmXvVl5WGvA=
+
+Name: html/features/images/nls_new_source2.png
+SHA-256-Digest: CC+lDX0+Jzju62/DMII6kchzJOE9ojGYooi182Vlx00=
+
+Name: html/userinterface/images/factory_new.png
+SHA-256-Digest: eDE+y1L9VZeM2dRxjGbLVtmm4Sr9p9CjKH6Qba83yIA=
+
+Name: html/faq.html
+SHA-256-Digest: 4gRKIszeGuEqaoz1XJSVz49ikGrjHeHDB1iqtcR4+YU=
+
+Name: html/userinterface/images/property_editor_string_array1.png
+SHA-256-Digest: hd5vJYhcKQvoLi7r96SRWUrvGBxhyJ+LCBHzMY3MPVs=
+
+Name: html/userinterface/images/align_h_center.gif
+SHA-256-Digest: PTRAQIPqbWnlmK86Ggp908Rqeg3aalIPGTm/60HTkGQ=
+
+Name: html/userinterface/images/palette_import_jar_archive_dialog.gif
+SHA-256-Digest: ZEfeW24HVUs5Kc1xQZEy5HPjJYU7tHP3rfyGP0V4KV8=
+
+Name: html/features/images/morph_menu.png
+SHA-256-Digest: /p9qGTWREuTpVtp0LDHhN/HtgAYDoC80lVUqj1KHBy0=
+
+Name: html/whatsnew/v730.html
+SHA-256-Digest: aWeUCh/MJRzdgincQcKfshWrWV4n44ZnQ5X6mITIJdo=
+
+Name: about.mappings
+SHA-256-Digest: D+I60SvvlazMJJZRzVe5gmqQKF65gQJpgMOyVnBwGrU=
+
+Name: html/userinterface/images/property_editor_taborder2.png
+SHA-256-Digest: Ni2WERYDEmbPj0+i6pThBD7CqWjZbRnTw+nX/wRFShE=
+
+Name: html/userinterface/images/property_editor_string3.png
+SHA-256-Digest: MsMwGrxBMl2Sii7IcgcgU6CJSUtGwqRoK/nMqwegkRU=
+
+Name: html/userinterface/images/rename_convert2.gif
+SHA-256-Digest: z81JjgugLkDr11JPa/lRaw2RbYPPndqibdLvbXpM3q0=
+
+Name: html/features/images/nls_externalize_strings7.png
+SHA-256-Digest: DlmiyOldsaIqMag1vuCoo+f8Yy0ZS076PGUm7SK/3f4=
+
+Name: html/userinterface/images/add_static_factory_dialog2.png
+SHA-256-Digest: sfWiS26p8R4Z20DnEr8jaIju45J8Q3RkVT+UeujEY1s=
+
+Name: html/preferences/preferences_usage_profiler.html
+SHA-256-Digest: Z2+mCuVqYPT0i0aNOyP2ECBSgWGzeewYRktsEGv4UpI=
+
+Name: toc_userinterface.xml
+SHA-256-Digest: T9GHpSsIN/vFaS8FynICe3v2kscKKmPdli1GRlu8JCg=
+
+Name: html/userinterface/images/marquee_select.png
+SHA-256-Digest: ZiRv6fVJ7uxSJ7PX8oLmt8n6JqJQv+yD3qZrqeZmOWU=
+
+Name: html/userinterface/images/feedback_drag_grid1.png
+SHA-256-Digest: UgTcDjC+Qgt5jAwbIsdxoB/nRn/6d+OCbaICiomumpE=
+
+Name: html/features/index.html
+SHA-256-Digest: aKs5ox3YrUviJmTtKu7vrlZD7meaCsY/AMxXSZn0wCE=
+
+Name: html/userinterface/images/expand_all.gif
+SHA-256-Digest: +j1I96wTow/LB//yzFnctzfsJeguQl8CDw1EWNw/AUk=
+
+Name: html/userinterface/images/align_v_center.gif
+SHA-256-Digest: +jd3WVHS8Xrx1hrSctsj8FKB5Ci7/ItPsRpyvv+xfxE=
+
+Name: html/userinterface/images/listener_interface.gif
+SHA-256-Digest: Bo2GrFb/J6TQQVFz1E3Jl4Vc9f0ix4FxfaqT2rp4ilE=
+
+Name: html/preferences/images/new_wizard_uninstalled_toolkit2.png
+SHA-256-Digest: 9DW74pZXtc0vCWFJWPgBatcchzSKV5DNGufWDVeDv9U=
+
+Name: html/userinterface/images/export_palette_dialog.png
+SHA-256-Digest: aYe9xDXk09jYyE7p9WyxeEZ75UkT/k59/r5lfMkkpNk=
+
+Name: html/preferences/images/enable_usage_profiling.png
+SHA-256-Digest: LWSUqjsyJqEQ55aZjyjZoU/Ihe6s76swDwBhYbghEUQ=
+
+Name: html/userinterface/images/feedback_drag_grid2.png
+SHA-256-Digest: YAK9zVElKcl3JXI4CM9wAe6aHjMXAj/c6vLE9e+ytdQ=
+
+Name: html/images/screenshots1.png
+SHA-256-Digest: 6H7M20gbtYQCvuCYte6ffSGYxOETKp2RYkHDuW2jVaw=
+
+Name: html/features/images/nls_new_source3.png
+SHA-256-Digest: V0tl+KrFbQXiTC+Tu+NluFUQw6xITotvAzyI+0vKu/s=
+
+Name: html/userinterface/images/plus.png
+SHA-256-Digest: b2/kpWveHECHA8OOLuDEs2p5ZbQQ6Om6PaSoW5ye+IQ=
+
+Name: html/userinterface/images/property_editor_color_system.png
+SHA-256-Digest: t8crsKfWrHYQymWn5SlCIqZwafSPSUkmq/jH+/A9ous=
+
+Name: html/preferences/images/preferences_windowbuilder.png
+SHA-256-Digest: WdNPaEycU+885lZ7zmKb8JM26G9qWhv6QBeNv/vx6os=
+
+Name: html/images/reparse_button.png
+SHA-256-Digest: d+MYWFukprwR1FI9ov4Bhub/YVf7whg6Ix59nb7nUaQ=
+
+Name: html/userinterface/images/existing_class.gif
+SHA-256-Digest: T6WjPpFNt9B55MJBBaLiy7bqx38J6plmOIiOcJup7Ic=
+
+Name: html/userinterface/images/align_v_top.gif
+SHA-256-Digest: VJl5PwF5G0l+uz0Dy5OMsM8s2KDQ5xRiVGVwBggtIAg=
+
+Name: META-INF/maven/org.eclipse.wb/org.eclipse.wb.doc.user/pom.proper
+ ties
+SHA-256-Digest: ABRy61KBRpNRB/q8GXzdYwA2REA3JO+qWTVF2nnxK3A=
+
+Name: html/userinterface/images/property_editor_point2.png
+SHA-256-Digest: uP/B2/9oOYtalCW+iR8DFam1rl4DDVkZg37Lu2mfitU=
+
+Name: html/whatsnew/v811.html
+SHA-256-Digest: 0DoOKazOEFXjubNHJVnYlXk8Ji7Rcw6QzGs/nwZBvN8=
+
+Name: html/userinterface/images/property_editor_color_named.png
+SHA-256-Digest: a18Y9cBEyqF8aX+h3G+n0/7Iwcq8lqXzq+F1ADk9qwg=
+
+Name: html/preferences/images/activate_page2.gif
+SHA-256-Digest: phcshYelA7TWpO2Ss3o0qDb2WqhKIFADhkWiY1tbcxk=
+
+Name: html/images/create_report_button.png
+SHA-256-Digest: r57qXJHh2edbV3s66hi5fc9kNdHIma9Lk0CMcW+NdW0=
+
+Name: html/quick_start_swing.html
+SHA-256-Digest: Ic0XFcOIHJYrxzkCRM1gooF9pBaTdcRuLWvaRKcbhGw=
+
+Name: html/features/morphing.html
+SHA-256-Digest: WMgx6FvzqGgsb6YyAoyKAV0hs1myjXTPq4TRvxSgqMI=
+
+Name: html/userinterface/images/send_backward.png
+SHA-256-Digest: cFQECNtCDc6lsYPAjkvCaup3/NRdoa12Oe3sn1JNnsg=
+
+Name: html/userinterface/structure_view.html
+SHA-256-Digest: ZggENz8XK4z5tmpfyRmm8+dZv2kWnHbqcznphfzS20A=
+
+Name: html/userinterface/images/change_style1.png
+SHA-256-Digest: 2alDxVmZjwhOqt7LBjsTmnX2IsrK/PaRhurqJqM53uM=
+
+Name: html/features/images/create_factory_dialog4.png
+SHA-256-Digest: rJYgFmBsPAF7qkaNGUWeC7McxPtMlBYBZTJDQ/6P/iQ=
+
+Name: html/features/images/create_factory_dialog3.png
+SHA-256-Digest: Vn81pcrkoYauiSa99+iuc5dSdLzI/0ar9CO2sHcQ6Cg=
+
+Name: html/features/images/open_with.gif
+SHA-256-Digest: Qz+2HIyVkY9Shmyy1ETT5Mw1H8VDDuAd6cdt4+D8QZE=
+
+Name: html/preferences/images/hiding_before.png
+SHA-256-Digest: /rsSM8SeR7WfBszcd997q9AhSa2xZEnoZaNDyzkT+zk=
+
+Name: html/userinterface/property_editor_string.html
+SHA-256-Digest: 0y3ofR28OLrVsJZEoVvgtdsVV4q6AqUwRmJkFCdoAIk=
+
+Name: html/userinterface/images/palette_workspace_jar_selection_dialog
+ .png
+SHA-256-Digest: vcUcA/zJ35cEw7m6qPJlKAlgdPamJKLc9jq8B0flXps=
+
+Name: html/userinterface/images/import_jar.png
+SHA-256-Digest: 8vNvUnOWEazSirCaGRRjJTKLl89AAnR6omLwcf7EqjU=
+
+Name: html/userinterface/images/property_editor_string2.png
+SHA-256-Digest: oE0x9NUikaQq8wTdG6stGdnUq3xxc7nMeEmG/srG8XA=
+
+Name: html/features/images/nls_source_view1.png
+SHA-256-Digest: 3B8k4uTNsoyfKF/3roUGi3j513TTvgPPX35yVWsuKTI=
+
+Name: html/installation/images/installed_software.png
+SHA-256-Digest: oiNPnZfWpFJUj8HVCVAemx9vfjThpv1XA0GkJ3eD4ao=
+
+Name: html/userinterface/images/preference_transfer.png
+SHA-256-Digest: vjmmgjKaa+ejE/84RJA4HmApyGWVuCwMluD9arcq6f0=
+
+Name: html/preferences/images/activate_page3.gif
+SHA-256-Digest: epqnHOfrrl5ye8ZC+qLRKAz41dDSd+/5OmXjo6+BXaw=
+
+Name: toc_features.xml
+SHA-256-Digest: 4V9uB3kwExFPN48rf5RljLxkRCx+1JtF5bYFXFCkBmE=
+
+Name: html/features/editing_existing_window.html
+SHA-256-Digest: OvZdclI+tRUWcatqzNk+Ue941QEqBBGoWA2OVoboa98=
+
+Name: html/userinterface/images/property_editor_font_derived.png
+SHA-256-Digest: P16soM1HI0wJvbTfhEdW8H6FfrynEJoElOedB2a05HE=
+
+Name: html/userinterface/images/add_static_factories_dialog2.png
+SHA-256-Digest: wuo6Dnk+ZS4tDIDLvAaQaEdbLl9Ke2UxXktRbXbmKB4=
+
+Name: html/userinterface/images/property_editor_color_websafe.png
+SHA-256-Digest: kwxrds1l9lBpi9XHAwJPZVmltx7u13R57yWKX2t9flg=
+
+Name: html/userinterface/images/expose_property.png
+SHA-256-Digest: BU3F46DuMorHbL6tLzKKoc8UyvBiG9A587mXfUx4YrI=
+
+Name: html/userinterface/images/edit_palette_component.png
+SHA-256-Digest: 5wyKcCkSys/KVmFq2RDrpa7Epu+nVIqvivzzTqSzM7U=
+
+Name: html/userinterface/images/bring_to_front.png
+SHA-256-Digest: NuJhtcyiAmMo71+EnuDNNBPNlX01csVFLQX7btpBOgM=
+
+Name: html/userinterface/images/add_component.gif
+SHA-256-Digest: XZqbDapo0fT98Xc+AFUb9ynhG6LflQ5keEYaRMC3/X4=
+
+Name: html/features/images/nls_externalize_strings1.png
+SHA-256-Digest: AnwHpsWkEwdz9KljSmr7ehDm0AygEhxV29QW9Gn6vCg=
+
+Name: html/features/event_handling.html
+SHA-256-Digest: qiczmeGcqwANn77rb+6phpVIaXibZ4RTKmxff3hHGFM=
+
+Name: html/userinterface/images/direct_edit.png
+SHA-256-Digest: bLAhS6T/1/tu7+DO9gHu4kzgHuyWGlYe8D28IazVmRc=
+
+Name: html/features/images/add_event_handler_menu.png
+SHA-256-Digest: 6EcHEHMWoF9JMPqQvYjWQoWgh4Z9fsvN96qO6Mi6qpA=
+
+Name: html/userinterface/images/tab_selection_true.gif
+SHA-256-Digest: JQOuyIYp1UAXEvj42gjO4KcM7T9tNOuhqRSOhH0QxXw=
+
+Name: html/index_swing.html
+SHA-256-Digest: hnqil6rTqtCwc6xeZfpyOqKhNZfQ7YwA5whMrermtp8=
+
+Name: html/images/file_attachments2.png
+SHA-256-Digest: vvHpW+mirocDzVtHNnfg3/ylVWIs2m9IAAuN33e8PRk=
+
+Name: html/userinterface/images/property_editor_taborder1.png
+SHA-256-Digest: 3nqHsDTY+7fL5FlcQxD1AyMTII1lkHIben41iIHjPMk=
+
+Name: toc_databinding.xml
+SHA-256-Digest: F0R9/+zNT0d6C0wcrCgGPoezxGlmXL6R6FVhXheGbXc=
+
+Name: html/installation/images/wb_select_local_site_components.png
+SHA-256-Digest: haOtgwF+xUS881DHZorS8Rk0B5MP9mYPNQPwX8oczj8=
+
+Name: html/installation/images/available_software35.png
+SHA-256-Digest: 4pSIwfYOtVaKqiqsS06L3A9T41OVbiai9Bznd7TohJo=
+
+Name: html/preferences/images/manage_license_info.gif
+SHA-256-Digest: x/gKlZnUpFbKarokbu34P2hPe9tnR6/XPdq88+ZNDEw=
+
+Name: html/userinterface/images/choose_locale.gif
+SHA-256-Digest: u3bxB7Omn3kcOznpU3p4sVlXPEgkiJQjansUgBGXK90=
+
+Name: html/features/images/menu_editing9.png
+SHA-256-Digest: J1Js4G43qaTgwUKhzg0U0uVrFdP23gKmJHJnC2dsrCU=
+
+Name: html/whatsnew/v760.html
+SHA-256-Digest: wPjgvt0KyQVODDMscvqQS0S7H8nd+nnuzL2ri8Ya818=
+
+Name: html/preferences/images/parse_example.png
+SHA-256-Digest: 2wpK+7JzwEzJtnB4Z14p6Cp71h7c9LmkKmkkQvyktKU=
+
+Name: html/userinterface/images/add_entry_menu.gif
+SHA-256-Digest: 1fqhrSUUzgBwkIOJH/FETDtgAc8SB4KlawG/IaVd1qw=
+
+Name: html/preferences/images/designer_epf.png
+SHA-256-Digest: U6Rf63LVEJKZ7QWKy744+rapz3zfB2+FC744/igIlpA=
+
+Name: html/whatsnew/v810.html
+SHA-256-Digest: UdcwWve3KDXEZiFUkhNYO2fX5oTQ8bFcFgvz5UDQkeI=
+
+Name: html/userinterface/images/property_editor_font1.png
+SHA-256-Digest: p94CcABRLEX5ZZxX/Tbl0GbRXOwqJNbQaUL0C0cZ0/o=
+
+Name: html/userinterface/images/source_view_bottom.png
+SHA-256-Digest: UW8AOip9OJsIieRCkBu3ZC3kaXzchxSld6ZLjRTZD70=
+
+Name: html/userinterface/images/components_view.gif
+SHA-256-Digest: s2XPCS8J0/t8RQbRgm4tj16XNyD6heH4FEj+78fZg9s=
+
+Name: html/installation/updatesite_3.8.html
+SHA-256-Digest: /HpfrAyNhYc52eBgll03VTNOaMFZtmgIfOjabJA1Q7I=
+
+Name: html/images/file_attachments1.png
+SHA-256-Digest: bds27sFpJtLlBr/2ZjOE/dWoaXC+7jt2hvuYUZAMY/U=
+
+Name: html/userinterface/images/property_editor_image2.png
+SHA-256-Digest: C/Bx86VW/79hsmycGimV3ccDu52pKfBU9O/e/ELRYtM=
+
+Name: html/installation/images/install_new_selectall_36.png
+SHA-256-Digest: Oumx3rNXe7FN736oESsfv3F8iTkPb+M3Qecpr/55Xqw=
+
+Name: html/images/software_and_hardware_info.png
+SHA-256-Digest: rgCSW6Wd3xX7McKgdjWd6L7XuDmrviy5jDzUSd+Aro0=
+
+Name: html/features/images/nls_design_view4.png
+SHA-256-Digest: 1sMhv5CQLHxeVt0ZraWVOuOwHozGShMS4D2I5BdcOYE=
+
+Name: html/features/images/nls_new_source4.png
+SHA-256-Digest: 1N7SqeE//9Fgql/BYTwvBKbK9EpL3SB4kwnkfZQlt7g=
+
+Name: html/features/images/nls_properties_default.png
+SHA-256-Digest: EfUh64+bnZYS6vNj31BQ2y9K2uOfbEPOyDip73fq/Ts=
+
+Name: html/features/images/create_factory_menu.png
+SHA-256-Digest: L25NB1w/UqL7tghciq6l2sl8ln7CvJNNzOtCEpKzpWE=
+
+Name: html/userinterface/images/feedback_drag_grid3.png
+SHA-256-Digest: IS9ctixtuFXqAEyfedcr3vUAg5Oa1bRYUyJKuC9d9I0=
+
+Name: html/whatsnew/v420.html
+SHA-256-Digest: WMr2vk89ongjNjAz/1/mYcophS/6gKUlzP97W/WKn/c=
+
+Name: html/features/images/nls_externalize_strings6.png
+SHA-256-Digest: j8dorhDAdHnd45SggrNa3uEluVlAHz6MSqm6t+4bBFM=
+
+Name: html/installation/images/help_software_updates.png
+SHA-256-Digest: OMSmDg+pE8ihXlptsNXFS9bin7bpxwrHAbxLF94+5a0=
+
+Name: html/preferences/images/dock_left.png
+SHA-256-Digest: boi6lFE0w4sYZQnHWDljWu06KV9YABm+AnG75QXsL18=
+
+Name: html/features/images/create_factory_dialog5.png
+SHA-256-Digest: nohnwD5YV76Nirswd5I2UvgVjtjdfB305Of1HjyQfhc=
+
+Name: html/features/images/menu_editing4.png
+SHA-256-Digest: Px0SNWG5r14wcig+2kwoDiH57+D0FOK+BvgThcg/iuw=
+
+Name: html/userinterface/images/palette_swt.png
+SHA-256-Digest: ZCexIfVUIwoqgJK+Wd2ENgH2I3ndUPsmSfhE1tZrids=
+
+Name: html/userinterface/images/gui_editor.gif
+SHA-256-Digest: fYbPiuYjv+0M1gbgygHWRwcbVL+3h/C9l8aaHjpCbNo=
+
+Name: html/userinterface/images/MarqueeSelectionTool.gif
+SHA-256-Digest: AmO1RbNyPiFBLH6TjvtpVqTqAbTytIcjYB1rCGq2K/0=
+
+Name: html/userinterface/images/property_editor_point1.png
+SHA-256-Digest: IhHMR/5fzv+JV/OcrYC5WPNYwu2e/l7ILhnxqCVxLsI=
+
+Name: toc.xml
+SHA-256-Digest: 5nuuVnNI2K+7xvEq569PYDWsDmxVlItt9q6cazrm450=
+
+Name: html/userinterface/images/property_editor_inset1.png
+SHA-256-Digest: dKV6r0kiix1yac8XBfEBmWr4+0VUapGyCJNDTFU2tF0=
+
+Name: html/userinterface/images/property_editor_string1.png
+SHA-256-Digest: +HrNQuLCNj0BZf4kBh5NghBHwcC9mpdO9Ow9YGUjNZ4=
+
+Name: html/support/product_support.html
+SHA-256-Digest: RuLSyoYpjuABVR1N7wxUC9yL04CZ5W/lsOf04OlrNz8=
+
+Name: html/features/images/nls_package_explorer1.png
+SHA-256-Digest: oiZVysPXgWsGB1jRVfx4xn7m3tZjmmMdPM7+vHjzgQ4=
+
+Name: html/userinterface/images/component_tree.png
+SHA-256-Digest: Mx+yvg/NjS9d2h1sWDI2mMwzf8T31ao9s9W2PR3KiJg=
+
+Name: html/userinterface/source_view.html
+SHA-256-Digest: kGsoq1e/2/j17GVKTJjQ6yQfDU9sz+Q5JWmGDPIMzPY=
+
+Name: html/features/images/menu_editing10.png
+SHA-256-Digest: HFOzFJoj+uI2TYgOUaegFG+ZvapTwj3FMUzDvXARMmc=
+
+Name: html/installation/images/linux.png
+SHA-256-Digest: EJuL+zxD+uH4InzUeyeAuu6m3s11WknKf2uxyuPswsM=
+
+Name: html/whatsnew/v430.html
+SHA-256-Digest: lzp77dg2jR1xbCOsE1qoY1EeKaMxOViQ4JGvsXCM9ks=
+
+Name: html/features/images/nls_messages2.png
+SHA-256-Digest: pkMDGtZa0cWtv5QUfGwXGiZXKCK+IqpBfbB3YRCL5Y0=
+
+Name: html/features/images/menu_swing.png
+SHA-256-Digest: B98ea1c/9jTzpugmFeRkfQxn1JsWYiZ0yDgfEv965fw=
+
+Name: html/whatsnew/v500.html
+SHA-256-Digest: WhrvS/X4mr2wCoLY+KTnEDvIUAUwp5wZ1sM1kIiTuGM=
+
+Name: html/userinterface/images/manager.gif
+SHA-256-Digest: vu8rxu2hCLZxnb9/5AV31ouD/3FS20fgHPYwcHrFNZI=
+
+Name: html/userinterface/images/properties_default.gif
+SHA-256-Digest: EBRexaVGow7zpHV3+LLON5AfzfXxM9KySCBg91ihrm8=
+
+Name: html/userinterface/context_menu.html
+SHA-256-Digest: DF17iyAR2qrsTKwPePneQVCv2X4KQRO9htP9OHjRlxk=
+
+Name: html/userinterface/images/set_tab_order.png
+SHA-256-Digest: pL+mGd2hRqdpbRn0dSlgqKTJqvadYEeQW8P/B812jDE=
+
+Name: html/preferences/images/activate_page4.gif
+SHA-256-Digest: /OAwnHI7BmeqtWd5EvROhfidylGv4VLTjaLVNhsNJAQ=
+
+Name: html/userinterface/images/property_pane.png
+SHA-256-Digest: lHYGb3XUq1xhnPA5jDgNNMfHeUNWy7eInf0L+7zV06Y=
+
+Name: html/support/test_cases.html
+SHA-256-Digest: yGCZzhcPS/HcbCjqKvb0YqApXjdq5stXrz9YeIpVc3k=
+
+Name: html/userinterface/images/listener_class.gif
+SHA-256-Digest: 0GEeotbZCxfESVzrtFIhEgktrQgwHXJZv/ZXvdXfqRc=
+
+Name: html/installation/images/add_site.png
+SHA-256-Digest: 7yhkj2GvZW1UnOhpFSKOgF+lIxU6ZrAzug+LTQJt8l0=
+
+Name: html/userinterface/images/property_editor_treemodel1.gif
+SHA-256-Digest: oyGdaxsEM1XkG2GjkonVxAO1xROJhgufwqSMWWWrF9g=
+
+Name: html/userinterface/images/order_menu.png
+SHA-256-Digest: n+RuJfisrfHNtXrmDPzHEn1ma0TOu2eTN938RCMYeuY=
+
+Name: html/userinterface/images/palette_swing.png
+SHA-256-Digest: vFebNx4Zco2ae/gQtu/v5aP2B1M/+tmrzijFNrB91o8=
+
+Name: html/installation/images/apple.png
+SHA-256-Digest: GuaN62uPsgNAtRqPW3ia3jT8gukcBYSoftU7ncx3cb0=
+
+Name: html/features/images/menu_editing1.png
+SHA-256-Digest: 89d8jzzeqKCArN69MDGweLvE4YqQHB8I2ulMn1r+Ylw=
+
+Name: html/images/play_movie.gif
+SHA-256-Digest: ohKPr7QnEtJCkQTSueMDb3bH5p1oVOQeT1UV5qGm58k=
+
+Name: html/features/bidirectional.html
+SHA-256-Digest: X0iztbh7mVEJo3e1Ld242d1nKEv613ix77wHO80LX+g=
+
+Name: html/features/images/nls_source_view2.png
+SHA-256-Digest: zpwupBSs2JUJEER4MF/HxFF/KtpuyQDoWAw1bMHbdh0=
+
+Name: html/installation/images/wb_add_local_site.png
+SHA-256-Digest: aPf5NT/1gXjVZn5YMZJ7iHKWX1VPb2NVCjtE7RXbXh8=
+
+Name: html/quick_start.html
+SHA-256-Digest: ic6bHYwNJ3zmhHiT5Fybyf+1Hvipw3h2pqWYoV6ngOQ=
+
+Name: html/userinterface/images/generate_name.png
+SHA-256-Digest: uTBjIdGQzVM40LNoaJ37cbyUf2fTT1wIDFdmAyRP2wY=
+
+Name: html/userinterface/images/userinterface.png
+SHA-256-Digest: o4ETBuNqm7T2PWB4fWBffLUJQLDKECG2K/l/GUwao8o=
+
+Name: html/userinterface/images/add_instance_factory_dialog.png
+SHA-256-Digest: RjAjRvpw+hqPQ8V28BHHfdyeWSEVu2eMy4c6XUAar7A=
+
+Name: html/userinterface/images/choose_component_dialog.png
+SHA-256-Digest: jR02PMkI4i2FIpX9O3gnqSNgcteaiRoInLYTrQk9uVI=
+
+Name: html/installation/images/windows.png
+SHA-256-Digest: BDwCEBlINYbxijD6A95O6KYA8/mZUCsbR76KMH2Vm6s=
+
+Name: html/preferences/images/preferences_code_parsing.png
+SHA-256-Digest: 9srdkqKIoYe0iSg3LDU/YyXViQO5CnW8Qej4q+yZp8o=
+
+Name: html/preferences/preferences_uitoolkits.html
+SHA-256-Digest: xoyzExUYfgRrzfFhfgG58wwGdk3OqUr01bQ4QYKQeIc=
+
+Name: html/userinterface/images/change_style3.png
+SHA-256-Digest: h2reQ+y4YBwoqWWWoNipdQ3GGUI3x+Dtl7DwLJroKbw=
+
+Name: html/userinterface/images/editor_refresh.png
+SHA-256-Digest: yYRYI7D4+7Adpzl43Qd3QC0ODnU38+F9xQLNPgLJ8wA=
+
+Name: html/features/images/menu_editing3.png
+SHA-256-Digest: JJaVG066RnTQJiZG2JXUnmupgIK6BINcUK+2uRuhDKI=
+
+Name: html/userinterface/images/property_pane_events.png
+SHA-256-Digest: F6NCmqaOhr/07M7P8dLMpT19cgSIk/BEvkzTe0JqM0M=
+
+Name: html/userinterface/images/morph.png
+SHA-256-Digest: rRn/0s8LQGPovLdHFdlgtT9jp/I5m0W4RLPuG64y18Q=
+
+Name: html/userinterface/images/variable_no_conversion.gif
+SHA-256-Digest: pzp/Bnwu0nglqihtOv8bHlQoBIfT5rVsSWIAg7iFIg8=
+
+Name: html/userinterface/images/add_static_factories_dialog.png
+SHA-256-Digest: LdcPfx82nsWa5Rq43OJcHvaZNuOFGw3DlcAJCHBiDkE=
+
+Name: html/userinterface/images/new_palette_category.png
+SHA-256-Digest: 7jR5OF43S+8SKbCn66sjcKT1h/Z6mCvn3i2o/1X4ufI=
+
+Name: html/userinterface/images/align_h_centers.gif
+SHA-256-Digest: Dsv7EavR6rqTyTFk8AMyKGj6+Hjq9mAZRJrpOj7meNk=
+
+Name: html/userinterface/images/feedback_size_xy.png
+SHA-256-Digest: opYxB9g3oZxqNmpmJ8iKk8W8VqCXqwtFJiZzm+8mWcw=
+
+Name: html/preferences/images/export_preferences2.png
+SHA-256-Digest: 7aA0xC+Eq1DVLETqJWVbbHN5mhJRT7SiVGrys9eYBiw=
+
+Name: html/features/images/nls_design_view3.png
+SHA-256-Digest: 7JGchT8sRXLcft2t/1aSrYEl2g1EVI8+mKKNYst9EJk=
+
+Name: html/userinterface/images/property_editor_inset2.png
+SHA-256-Digest: s9l/CZDcePdkUPr9Oq4eJ3egjvvpd5TZ48O05cSsyPo=
+
+Name: html/userinterface/images/add_instance_factories_dialog.png
+SHA-256-Digest: gPDvW417UaA4jlpv0JBTVavdBjkEET37RYadFWH9nRw=
+
+Name: html/userinterface/images/clear_filter.gif
+SHA-256-Digest: bjnQRwMPzR8gDu/3FN4LDi8Vhy+leow0GH8a1/KzWQA=
+
+Name: html/userinterface/images/morph_menu1.png
+SHA-256-Digest: uMNtYqsWnd/Qc4G9ALoWAVrjdT8+vRZreQVlDtNx18Q=
+
+Name: html/userinterface/design_view.html
+SHA-256-Digest: GVeWVkCsgTirTuOJAsLPvelSh10DmOtDRiUiEfeyocg=
+
+Name: html/features/menu_editing.html
+SHA-256-Digest: DLlRRfzT92Mh65nQd3TI34k8fsSLVpbx/wDdo3xjJiI=
+
+Name: html/userinterface/images/structure_extract_as_view.gif
+SHA-256-Digest: t9AN4uen4+Xi85SIVLlm/GbGM6CX3fJ7qvIju0uWwZY=
+
+Name: html/userinterface/images/ChooseComponent.gif
+SHA-256-Digest: hIyAwiX0c6mCY19TrMszSrz0eTsINSmeCRn8/rFpU3M=
+
+Name: html/userinterface/property_pane.html
+SHA-256-Digest: eCEQpeKq40uYzDXaNaLT7MHCze+mshQmifqDou5WRfA=
+
+Name: html/features/images/nls_package_explorer2.png
+SHA-256-Digest: b2KWbP4cGCzmbOujAbjRkoK7zg7mlo6ZjUwefQNB5wU=
+
+Name: html/whatsnew/v400.html
+SHA-256-Digest: sci/P5x50aoisw/iJEKNb+yuE0zBqVDh9gfc/XEVMIs=
+
+Name: html/installation/updatesite_3.5.html
+SHA-256-Digest: D6EuviiimZIw2u/WgZLTU9iB08Kmk874h7Qorvl46O0=
+
+Name: html/NewComponentsTutorial.pdf
+SHA-256-Digest: YBaM0oJxxaGn0eaDxTTve0VbHvi4OHlRN8mOOxPdTdI=
+
+Name: html/userinterface/images/structure_view_dock_on.gif
+SHA-256-Digest: mQIs0o9iyDNf5xoswLQb/p5p0EYpjBxIcM1kpQ7N81k=
+
+Name: html/images/error_handling_page.png
+SHA-256-Digest: uUaO/LkuDTdrtWIZmYQI6AxbztYEf4SWrQdvftVtxOU=
+
+Name: html/userinterface/images/assistant.gif
+SHA-256-Digest: fn33m0/yB4KqkErCLp/0r5LQLZPo3fmx1n1dt9ogewg=
+
+Name: html/preferences/preferences_code_parsing.html
+SHA-256-Digest: bkSCPHKbuV/oYyQeUjYVuC0nXM6w2LfYMG3uTm2izQU=
+
+Name: html/GWT-index.html
+SHA-256-Digest: e6c3QA9jD2jjUhrJigS3byWWNdLK3pMkRjeegTgxuTI=
+
+Name: html/userinterface/images/property_editor_treemodel2.gif
+SHA-256-Digest: BEvZKN2tE8/cQeQsevCIyzAZfZH0q+umhRIwE3FeBlI=
+
+Name: html/userinterface/images/property_editor_image3.png
+SHA-256-Digest: f5aehj/ukuGCtg096jlCPdPUpfP3jImJlxq9xj0szXo=
+
+Name: html/userinterface/palette_context_menu.html
+SHA-256-Digest: +kmVV410pt4o+F6319jKqAbAs73KFLr1bhJdQD6zYKU=
+
+Name: html/userinterface/images/property_editor_spinnermodel3.gif
+SHA-256-Digest: RZiqB1yUMQH1ta3iT05bgVdq/YyDMiJLXxMchjozRKI=
+
+Name: html/installation/uninstall.html
+SHA-256-Digest: gg+Ae+ROBShdkgwaYD1qs57yt4lc9l+127E79kh2v08=
+
+Name: html/whatsnew/v410.html
+SHA-256-Digest: OYp+5EBvUIJgfPItplJMEXG0+NDnKYBUzV9WJDLEw50=
+
+Name: html/index.html
+SHA-256-Digest: lsbGS+tLuTKkFEgFELQ0MbvQh+V0K7Yqrb70xG8yRNw=
+
+Name: plugin.xml
+SHA-256-Digest: ZEG2MsdD9TmCu+LhGUpuKA7XuyYxxQtGCce45F6BF0g=
+
+Name: html/userinterface/images/add_static_factory_dialog.png
+SHA-256-Digest: TW1i1KBB1KLRQtOGZmFEDQRJ2VraCF+FH2i5cx6msjc=
+
+Name: html/accessibility.html
+SHA-256-Digest: cfhabK/0930dB1pbP0AKYVgejMMpMz+yklN4lYVuVLU=
+
+Name: html/features/images/nls_externalize_strings4.png
+SHA-256-Digest: QBdtTkhtW1qDBhNU5PHBqS1uhVYFyqEIEc6KJDWQO2g=
+
+Name: html/preferences/images/structure_view.png
+SHA-256-Digest: 6GFCKqVZBNUCQDQ9P6pnMA+kXCgxBHvqiBtcXP6Vj3Y=
+
+Name: html/features/images/menu_swt.png
+SHA-256-Digest: r2owT3P1dLAH8jY3YvqqoZzdoWTJC7e4Ei2qFOgEGX8=
+
+Name: html/userinterface/images/ellipses.png
+SHA-256-Digest: TbsCxHK5Rfvnogs+anp31XX0MFvDGURoXVpbz7zbgys=
+
+Name: book.css
+SHA-256-Digest: 0Z4N55xKxWuFpFJtdVBg4ECs0dPjLGM6IwXu/BFlZds=
+
+Name: about.ini
+SHA-256-Digest: 1M4R8ILZk7m0u+9DkVvFigZ3F51NcKGD9HVBsur0UkQ=
+
+Name: html/faq_swing.html
+SHA-256-Digest: N7Ub10gksu8MRgAV599BxnDWptMg9CYZZ88ftk8Sn0A=
+
+Name: html/whatsnew/v800.html
+SHA-256-Digest: B5tIN+R3bcm1lzmvSO8/yycXm0HfKtya91+AXpslmSQ=
+
+Name: html/userinterface/images/boolean_false.png
+SHA-256-Digest: ueomDQsOf6SDdT1q2f7/vygTN5qlQS0f/WAsgD9sBAU=
+
+Name: html/userinterface/images/properties_view.gif
+SHA-256-Digest: bMYkavZR3mQJofvnpNdpMmDCzP3gruV/KmzXVNDcZ/M=
+
+Name: html/wizards/index.html
+SHA-256-Digest: aTojd1t7RxoWW/aER72UhdofPRKlNoLmPwOxmH5ZMmU=
+
+Name: html/userinterface/images/property_editor_rectangle3.png
+SHA-256-Digest: 5M7JRSJPEIFkVXnY/q4JdpQjK95jDI9Bacd6KAhjG90=
+
+Name: html/userinterface/images/settings.gif
+SHA-256-Digest: lnGR34eKQuaUrbpMcSa3UGQ3LH232RwgcFnKQW1oF9I=
+
+Name: html/features/images/nls_design_view2.png
+SHA-256-Digest: qKhlmC8wN53LTCe1FX6sQ3BaJ3s+XxONyz+HTV4QxEU=
+
+Name: html/userinterface/images/delete.gif
+SHA-256-Digest: TPf2fvHFLwXleHHKcx7lLH2XTf8o17QljdaRHpAdYbc=
+
+Name: toc_wizards.xml
+SHA-256-Digest: O9tuH6KR4ijwKKBnnmyzYWTSu4QI4vh92NezHQHgVBo=
+
+Name: html/userinterface/images/palette_manager_swt.png
+SHA-256-Digest: W7A5UTJ/iWIRYOFmStO0gIvAGtuLFkCUzOw7RYQ9Be8=
+
+Name: html/features/images/nls_toolbar.gif
+SHA-256-Digest: T4NZTQF+8NzJzdsVvSex8kgjNezWFSzpBZOErnmpwrg=
+
+Name: html/preferences/images/preferences_uitoolkits.png
+SHA-256-Digest: hlgA/9ztQl4KLMNOcW7dlAk55fsHQ1jF69A7vOt8UJU=
+
+Name: html/userinterface/images/property_editor_spinnermodel2.gif
+SHA-256-Digest: RftwQwuWnAPLwk2R2SMB++3pNIz1qI82o1qng7+GAWU=
+
+Name: html/preferences/images/hiding_after.png
+SHA-256-Digest: ta1TaBypGmVCi6xrCwOMSUf+20DOq1GZs0uJmAXEfUg=
+
+Name: html/userinterface/images/globe3.png
+SHA-256-Digest: 3d3VQsR2bp2cOJk7Ma3+seZClIFMDokuUEpFSFKoRRA=
+
+Name: html/features/images/menu_editing6.png
+SHA-256-Digest: FpDuQRDf1Jmj5iLpEB3HV87EnfZUtbILqj47Mad6dCo=
+
+Name: html/userinterface/images/send_to_back.png
+SHA-256-Digest: XlI07PxRLk3OxnBIsxF6tqcpHH5S8i9no6/5d7IaeMM=
+
+Name: html/userinterface/images/morph_menu2.png
+SHA-256-Digest: LGfww2XTgKJXNXmvg4610PNKMIYL0nX2LZlwNfwbCTo=
+
+Name: html/preferences/images/export_preferences1.png
+SHA-256-Digest: fiszKA5GN5mKSnBlB4lXHyILrQrnlMPlGkcMj55X1nE=
+
+Name: html/wizards/images/wizards.png
+SHA-256-Digest: TV+kpyIthOggFLpalnqp8ugScMQyCKLhfaUUN/gXYNU=
+
+Name: html/userinterface/images/errors.gif
+SHA-256-Digest: 0OmRXvfy5h3ioSkFHW9PAdQRDfodtALwyvazK8zgAEk=
+
+Name: html/features/images/select_factory_menu.png
+SHA-256-Digest: EwsoGWTDvHcR+KuxTwPayFomFt1rG3StDsoxp1dKslg=
+
+Name: html/userinterface/images/morph2.gif
+SHA-256-Digest: hBBSj1cUVwnHxad8Ildh9rsLcD+71HLftuwRawAAf3I=
+
+Name: html/features/images/nls_package_explorer3.png
+SHA-256-Digest: NGV0jImovE3n+Hrszu8GtTgLMJFnhHy4V7888OgSuww=
+
+Name: html/userinterface/images/align_height.gif
+SHA-256-Digest: tUGflAJQ+1iX2MrQAI71xxTHxwV2MPOFrEhE33KLvkc=
+
+Name: html/features/images/visual_inheritance_expose_component_menu.pn
+ g
+SHA-256-Digest: YghEzMoUaAK7xYFNjv6WNFmEwGzWyV7zH431Pl1MFN4=
+
+Name: html/tutorials/index.html
+SHA-256-Digest: lWzxCX2vmNmnwdcqkmeeUt7PvWhdCdqpTChleyB4Kzc=
+
+Name: html/whatsnew/v720.html
+SHA-256-Digest: 3RdS9QZiJm5rm4JPSZCty8VcOuZIT0WcsA0DCPb6kWM=
+
+Name: html/userinterface/images/property_editor_font_swing.png
+SHA-256-Digest: f6UeXWOvEIXgE8HzIR2ikzkQ9t3xBII7jUhpX0EAcbg=
+
+Name: html/userinterface/images/bring_forward.png
+SHA-256-Digest: A2rnhIeFbY9Mr5XfiwE/feS4bo/qUVnA7mx1P1rwXA8=
+
+Name: html/userinterface/images/import_palette.gif
+SHA-256-Digest: +iq9Z62CzqPEXDfKNX5MMsdYm6CL+wsuhHTxwaLudQs=
+
+Name: html/userinterface/images/listener_method.gif
+SHA-256-Digest: G9860Dh5qm2xxOqHnIu5RFexeSMqNojyDbfRerl/lFw=
+
+Name: html/userinterface/images/goto_definition.gif
+SHA-256-Digest: 0W8Y6Lp61A5uLrcgnAahYBPaqQB/L9vgG5Ve3uewQFk=
+
+Name: html/userinterface/property_pane_context_menu.html
+SHA-256-Digest: fwnTBluGm4nUoKTOiH812E/McmGStT0lVUn5rwnnjDU=
+
+Name: html/GWT-faq.html
+SHA-256-Digest: uECxRXzNHWCubLTOmRpUjxEbjqPqHhLajL/CCW2Jmdc=
+
+Name: html/userinterface/images/exposed_decorator.gif
+SHA-256-Digest: 3Y1MOGmcnV7f5MQgCLDx0SXskjb8E9VUxXfhNDEQVaY=
+
+Name: html/userinterface/images/property_editor_image1.png
+SHA-256-Digest: YKuW2TW4thtqpirF6n8Fb1ejt/13KOpBfXthXm01pmg=
+
+Name: html/userinterface/images/align_width.gif
+SHA-256-Digest: HlYaDACM7GNMgptLY4FJlkm/BP4I1VrOVY3tvYPBvmY=
+
+Name: html/userinterface/images/subclass.gif
+SHA-256-Digest: C18ImFuRinbcmuJBV/+QLD/g0vhWy5KP0ttuF4tEO0c=
+
+Name: html/features/images/custom_composite.png
+SHA-256-Digest: w1NWesXqA3KLNMSFtdlhbvUxkV+EnpjvFn20H4w4y7k=
+
+Name: html/userinterface/images/design_view.png
+SHA-256-Digest: cBtBJ0Ki5wDCZVDtmIVVsGkm0WT+6kFZSb0tmFEpUaM=
+
+Name: html/userinterface/images/property_editor_font2.png
+SHA-256-Digest: k/vzf1kAGbc/ur8gZdhkJWQvd28jltZqKNjps/Khwp0=
+
+Name: html/userinterface/images/align_h_right.gif
+SHA-256-Digest: BLWomhdvKp8otEE14yGYlFfCnfztKT2Hr7L8qokGML0=
+
+Name: html/userinterface/images/add_category.gif
+SHA-256-Digest: 1TmLON0+S2t3gFwgQXtQtQABB9z9qCJdG1Up+rFuA58=
+
+Name: html/userinterface/images/property_editor_color1.png
+SHA-256-Digest: UOjPWwYbLeRIS1dBnfJO+RzvOizoFkwtqmocHY/BkVY=
+
+Name: html/userinterface/property_editor_taborder.html
+SHA-256-Digest: 7BU9aBusKg+ZWtIqNBRwXsXt2AJMnyq+RCEJG8fGqCA=
+
+Name: html/userinterface/images/tab_selection_false.gif
+SHA-256-Digest: qa5kzRgcjFIBML+2HptW9GrYiJO1Fbg8GYEBiUlR2J0=
+
+Name: html/wizards/index_swing.html
+SHA-256-Digest: Y43SbPRxWX0UM65YhJ80zyrGgNA9qAFoEhmnra9Rtbk=
+
+Name: html/userinterface/images/superclass.gif
+SHA-256-Digest: CajFEuzAUPxB+Vu+t0/BUF3xw8IFdwJXAwVpcXgZzI0=
+
+Name: html/whatsnew/v740.html
+SHA-256-Digest: yxjzbloTnVjttk9UCNKoFGupgXGDr8EeYuUBzvV2fVY=
+
+Name: html/userinterface/images/other.gif
+SHA-256-Digest: 4++ezx8EJ1+pP1JebYk1maRlY95ac9w5Coflqzl8+1w=
+
+Name: html/whatsnew/v690.html
+SHA-256-Digest: LEa0KrSQav5SZ2shD4LTM1t5FLtB/ATHsQTHEK7BeOA=
+
+Name: html/userinterface/images/palette_dock_on.gif
+SHA-256-Digest: mxRYmXvRm5les3Ipw/y/a4wbP15T2iPow0YC9Irxs8A=
+
+Name: html/userinterface/images/evant_handler_swt.png
+SHA-256-Digest: UcygjdezfQUDI/HazTV76+JQ4vgDRUogY0WHvUlqoX8=
+
+Name: html/whatsnew/v510.html
+SHA-256-Digest: PnadP8omky6QcbG7wQKqvJrg+xtOht7KiETjobyXIcE=
+
+Name: html/userinterface/images/SelectionTool.gif
+SHA-256-Digest: 6+VktkUppeh2RoIXeggi39sfX30Ukm6Tfv1qwIJ+okY=
+
+Name: html/features/images/nls_new_locale.png
+SHA-256-Digest: nJUEMaQuIHvWQeaDH6ApaRlwMDsLsQDh68gkzgOAx40=
+
+Name: html/features/images/nls_externalize_strings5.png
+SHA-256-Digest: uQw6m0/moPATA/t74eig5GDdDSE/Fa/ASUJWD6g2J+k=
+
+Name: html/userinterface/images/set_layout_swt.png
+SHA-256-Digest: lR12Z3v7+BUlsTFB9d4lv/qeqD97peLrW/1mJY5V7T8=
+
+Name: html/features/images/menu_editing5.png
+SHA-256-Digest: iDdB/9t7zFMOsWwzyCBlz/FhMKj5+cNc/W/FlryfyTo=
+
+Name: html/userinterface/images/palette.png
+SHA-256-Digest: iHUSy5oC8nnzBLSavf+k92yaQGdF3USC4vre9qhTZTg=
+
+Name: html/features/images/nls_design_view1.png
+SHA-256-Digest: 1ZaGjGSnRcrU/QIiklIMYjjGAh4p2sADjgXKRSJt7KQ=
+
+Name: html/tipsandtricks.html
+SHA-256-Digest: +JB0EW2gni2G20zFF5TNV+jUnbyFpyIO0XaOirxx1dE=
+
+Name: html/features/custom_composites.html
+SHA-256-Digest: 7XkCzdYa47El7q0k/0+nXptf2HBVhlM08bRJsIOzJ9k=
+
+Name: html/preferences/images/flyout_palette2.png
+SHA-256-Digest: n6Ufl6d47pp2K9Xc3Jyno8pgShF7o99edHOFmJmdOlM=
+
+Name: html/installation/index.html
+SHA-256-Digest: dV3J6KbFTOlruV18VHocKz4AB2bhCCKncOXZlhiI92A=
+
+Name: html/userinterface/images/collapse_all.gif
+SHA-256-Digest: Zrswh20rUjUflb6rAdsfnt8JIVfVEEUToJnEEdD3AbY=
+
+Name: html/userinterface/images/property_editor_spinnermodel1.gif
+SHA-256-Digest: oNm4X6nnTn8U5blNQ2mcCUBcx5jYDMIYO+SyZ4kyUfc=
+
+Name: html/userinterface/images/local_to_field.gif
+SHA-256-Digest: TK+QsfvjpZb5JP9wjXNQ4XKGwJzAFiebR3iL8HFDSD8=
+
+Name: html/userinterface/property_editor_color.html
+SHA-256-Digest: qAF17ZvUHutheSbMtxGrNbPtKxY+HFvjSL3HrsT+Ueo=
+
+Name: html/userinterface/images/palette_manager_swng.png
+SHA-256-Digest: r0MeSpPCQLO6eyfP9R1ff7nP8NOUMDg/d6V0i2/apww=
+
+Name: html/whatsnew/v300.html
+SHA-256-Digest: B8+2r5l/1yIpJypL094JpDQxJtTBRy9EKJu8MLqQnfM=
+
+Name: html/userinterface/images/property_editor_rectangle4.png
+SHA-256-Digest: 1L1V19GWwQlWc59MRRfxF7SwSIm8jpPp8p1MJLLrMW0=
+
+Name: html/userinterface/images/align_v_space.gif
+SHA-256-Digest: yjwC5Tz5peXmoSWauW6r3H2kAaaiarMBpTy2bk+Hc5E=
+
+Name: html/userinterface/toolbar.html
+SHA-256-Digest: 9gkgRrxW7fYok5BoHwUD7+fN/FRukO796hCyWZJIJmk=
+
+Name: html/features/images/nls_key_as_value.gif
+SHA-256-Digest: 7dgPT28EGlApY9dZncpvFCOev/E/BoXoKDPCQr6kPLE=
+
+Name: html/userinterface/images/property_editor_color_awt.png
+SHA-256-Digest: JBEiVK1Ymk8Vj1kqV2ejhI4fZx3z5OPsiaAlKxvcPes=
+
+Name: html/installation/images/install_check_updates_36.png
+SHA-256-Digest: LaQumie/obxZ9pDoSOSaJSznzzRI61J0hS6UUyxbCUg=
+
+Name: html/userinterface/images/editor_source_page.png
+SHA-256-Digest: ldK5sz1uct0pZupD/zDffw5lhVJmr/9vpeUU2I+9iyI=
+
+Name: html/userinterface/images/palette_context_menu2.png
+SHA-256-Digest: 0UIIB1RpMleUTTsnEd3xSPIa513DUyc0n6mM2K5vuC4=
+
+Name: html/features/data_binding.html
+SHA-256-Digest: qnhzQSOwuk85zBOmy48hD9svtq9S+FmzUZBaSRoy8QM=
+
+Name: html/userinterface/property_editor_image.html
+SHA-256-Digest: PxMmstP+qq37Uk3FTdfciUn0TdtCxJdVH+ZdbTCUcnE=
+
+Name: html/userinterface/images/palette_settings.png
+SHA-256-Digest: LZi5SPZBt6m84oFY/NpXeoeewQ8PozeyA8cScv6o2sU=
+
+Name: html/wizards/images/wizards_swing.gif
+SHA-256-Digest: StRe5oJN1P7LLhKtSDz0yULJZiLaaUB82H88WX+RT5k=
+
+Name: html/userinterface/images/be_field.png
+SHA-256-Digest: sK7eLxNflJIe50NTzTWqrby/yO9WRFcJyNFX00HxpqU=
+
+Name: html/userinterface/images/property_editor_rectangle1.png
+SHA-256-Digest: wL760/xeTa/3p0Fl1W/WzPS+disJEpYshxTgh1DsWKw=
+
+Name: html/userinterface/images/move_down.gif
+SHA-256-Digest: bjEgxNUcSOwYVXXZIPKdjF2q0lB4ETOBiG0dKVFisRI=
+
+Name: html/userinterface/images/property_pane_context_menu.png
+SHA-256-Digest: T2khwiZ/bRoTFn2xTBjRP+2VT73nxy0m3u5GKAlZCjc=
+
+Name: html/userinterface/property_editor_point.html
+SHA-256-Digest: m7B73JcVuprZvqab+XXQoFmryzAlAYKk2+phXDS7bUA=
+
+Name: html/images/switch_to_code_button.png
+SHA-256-Digest: VtjPqgNIw+BUM0q0BvRfd3g5d6n5Fo7j4lB5vlikHC0=
+
+Name: html/images/error_handling_page_stack_trace.png
+SHA-256-Digest: ++8dVcIh3FWPraQhB5NpPKQHBiPz80wsTbnvU0Fbnbk=
+
+Name: html/whatsnew/v680.html
+SHA-256-Digest: OkLD+JI1aGrChSe72uPaosimmCxvC4ZjlkTY+wkJBR4=
+
+Name: html/features/images/factory_example.png
+SHA-256-Digest: dtVy5pGpvSgD+EgXHp2fVwcD2cHyBBowlSUL3eUixX8=
+
+Name: html/GWT-quick_start.html
+SHA-256-Digest: aHvrpWSG6LYpSuOu3jfpvavkYTNM49GWQrebh/zcJko=
+
+Name: html/userinterface/images/evant_handler_swing.png
+SHA-256-Digest: DjWdGf8lhA+4n9BS//SmxvhO+aa4yBvRJe2wzMe2qas=
+
+Name: html/features/images/nls_externalize_strings2.png
+SHA-256-Digest: 40YcUuowF2JACxuqwcCC+jSWs2WMlwlu6YtQrDfD5Q8=
+
+Name: html/userinterface/property_editor_string_array.html
+SHA-256-Digest: LRD1082b2bcOssW6nUcpYYEDbXzmOM/1pNomdpdgIao=
+
+Name: html/userinterface/palette.html
+SHA-256-Digest: lP58Poq0xzNUHCu+mWmOKKiVZ6r76OCw0eDp8lrLCUU=
+
+Name: META-INF/maven/org.eclipse.wb/org.eclipse.wb.doc.user/pom.xml
+SHA-256-Digest: pOJAyA9pxYgBsiIBD0AUUt5DBoY2FxbRSz4reR6XphQ=
+
+Name: html/whatsnew/v750.html
+SHA-256-Digest: xw9ruCMM8CsjCBq9xjoGcDsMaAYz2my0dt3syXEby/w=
+
+Name: html/userinterface/images/open_factory.gif
+SHA-256-Digest: O+2q7vuotItIJhQufgqy0Z7i/4eUfDlNXmzA8A09qhA=
+
+Name: html/DesignerCustomizationAPI.pdf
+SHA-256-Digest: dQRIHYoIIq1153yRHUEd3/2k6a7GczMbvXufYec0i2Y=
+
+Name: html/preferences/images/activate_page1.gif
+SHA-256-Digest: 8qmlv6NPGVoUik4Us6STR1cRs6jtHp6ZGh2RzYi3h3I=
+
+Name: html/whatsnew/v620.html
+SHA-256-Digest: lQG870V4xJvakk2bXF8ez5WSozKRmWVSFHVVpkeR5Kw=
+
+Name: html/userinterface/images/expose_component.png
+SHA-256-Digest: 8M8YszhttQefvd1sRlDDLeZ97OZy4XlNzu7Wz4rDdSs=
+
+Name: html/layoutmanagers/index.html
+SHA-256-Digest: S2fFpOdrKFmHfkHuz8ijUKsE8kp97qzhVzBsNGgcbZY=
+
+Name: html/features/images/source_design.png
+SHA-256-Digest: djP8+6gGya+Vey1ohouHAXNa5jQMuVMTO3MhOQrHP5A=
+
+Name: html/userinterface/images/source_view.png
+SHA-256-Digest: Z0W3VIGW/VtH2RP39kKRX8u3PsukxbLkokqGvPLb0ac=
+
+Name: html/installation/images/help_check_for_updates.png
+SHA-256-Digest: iirTwN/wrum/ZF27gjMhhdvPDJaFbGZ+IGQJ2dzMN5c=
+
+Name: html/userinterface/images/property_editor_color_swing.png
+SHA-256-Digest: grRPYgJJCitdoV+GbwKK5cJooQ1VXs2gB59/mNFbgG8=
+
+Name: html/userinterface/images/property_editor_color2.png
+SHA-256-Digest: lOiYkgf/7nOgBIvLkAtDGO/n23QlsJ8SoFN/BaPIbzQ=
+
+Name: html/userinterface/images/add_factory_menu.png
+SHA-256-Digest: CpRH2JXaL5Xqh+3RkJdoxKicVDnEcS7/NJlrdWhWdx0=
+
+Name: html/installation/system.html
+SHA-256-Digest: QP/Mw6bRRurgpl321bkF/PVxT25JKMa7pTNcZdvbhKc=
+
+Name: html/installation/updatesite_3.6.html
+SHA-256-Digest: U1pMcPLy03dtRDMDC8XYUrSogUz17MNs8xM7MJRFxkE=
+
+Name: html/userinterface/images/feedback_size_grid.png
+SHA-256-Digest: f0Racan52A6LUoh7CAXT6m7joT5jes6TiP6BwMX4fJQ=
+
+Name: html/userinterface/images/edit_palette_category.png
+SHA-256-Digest: FB3UoYxmtprD5Run63igoVRr02WSqRpfwetUyGHdU64=
+
+Name: html/images/submit_manually.png
+SHA-256-Digest: rXJoJJgMKk5TWaeFrRrCmwQeGfk/uE675uSc2J9Tprw=
+
+Name: html/preferences/preferences_export.html
+SHA-256-Digest: +sr3WkyKXIfkUdFqUtbtLSxFuONZt7OMyquii0Ao0d8=
+
+Name: html/userinterface/images/event_decorator.gif
+SHA-256-Digest: d1i9ZZA8T8FlTrWc2V0h/Yf0xzbyG2kIkEF9LkTrOI4=
+
+Name: html/userinterface/images/be_local.png
+SHA-256-Digest: J8KBS9dWmxChr4Xp/HOnJGPKu53nbMADGq75vo4GotE=
+
+Name: html/features/images/menu_editing8.png
+SHA-256-Digest: +eWHNUtPR8b787/NnlwiPCE7EtFkN96Rk83swxHepJo=
+
+Name: html/preferences/images/preferences_usage_profiler.png
+SHA-256-Digest: zDhU/jzu2Ffo3hITGgD0LBydXROtTMzm8/KasaIhsP8=
+
+Name: html/features/GWT-index.html
+SHA-256-Digest: I+fw8RN3lLOHNpMDYE9e5sRrgdIR8jxr7EeAW5CBs3o=
+
+Name: html/userinterface/images/paste_edit.gif
+SHA-256-Digest: vWKnzpP0r2s29Hmm7+8gK/zKd7qJaq//aQ/kLM0SeaE=
+
+Name: html/features/images/custom_composite_used.png
+SHA-256-Digest: IzTYXWBIIPI1XG9bgqrpRdE5iJG2v5VP59NGqbxv4sQ=
+
+Name: html/whatsnew/v100.html
+SHA-256-Digest: BZgQd+yGsc2anjEBKXP+KY+1VmoyjG2nzpQ3+p6tAXU=
+
+Name: html/userinterface/property_editor_inset.html
+SHA-256-Digest: rIAn5hxT6jfqqncwm/VuPW1m0q3wo2afLMOk4Hkw49M=
+
+Name: html/userinterface/images/move_up.gif
+SHA-256-Digest: Kc6R5KJqR/WY53XElwBnCOT9l2FNnQZxPnfJ9yHPVRE=
+
+Name: html/userinterface/images/import_palette_dialog.png
+SHA-256-Digest: EwKM3EP+sAPBZAMdg/b7WxMTJSkwGpuB7EBYc+gsctc=
+
+Name: html/preferences/images/dock_top.png
+SHA-256-Digest: wCgtyIlzRZC58pxX933YuLFFlqYsiUKmx1cmPf6K34A=
+
+Name: html/preferences/images/flyout_palette1.png
+SHA-256-Digest: Ft8F1gH2EXs6tXdESdrbhHb7UW1CnyPSLCjrSwao1s8=
+
+Name: html/features/images/factory_custom_palette.png
+SHA-256-Digest: rGalWBd5sn9edcEsL8IDhT/PZv5BkICzplVV0s5/z5s=
+
+Name: html/userinterface/images/rename_convert.png
+SHA-256-Digest: gIAfVybVfVXdn0NNeeJ49FntxqgqkVl1RUcULIOXWG4=
+
+Name: html/features/images/create_factory_dialog2.png
+SHA-256-Digest: Zj+9K336IIzqkLZNULpht57fZwlGO634X5ln6Let0fU=
+
+Name: html/userinterface/images/cut_edit.gif
+SHA-256-Digest: YN2easYz8U55ouaJ4Ddd4vFBgz80TObELhcvTjuCYcQ=
+
+Name: html/whatsnew/v670.html
+SHA-256-Digest: QQlD6HQ4PX7yrMpDgTlNMEhzIkDYUlW4TGuyWCK6zm4=
+
+Name: html/userinterface/property_editor_font.html
+SHA-256-Digest: EhfG8dkuWsi04b4oIv0VoyLu9oCzDGHC8CfdVUMJgZo=
+
+Name: html/userinterface/palette_manager.html
+SHA-256-Digest: AqaGZphFPhYaMpeF7OyyC+JvnIKL9j/NXqMlHwxcZZc=
+
+Name: html/features/internationalization.html
+SHA-256-Digest: vddDcdG+xPPF1LOCTib7UWhD3/8ilNsR87BtXIW7yFE=
+
+Name: html/userinterface/images/single_selection.png
+SHA-256-Digest: YJeOppEWk+iE2Zot+EHT3s6kjVNED+C11z0CKBqGL5I=
+
+Name: html/userinterface/component_tree.html
+SHA-256-Digest: lRKWKjzN+eH798eO9guFXi33py9S67Jjh9vQuk/F7rU=
+
+Name: html/features/images/nls_rename_key.png
+SHA-256-Digest: MOt4ZUfdhVtAhKeZViX5zILHi3XCaU3iabJpcuyPb5Y=
+
+Name: icons/wb-icon.gif
+SHA-256-Digest: ZQgHUoUOWwAO/xRLRbjXQe2CSBo2guCq0cc/Eh1r1As=
+
+Name: html/features/factories.html
+SHA-256-Digest: 5txjuBLwXRS0pIqkSKNFbBeAwjXxdHq0xDIlSkwaNq4=
+
+Name: html/whatsnew/v610.html
+SHA-256-Digest: vOPRa31D9inblyLL1daV5m+BGy7dH30pzyB7HMmPZjA=
+
+Name: html/userinterface/images/remove_from_history.png
+SHA-256-Digest: XHNA231I5/EbYAbBm0TnR7oPvOBGzEfWb/NHBmjLVR4=
+
+Name: html/userinterface/images/feedback_drag_xy.png
+SHA-256-Digest: Mpfi8hIRdLvU3ILGPM2VIhyUk/KmxvmHHkq3+jVw1Bg=
+
+Name: html/whatsnew/v710.html
+SHA-256-Digest: WAC8Xa9BtGuQFbOpBzqf+3PPxg3ajtwbGeu7GB1vD5k=
+
+Name: about.properties
+SHA-256-Digest: wY47wyXyRwGZzVPq7z6KQTSrhFbjt75JBzSIqnQL6BE=
+
+Name: html/whatsnew/index.html
+SHA-256-Digest: uMSujuxkSduIdtJWO2Y53ad323rAODt4j1WYw9nUQro=
+
+Name: html/features/images/nls_properties_fr.png
+SHA-256-Digest: MnUSRijRgLqPaeYDwdyPVUXINPwV6BCcdTV+XNkujAQ=
+
+Name: html/installation/images/help_install_new_software.png
+SHA-256-Digest: eKEs0fOSNOCGx6xebY5DgZK7V4Dl3DJLZY5oPfrcGcs=
+
+Name: html/userinterface/images/externalize_strings.gif
+SHA-256-Digest: W2azbA3x7nNTVUVhy1qfY/OWhGpbfF/UEXvCChxZhBE=
+
+Name: html/userinterface/images/property_editor_font_construction.png
+SHA-256-Digest: 460BJwYf+XciQqQar6nG6icgr45UBXUO5GewpBxiaIM=
+
+Name: toc_layoutmanagers.xml
+SHA-256-Digest: riny2O/ERPPmQ9vvTVgn1Z9ZO/vMRnsrc4H+y6RlcLA=
+
+Name: html/features/images/visual_inheritance_child.png
+SHA-256-Digest: lxuPVpxbkE6inscZp+GmlTRgGx6yzSvXK4zZtIK+meg=
+
+Name: html/installation/images/wb_copy_updatesite_url.png
+SHA-256-Digest: VVyTaKblFQ8tsk1zOFN2+ToyQ4XKjQtGpjJxTHdWMak=
+
+Name: html/images/create_report_dialog.png
+SHA-256-Digest: CnX+LlNUy5/nAw7vUVkgbl8n1QI0jQGp0iqvjbhKTto=
+
+Name: html/features/images/nls_new_source1.png
+SHA-256-Digest: PdyipBVa/pcQ76xZ6YZrAUdRWR+OgveYhiZQ25USMpY=
+
+Name: html/installation/images/available_updates.png
+SHA-256-Digest: uUeooir41AP7dZbSwEnFnfYiwb1EXJx0hXukJKCfB/g=
+
+Name: html/preferences/index.html
+SHA-256-Digest: KG8DLhhHT3Q8WeZlR0Dqp4I69IJ0VZMBBFkH41yh+PM=
+
+Name: html/features/images/nls_messages.png
+SHA-256-Digest: vVTz3V1JWGYtnJegJGzuUvFYx7ciurnOSORI8LcNghg=
+
+Name: html/userinterface/images/field_to_local.gif
+SHA-256-Digest: G9yMtXOCHyiYqH6i0jtviOlfLBthUrmfblMuou1nFeY=
+
+Name: html/userinterface/images/test.png
+SHA-256-Digest: rw0RdkMTzNDJkDZAULAG5NEWVzMwZtLOgkKZeakUIwM=
+
+Name: plugin.properties
+SHA-256-Digest: Vsb0eM7tXo/I0hnZgkk1srJkp4F0LP6J4o2LIoes5Xw=
+
+Name: html/preferences/images/windowbuilder_views.png
+SHA-256-Digest: VzpPt2B6C0gYQm9kWWk9syBtdojchtz8nK3kKMfncVQ=
+
+Name: html/features/images/nls_externalize_strings3.png
+SHA-256-Digest: ZyDLUBpLMDKWr6tTx2MxIrfz1E0fIxRyHVxEEoBAMxg=
+
+Name: html/userinterface/images/copy_edit.gif
+SHA-256-Digest: d0T2ZxHNUTBVabuF7iVNhbp4BKQk6rcSiTcZn1jg9b0=
+
+Name: html/preferences/images/import_preferences.png
+SHA-256-Digest: kWHEZEkkqfozKaL6D8XrNH5U0CnqDgNXChlWUKk40ls=
+
+Name: html/userinterface/images/source_view_right.png
+SHA-256-Digest: fSeceYM9lUiyoDRm3GZK54qJ5V1WYKuLAK0sNNwajLI=
+
+Name: html/userinterface/images/align_h_space.gif
+SHA-256-Digest: dl0fWWzwLcJbCfuptPzIkEf9wUikbNKnyb+SXZCuIwc=
+
+Name: html/preferences/images/install_toolkit.png
+SHA-256-Digest: U45+HEjW2meFhq8kCbUqhYGeELCz7c4Y3OWN5JmkiSw=
+
+Name: html/installation/updatesite_3.4.html
+SHA-256-Digest: pBwtTaKc34bpgvgyV6o3rx0AZom0Ne5eumrh5Ddif30=
+
+Name: html/userinterface/images/add_component_dialog.png
+SHA-256-Digest: A0wDPLed8XhUzvdjmtbXhhotWK3rsNPuDvF8/ZuPgA8=
+
+Name: html/whatsnew/v660.html
+SHA-256-Digest: wCM5ROpO9GAIYdcRSArgRdy1E/HBX5dKqFxv3BQeyzs=
+
+Name: html/userinterface/images/factory.gif
+SHA-256-Digest: 3YqPFY+mfg1o/Yixzhr/aO/kSethJwHSdyfrk182f+o=
+
+Name: html/features/images/visual_inheritance_parent.png
+SHA-256-Digest: eMi8hOF1xuYr1cyKASKDlo+ZGkAXyZ7wrjaawA0fQ/E=
+
+Name: html/userinterface/images/property_editor_rectangle2.png
+SHA-256-Digest: tfzDcsyhPbfWQa+HCfyraPydS5qBFKAjVtS7RkOHGHU=
+
+Name: html/userinterface/images/boolean_true.png
+SHA-256-Digest: k2AMlaEecwk2MPA2cB/64eL/bWrTJggLizmA16CadlI=
+
+Name: html/userinterface/images/editor_design_page.png
+SHA-256-Digest: vjmmgjKaa+ejE/84RJA4HmApyGWVuCwMluD9arcq6f0=
+
+Name: html/userinterface/index.html
+SHA-256-Digest: Eza6YYyBW+vmBBZIQmGZk5VoRMjHvvna7QiEfp4rqbI=
+
+Name: html/whatsnew/v630.html
+SHA-256-Digest: y5z+Odt5WxYxZXhB2Q5iTM70BT6yi9Mb6ss/Gzx9zvU=
+
+Name: html/userinterface/images/align_h_left.gif
+SHA-256-Digest: WOcynqPti84QJ5pyaAMA1aMiGI15gi1/lVSUUNlB1Tc=
+
+Name: html/userinterface/images/palette_context_menu.png
+SHA-256-Digest: fSxgxCHdTIWPgShgdhi7LqX3xQw/FmfUHNgxTxVGOmw=
+
+Name: html/userinterface/images/property_editor_point4.png
+SHA-256-Digest: bMY6QufJulGSjOYAEJoM2dnAuKs1MNPt3sIszo5owBM=
+
+Name: html/userinterface/images/category.gif
+SHA-256-Digest: 1TmLON0+S2t3gFwgQXtQtQABB9z9qCJdG1Up+rFuA58=
+
+Name: html/userinterface/images/add_static_factory.gif
+SHA-256-Digest: jp/UH/LxfLjHo8Xbv3s424n/AOIb7dDjhKnKFeO8TNI=
+
+Name: html/userinterface/images/property_editor_string_array2.png
+SHA-256-Digest: j8UQbo0PtZK/MRDQkqHjXMl7hdjZ93pcrhtoCMCmj+A=
+
+Name: html/userinterface/images/exposeComponent.gif
+SHA-256-Digest: TVDuZC5tZzlyPtXM767Oxm+/JPstapG06IyXqFNoCDY=
+
+Name: html/features/images/menu_editing7.png
+SHA-256-Digest: tkIG8lhDweckDKZVcxCrcVgjqixAd9qUZ3dUf1AqN9Y=
+
+Name: about.html
+SHA-256-Digest: GGaEA1lQ0txmak09Ij70FiO1LZC1FCYiiuzk14obXXs=
+
+Name: html/whatsnew/v700.html
+SHA-256-Digest: /jAi66nxiU/nFwH5xEA+nthId5V30dQI6LlWKtQG0SY=
+
+Name: html/userinterface/images/minus.png
+SHA-256-Digest: 4LJtOxWClSVa2QvYfahj1xQCm2Iz5fQJwb/1U5jp+4E=
+
+Name: html/userinterface/images/factory_menu.png
+SHA-256-Digest: JU5+V6RoEsmePgD7pLiMMHxtsmvrWqrYN0N2DOuRUiI=
+
+Name: html/features/images/nls_new_locale2.png
+SHA-256-Digest: cSVdmz3tuTuy4rDKflbpoL/aR9auMOTErrhzqb2oYcM=
+
+Name: html/features/images/create_factory_dialog1.png
+SHA-256-Digest: udFgTQoG3jwhgnqKuGlHlYie4LFt5W/LAsSmyewfFeY=
+
+Name: html/userinterface/images/export_palette.gif
+SHA-256-Digest: PmjifFqSDnei2QVz4sVlmcxoHjY+dIFaxzXoZU/IAZQ=
+
+Name: html/whatsnew/v640.html
+SHA-256-Digest: h656wY23205+Qj20sf1ZoD4v4hIPCUdfszE0e2qF8+M=
+
+Name: toc_tutorials.xml
+SHA-256-Digest: fgBaRD7g2nes/Eg4IVwkOvY8t8Be80aPocth+IXwiKM=
+
+Name: html/userinterface/images/tab_order.gif
+SHA-256-Digest: IRaADxEPSMnm/4Fo6usbQ0U46DvnELQA4pFUQcoVQn8=
+
+Name: html/userinterface/images/existing_interface.gif
+SHA-256-Digest: NmUtJe/LICzVVNkFLneSDawlxpnN9GzUswbbTetHEv0=
+
+Name: html/userinterface/images/align_v_centers.gif
+SHA-256-Digest: Inr+q+fDOl+E8c+LSerUanc2ajWH53vgCRzXZ1EEtr0=
+
+Name: html/features/images/event_line_number_menu.png
+SHA-256-Digest: 4gMjmgNjHiVy9Ed2WQDZKtzeszFUMxy7MPyzQZJaf9k=
+

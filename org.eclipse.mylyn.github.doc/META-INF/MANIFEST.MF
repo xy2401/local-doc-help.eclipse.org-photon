@@ -1,0 +1,73 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.mylyn.github.doc;singleton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 5.0.0.201806131550-r
+Bundle-Localization: plugin
+Built-By: genie.egit
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: META-INF/maven/org.eclipse.mylyn.github/org.eclipse.mylyn.github
+ .doc/pom.xml
+SHA-256-Digest: iEhji5OpM0n1TFt/1k+TXnMlYw2O9ip3vkti8twHPDc=
+
+Name: plugin.xml
+SHA-256-Digest: sUOdrpHRVRsD05TKuP0V0y8prBLJPfTHnIH0gCGBHqg=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: images/topiclabel/git48.png
+SHA-256-Digest: 6GTKNBIy/ZWZ9Kl3x3Vt3/caUoZvMXoA8aOcJChdT+Y=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: help/book.css
+SHA-256-Digest: vlV9eJPTLVFEP1l+zRxruBeYwFgGMwTb6zUX6zz5jkk=
+
+Name: help/EGit/GitHub/User_Guide/User-Guide.html
+SHA-256-Digest: k2FmHQ83vN4ZedW0jdarkAJNmsEhjlB3JLjuzuhLPFQ=
+
+Name: help/images/topiclabel/git48.png
+SHA-256-Digest: 6GTKNBIy/ZWZ9Kl3x3Vt3/caUoZvMXoA8aOcJChdT+Y=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: help/toc.xml
+SHA-256-Digest: WW+FltMhuYsrPdxpZWpaG39aSfysAaa08C2mr0DvFOk=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: help/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: plugin.properties
+SHA-256-Digest: 7W63jIRLoYEQ85SNRAc/fBsQIyuh4U4aAsiq0ymto/U=
+
+Name: help/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: help/EGit/GitHub/User_Guide/images/GitHubMylynGistEditor.png
+SHA-256-Digest: D7e5Pf2+XR5wBZYBEc34YtMQ3Cmvdt5982OWcoUwpOo=
+
+Name: help/EGit/GitHub/User_Guide/images/GitHubMylynIssueEditor.png
+SHA-256-Digest: R4ROEIoPHLthF461BcOlLeIGXRGXyrmmXg5eeoQ+wvY=
+
+Name: help/EGit/GitHub/User_Guide/Updating-This-Document.html
+SHA-256-Digest: JAjs7eCK1gRpdM2xUyswwrmRyTwAuTRPIazZ0A8D1lo=
+
+Name: help/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: help/EGit/GitHub/User_Guide/images/GitHubMylynIssueQueryPage.png
+SHA-256-Digest: GjZAIuOMXk33/KXahb684iHmTm8JQmCarXoLps2/MKM=
+
+Name: META-INF/maven/org.eclipse.mylyn.github/org.eclipse.mylyn.github
+ .doc/pom.properties
+SHA-256-Digest: xi5YOQkA08+KHNPKhsshUyTFq4ciasOW3agto0qGnPw=
+

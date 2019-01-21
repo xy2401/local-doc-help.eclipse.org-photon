@@ -1,0 +1,666 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: Qd9cdr41XAJejDIKt/CG8V3oNveJ2
+ MeEAf1J6QpAYFs=
+SHA-256-Digest-Manifest: dqOSGpTl4BQz/mlE8dEmkws1Wh1eVF8l2rdlQRZ3GdY=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: H1VEjIxOdZyO4EFxlVnEzuGYvt9o4xtKDoHA/dYvV5g=
+
+Name: images/reference/Details_tab_07-Opaque_Warning.png
+SHA-256-Digest: S9Pm+zC3a9BSsbQBBb4PLF1f/w8ZDOGq4qd/kbYTWu0=
+
+Name: images/reference/Common_Property_Tabs_01.png
+SHA-256-Digest: A/lS2lkISejobNmzq91THW/tEPDbfemcZKWyChLPg70=
+
+Name: html/Reference/Wizards/newDeploymentDescriptor.html
+SHA-256-Digest: lpUzPwqkGkk+19OAVkruHBUoqX8iv8c7+fcSNqvD3SA=
+
+Name: images/detail_createproject_2.png
+SHA-256-Digest: tQ998VdOQLO2X+CRddrtzhzFAN9oGJpX4Rs2bwXVjc4=
+
+Name: html/Reference/Dialogs/selectWsdlProperty.html
+SHA-256-Digest: p3l7F0kR/0C3s3AWU1gwXCi9myLw8aROLpcRa+n+oLg=
+
+Name: images/reference/Dialog_wsdl_creation_01.png
+SHA-256-Digest: X19i2soCGnT7nPB+dwnEtNR3qJvCpGy5SKFO5aaw708=
+
+Name: images/reference/Property_Sheet_03.png
+SHA-256-Digest: OzBhmx6xP+CYBvwO/OlDnXfkGXPYkpkgOob3PZGDSDQ=
+
+Name: html/Reference/Editors/bpelDeploymentEditor.html
+SHA-256-Digest: 7Tp9U2PFCvEqbA2UshvVN5Kg5rt8526zAOVxcsyfq3s=
+
+Name: html/Reference/Wizards/newBpelProcessFile.html
+SHA-256-Digest: E8eNPDWEmTjZh/edDvxyLZJ40iLeOK+/UfBHcyXqCE0=
+
+Name: images/reference/bpel_ref_4.png
+SHA-256-Digest: nM9rPtqfyg5F10l6SGy1eTLt4yd45OpeEGq6UznxARw=
+
+Name: META-INF/maven/org.eclipse.bpel.plugins/org.eclipse.bpel.help/po
+ m.properties
+SHA-256-Digest: tHfmyQRBKve9h0fStlCZiXLRZQL9nlTNhWfKvdh/dNY=
+
+Name: images/reference/BPEL_Designer_22.png
+SHA-256-Digest: YiQQIRvrkiioGN+S7BzzdLcS+xB7v58AlNcLcD7RLRs=
+
+Name: images/reference/Dialog_wsdl_selection_01.png
+SHA-256-Digest: Ist3PVPzoDahfJyp+tmakX4qP3gM3NU+DMtYDQUHbxc=
+
+Name: html/Reference/DetailsTabs/validate.html
+SHA-256-Digest: y/UQDlkbKw+PennfrOkjTFUsrMTtXGLvLVNYK4NZSbA=
+
+Name: images/reference/Handlers_02.png
+SHA-256-Digest: blR0AQDAG9AbXBy44BkiTucOcwxPv4s6hNx8n6XNtq4=
+
+Name: images/reference/BPEL_Designer_06.png
+SHA-256-Digest: 178HrbBMdHAssX2G+119l6xEZOTQJQILvCUWpUCRKsU=
+
+Name: html/Reference/DetailsTabs/compensateScope.html
+SHA-256-Digest: YAb9R/jsPT2s9k4nO3lmIo4XfeZjH4l9MZTyTpq7v9o=
+
+Name: images/reference/BPEL_Designer_14.png
+SHA-256-Digest: cAfH3tmYLH2zBTswUB3a+mcS82CKWB0AWS1luTNkbUY=
+
+Name: images/deploy_createdeploy_5.png
+SHA-256-Digest: 6JoeN4II2RoH+qG6Y7CRUI7VcVfi1/23FCKDhHCKOck=
+
+Name: html/Reference/DetailsTabs/pick.html
+SHA-256-Digest: gZeZfwiBeBKkC/G/umNjpy4PZlaoQWGa4qkTZvjquQE=
+
+Name: images/reference/Details_tab_04.png
+SHA-256-Digest: ojOI0i5bimhYp2Cj7xecmGPeS9yzCXGkp+9zt85W6gk=
+
+Name: images/reference/BPEL_Designer_10.png
+SHA-256-Digest: Vsj1Ebb96IiDb9US+Zxsz2mvQhAPQfvkvvBtWKlUHzo=
+
+Name: images/reference/Dialog_type_selection_01.png
+SHA-256-Digest: k2F7HJLwzbC60xbcm2CpLiVc9v9yiXkbTP5jtMOYPgs=
+
+Name: images/reference/Handlers_06.png
+SHA-256-Digest: gMdugVUjYBVqrySRsRyAYuJABOpPWn5oFOxexJ4hFTE=
+
+Name: images/reference/BPEL_Designer_02.png
+SHA-256-Digest: MhANqgHlh/8a5pZRDJXWF6bSAgMxKgSBEzUFxbPhJ7g=
+
+Name: html/Reference/CommonProperties/descriptionTab.html
+SHA-256-Digest: FlFGIAXn4tvz5I4kKSn4DGlviPZKyTWk5kxlWaIfeiM=
+
+Name: images/bpel_ref_2.png
+SHA-256-Digest: E4l5kdgxFONyrPtS6W2FMRFCwkXFRUW30QwjTjWY6ZQ=
+
+Name: html/Reference/DetailsTabs/onAlarm.html
+SHA-256-Digest: iErXLMdUonfUh+pNHbnAU9znn3kedRKk03pUUpxRGSk=
+
+Name: html/Reference/CommonProperties/messageExchangeTab.html
+SHA-256-Digest: OAwS6SoegRDByFO+IAKhaC77G3jM+4Su89jxaBcnMv8=
+
+Name: images/bpel_task_2.png
+SHA-256-Digest: 2NWdiROV+7GZvSMQulcrGS2KDMRatwtcyITlzxcvr2Q=
+
+Name: images/reference/BPEL_Designer_09.png
+SHA-256-Digest: bzPjF/zDNkZsZbWsrv9NXyHCmumMCMVEG3kX66w886E=
+
+Name: images/reference/Dashboard_01.png
+SHA-256-Digest: s5rVhXQFlMqKwAkMZmoBTVPp3nTnw0kGmjoN3Dan3e4=
+
+Name: images/reference/Details_tab_08b.png
+SHA-256-Digest: slyRvkoJ9qzCyItjNuZFMgERzqmLAX8t33qINiAACmw=
+
+Name: images/reference/View_Outline_icon_01.png
+SHA-256-Digest: Mgs5m+h3VXjQs0c4XdLb4jOZFcavrgUNljGyB8dSMwU=
+
+Name: images/reference/Create_a_BPEL_Process_File_03.png
+SHA-256-Digest: UHqFzBIeuzWDShp4NNcmNKoPVwQBed0bW8COY+xQRRQ=
+
+Name: html/Reference/IconsMenus/contextMenus.html
+SHA-256-Digest: AQTedfGVVatZQbG6pYWb8ZvVyuWsXxyPkPdGjrxB9pQ=
+
+Name: html/Reference/Preferences/editor.html
+SHA-256-Digest: I0hWGj7z5gxzg9yYkSV7sStCTPJKcOrZh1+qguDwL9Y=
+
+Name: images/deploy_createdeploy_2.png
+SHA-256-Digest: 0zR7h5m9iSdgbB6c5VHbiNLEqkLSJQy7K7pEmJxvhl0=
+
+Name: images/detail_createprocess_2.png
+SHA-256-Digest: wJA/tenajz1/rHAk2Y4PHpW3PIBpbVM2WsUx/+/5fyA=
+
+Name: images/reference/Details_tab_16.png
+SHA-256-Digest: 7vtKgeauNIs3Wyc/G2aua0KF6PMcbd+HXz4fYwgMkF0=
+
+Name: html/Reference/Dialogs/typeSelection.html
+SHA-256-Digest: MEugqslcF0iFlAgQ1KjlGN3hMjAodU7ZJPjjqdlBODc=
+
+Name: images/reference/BPEL_Designer_18.png
+SHA-256-Digest: oMeTgdznoOkPS1KjE+agWfbt5zJ4AhQ7zB8jr53fjsI=
+
+Name: html/Reference/DetailsTabs/detailsTabs.html
+SHA-256-Digest: Py0FMY7P6yJh5HWHK3KwRAIRPSjtpzgc16mqS6tX5FQ=
+
+Name: images/reference/Details_tab_08c-Initializer.png
+SHA-256-Digest: 9T2HDyKVZp/ciejdvtp6dVLTHhaSV88C3SwTPuKsQ/Y=
+
+Name: images/deploy_createdeploy_9.png
+SHA-256-Digest: ob2hbU7ySBlBbnI77uEG+ZVBzlO4RjWyT1iebbh0GOM=
+
+Name: images/reference/New_BPEL_Project.png
+SHA-256-Digest: bz1aJw3zlRGzhGbsihz3eXAF20sKh1sE+xZkRTI2ADI=
+
+Name: images/detail_assign2.png
+SHA-256-Digest: iPQA9plMDXqlT6DJ047byewL2j/vmLjekx/c293Wkeg=
+
+Name: META-INF/maven/org.eclipse.bpel.plugins/org.eclipse.bpel.help/po
+ m.xml
+SHA-256-Digest: T9nFZxrRTtnBYtadiAzNQroSWZEUfwQjHPs40RImxoo=
+
+Name: html/Reference/UniqueProperties/descriptionTab.html
+SHA-256-Digest: ss4FTIMUEzEfTzC9VPfOpys5/GgXlWJ6FaKlh6iPETg=
+
+Name: images/reference/BPEL_Perspective_01.png
+SHA-256-Digest: tvevkcl2InBAwY04wFERpvX7gjpEKJ3dVUPm7H/0ATo=
+
+Name: images/reference/Fault_Activities_03.png
+SHA-256-Digest: Ssvwn4tgpL698DCh8XRZUjPanN5TQRbP+burfRBV3hI=
+
+Name: html/GettingStarted/CreatingAndEditing/creatingAndEditingBpelPro
+ ject.html
+SHA-256-Digest: AdEX+CSkU8/DLYLRciyv2SP7ixkwlJwlZYQiVOrVAfE=
+
+Name: images/reference/BPEL_Designer_11.png
+SHA-256-Digest: ZWxcIYxr3oX5ax4XrZkMtUkc3ixhAHkpv8QAmiQLBuc=
+
+Name: images/reference/XPath_expression_editor_01.png
+SHA-256-Digest: BdP/y31Kg8PR77ZCk4DI66eauIF6FW0yWTfx+VEsPa4=
+
+Name: images/reference/Details_tab_11.png
+SHA-256-Digest: tExYp69bNPKQoy49qr99ACWWAh483+U/tuyJp6RPVv4=
+
+Name: images/reference/Details_tab_14b.png
+SHA-256-Digest: yzC1SSXGG/WBwN7n5za8Lzu5n7ECguXYPv6XkYBf4GM=
+
+Name: images/reference/bpel_ref_7.png
+SHA-256-Digest: DsnUxfDfjj7wjAU4Argg0hyHLzT3tSTSX+PrV7ixIig=
+
+Name: images/reference/bpel_ref_10.png
+SHA-256-Digest: elyfXvBdk/q2VYUoTWHNglhtPOWOtjE96yj/CxkzLNA=
+
+Name: images/reference/Fault_Activities_05.png
+SHA-256-Digest: 3+sjdHlYv8NHi1aDdrf25g3HoxEcFeiR/C1RKVoBoMw=
+
+Name: images/reference/XPath_expression_editor_02.png
+SHA-256-Digest: EuOHc2/a7zT/Gvsq4ylcy7ifY7lamVJiO4+hgXj/BGE=
+
+Name: images/reference/Details_tab_01.png
+SHA-256-Digest: Eex1v1p+oUqxDqameWo2H02Ur212Se1zY2WySBsPvpw=
+
+Name: images/detail_createproject_1.png
+SHA-256-Digest: 89u3WJBb4UHAi+u1/di2IZ9tpFOKNsoFtvSiWiDGZLU=
+
+Name: html/GettingStarted/Deploying/creatingDeployXmlFile.html
+SHA-256-Digest: aDdlkdWrxr674GLvCnly74xBuHbitI6UFPk48zwyGdo=
+
+Name: html/Reference/DetailsTabs/receive.html
+SHA-256-Digest: z4wI7fHdErGZOXKfBtPIY46oEYK/C+F5DzuGra9v8Y4=
+
+Name: html/GettingStarted/creatingCorrelationSets.html
+SHA-256-Digest: NEObJVZjl6kmiNmlgczIa1vsgz79l3lbnfYMbXxBPpw=
+
+Name: html/schema.css
+SHA-256-Digest: iikCn+WVV6E0jT5hkWh4M1ga1cvjt7dJkzJAvWhgV2c=
+
+Name: images/reference/Common_Property_Tabs_02.png
+SHA-256-Digest: +SoyH/W+0YBWez9p8HM7JvD8IxwyQYDsD2oR9c83fyU=
+
+Name: images/detail_assign3.png
+SHA-256-Digest: eGX2swOK754H5B+JPVJyzfS6o/BuRF0+SKUn1+BJAsU=
+
+Name: images/reference/BPEL_Designer_15.png
+SHA-256-Digest: DYYwUJZzQIsOxqrYUbsTeNARkErjfafHtY/44w1c1eY=
+
+Name: images/reference/Create_a_BPEL_Process_File_01.png
+SHA-256-Digest: pVauWf9HNTy47hTq5hQjXAC1Hyupg0C3pn/JuMgYZug=
+
+Name: images/reference/bpel_ref_3.png
+SHA-256-Digest: IFrnioty1WVZk0GhwMESBi7m/406/b+UqN/TdcxweFc=
+
+Name: images/reference/Dialog_quick_pick_01.png
+SHA-256-Digest: x+5cAWpmbK8JV3e8XKQxdx0zx8B77E2mqDBXzvee538=
+
+Name: images/deploy_createdeploy_8.png
+SHA-256-Digest: aevEIKHlzwf03aHshxsw1khEDvnYzSxQscvqejs3D38=
+
+Name: images/reference/bpel_ref_2a.png
+SHA-256-Digest: dXlAuF1V+gQp6YibtIT1CxKw+/ELQRvXVMM06htEbQQ=
+
+Name: images/reference/Handlers_05.png
+SHA-256-Digest: x8gdMu6pOt/GNUIlQbmLzKNEEAMAOUCuIA5Ni6tZylY=
+
+Name: images/reference/BPEL_Designer_03.png
+SHA-256-Digest: +08vNWjmTUNwMBBQ1JFrO5Kg/w96GX7OX8nMYGiiai4=
+
+Name: images/bpel_task_3.png
+SHA-256-Digest: mUV4yVQxnd4bPMAfpS5+F5rzEqbFrghMCIq/xQia3ZU=
+
+Name: images/detail_editprocess_5.png
+SHA-256-Digest: EdvMAe7H4XEantSUAauwELUTNMD5Jtrgfzkr5vCU7O8=
+
+Name: images/reference/BPEL_Designer_21.png
+SHA-256-Digest: KvAhTgjhtjYWiOB4+TXk5UGO+WOszynRzyVVSsSeP+U=
+
+Name: images/bpel_ref_3.png
+SHA-256-Digest: LYZo8VsQlyh+fYLVFmQUgd2RAP1A5E/RDA1wozX3XPw=
+
+Name: images/reference/Dialog_wsdl_creation_02.png
+SHA-256-Digest: GSDuSujzEaPU4Ak42L8d0Nxep+ISWqcSk4VnVyKH2Ms=
+
+Name: images/reference/Property_Sheet_02.png
+SHA-256-Digest: G0K/Z4zAZNYK7FKCkZnF0hMC44PfEENSrWXFwfkr6x4=
+
+Name: html/Reference/DetailsTabs/scope.html
+SHA-256-Digest: loFOJJGtpzFiz/ngfMrqw5dzQ9PiobZnmfvnQoHmHHc=
+
+Name: html/Reference/Preferences/expressionEditor.html
+SHA-256-Digest: GcuOxEd/Js1eZ1wCC4CQmfaUcrJkOxmqf4J5KWcQL2Q=
+
+Name: html/Reference/UniqueProperties/importsTab.html
+SHA-256-Digest: q9FhhsI1nmXXJjuGDCQk1bU7HXdhhtBuNkyB129HTOk=
+
+Name: html/Reference/DetailsTabs/reply.html
+SHA-256-Digest: 0digHnUtuBr6sVScqMeRfzGnnk5SzspD7pDLUSC1WaA=
+
+Name: images/detail_createprocess_1.png
+SHA-256-Digest: pwhfS5JQPWbydVFUBsrox/Cb3oIBpcZaaPzPILuPngY=
+
+Name: html/Reference/Editors/faultCompensationEtc.html
+SHA-256-Digest: fu0509aJtEkrmlvS2+CE1E9VumG81p7CTS5ldWpKWWg=
+
+Name: images/details_createproject_1.png
+SHA-256-Digest: mWLmsPduNBjdWWrIMiPxN+qBAKuvt5mZfI8NLD+Cjkk=
+
+Name: html/Reference/Dialogs/createWsdlProperty.html
+SHA-256-Digest: tl/BDzpCTef1M5nllZ/+Dt4HAw8UlOKcv3DhtlBNgzs=
+
+Name: images/reference/bpel_ref_13.png
+SHA-256-Digest: 0pRxvI0IIGIcj8MrG48KysIve6Ro0xK9/ak+CVO5JkU=
+
+Name: html/Reference/Editors/faultActivities.html
+SHA-256-Digest: rTYgTWgfF+5nuYS5kr0wcuJsiObFUw1MPmAnnT0qGS8=
+
+Name: html/Reference/Perspective/bpelPerspective.html
+SHA-256-Digest: ogWEFV7JVnuuN/j8YUzmHVOQ6VvQBhs0njpiD0gZ2FE=
+
+Name: images/reference/BPEL_Designer_19.png
+SHA-256-Digest: soUuG3zDedbML31pV+4fJ9RTchkq204ZUXNB6rNkwAw=
+
+Name: images/reference/Details_tab_17.png
+SHA-256-Digest: DkqRtn6dMtlQeBECMqYc+9cmjlZCSSHaGN/niJ6MQSk=
+
+Name: images/reference/View_Outline_01.png
+SHA-256-Digest: 4h5C8txpm5C+zybOkK61rddZ1myktOCb5L0BmYo/gLA=
+
+Name: images/reference/bpel_ref_8.png
+SHA-256-Digest: EyXSu7bdbZSpP1jhPx2f4popc/mp0T1eqBV6myWOAxw=
+
+Name: html/GettingStarted/CreatingAndEditing/addingServiceToWsdl.html
+SHA-256-Digest: 9hqCtu48SI14Sf2gacXYSVynVCssR9peBYG4EvWtMAc=
+
+Name: images/reference/Details_tab_12.png
+SHA-256-Digest: I59mKIR/WaS3fyHpWV3XmlHlVWXeT9MQuP5tr0NMGxs=
+
+Name: html/Reference/DetailsTabs/opaque.html
+SHA-256-Digest: QsndtN/HetFB0ZTi5fDmUJBidPiGVQZvpkPvoohBRFc=
+
+Name: html/Reference/Views/outline.html
+SHA-256-Digest: 64321ljhmspvltkB0T79ku1KpvPi5FUC7E/4z5wOMs8=
+
+Name: html/Reference/CommonProperties/commonPropertySections.html
+SHA-256-Digest: YY77f3fmCVP8pz2XXQcM65lPYqBI3bGXZO6Mo8D4dwg=
+
+Name: images/reference/BPEL_Designer_08.png
+SHA-256-Digest: Z+BpaLH64mbi/qx9PrUZx/wjmiFQF6jZDX5xezEvlNQ=
+
+Name: images/reference/Details_tab_06.png
+SHA-256-Digest: uZW4pyIKoB/tdPolwPpkQhkjQ2MOOEdbydf1D1BmLl0=
+
+Name: images/reference/WSIL_browser_preferences_01.png
+SHA-256-Digest: qGtVErK5bJI+BhOH8yMKTTOsDDcxBo7Bmz52Tsu36Kg=
+
+Name: html/Reference/DetailsTabs/throw.html
+SHA-256-Digest: TzD7MQIkjrYifD8i4QHfoJ6unvwdeVzN98TXwUtVhyc=
+
+Name: images/reference/Handlers_09.png
+SHA-256-Digest: ImKIX0xVoz8PJmQeyth1dz0W17Ps8dOlHWt0H77wpfE=
+
+Name: images/deploy_createdeploy_3.png
+SHA-256-Digest: nbSgwmA87nMVJY8RqEn5PqHsAgM1sRj46yoiIE/9vmk=
+
+Name: images/reference/Editor_preferences_02.png
+SHA-256-Digest: /keapE3CyC4nSp/VlJp3OPibU5tuPuAfBxAdSzcPSJ0=
+
+Name: html/Reference/Wizards/newBpelProject.html
+SHA-256-Digest: mB4/RvfQ62uyihsQXtAlUR7V5WD/ATlNJsaWflOLPUA=
+
+Name: images/detail_editprocess_4.png
+SHA-256-Digest: /gukDDtPROzaGIUdsg7ydK6PxasiHjUVTLvdWVuC+wU=
+
+Name: images/reference/BPEL_Designer_04.png
+SHA-256-Digest: eEiMjCT3D0DJTH19zqgtk9FG+kfoN1YvbyAqxw77T2s=
+
+Name: images/reference/Handlers_04.png
+SHA-256-Digest: nvhBEp3FVm6fuYbQMB41WlrGUtMtG3zRwuB7r1tgwKA=
+
+Name: images/reference/Details_tab_10.png
+SHA-256-Digest: P1yMdJav5Rj0kG3+OnXHIvBPFhezUM67HKkSNao0ex8=
+
+Name: html/Reference/Preferences/wsilBrowser.html
+SHA-256-Digest: GbgJQf8jHvP+5Gn8jImC22/qull4k6efT7hwKP6YM1E=
+
+Name: html/Reference/UniqueProperties/joinBehaviorTab.html
+SHA-256-Digest: IPwlOiSkGYC0HaYZo/THUDmt10ochxhg4TPCcMtqIH0=
+
+Name: images/reference/BPEL_Designer_20.png
+SHA-256-Digest: yFsqyzdKHypJWCyhRWWwOCUn0b/TqC04TgBsHQT0p5k=
+
+Name: html/GettingStarted/CreatingAndEditing/creatingBpelProject.html
+SHA-256-Digest: 9dbcj+wHjbGIsjQtdCvZGW7XdTuQLOyzvrv8aammCSI=
+
+Name: images/reference/Fault_Activities_04.png
+SHA-256-Digest: DdD9HgK4GId6Q1eWgn4kL8W7iEQTD6BmF6NrQtBUoBk=
+
+Name: html/Reference/DetailsTabs/forEach.html
+SHA-256-Digest: xtLyyV0e3gKvFopxCBM5x0o2DBF1lDkGaXOj0pxLyFA=
+
+Name: images/reference/Context_menu_02.png
+SHA-256-Digest: FFrdVdyi9xEHnmM61zfITqnzYqoQc5zS/W5uIhCPG3U=
+
+Name: html/GettingStarted/Deploying/deployingToRuntime.html
+SHA-256-Digest: 7DTZthGmvnKd/PrAfP0OX0EYE4fU3qyLCKiwWOaM1Uc=
+
+Name: images/detail_createprocess_3.png
+SHA-256-Digest: RI1vIlANJF3J+oI6uiEvoaGqifmL2LyY0M9/GWDyEAA=
+
+Name: images/reference/Details_tab_09.png
+SHA-256-Digest: hohy5QX1wpr627M3R3dc2FSAJVdH+w+zsUlU6gtwfF0=
+
+Name: images/reference/Common_Property_Tabs_03.png
+SHA-256-Digest: nw9QD6BKILmsW+EuaMsVzKJsi8Eb1fnwaq0ZPE1bHJs=
+
+Name: images/reference/Dialog_cheet_sheet_01.png
+SHA-256-Digest: vPovaplYucbl9UXHcdlQjOnWDXEQjOjKegNI9TgKkt0=
+
+Name: html/Reference/DetailsTabs/partnerLinks.html
+SHA-256-Digest: RGmpA38G202X/3OP7g6AtBs3sKJa+ZGKcu1FOQiXC9U=
+
+Name: html/GettingStarted/Deploying/creatingJbossServer.html
+SHA-256-Digest: /OSazgdaP6u+w/1AUiyq1peb5/XurJOB5PYIDq/kJ14=
+
+Name: images/reference/Property_Sheet_01.png
+SHA-256-Digest: ZHj4PrKUiL02EsqXgG3gWoV3C4DGBPDZDEFA3DW2tHo=
+
+Name: images/reference/BPEL_Designer_16.png
+SHA-256-Digest: PmetIKgrkgDmThdec2s2qhJmvMokLUgr13GGFON6O2E=
+
+Name: html/Reference/Editors/basicActivities.html
+SHA-256-Digest: jgbChpp8aN7OIFz+pu6qTMV5RGXHUXXNjtAOdCmYKX8=
+
+Name: images/deploy_createdeploy_7.png
+SHA-256-Digest: ioaswvGlV6hH+dmsDqPcEgkyunTgIK9F3Dvj1Z9YdyY=
+
+Name: images/reference/Details_tab_14.png
+SHA-256-Digest: jRbDK+4wq/SFqkd39734yD+a8dEEwLgf8QozyNjlvO0=
+
+Name: toc.xml
+SHA-256-Digest: iFtw7Nh4xN+/glBDm4SlYUGQdSzyLdaf5tBqEveFF9k=
+
+Name: html/Reference/Dialogs/createWsdlPropertyAlias.html
+SHA-256-Digest: Opp9pyxAyWwtspGBuCUQnPM0Ntzs6LbBQhO+0D00XRA=
+
+Name: images/reference/Create_a_BPEL_Process_File_02.png
+SHA-256-Digest: 6kKACy9qGQ1GMP2hbcbCpF4rOZvWT0ChTI/uADDJTtc=
+
+Name: images/reference/bpel_ref_2.png
+SHA-256-Digest: MowFAW++9+vuh2zsf82tGPEcsDIVYQk0N/4Kllq/vD4=
+
+Name: html/Reference/UniqueProperties/propertySections.html
+SHA-256-Digest: BMJNOqOq5EBzvsdrMJ9Wf878hF9JopPWOXpVWzikCQI=
+
+Name: html/Reference/DetailsTabs/link.html
+SHA-256-Digest: a9mEqL+loWFj25g8QeNZMJ8DXUC2EGf29HyaMQbE3Eo=
+
+Name: images/reference/Details_tab_02.png
+SHA-256-Digest: x+HIbAI/dml9Tu/5n4Q3Cha/qm+TJzJVCWMNrq26HeY=
+
+Name: images/reference/bpel_ref_3a.png
+SHA-256-Digest: JzVP392vAL90iW09mYv4JeY+64BLQu7Hgxoal3cDEH8=
+
+Name: html/GettingStarted/gettingStarted.html
+SHA-256-Digest: v4DK9lTFUdOqj3BR9K+c3MdPMIikdVIGOCh2O4uw84k=
+
+Name: images/reference/Details_tab_15c.png
+SHA-256-Digest: fVC3xDaMwh+ypNnNwJKkT66k2eEYqnllnSVrWBgUV8g=
+
+Name: images/reference/Handlers_08.png
+SHA-256-Digest: /lHiAU/LxIW4ZLazZPBvV0EgZxRincmgrl4HtcdRDRE=
+
+Name: images/reference/bpel_ref_9.png
+SHA-256-Digest: ERsYr137KdPMLhnKAOasbZ2w75xrHS9yeEdQEFpGpH0=
+
+Name: images/reference/bpel_ref_12.png
+SHA-256-Digest: 46Qn9RTCJUeC5jSf4IPCCgtcTp1C14vgV+bBgxwnR4g=
+
+Name: images/reference/Details_tab_13.png
+SHA-256-Digest: IUqwiv+uVUrHIRqtmcqL17J2CVLCaOWl4Tl3JSuQwac=
+
+Name: images/reference/Handlers_01.png
+SHA-256-Digest: I6oXMt7gcXcvr2xBdxsA5mWZ7JElnwqSS1BKqUnPGT4=
+
+Name: images/reference/Details_tab_18.png
+SHA-256-Digest: uonfILB1UMEorVP5mx77Fcyx5LUYtuIjFCcO+bEb5fo=
+
+Name: images/reference/BPEL_Designer_07.png
+SHA-256-Digest: X5fwMgvS5X0/bYC+P7+B1TnjO0tLn/IklTIsE3nCYC4=
+
+Name: images/bpel_ref_2a.png
+SHA-256-Digest: FPDRptsk78v5Ul4wRockv/m3MxBTovvmSKZos9y6cII=
+
+Name: images/deploy_createdeploy_4.png
+SHA-256-Digest: 9ckEazA2rpz5p0A17FoKNggjHYgev7r8hd1Rk6CFOZo=
+
+Name: html/Reference/DetailsTabs/onMessage.html
+SHA-256-Digest: Td4IW07jEK/eNchotS5cLTVXwNH833MzkbeNkhG8Se0=
+
+Name: images/reference/Details_tab_05.png
+SHA-256-Digest: VaER2tuk7o+Hk+AwN21sN5l4S3794YzYJCA90M8yyHE=
+
+Name: html/book.css
+SHA-256-Digest: DCQvP4iBgIGPlK5MeYOccjCxa0PzdKHbZAufU/G7+0E=
+
+Name: images/detail_editprocess_1.png
+SHA-256-Digest: L72/eWE3/Cc2M4VsvXlZpLaOiRMGZ3jLXqwMxDAWzh8=
+
+Name: images/reference/Fault_Activities_01.png
+SHA-256-Digest: hyJGc8sRFrwjPOQz2eizKiZ0l3IJxu0vnYRVljErOC8=
+
+Name: html/Reference/Views/dashboard.html
+SHA-256-Digest: 5l8KQusgZhR7CS5QmdbLR5u9Q4RgH4K5F28SyHoPHgY=
+
+Name: images/deploy_createdeploy_6.png
+SHA-256-Digest: mnGg1WI8+bQCZVnzNTDgPy1X6WzWLlcakslQ9GTlLZ8=
+
+Name: html/Reference/Dialogs/xpathExpressionEditor.html
+SHA-256-Digest: rhYRCYjYzkBCxmeSwA1M2kCPGRfeeYbj3BsqiLRvX9Y=
+
+Name: images/reference/Property_Sheet_04.png
+SHA-256-Digest: 4EQTfOE8TDqDqKrlGOPt3PGXMY+zAlVpyBMVH/HrxXQ=
+
+Name: images/reference/Palette_01.png
+SHA-256-Digest: oICBqlxbRyjuHrl0OfwPfhDlJaIM5v9Xhkmd34MmagQ=
+
+Name: images/reference/bpel_ref_5.png
+SHA-256-Digest: AtZxm7KRaZJbJ8m/i+zbv2oqmfhhakU6ZT5OW+3Idkc=
+
+Name: images/reference/BPEL_Designer_13.png
+SHA-256-Digest: fsf9cPYGYRRYbBFCKBJjdqK0tyYnvFuT0QyyKbNMJPo=
+
+Name: images/detail_createproject_3.png
+SHA-256-Digest: ZaW/Oe1YX7n0GAG8x10C77S6tJDQhqOLnBA2YkXeRv4=
+
+Name: images/reference/Deployment_descriptor_editor_01.png
+SHA-256-Digest: fBAkG0ESufBvJMmAQVNFSkJmvxWra/bSNeV7UTPVP0E=
+
+Name: html/Reference/Editors/bpelDesigner.html
+SHA-256-Digest: XLXhamVgVkJGuQ6p1/eWGwC7nwut2Y/cGprcIc4Oq94=
+
+Name: images/reference/Details_tab_03.png
+SHA-256-Digest: InMHb1y+phGCOzQw31BAvBxJgNqKGo0dKtrCNOQ+p9s=
+
+Name: images/detail_editprocess_3.png
+SHA-256-Digest: yf5WR7t1pMI3Ijmcb1tGAus6MmmzfOxr0ElunhfLxFU=
+
+Name: images/reference/BPEL_Designer_05.png
+SHA-256-Digest: A6+Unte2QMEwAm2T2oFj+tgV+Bo0XIjkjd+iOC4szv0=
+
+Name: html/GettingStarted/CreatingAndEditing/creatingBpelProcess.html
+SHA-256-Digest: QmPvoLOVw9kHUWrevZ5P2u1T3Hp4bdLkq0PAfkQM0TU=
+
+Name: images/reference/Handlers_03.png
+SHA-256-Digest: 3COt8ICC1lTx1jCVQfz7WGZfIsHmQy6mORHv46M4hds=
+
+Name: images/reference/Editor_preferences_01.png
+SHA-256-Digest: HxkmvSN6mfjlqBnGjaWyid/FnEP5lrMFow08k7wUmGw=
+
+Name: html/Reference/DetailsTabs/wait.html
+SHA-256-Digest: fqaqsoAI8laZWjkiz2zTRPJs/O2dTus44ZZBN8ZFGMk=
+
+Name: plugin.properties
+SHA-256-Digest: 2BUgh4SjkGY9r+bHREzGfcqM1/3Xm874fcGOUuAaJo4=
+
+Name: images/detail_createprocess_2a.png
+SHA-256-Digest: GOHLG/Vcym2c4zZJmRFFTMBw/f93bSNbiOY6jNLX1oI=
+
+Name: images/reference/BPEL_Designer_23.png
+SHA-256-Digest: KJbfufucPI2rpuK/uPW+juMXp+8z2pmcMtqqzJ8e7ek=
+
+Name: html/Reference/Preferences/preferencePages.html
+SHA-256-Digest: z0/K6/Tck4rEY6kIVU245syPTVQF87RahLoagKWv3HE=
+
+Name: images/reference/Details_tab_08d.png
+SHA-256-Digest: 1GJsRSr9J75LUxMXmxItIqVaWhsqRubeyZIVa/TDvt8=
+
+Name: html/Reference/Dialogs/cheatSheets.html
+SHA-256-Digest: Yw4xxIuytM9HzhpQV9cyzUPOc//eMLGkrw7yAVKjJ+0=
+
+Name: images/reference/BPEL_Deyployment_Descriptor_01.png
+SHA-256-Digest: ZPYk/LwoIxkCjLDNzYw6VewLdC4uHyVnHDD9UPt63zU=
+
+Name: images/bpel_task_1.png
+SHA-256-Digest: K6NSrlFqGaFrrQML/R06Qbb0U8qjddoUZ9y5bvxFvIw=
+
+Name: html/Reference/CommonProperties/joinBehaviorTab.html
+SHA-256-Digest: 3URqh8V1Rlob3qfR9qCCQPF9NNRCefvqdYqP1OeRUJc=
+
+Name: html/Reference/UniqueProperties/detailsTab.html
+SHA-256-Digest: z0BJkNw7j7E9NE4COPRfUwZPmj+wSZ0H5FK9xzWEzCo=
+
+Name: images/reference/Dialog_cheet_sheet_02.png
+SHA-256-Digest: 5rc393C6RQYM0EnOQA6BRLcbZ8CTGmP8dwCXiIiC7S4=
+
+Name: html/Reference/DetailsTabs/assign.html
+SHA-256-Digest: FvbovVkJI7LN82d97g4EB8AevJgs9vgokuoBvLIEo6Q=
+
+Name: html/Reference/Editors/structuredActivities.html
+SHA-256-Digest: tFmFIZgAL5Rax4tanV4w1IYbXgF6U7Stf2YJUJ8oNtQ=
+
+Name: images/reference/Common_Property_Tabs_04.png
+SHA-256-Digest: QHBfjEhJ60JozvYGE6/9I2lhWxzIQqEVoMszFY/5vzU=
+
+Name: images/reference/Details_tab_15.png
+SHA-256-Digest: pVy7BBPN3FBj7sFPZ0Cll4P8G5YRqFEIUpxYDoq9VbE=
+
+Name: images/reference/BPEL_Designer_17.png
+SHA-256-Digest: lc11p6c1UCnF5TOtQHxxAvF/BVWx97ay8rlTh9GcuZY=
+
+Name: html/Reference/DetailsTabs/variables.html
+SHA-256-Digest: WhSNhJ54D2zbT8apXqIoEde8FvGQgtHqRwGfhxEpQ/0=
+
+Name: images/detail_assign1.png
+SHA-256-Digest: Sw65Lo4ugjxDj+tXudQFKM/WwtoF/tFTd0lnf0U99Lc=
+
+Name: html/Reference/Views/palette.html
+SHA-256-Digest: DpQa3Ws6nj89AJY/8jPjySWeNpaL/9AQAIt//kfzK7M=
+
+Name: html/Reference/CommonProperties/namespacesTab.html
+SHA-256-Digest: eKImgKOfmqktidJwCHNIK5z5s9HWHwLmuCe56PeQ8fk=
+
+Name: images/bpel_task_0.png
+SHA-256-Digest: BWyoU0r1mN7O0tQPS7LY9/zvgtj0aa7t8Lzoi7tMKlo=
+
+Name: images/reference/Common_Property_Tabs_05.png
+SHA-256-Digest: gWYES3p8EF0id4g+MT+Eacu7tlYKcR8G6prgVn+1M3M=
+
+Name: images/reference/Details_tab_08.png
+SHA-256-Digest: 3PU36C8nOTVadZqclOBmEhYDSM9IQPD4MToe/ZlIEJE=
+
+Name: html/Reference/troubleshooting.html
+SHA-256-Digest: L0IJMfNRjLr3zWk001Me8EnGdMe7txd2ll03K8oVDi0=
+
+Name: images/reference/Details_tab_15b.png
+SHA-256-Digest: Im3pg8MjUE24iqWhxqeuyToPfcTIby23zqvYXMId8lo=
+
+Name: images/reference/BPEL_Designer_01.png
+SHA-256-Digest: k2IDeQWCVStfgpnGNlbGltp8Plcf8BQLqzuYcUA7sBw=
+
+Name: images/reference/View_Outline_icon_02.png
+SHA-256-Digest: 0EUnuehc9YfE2KHUPahGsjLedtvOAfiW1QIoVF1+xfg=
+
+Name: images/reference/Handlers_07.png
+SHA-256-Digest: Fu5fBBgDPjm3aOyeH+ViiMsousK5Icx7j6gwLX8LuMc=
+
+Name: images/bpel_ref_1.png
+SHA-256-Digest: QrjRdU48aTLiSyznYtmtCKPqZ1+f9Og+igqc2ujbKtg=
+
+Name: html/Reference/DetailsTabs/empty.html
+SHA-256-Digest: 2PdVD3OlPW/aoLJIrjB0mixiaQtmQwGPLuU1S0kv7hY=
+
+Name: html/Reference/DetailsTabs/invoke.html
+SHA-256-Digest: dTkpAc13CBVQsITqkBGrF/dM51WxkfrQvsaHlGvRGqY=
+
+Name: images/deploy_createdeploy_1.png
+SHA-256-Digest: zQw0OKJ7cdsoo7DmznEzrJKbn6KNiiki05LCXS+Mimk=
+
+Name: images/reference/bpel_ref_11.png
+SHA-256-Digest: 7ILTO7ivlpnz456cAVG7vUYwCm0UGdT1zA3zh88NtNo=
+
+Name: about.html
+SHA-256-Digest: ZoK6poPt5nUF+dWY60u46TnVg+HFAapyc/rkeZsfZeE=
+
+Name: html/Reference/Dialogs/quickPick.html
+SHA-256-Digest: W9kyCUyy3TV8MTenbOgSFGTsoCuzR55UWOnbQjz2CzI=
+
+Name: images/reference/Context_menu_01.png
+SHA-256-Digest: OVbj9vwJ7c8B0bseKf4IWiWjurvF/GPSxFKbBGc7QFM=
+
+Name: html/Reference/DetailsTabs/while.html
+SHA-256-Digest: Q6ccMKpX7c3Pxsb8W57/OQWsnyzvjaXteWBvGiM8yJg=
+
+Name: images/detail_editprocess_2.png
+SHA-256-Digest: XrtP8sfurUH8FWmYo0pXe2DdCiFxK7F5rRPcQz8Y6pQ=
+
+Name: html/GettingStarted/CreatingAndEditing/editingProcessFile.html
+SHA-256-Digest: WH9kmUR5CDoZ7b2wj1Oadpd5CMYRHQlts1QmeprACd4=
+
+Name: images/reference/bpel_ref_6.png
+SHA-256-Digest: XuZtx5UIRdH2VvtgrJlJCE7bdeRueKybQED+uUs1ePk=
+
+Name: images/reference/Fault_Activities_02.png
+SHA-256-Digest: grWUoaOnHS+jqq1zly/eO3Uf8PZiv05iukMExtXR/78=
+
+Name: images/reference/BPEL_Designer_12.png
+SHA-256-Digest: AQHGsRBU8Wao1th/otfOOp73X0kpX7lNe0+jOaBHkKQ=
+
+Name: html/Reference/CommonProperties/correlationTab.html
+SHA-256-Digest: 4GvjUrGsRkCrwddFsd0uxr/I0JdGgcV+xHlho9uX1lg=
+
+Name: images/reference/Details_tab_19.png
+SHA-256-Digest: fAxfnPmK09aHXiCiwX2R5aDfnAZNGUgzHviCzOKvb0s=
+

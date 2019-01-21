@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Blind Visualizer</title>
+<style type="text/css">@import url("../../book.css");</style>
+<style type="text/css">@import url("../../schema.css");</style>
+</HEAD>
+<BODY>
+<H1 style="text-align:center">Blind Visualizer</H1>
+<p></p>
+<h6 class="CaptionFigColumn SchemaHeader">Identifier: </h6>org.eclipse.actf.visualization.blind.blindVisualizer<p></p>
+<h6 class="CaptionFigColumn SchemaHeader">Description: </h6>This extension point is used to add new Blind Visualizer.<p></p>
+<h6 class="CaptionFigColumn SchemaHeader">Configuration Markup:</h6>
+<p></p>
+<p class="code SchemaDtd">&lt;!ELEMENT <a name="e.extension">extension</a> (<a href="#e.blindVisualizer">blindVisualizer</a>)+&gt;</p>
+<p class="code SchemaDtd">&lt;!ATTLIST extension</p>
+<p class="code SchemaDtdAttlist">point&nbsp;CDATA #REQUIRED</p><p class="code SchemaDtdAttlist">id&nbsp;&nbsp;&nbsp;&nbsp;CDATA #IMPLIED</p><p class="code SchemaDtdAttlist">name&nbsp;&nbsp;CDATA #IMPLIED</p>&gt;</p>
+<p></p>
+<ul class="ConfigMarkupAttlistDesc">
+</ul>
+<br><p class="code SchemaDtd">&lt;!ELEMENT <a name="e.blindVisualizer">blindVisualizer</a> EMPTY&gt;</p>
+<p class="code SchemaDtd">&lt;!ATTLIST blindVisualizer</p>
+<p class="code SchemaDtdAttlist">class&nbsp;CDATA #REQUIRED</p>&gt;</p>
+<p></p>
+<ul class="ConfigMarkupAttlistDesc">
+<li><b>class</b> - the name of a class that implements <samp>org.eclipse.actf.visualization.blind.IBlindVisualizer</samp>.</li>
+</ul>
+<br><h6 class="CaptionFigColumn SchemaHeader">Examples: </h6>The following is an example of an extension definition:
+<pre class="Example"><span class="code SchemaTag">
+   &lt;extension
+         point=</span><span class="code SchemaCstring">&quot;org.eclipse.actf.visualization.blind.blindVisualizer&quot;</span><span class="code SchemaTag">&gt;
+      &lt;blindVisualizer
+            class=</span><span class="code SchemaCstring">&quot;org.eclipse.actf.visualization.blind.html.BlindVisualizerHtml&quot;</span><span class="code SchemaTag">/&gt;
+   &lt;/extension&gt;
+</span></pre>
+<p></p>
+
+<h6 class="CaptionFigColumn SchemaHeader">API Information: </h6>The contributor will add new Blind Visualizer by implementing <samp>IBlindVisualizer</samp>.
+<p></p>
+
+<h6 class="CaptionFigColumn SchemaHeader">Supplied Implementation: </h6>ACTF provides a <samp>BlindVisualizerBase</samp> that can be used as a base implementation of <samp>IBlindVisualizer</samp>. Contributors need to implement <samp>visualize</samp> method to suit to their purpose.
+
+<samp>org.eclipse.actf.visualization.blind.html</samp> and <samp>org.eclipse.actf.visualization.blind.odfbyhtml</samp> are implementations of Blind Visualizer.
+<p></p>
+
+<br>
+<p class="note SchemaCopyright">
+Copyright (c) 2007, 2008 IBM Corporation and others.<br>
+All rights reserved. This program and the accompanying materials are made
+available under the terms of the Eclipse Public License v1.0 which accompanies
+this distribution, and is available at <a 
+href="http://www.eclipse.org/legal/epl-v10.html">http://www.eclipse.org/legal/epl-v10.html</a>
+
+</p>
+</BODY>
+</HTML>

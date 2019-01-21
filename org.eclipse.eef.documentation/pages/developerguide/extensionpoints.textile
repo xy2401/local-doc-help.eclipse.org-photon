@@ -1,0 +1,7 @@
+h2. Extension Point
+
+The EEF project provides multiple extension points, including:
+
+* "EEF Lifecycle Manager Provider":eeflifecyclemanagerprovider.html
+* "EEF Tab Descriptor Provider":eeftabdescriptorprovider.html
+* "EEF Tab Descriptor Filter":eeftabdescriptorfilter.html

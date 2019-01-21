@@ -1,0 +1,173 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.wst.doc.user; singleton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 1.2.0.v201711201733
+Bundle-Localization: plugin
+Built-By: genie.webtools
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/source
+ editing/webtools.sourceediting.git;path="web/docs/org.eclipse.wst.doc
+ .user";commitId=0c532000ad09e53c9fb8ddfb1c3f1def983f57c0
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+Eclipse-LazyStart: true
+
+Name: commonltr.css
+SHA-256-Digest: YK/8aMMpQssT/+SmaA+srp3rvZ/P2Xg1K8/Wvh/LhRM=
+
+Name: plugin.xml
+SHA-256-Digest: IbHmK1gi5TIHzYTCJuFL0mGL/2tkipHCnmd8u8wk/Kg=
+
+Name: images/XMLCatalog-Figure2.jpg
+SHA-256-Digest: gvhUEOI1i6zkwZMLiPxWYqWIhD2FXWU2D0KFy19XcO8=
+
+Name: images/xsdeditor-figure9.jpg
+SHA-256-Digest: 37RfKrjL0Dxyxq/PPhFgZ2EFsVQrBY/ehztpKv4B/tE=
+
+Name: images/xsdeditor-figure8.jpg
+SHA-256-Digest: p++dMXdqqzaCG5Uj6/ZIGOHzaZRrT8And/Uq+hA+d7E=
+
+Name: common.css
+SHA-256-Digest: QkpeMugwZDWZKKkSpdAZM/o1Ejua4TXLq8fjZeZxDnA=
+
+Name: images/wsdl_main.gif
+SHA-256-Digest: QWe6wJk73UWC3dUDup4qa/3dQJFebJfdyXcJH8O3Fy4=
+
+Name: images/imageU71.jpg
+SHA-256-Digest: o7uqDY2qKxs0ar6MrdxWKilqbtyanvteLVVarKewpoI=
+
+Name: images/imageO78.jpg
+SHA-256-Digest: huOx9cfGxgafjiv/FlScM2Rs3LEgBW5F4CijzX7hKnk=
+
+Name: images/image99L.jpg
+SHA-256-Digest: 8wJwj9XBmVket35qU0Lz6tEQIv9b9h+p5shMVZ1tv2E=
+
+Name: images/imageLKF.jpg
+SHA-256-Digest: UWd48vEiEBa/0TBRNbbm2Ujy1MGqlgS6CR5ghAAtqh8=
+
+Name: book.css
+SHA-256-Digest: N5qe8qEVsoO1/fAMa1pnXLqoNAl31hJem2DVhOQMhfc=
+
+Name: plugin.properties
+SHA-256-Digest: F/GUGluqHrsK5UWVma6qjocuq/MtKSXxAveTNvWRQoA=
+
+Name: images/XMLCatalog-Figure3.jpg
+SHA-256-Digest: RQ1l4qBwDWFrN2fGcStRJuK3Q0MjszcyEm7ALUgfj7M=
+
+Name: images/xsdeditor-figure7.jpg
+SHA-256-Digest: 1ff/YBhpLyHA37m9QOwTFsmM/JmY6+uC2AoiSH49mV8=
+
+Name: images/wsdleditor-complex-type.jpg
+SHA-256-Digest: SFy4/WKdNs2FWVKLXGsZIRCawc4k5h+dNEDfOYHsbu0=
+
+Name: images/SelectNewServer.jpg
+SHA-256-Digest: Nhyma+M36d4XT/0QgUsiEy1FFFl8gyBYp2R+8ah6SDQ=
+
+Name: images/wsdleditor-settype-dialog.jpg
+SHA-256-Digest: VvHwO/AOGXu+J3rXz+ve2iqRV0Yv9eY12x2YDogQyOs=
+
+Name: notices.html
+SHA-256-Digest: b+UtplWdzqlfIRmkz6RkFfVjptinVaj0gAuSPlE1xSw=
+
+Name: images/wsdleditor-smart-rename1.jpg
+SHA-256-Digest: BS2sxHY+P9kGwmVkgkCHn+ImB450aFk6gzdk/tpZoWU=
+
+Name: images/wsdleditor-setelement-dialog.jpg
+SHA-256-Digest: JdaVeC/S+X/mDrKsNxxDDVbBj3PJJ8HCUvu16tkqWpk=
+
+Name: images/xsdeditor-figure2.jpg
+SHA-256-Digest: nBT5dW+USwKrRkNmDacGQn5Sfw5mA+QHBDLwkkgdKCc=
+
+Name: images/selectRootElementDTD.png
+SHA-256-Digest: jxw0DZNRox4iDYwF0EBeU7CfyNLRBoop1hESXRwiD5k=
+
+Name: images/XMLCatalog-Figure1.jpg
+SHA-256-Digest: fbEhiXZhQ+Wh005FPvyR5VK7lYJUP9CVml1fyD03yik=
+
+Name: toc.xml
+SHA-256-Digest: UtfUmohjUXBA9iQ+jT6hOX9TLVYIh3oWpWPqmldwhpk=
+
+Name: images/xsdeditor-figure1.jpg
+SHA-256-Digest: 9j+Un/FnHP7KPdqmNL9H8sMQYIL2Viki8h99vvLUiVE=
+
+Name: images/wsdleditor-new-skeleton.jpg
+SHA-256-Digest: r47580rCzohzYJJINWNWYeA062m0DsGnJM9rJSRBLT4=
+
+Name: images/SelectExistingServer.jpg
+SHA-256-Digest: HjFOyrlj8N7xPnleygXQjk4ung8Z50L2pDSXDdh6ZFI=
+
+Name: images/wsdleditor-new-wizard.jpg
+SHA-256-Digest: mk/CZmaM0186TmFrxgX1/SBjxhYqBJJnKwmlOv2HZ4g=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.doc.user/pom.properties
+SHA-256-Digest: W1tGV9xgks5xpOAsk/3fRRgAn6psKa8b2PBNM3qYXQA=
+
+Name: images/imageIAI.jpg
+SHA-256-Digest: Qmk5UbGUK1oF5BWwzzD1R3uYpIRxqjF/uAJxdBNYCGo=
+
+Name: images/xsdeditor-figure4.jpg
+SHA-256-Digest: oNczoCj1oD7KGKjHoz63Uqv/oMB8ezf5T57gG4Z3bIU=
+
+Name: images/xsdeditor-backbutton.jpg
+SHA-256-Digest: L4kcAjYU2A6JWzlX36N8qhSzZHzyFJimgp2q5x2NdqA=
+
+Name: images/wsdleditor-finished-wsdl.jpg
+SHA-256-Digest: 9pYmhiYvZ2ehNTeRCY5G+H8W7IeaeUofFx4ChErn4jU=
+
+Name: topics/overview.html
+SHA-256-Digest: Al90pp6YXVVlgA1GtqxetO108wdmoKxO8JPj9PYEHeQ=
+
+Name: images/xsdeditor-figure3.jpg
+SHA-256-Digest: JE3N32OtyFtXXSCIJmr/IGZNlM2tNhI9SDq3U42fWQI=
+
+Name: about.html
+SHA-256-Digest: neI581GG7NVVFDKC+l8eqBiKiVR5X2E6OeED34Mf9EE=
+
+Name: images/xsdeditor-figure6.jpg
+SHA-256-Digest: Nr2OobUgp+Zf9rU2iyZDyTgDscbc6BNSgzBEdLP39+c=
+
+Name: images/XMLCatalog-Figure5.jpg
+SHA-256-Digest: KJTgRLuRE9JQiID5/HmO2HlkYcmEA6dlHyUrLuwc4rs=
+
+Name: images/wsdleditor-backbutton.jpg
+SHA-256-Digest: YImEcKiQVlTjzPH9pjmJNlF8QPg+7FQUCsiSbm0p+Eg=
+
+Name: images/wsdleditor-binding.jpg
+SHA-256-Digest: 2cy3wLZJDh6aLn7gKyUEMRCPOksjj+8df9pIR674nRU=
+
+Name: images/imageEJ9.jpg
+SHA-256-Digest: kJhL7UNcL61WWpFrtMnLIM9YID+/jqJna5lcCerk3Yg=
+
+Name: images/XMLCatalog-Figure4.jpg
+SHA-256-Digest: 7osE0NO6mnwf5Yhpvt7ihZxgVjfABA1XxyDkV7OYPBc=
+
+Name: META-INF/maven/org.eclipse.webtools.sourceediting/org.eclipse.ws
+ t.doc.user/pom.xml
+SHA-256-Digest: ikZsgeDljzH8UCmDkzPjKcy6LyoRrl7IvasLf5Lt01Y=
+
+Name: images/wsdl.gif
+SHA-256-Digest: N8O5zZsCe3q1SyNvhrY/Y+z72cw1UEX63BCBAWzYiBc=
+
+Name: images/wsdleditor-new-operation.jpg
+SHA-256-Digest: ardWIG/WZG8Mkq0Ky9np8YPlOgeuzkyGeXKHs+SVrBI=
+
+Name: images/xsdeditor-figure5.jpg
+SHA-256-Digest: hQq41LKriZlaoVywW+G8hztrVxaZXwmn7L1+Dubwrzo=
+
+Name: commonrtl.css
+SHA-256-Digest: Q9tHVgBgJk8fxkKnZH3Hd3GP8Hj0oYc1xjVkpnJ2k7o=
+
+Name: reference_toc.xml
+SHA-256-Digest: zzb5av5/V+aJsGHq2Szar8shlwpffrfTClM+hxRDZKU=
+
+Name: topics/limitations.html
+SHA-256-Digest: h1GoBOmaLXkP2FP/smaL8LPfp8axDBj4HDthJTWWJF4=
+
+Name: images/selectRootElementXSD.png
+SHA-256-Digest: 0huEj9tR4qCswHzCr/9g4X8BnTfCWwpfkwu/p38A1WA=
+
+Name: images/note.gif
+SHA-256-Digest: cSMIyLDQH8NjCoPoYG0R6WuDflG+TFr6bWstHh1n75o=
+

@@ -1,0 +1,37 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: g6dwpWsGIFtiiWlKNrfALqkct+Bev
+ LumfyckQ0uWP2Q=
+SHA-256-Digest-Manifest: NNv1uPz5ugc+ryGgwoequWJYm/tiOzUBLmlTJweQNiw=
+Created-By: 1.8.0_51 (Oracle Corporation)
+
+Name: html/tutorial-toc.xml
+SHA-256-Digest: 6xkhlu0AQpZ19EqaAzmtkGxAg+T0BRWyG4INRJF6c6w=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.eef.doc/pom.xml
+SHA-256-Digest: 2LcM3L1TJDUNwHhly9uIOQ/K5Z3yTqVsUNKyaJUP8xg=
+
+Name: html/tutorial.mediawiki
+SHA-256-Digest: T+faB0xH8F7BTiGHcWqYxxyc/ZhPNn4mHoxahD3Ssyk=
+
+Name: about.html
+SHA-256-Digest: V9LRQDDHL1po8kg2kWF3oavwt61bAYUhpzEJmSOLVu4=
+
+Name: plugin.xml
+SHA-256-Digest: mWzDKFnF/ieIVVlmZ8+7vol76hlzGbOXuRZDlkeDUUI=
+
+Name: org/eclipse/emf/eef/doc/Activator.class
+SHA-256-Digest: E0HuhDoN+DRXsw6sxc55b7eFX7QGPo5ysU4wObtEAGs=
+
+Name: html/tutorial.html
+SHA-256-Digest: DmqAivx0p+UxnXrBqWKRX1Gfwe9qfTsz/G8kG5REC+0=
+
+Name: pics/initializeEEFmodels.png
+SHA-256-Digest: 8V+fkyNK7GYateYLNht+u5JxlSnZ1yT4gxj2+M4iIAk=
+
+Name: pics/generateEEFArchitecture.png
+SHA-256-Digest: G4FpGV3VZQ4SfiPo1k6BR/cm9odPvoVIu6NggXZnC14=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.eef.doc/pom.prope
+ rties
+SHA-256-Digest: mKD4QsUhnxoJlBP1hb32KF5Hpa4GRz8BVuxTkTGEYs0=
+

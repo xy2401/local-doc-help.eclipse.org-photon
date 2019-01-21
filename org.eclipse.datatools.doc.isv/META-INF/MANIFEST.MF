@@ -1,0 +1,249 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.datatools.doc.isv; singleton:=true
+Built-By: genie.datatools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/datato
+ ols/org.eclipse.datatools.git;path="plugins/docs/org.eclipse.datatool
+ s.doc.isv";commitId=21692cc092dda37df2142942101fbaff423eebc4
+Bundle-Vendor: Eclipse Data Tools Platform
+Bundle-Name: Data Tools Documentation Plug-in
+Bundle-Version: 1.14.100.201801242337
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: plugin.xml
+SHA-256-Digest: jee2rVccbQJmH9XCcuSQ5cINBD0A/nao0ykjsRxQwaU=
+
+Name: html/reference/extension-points/org_eclipse_datatools_sqltools_r
+ outineeditor_launchConfigurationTypes.html
+SHA-256-Digest: nZWoM0gtdaAj4mt52VJMy61esgky5BxNCIeu+88nqIw=
+
+Name: projects/dtp/dtp/en/source/c_eclipse_context_xml_files_extension
+ .html
+SHA-256-Digest: ZLXlr2kz0bAdn6JN5wRAT8v1M6mESwEZoQMd0M+OGcM=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_oda_profile_profileStore.html
+SHA-256-Digest: WZVrIQkkNzYSQir9Q9uGHKTCR/VFlHLlEE0QQrioFXo=
+
+Name: html/reference/extension-points/org_eclipse_datatools_sqltools_r
+ outineeditor_documentprovider.html
+SHA-256-Digest: vKPADT+O059taDvArGdNrLmDPRJSfzm4du9mrMI4ZTQ=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_sqm_core_catalog.html
+SHA-256-Digest: rHrc+Icg+ExIDrSA8h1N8iyVreqWBcjZL/bwCnLoedc=
+
+Name: projects/dtp/dtp/en/source/c_plugin_spy.html
+SHA-256-Digest: zDLcC0HYAmbL7VfAZnqRa/j2BYEM1O+r05bP+FEp/Xg=
+
+Name: projects/dtp/dtp/en/images/dtp_cs_content.jpg
+SHA-256-Digest: lWUsjhazU6YWE93DPUHQho1nQSpi+wXjgkyt9J14z2g=
+
+Name: projects/dtp/dtp/en/source/c_help_search_expressions.html
+SHA-256-Digest: osrE0tmMfVeLSMZn8aIXzgnAtWlo6TAI9lReYKoQ6p8=
+
+Name: projects/dtp/dtp/en/images/dtp_csh_runtime_interaction.jpg
+SHA-256-Digest: vuPZHi9MymnYqrm0ce1Jt8p4NNydFooBoOoehfDbNuY=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_sqm_core_databaseDefinition.html
+SHA-256-Digest: Y8zAnhlp3qmtZRjuyhwx4stpXTn4KVe7l6+hYhyfvwY=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_driverExtension.html
+SHA-256-Digest: 6cI9VtxZ1uTNNdV7iHTLpDoFgr+ur9ah3pEdyJkU2kI=
+
+Name: projects/dtp/dtp/en/source/c_test_dynamic_context-sensitive_help
+ .html
+SHA-256-Digest: q5rKrGWqFlEaV43RVmGbxZoG5qMczIMmSK95ldaQ6tY=
+
+Name: projects/dtp/dtp/en/source/c_csh_ua_plugins.html
+SHA-256-Digest: mE8EFk8YhHrgFjwcQK00968PRg/HLBHqVcBIuv2bACs=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_oda_dynamicResultSet.html
+SHA-256-Digest: GXC9XUQPBoje0fpup3ZXfkCojb7kU/mtr9AotyWQmUg=
+
+Name: projects/dtp/dtp/en/source/c_helpkey_properties_files_extension.
+ html
+SHA-256-Digest: wwYUD4sxXyL110e0oq7GSE00WyX3cjFW+03xeB1RQjU=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_sqm_core_ddlParser.html
+SHA-256-Digest: M9EUvSruu4LFtMtFklHKdjZrYCbiCph7HtAm4s5Qz3s=
+
+Name: html/reference/extension-points/org_eclipse_datatools_sqltools_c
+ ommon_ui_preferenceSections.html
+SHA-256-Digest: SeCTHYzZclDoGqWxWqd7Ymi8paDz4kC8fTjiOtMzvcs=
+
+Name: META-INF/maven/org.eclipse.datatools.plugins/org.eclipse.datatoo
+ ls.doc.isv/pom.xml
+SHA-256-Digest: iqnLCqY+Ej2KpKRMNdBXadVlBXOpLS4Vq6mskXjCEVM=
+
+Name: projects/dtp/dtp/en/source/c_help_context_ids.html
+SHA-256-Digest: LJ8K4QBefx1B2v2yCOnBY5/rd4A6HLDTSM9GPDx/yfE=
+
+Name: projects/dtp/dtp/en/source/c_helpkey_constants_interface_class.h
+ tml
+SHA-256-Digest: wEW9i6P3PmxzCZAcmqk5SUK5cQD6trBawn3gcB475lg=
+
+Name: META-INF/maven/org.eclipse.datatools.plugins/org.eclipse.datatoo
+ ls.doc.isv/pom.properties
+SHA-256-Digest: Mc3NB4n7uVMZO9FLXCah5jOZgZI4sSM+ZscQL3hL4fI=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_oda_design_ui_datasource.html
+SHA-256-Digest: Gmz1Gt0DNjawgZHkxIneJpp/GAsiaZ/1+ERpA0MUzG0=
+
+Name: projects/dtp/dtp/en/source/c_csh_plugin_ids.html
+SHA-256-Digest: ksMG8MpZRL6QhtgmQTCeyh6Wx2Iztr2LFMLP3pLtewE=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_ProfileManagerInitializationProvider.html
+SHA-256-Digest: cRGkOu3jvVXhQwAkjXzNMnr5AD/1dK0hc5E0SsWAq14=
+
+Name: projects/dtp/dtp/en/source/c_view_implementation_example.html
+SHA-256-Digest: KQt5/p4qyQqmPyEbat/9f9Mo3LQa2H87cOHCEDurip0=
+
+Name: toc.xml
+SHA-256-Digest: JChGzak+Pdg9PZLUSVXsiiD4/XZkG2Kni7rUMvtoV4g=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_cipherProvider.html
+SHA-256-Digest: GGlIK8t1hKSIAEO43RXc6X2UEeipaVumpPaFxGY0OK8=
+
+Name: projects/dtp/dtp/en/source/c_test_objectives.html
+SHA-256-Digest: QC2JUVjywO2LGvEIT0MIviXF8lLwCfJ+j0PTDwNgfys=
+
+Name: projects/dtp/dtp/en/source/c_help_context_abstraction.html
+SHA-256-Digest: PP1j9F8PIxIQfPeTN2zsRugewgYz6RrDphL+wNT0G7U=
+
+Name: projects/dtp/dtp/en/source/c_context_provider_delegate.html
+SHA-256-Digest: l3SA7bswRirTRIKHPYxImy5tme+YxNAWnwJYqyOs6yA=
+
+Name: projects/dtp/dtp/en/images/Thumbs.db
+SHA-256-Digest: 3DKpT8uz7SZ1lwl79AXshAAtRom+pDhuyxYcIr/LEE8=
+
+Name: projects/dtp/dtp/en/source/c_documentation_team_responsibilities
+ .html
+SHA-256-Digest: peG4iavgmZigWBCYEJAOULX9My1qS+DnkfH7tKD1g+Q=
+
+Name: projects/dtp/dtp/en/source/c_introduction_to_csh.html
+SHA-256-Digest: nCKo8pZr2F1crkPEOufpPl8yv8v59PgGdqsFOv3XIw0=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_sqm_core_ddlGeneration.html
+SHA-256-Digest: SUAKej0WcEcRM0ZZbm2dYbiwp+nATf8CVRsyvjBJryw=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_connectionProfile.html
+SHA-256-Digest: aX4OUOU6iNixV5MFFEdI/Uf/JMgFFkx2zHCQBhER4FA=
+
+Name: projects/dtp/dtp/en/source/c_related_topics_associated_with_help
+ _contexts.html
+SHA-256-Digest: wtykl9u9IYgitHTra2UEDt3lO6NiwuXkdWkXOEnOyVQ=
+
+Name: projects/dtp/dtp/en/source/c_overview_of_dtp_help_helper_plugin.
+ html
+SHA-256-Digest: r0Y/5Tda3+7NYGEW7BXHKmeM3K2QqiYtsWs2IJavHBA=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_sqm_core_ui_labelService.html
+SHA-256-Digest: fK5wkrfa+YDPVl2zLmcE8PpAae5aupFHQKBPFuVQe0o=
+
+Name: projects/dtp/dtp/en/source/c_dynamic_csh.html
+SHA-256-Digest: AzF9RkPgOYwNJ2dCFM2Yt8NrlYUzJ9Yy4GH+LOHkcwQ=
+
+Name: projects/dtp/dtp/en/source/c_test_procedures.html
+SHA-256-Digest: n/kK06W0Y3aiY1gc8PPR9CAX9pkVrKt3NzadDpjCQA4=
+
+Name: projects/dtp/dtp/en/source/c_helpkey_properties_file_names.html
+SHA-256-Digest: jcwGn9oXs+LLeAVRgfJBIhYiBfNNtCUgqEF2IoJkTc8=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_oda_datasource.html
+SHA-256-Digest: W7eAzI32JhGYpxVjo2LT8h1uf1u+zrRdaDpZQRqGZJo=
+
+Name: html/reference/extension-points/org_eclipse_datatools_sqltools_s
+ qleditor_texthover.html
+SHA-256-Digest: bugOPmnaUpuuxghMEleKMq5Hlrt7DofUM+7qUCp4vmw=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_oda_consumer_driverBridge.html
+SHA-256-Digest: ZvADzM2j0vCkDOKgyNdE6EbZUiyVvbgPhFJFYDzxYtE=
+
+Name: projects/dtp/dtp/en/source/c_dialog_implementation_example.html
+SHA-256-Digest: f43ZgY13+yqrI79kz0YjU3mnrguGgjVq28q26HHrOhM=
+
+Name: about.html
+SHA-256-Digest: 7rDI8LXTtVs6NJohENMD3ev3VehL7sleExmEN7OhX0s=
+
+Name: html/reference/extension-points/org_eclipse_datatools_sqltools_r
+ esult_reExecuteScript.html
+SHA-256-Digest: hXCDW2xnq6PyxYI37Ys+K98/jybFPp2+RX2ZClcU5KM=
+
+Name: projects/dtp/dtp/en/source/c_development_team_responsibilities.h
+ tml
+SHA-256-Digest: Fx8gtw+qMRbHLxR4pjsakunT3svJTWpjXFt0lk+14aY=
+
+Name: projects/dtp/dtp/en/source/c_dtp_help_helper.html
+SHA-256-Digest: QVcOISlMq4eoB4FsKk67hcvqYrwDLw3qmm9O2/SCaW0=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_sqm_core_logicalContainment.html
+SHA-256-Digest: Jgcf3WEfsJyBsL1nbTIGOhtPMXA0NirK7L3G7oLVBEk=
+
+Name: projects/dtp/dtp/en/source/c_csh_plugins_with_dita.html
+SHA-256-Digest: ppqindafg7LhucH3qpbYs4xJFij+/ZD0iM4+aMIXxQE=
+
+Name: projects/dtp/dtp/en/source/c_debug_mode.html
+SHA-256-Digest: 2eSKQLPQbaCA1teQCHNXJqO1fUNmc/19d1/LbskmLhA=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_sqm_core_dataModelElementFactory.html
+SHA-256-Digest: Pz3csBazx8qeZLptlLSuXvf96kP5msixVDIoEGF4I5w=
+
+Name: html/reference/extension-points/org_eclipse_datatools_connectivi
+ ty_oda_consumer_propertyProvider.html
+SHA-256-Digest: k9v3x+5bbK/+E2reug09me6y+n1K8KHa3Y4BRqwwQUc=
+
+Name: projects/dtp/dtp/en/source/c_team_responsibilities_and_collabora
+ tion.html
+SHA-256-Digest: IZONuz5yeQN/8WLEsGR8FkZZLt7fmXA+GCLoaN7A0RI=
+
+Name: projects/dtp/dtp/en/source/c_context_specific_help_content.html
+SHA-256-Digest: o//koVHTYPr3lx8wlXInW4hJ062WF0IZC3r42VyTq84=
+
+Name: projects/dtp/dtp/en/source/c_static_vs_dynamic_help_contexts.htm
+ l
+SHA-256-Digest: Uco8uOUc4hL827DwNKV+C7alQ+8RmAg6JmgsMAhE0Hc=
+
+Name: tocreference.xml
+SHA-256-Digest: X62xDcvjOkNQyMpso3uVZgVo8HloOWuNYtcurb/TGvw=
+
+Name: projects/dtp/dtp/en/source/c_help_keys.html
+SHA-256-Digest: GGHIJt0kV/RtfYA3uuIOtfsF/xGGNi9QC7HXe41ZLA4=
+
+Name: projects/dtp/dtp/en/source/c_helpkey_properties_files.html
+SHA-256-Digest: 5LXBwvM3NNAeiRpy9icTf9YQQl0EZVQFcGC5bxDhBFA=
+
+Name: projects/dtp/dtp/en/source/c_ui_plugins_associated_with_help_con
+ texts.html
+SHA-256-Digest: 44/G8R2puHK7WkofIixjHG8M0vSLmgycCHTapEFKDJM=
+
+Name: projects/dtp/dtp/en/source/c_documentation_team_workflow.html
+SHA-256-Digest: zov87bv0uAb0LBdmILdXsrIw/s7QDVTj6/u7TEQEdsE=
+
+Name: projects/dtp/dtp/en/source/c_csh_ui_implementation.html
+SHA-256-Digest: 5EztT0kehSMEDeSY8vsAFTncAp/4gPOdqD71ZUnY1ZI=
+
+Name: projects/dtp/dtp/en/images/dtp_csh_abstraction_layer.jpg
+SHA-256-Digest: w/T7UwlCd2Dtj3ZJ754pxWT+uBQ0E+rMNhY4Yjk+9r8=
+
+Name: dtp_help_helper_doc.xml
+SHA-256-Digest: 1o/osP8ULtEP559DHtOQZBTA9nU58xBH8G0Khx3+bUw=
+

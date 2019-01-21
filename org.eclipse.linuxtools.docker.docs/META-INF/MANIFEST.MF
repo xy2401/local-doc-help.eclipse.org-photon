@@ -1,0 +1,346 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.docker.docs
+Bundle-SymbolicName: org.eclipse.linuxtools.docker.docs;singleton:=tru
+ e
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git://git.eclipse.org/gitroot/linuxtools
+ /org.eclipse.linuxtools.git;path="containers/org.eclipse.linuxtools.d
+ ocker.docs";commitId=1c9cc481d11079740a3d309d7bcb9209757feaab
+Bundle-Vendor: %providerName
+Bundle-Name: %Bundle-Name
+Bundle-Version: 4.0.0.201806122135
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsN
+ ewConnectionWizard.png
+SHA-256-Digest: zRSOe1FHBN50OzKF+iNlhJLqjYAbC7CWc12eJpf9xMQ=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerTagImageDialog.png
+SHA-256-Digest: EgTnJDB5Z/CjM9m9B1FiiXlDKSQXo1RkuTf2E02MCA0=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPropertiesView.png
+SHA-256-Digest: RRGG8GpNuD0nHKe/DGvvzfUZt8fsI40jRuw+ZhKI8rg=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsR
+ unImageWizard2.png
+SHA-256-Digest: 57KQsl8K1xh3G92AZz96UA6qMXrqE72LhtaNM3MhbAw=
+
+Name: plugin.xml
+SHA-256-Digest: 1qPMc4ylez2R+jHPWCOmKRBL23k98sZ75bPFgbqaYCE=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsE
+ xplorerImageContextMenu.png
+SHA-256-Digest: Wpkwa284MyzRvQFzjdRqzt0bQb3OG05yBmr/W37kWtI=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerBuildImage.png
+SHA-256-Digest: vR/xa5WouekoidugEYktdk951mSuQI4oN8BkEDOufec=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainersView.png
+SHA-256-Digest: qJxveB1w8bhF7pZgwslI6kBtiDS5DDLxcHsydR6+rgw=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerCommitIcon.png
+SHA-256-Digest: /XTBIXhmpIH1vQ+qntnlrz4fVI5A0zn/hEtdxQb4uuc=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerRefreshImage.png
+SHA-256-Digest: CJqRysVolCSBC0CsS55DHfmbMbgZteEPkA8Sl/J875c=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerPauseIcon.png
+SHA-256-Digest: C2QrN6hqRdIPFIyJe+Sld5nF7g0dyN/hz0dXmFxZQGc=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsR
+ unImageWizard1.png
+SHA-256-Digest: qea1REqJ+MrEIhNrxs7C4z2vt2Uzu7uxpX/Fnb+FgGg=
+
+Name: META-INF/maven/org.eclipse.linuxtools/org.eclipse.linuxtools.doc
+ ker.docs/pom.xml
+SHA-256-Digest: kYSwnD1NJ0M5VH3B83hAuOqtpviZIhfY7XYog9yWinM=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerCopyToContainerDialog.png
+SHA-256-Digest: oYn1Httkd9nti6vexGQ0FfbHxfD4DfxAWJI5Gt1POZA=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerToolingEnableConnection.png
+SHA-256-Digest: JCjCITiPIDUlAtkKPcuHhIGb0lYZt0xsa8CpW54jMk0=
+
+Name: plugin.properties
+SHA-256-Digest: rx+4fu7AMUq5p9nbz7E181CbRiyKhLB9DaoVEVB5c2Y=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerRestartIcon.png
+SHA-256-Digest: 3gC8zSNZuTVvQbsqRH/71qzvmlLXdve71idJqeoUgy4=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/Docker-Tooling-Per
+ spective.html
+SHA-256-Digest: 7YMvQ1DMh0eyaRJmE69IT9CsP6hmF2i96+cYW6t7xDg=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsR
+ unImageLaunchConfig.png
+SHA-256-Digest: moEw4BZa412dOQKF0Z6dZbmwBYcp0YplTkYaECVb09w=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPushWizard.png
+SHA-256-Digest: wDqYVqDThI7ZY/8GqGtzW0V1lEWOZfpqQngYZ7kEBkY=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/User-Guide.html
+SHA-256-Digest: VXKGW+LBi3nMSSuspTmenK5J/XOGaBTLswJWTjZs+64=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsR
+ emoveConnectionIcon.png
+SHA-256-Digest: Z5ZQtWQbYIJT1AVYRRuz7Q+dGZIiJLg68Z7YbUEXFvw=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerRemoveLogIcon.png
+SHA-256-Digest: 0iabDwPLg/RAulKwp9cymutwblzeTSjfSeYkDkR9pEE=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerBuildImageConfiguration2.png
+SHA-256-Digest: 6T5XZHD3ktxpBkczParmy/3FKwXvxwl470tFzIZYNBM=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsR
+ efreshConnectionIcon.png
+SHA-256-Digest: CJqRysVolCSBC0CsS55DHfmbMbgZteEPkA8Sl/J875c=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPreferencesDockerCompose.png
+SHA-256-Digest: nO/7cu8/YHbwZlV6X0YqahYukFzlLCdkpNKmNuc7alU=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerDeleteIcon.png
+SHA-256-Digest: Z5ZQtWQbYIJT1AVYRRuz7Q+dGZIiJLg68Z7YbUEXFvw=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerStartIcon.png
+SHA-256-Digest: hK98nXf0UZqal6iKsrs67xwZYR/YjyoJ8P/vEcWcDRg=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPreferencesMain.png
+SHA-256-Digest: jz9acssbj/cpAhXteuv+Bz3/uVGGDlP5bHQPu4n/wgo=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsE
+ xplorerFilter.png
+SHA-256-Digest: Xym3W7dzoxZHjHdxt8PhSSDqhLRNAd64y4yNELDcp+E=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsR
+ unImageWizard3.png
+SHA-256-Digest: UNoVfwmTxcHqo6hq36edVmlL6qMf8jJ/QQfihjdv5yM=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPreferencesDockerMachine.png
+SHA-256-Digest: SxfIDWf6Fn1w05e9ZkYfCezaSRli3mUZRVEEu5DxelM=
+
+Name: toc.xml
+SHA-256-Digest: dgp4ofpLD6bEAyRJcLA9zAUqZeT8GBMbAe/RshI9a30=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerRefreshIcon.png
+SHA-256-Digest: CJqRysVolCSBC0CsS55DHfmbMbgZteEPkA8Sl/J875c=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerfileEditor.png
+SHA-256-Digest: qVSpgdN/qA3pi7pbXha1xbhl9cXMFZooAJqjo56tOOo=
+
+Name: toc-doc.xml
+SHA-256-Digest: Y5Ec5u3veUKB1q+1jO2GDSVOrZs0QtpgDWisIbfCtnk=
+
+Name: doc/notices.html
+SHA-256-Digest: OVb4kME+l+etLnNu0EoS6pGvExbRQvAtEDRi3NTJu2c=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerConfigureLabelFilters.png
+SHA-256-Digest: cVYwf6Zmir1JZmGkbiyvMgpVvk4XVQRZOh4AsEdIpf0=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerTagImage.png
+SHA-256-Digest: y+vwGpzA+ONWlEWy+oFfZMWnESZAv7pFhFXMCLHRiBM=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerCreateContainer.png
+SHA-256-Digest: EY2XrAVpWa+ZKmgXSXuWE92VNe9Tcz1Kh9VPk1s102s=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerComposeConsole.png
+SHA-256-Digest: S/6ZYxWgcKieGH1ZlHc0KrwUE6deIN/XNOw/rGl/GcQ=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerDeleteImage.png
+SHA-256-Digest: Z5ZQtWQbYIJT1AVYRRuz7Q+dGZIiJLg68Z7YbUEXFvw=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPreferencesRegistryAccounts.png
+SHA-256-Digest: tuIvdGN4u36AVKTrql/J9fDmiwxPT1qcYfKQuuN70Uw=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerBuildImageFirstDialog.png
+SHA-256-Digest: w77AMqHxPgdXdiY6hgvJl6ejpZgmp5gIzBo5uTWKcsU=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsE
+ xplorerImageMenu.png
+SHA-256-Digest: UfuI1SfiBzYpm2d2POOKcLC9CIyrebbKx06bC0qAO+w=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/Updating-This-Docu
+ ment.html
+SHA-256-Digest: xZ4Q6WqieB1GnRjd6yY7pgr0zF65CedhsslL3EAUikg=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsE
+ xplorerContainerMenu.png
+SHA-256-Digest: SN9HHCcO1/JRVCdsBhUcwGHoqu0ssLEL27IqDD7htqs=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerUnpauseIcon.png
+SHA-256-Digest: A/f95tnXKaLvkott2wsSe0OCY2CwsZ3NzC2sKzVArck=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerSearchImageWizard2.png
+SHA-256-Digest: GhuC2k9widtejV7R7H/jmmpDHiPQpe9YSeaPEYUDUSk=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerDisplayLogIcon.png
+SHA-256-Digest: HXZyEm5AEoaquuQPKtKra5qLN+nf4ohfUODeJVNKMCs=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerStopIcon.png
+SHA-256-Digest: jkBUU9euFGyFRmiLw07FB9OhWoiYJmlva77L0NMvLiM=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerImageViewPush.png
+SHA-256-Digest: eVnwY8pg3VgXYtId58WM72jeCgMPTc5JNxf/j+0YQxo=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerExecuteShell.png
+SHA-256-Digest: vab/CmPsuCDGNcCKrmRYnlQVSyk/XICxc/OoqHjDr8Y=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerImageViewPull.png
+SHA-256-Digest: X0O+zMPBKwTGuP26YpO/IERoL1maBjzsXmMKQ/9lKZQ=
+
+Name: META-INF/maven/org.eclipse.linuxtools/org.eclipse.linuxtools.doc
+ ker.docs/pom.properties
+SHA-256-Digest: cnFvo4o+Pv3hsEIWEBvePoDTyZsJiUgNtVielqoXmqg=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerImagesView.png
+SHA-256-Digest: lYvE5cAAb7e0TnWSYGUliiYNcm39QkJzL8+ZfVrUqbo=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerImageBuild.png
+SHA-256-Digest: Z8Od86sD06Tiq6Tfa2fDe5So1AkqMH0uzDgSb8C/7i0=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsE
+ xplorerConnectionContextMenu.png
+SHA-256-Digest: TG9/JpMy6omnDfGKrKlr2aSEIofTn1Blm+zq7cFQhNQ=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerConnectionProperties.png
+SHA-256-Digest: qn/aLrZvZVnZuDCGn9d7bwsDoYc+nmnhU7KmZfJu6iA=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerCreate.png
+SHA-256-Digest: AXOSp+/iZAPcqRLFyA2AUsiYF4aoVQ7coGM1AwTHowM=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPerspective.png
+SHA-256-Digest: A/5cM0/rzg60YyT4a1w+bOVd7uDy3KaQb4jWCJvenoE=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerCopyFromContainer.png
+SHA-256-Digest: 25SWt1rCChQjtmCQouqn6Yc8d/iouxsX2B9vfb7XWUE=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerLoggingPreferences.png
+SHA-256-Digest: nM/tKjn8qD9gMkPC3SbU2UJruaouFAjhA6Cm5giqxEU=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerRemoveTagIcon.png
+SHA-256-Digest: 0OmRXvfy5h3ioSkFHW9PAdQRDfodtALwyvazK8zgAEk=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerOpenImageHierarchy.png
+SHA-256-Digest: dAt4HBc6b2dGkONASHB9i/DocN0OySxplnkmSBnMeqI=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsE
+ xplorerContainerContextMenu.png
+SHA-256-Digest: T8apboeezFnTvD8xYk95KFCyoZTFfpAsC9K7YpcQpZQ=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerCommitContainer.png
+SHA-256-Digest: MXcjXIvV7Ds7AFftb5NZ6KEV6zNYd2AmkKvMf8dUp3g=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsE
+ ditConnection.png
+SHA-256-Digest: nAL7kO2eGOk5WRAyO92h5T3E3h89ethuNFSwyX4INiM=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerContainerKillIcon.png
+SHA-256-Digest: iiyTDHy3r4F6/pRQ4NF8TlV4o7C1RGg/nKSpfDc7vKw=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPullWizard.png
+SHA-256-Digest: 0I/p2B0+xw2sSLnosrFCz2/Estbm2t/9fdm3StsPuG8=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerRemoveTag.png
+SHA-256-Digest: w0htIImDiLlXxf3dco5gqozGVF2vdqQDdaJbi0/kQEQ=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerDisplayLog.png
+SHA-256-Digest: mwyMvPZdkZau3fvKOBnNm94trybggIiozj05MUCH62Q=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerExplorerViewInit.png
+SHA-256-Digest: MRmBuJhx/gZnoGUMUxfQE5rOr6+HK1mQDq+l1N0QpAI=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerPreferencesLogging.png
+SHA-256-Digest: hnElhZCO6S/8iTNV7vJDdaqs+ryVS/sAo8dg1LWOS5c=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerTerminal.png
+SHA-256-Digest: ByEM1Cy3C09OCWZuiHoTYZxJvw5cuoT8vPjv1fNvs74=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerImageHierarchyView.png
+SHA-256-Digest: FIEP+ZMQ+lKfJ/+iDRHuEa6zTZAbCWlQ1Ep0rHkqubM=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerCopyFromContainerDialog.png
+SHA-256-Digest: +403EvkcuBA/+SN0Rt1vmWhUvXyfQ5z2FE+lk2ilPBo=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerSearchImageWizard.png
+SHA-256-Digest: qrqswc+jq+WW60W9ZZzg7FqzkUQRsQl2hEeBvlIq64Q=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsN
+ ewConnectionIcon.png
+SHA-256-Digest: GpdwFi+SxfiHRca3+Vh30yV4OkdOOVVoYiR47j3YANI=
+
+Name: Linux_Tools_Project/Docker_Tooling/User_Guide/images/LinuxToolsD
+ ockerCopyToContainer.png
+SHA-256-Digest: WLRXPkwicYedJN/uyY5y3hc1zTNoSQaM2N6Bl/WJcmA=
+

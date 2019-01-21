@@ -1,0 +1,610 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- NewPage -->
+<html lang="en">
+<head>
+
+<title>Uses of Interface org.eclipse.net4j.util.container.IContainer (Net4j Utilities Documentation)</title>
+<meta name="date" content="">
+<link rel="stylesheet" type="text/css" href="../../../../../../stylesheet.css" title="Style">
+<script type="text/javascript" src="../../../../../../script.js"></script>
+</head>
+<body>
+<script type="text/javascript"><!--
+    try {
+        if (location.href.indexOf('is-external=true') == -1) {
+            parent.document.title="Uses of Interface org.eclipse.net4j.util.container.IContainer (Net4j Utilities Documentation)";
+        }
+    }
+    catch(err) {
+    }
+//-->
+</script>
+<noscript>
+<div>JavaScript is disabled on your browser.</div>
+</noscript>
+<!-- ========= START OF TOP NAVBAR ======= -->
+<div class="topNav"><a name="navbar.top">
+<!--   -->
+</a>
+<div class="skipNav"><a href="#skip.navbar.top" title="Skip navigation links">Skip navigation links</a></div>
+<a name="navbar.top.firstrow">
+<!--   -->
+</a>
+<ul class="navList" title="Navigation">
+<li><a href="../../../../../../overview-summary.html">Overview</a></li>
+<li><a href="../package-summary.html">Package</a></li>
+<li><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">Class</a></li>
+<li class="navBarCell1Rev">Use</li>
+<li><a href="../../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../../help-doc.html">Help</a></li>
+</ul>
+</div>
+<div class="subNav">
+<ul class="navList">
+<li>Prev</li>
+<li>Next</li>
+</ul>
+<ul class="navList">
+<li><a href="../../../../../../index.html?org/eclipse/net4j/util/container/class-use/IContainer.html" target="_top">Frames</a></li>
+<li><a href="IContainer.html" target="_top">No&nbsp;Frames</a></li>
+</ul>
+<ul class="navList" id="allclasses_navbar_top">
+<li><a href="../../../../../../allclasses-noframe.html">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type="text/javascript"><!--
+  allClassesLink = document.getElementById("allclasses_navbar_top");
+  if(window==top) {
+    allClassesLink.style.display = "block";
+  }
+  else {
+    allClassesLink.style.display = "none";
+  }
+  //-->
+</script>
+</div>
+<a name="skip.navbar.top">
+<!--   -->
+</a></div>
+<!-- ========= END OF TOP NAVBAR ========= -->
+<div class="header">
+<h2 title="Uses of Interface org.eclipse.net4j.util.container.IContainer" class="title">Uses of Interface<br>org.eclipse.net4j.util.container.IContainer</h2>
+</div>
+<div class="classUseContainer">
+<ul class="blockList">
+<li class="blockList">
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing packages, and an explanation">
+<caption><span>Packages that use <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Package</th>
+<th class="colLast" scope="col">Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><a href="#org.eclipse.net4j.util.container">org.eclipse.net4j.util.container</a></td>
+<td class="colLast">
+<div class="block">A framework of notifying collections and wiring containers.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="#org.eclipse.net4j.util.container.delegate">org.eclipse.net4j.util.container.delegate</a></td>
+<td class="colLast">
+<div class="block">Hybrid interfaces of notifying containers and the Java Collection Framework.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><a href="#org.eclipse.net4j.util.registry">org.eclipse.net4j.util.registry</a></td>
+<td class="colLast">
+<div class="block">Interfaces and classes for general purpose registries.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><a href="#org.eclipse.net4j.util.ui.views">org.eclipse.net4j.util.ui.views</a></td>
+<td class="colLast">
+<div class="block">Helpers for Eclipse view parts.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li class="blockList">
+<ul class="blockList">
+<li class="blockList"><a name="org.eclipse.net4j.util.container">
+<!--   -->
+</a>
+<h3>Uses of <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a> in <a href="../../../../../../org/eclipse/net4j/util/container/package-summary.html">org.eclipse.net4j.util.container</a></h3>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing subinterfaces, and an explanation">
+<caption><span>Subinterfaces of <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a> in <a href="../../../../../../org/eclipse/net4j/util/container/package-summary.html">org.eclipse.net4j.util.container</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Interface and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>static interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.Modifiable.html" title="interface in org.eclipse.net4j.util.container">IContainer.Modifiable</a>&lt;E&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> with additional methods to add or remove elements.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>static interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.Persistable.html" title="interface in org.eclipse.net4j.util.container">IContainer.Persistable</a>&lt;E&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> with additional methods to add or remove elements.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/IManagedContainer.html" title="interface in org.eclipse.net4j.util.container">IManagedContainer</a></span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> that populates itself by means of element <a href="../../../../../../org/eclipse/net4j/util/container/IManagedContainer.html#getFactoryRegistry--"><code>factories</code></a> and
+ <a href="../../../../../../org/eclipse/net4j/util/container/IManagedContainer.html#getPostProcessors--"><code>post processors</code></a> .</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/IPluginContainer.html" title="interface in org.eclipse.net4j.util.container">IPluginContainer</a></span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IManagedContainer.html" title="interface in org.eclipse.net4j.util.container"><code>managed container</code></a> that is configured by the <a href="http://help.eclipse.org/topic//org.eclipse.platform.doc.isv/reference/api/org/eclipse/core/runtime/IExtensionRegistry.html?is-external=true" title="class or interface in org.eclipse.core.runtime"><code>extension registry</code></a>
+ .</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing classes, and an explanation">
+<caption><span>Classes in <a href="../../../../../../org/eclipse/net4j/util/container/package-summary.html">org.eclipse.net4j.util.container</a> that implement <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Class and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/Container.html" title="class in org.eclipse.net4j.util.container">Container</a>&lt;E&gt;</span></code>
+<div class="block">An abstract base implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> with a <a href="../../../../../../org/eclipse/net4j/util/lifecycle/ILifecycle.html" title="interface in org.eclipse.net4j.util.lifecycle"><code>lifecycle</code></a>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/ManagedContainer.html" title="class in org.eclipse.net4j.util.container">ManagedContainer</a></span></code>
+<div class="block">A default implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/IManagedContainer.html" title="interface in org.eclipse.net4j.util.container"><code>managed container</code></a>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/SetContainer.html" title="class in org.eclipse.net4j.util.container">SetContainer</a>&lt;E&gt;</span></code>
+<div class="block">An implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/Container.html" title="class in org.eclipse.net4j.util.container"><code>container</code></a> that stores its <a href="../../../../../../org/eclipse/net4j/util/container/SetContainer.html#getElements--"><code>elements</code></a> in a <a href="../../../../../../org/eclipse/net4j/util/container/SetContainer.html#getSet--"><code>set</code></a>.</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing methods, and an explanation">
+<caption><span>Methods in <a href="../../../../../../org/eclipse/net4j/util/container/package-summary.html">org.eclipse.net4j.util.container</a> that return <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Method and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>static <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerUtil.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/ContainerUtil.html#emptyContainer--">emptyContainer</a></span>()</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/ContainerEvent.html" title="type parameter in ContainerEvent">E</a>&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerEvent.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/ContainerEvent.html#getSource--">getSource</a></span>()</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/IContainerEvent.html" title="type parameter in IContainerEvent">E</a>&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">IContainerEvent.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/IContainerEvent.html#getSource--">getSource</a></span>()</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/SingleDeltaContainerEvent.html" title="type parameter in SingleDeltaContainerEvent">E</a>&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">SingleDeltaContainerEvent.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/SingleDeltaContainerEvent.html#getSource--">getSource</a></span>()</code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing methods, and an explanation">
+<caption><span>Methods in <a href="../../../../../../org/eclipse/net4j/util/container/package-summary.html">org.eclipse.net4j.util.container</a> with parameters of type <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Method and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>protected <a href="../../../../../../org/eclipse/net4j/util/container/IContainerEvent.html" title="interface in org.eclipse.net4j.util.container">IContainerEvent</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/LifecycleEventConverter.html" title="type parameter in LifecycleEventConverter">E</a>&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">LifecycleEventConverter.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/LifecycleEventConverter.html#createContainerEvent-org.eclipse.net4j.util.container.IContainer-E-org.eclipse.net4j.util.container.IContainerDelta.Kind-">createContainerEvent</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/LifecycleEventConverter.html" title="type parameter in LifecycleEventConverter">E</a>&gt;&nbsp;container,
+                    <a href="../../../../../../org/eclipse/net4j/util/container/LifecycleEventConverter.html" title="type parameter in LifecycleEventConverter">E</a>&nbsp;element,
+                    <a href="../../../../../../org/eclipse/net4j/util/container/IContainerDelta.Kind.html" title="enum in org.eclipse.net4j.util.container">IContainerDelta.Kind</a>&nbsp;kind)</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>protected void</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerEventAdapter.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/ContainerEventAdapter.html#onAdded-org.eclipse.net4j.util.container.IContainer-E-">onAdded</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/ContainerEventAdapter.html" title="type parameter in ContainerEventAdapter">E</a>&gt;&nbsp;container,
+       <a href="../../../../../../org/eclipse/net4j/util/container/ContainerEventAdapter.html" title="type parameter in ContainerEventAdapter">E</a>&nbsp;element)</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>protected void</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerEventAdapter.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/ContainerEventAdapter.html#onRemoved-org.eclipse.net4j.util.container.IContainer-E-">onRemoved</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/ContainerEventAdapter.html" title="type parameter in ContainerEventAdapter">E</a>&gt;&nbsp;container,
+         <a href="../../../../../../org/eclipse/net4j/util/container/ContainerEventAdapter.html" title="type parameter in ContainerEventAdapter">E</a>&nbsp;element)</code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing constructors, and an explanation">
+<caption><span>Constructors in <a href="../../../../../../org/eclipse/net4j/util/container/package-summary.html">org.eclipse.net4j.util.container</a> with parameters of type <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colOne" scope="col">Constructor and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/ContainerEvent.html#ContainerEvent-org.eclipse.net4j.util.container.IContainer-">ContainerEvent</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/ContainerEvent.html" title="type parameter in ContainerEvent">E</a>&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/ContainerEvent.html#ContainerEvent-org.eclipse.net4j.util.container.IContainer-java.util.List-">ContainerEvent</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/ContainerEvent.html" title="type parameter in ContainerEvent">E</a>&gt;&nbsp;container,
+              java.util.List&lt;<a href="../../../../../../org/eclipse/net4j/util/container/IContainerDelta.html" title="interface in org.eclipse.net4j.util.container">IContainerDelta</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/ContainerEvent.html" title="type parameter in ContainerEvent">E</a>&gt;&gt;&nbsp;deltas)</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/SingleDeltaContainerEvent.html#SingleDeltaContainerEvent-org.eclipse.net4j.util.container.IContainer-E-org.eclipse.net4j.util.container.IContainerDelta.Kind-">SingleDeltaContainerEvent</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/SingleDeltaContainerEvent.html" title="type parameter in SingleDeltaContainerEvent">E</a>&gt;&nbsp;container,
+                         <a href="../../../../../../org/eclipse/net4j/util/container/SingleDeltaContainerEvent.html" title="type parameter in SingleDeltaContainerEvent">E</a>&nbsp;element,
+                         <a href="../../../../../../org/eclipse/net4j/util/container/IContainerDelta.Kind.html" title="enum in org.eclipse.net4j.util.container">IContainerDelta.Kind</a>&nbsp;kind)</code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li class="blockList"><a name="org.eclipse.net4j.util.container.delegate">
+<!--   -->
+</a>
+<h3>Uses of <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a> in <a href="../../../../../../org/eclipse/net4j/util/container/delegate/package-summary.html">org.eclipse.net4j.util.container.delegate</a></h3>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing subinterfaces, and an explanation">
+<caption><span>Subinterfaces of <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a> in <a href="../../../../../../org/eclipse/net4j/util/container/delegate/package-summary.html">org.eclipse.net4j.util.container.delegate</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Interface and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerBlockingQueue.html" title="interface in org.eclipse.net4j.util.container.delegate">IContainerBlockingQueue</a>&lt;E&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> that is a <code>BlockingQueue</code>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerCollection.html" title="interface in org.eclipse.net4j.util.container.delegate">IContainerCollection</a>&lt;E&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> that is a <code>Collection</code>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerList.html" title="interface in org.eclipse.net4j.util.container.delegate">IContainerList</a>&lt;E&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> that is a <code>List</code>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerMap.html" title="interface in org.eclipse.net4j.util.container.delegate">IContainerMap</a>&lt;K,V&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> (of <code>map entries</code>) that is a <code>Map</code>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerQueue.html" title="interface in org.eclipse.net4j.util.container.delegate">IContainerQueue</a>&lt;E&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> that is a <code>Queue</code>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerSet.html" title="interface in org.eclipse.net4j.util.container.delegate">IContainerSet</a>&lt;E&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> that is a <code>Set</code>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerSortedSet.html" title="interface in org.eclipse.net4j.util.container.delegate">IContainerSortedSet</a>&lt;E&gt;</span></code>
+<div class="block">A <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>container</code></a> that is a <code>SortedSet</code>.</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing classes, and an explanation">
+<caption><span>Classes in <a href="../../../../../../org/eclipse/net4j/util/container/delegate/package-summary.html">org.eclipse.net4j.util.container.delegate</a> that implement <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Class and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/AbstractDelegator.html" title="class in org.eclipse.net4j.util.container.delegate">AbstractDelegator</a>&lt;E&gt;</span></code>
+<div class="block">A delegating base class for <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container"><code>containers</code></a>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/ContainerBlockingQueue.html" title="class in org.eclipse.net4j.util.container.delegate">ContainerBlockingQueue</a>&lt;E&gt;</span></code>
+<div class="block">A default implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerBlockingQueue.html" title="interface in org.eclipse.net4j.util.container.delegate"><code>container blocking queue</code></a>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/ContainerCollection.html" title="class in org.eclipse.net4j.util.container.delegate">ContainerCollection</a>&lt;E&gt;</span></code>
+<div class="block">A default implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerCollection.html" title="interface in org.eclipse.net4j.util.container.delegate"><code>container collection</code></a>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/ContainerList.html" title="class in org.eclipse.net4j.util.container.delegate">ContainerList</a>&lt;E&gt;</span></code>
+<div class="block">A default implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerList.html" title="interface in org.eclipse.net4j.util.container.delegate"><code>container list</code></a>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/ContainerMap.html" title="class in org.eclipse.net4j.util.container.delegate">ContainerMap</a>&lt;K,V&gt;</span></code>
+<div class="block">A default implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerMap.html" title="interface in org.eclipse.net4j.util.container.delegate"><code>container map</code></a>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/ContainerQueue.html" title="class in org.eclipse.net4j.util.container.delegate">ContainerQueue</a>&lt;E&gt;</span></code>
+<div class="block">A default implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerQueue.html" title="interface in org.eclipse.net4j.util.container.delegate"><code>container queue</code></a>.</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/ContainerSet.html" title="class in org.eclipse.net4j.util.container.delegate">ContainerSet</a>&lt;E&gt;</span></code>
+<div class="block">A default implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerSet.html" title="interface in org.eclipse.net4j.util.container.delegate"><code>container set</code></a>.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/container/delegate/ContainerSortedSet.html" title="class in org.eclipse.net4j.util.container.delegate">ContainerSortedSet</a>&lt;E&gt;</span></code>
+<div class="block">A default implementation of a <a href="../../../../../../org/eclipse/net4j/util/container/delegate/IContainerSortedSet.html" title="interface in org.eclipse.net4j.util.container.delegate"><code>container sorted set</code></a>.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li class="blockList"><a name="org.eclipse.net4j.util.registry">
+<!--   -->
+</a>
+<h3>Uses of <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a> in <a href="../../../../../../org/eclipse/net4j/util/registry/package-summary.html">org.eclipse.net4j.util.registry</a></h3>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing subinterfaces, and an explanation">
+<caption><span>Subinterfaces of <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a> in <a href="../../../../../../org/eclipse/net4j/util/registry/package-summary.html">org.eclipse.net4j.util.registry</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Interface and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>interface&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/registry/IRegistry.html" title="interface in org.eclipse.net4j.util.registry">IRegistry</a>&lt;K,V&gt;</span></code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing classes, and an explanation">
+<caption><span>Classes in <a href="../../../../../../org/eclipse/net4j/util/registry/package-summary.html">org.eclipse.net4j.util.registry</a> that implement <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Class and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/registry/DelegatingRegistry.html" title="class in org.eclipse.net4j.util.registry">DelegatingRegistry</a>&lt;K,V&gt;</span></code>
+<div class="block">Implementation note: AbstractDelegatingRegistry does not preserve the "modifyable view" contract of
+ <code>Map.entrySet()</code> as well as of <code>Map.keySet()</code>, i.e.</div>
+</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/registry/HashMapDelegatingRegistry.html" title="class in org.eclipse.net4j.util.registry">HashMapDelegatingRegistry</a>&lt;K,V&gt;</span></code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/registry/HashMapRegistry.html" title="class in org.eclipse.net4j.util.registry">HashMapRegistry</a>&lt;K,V&gt;</span></code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/registry/Registry.html" title="class in org.eclipse.net4j.util.registry">Registry</a>&lt;K,V&gt;</span></code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/registry/UnmodifiableRegistry.html" title="class in org.eclipse.net4j.util.registry">UnmodifiableRegistry</a>&lt;K,V&gt;</span></code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li class="blockList"><a name="org.eclipse.net4j.util.ui.views">
+<!--   -->
+</a>
+<h3>Uses of <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a> in <a href="../../../../../../org/eclipse/net4j/util/ui/views/package-summary.html">org.eclipse.net4j.util.ui.views</a></h3>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing classes, and an explanation">
+<caption><span>Classes in <a href="../../../../../../org/eclipse/net4j/util/ui/views/package-summary.html">org.eclipse.net4j.util.ui.views</a> with type parameters of type <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Class and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.html" title="class in org.eclipse.net4j.util.ui.views">ContainerItemProvider</a>&lt;CONTAINER extends <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&gt;</span></code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerPathItemProvider.html" title="class in org.eclipse.net4j.util.ui.views">ContainerPathItemProvider</a>&lt;CONTAINER extends <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&gt;</span></code>
+<div class="block"><span class="deprecatedLabel">Deprecated.</span>&nbsp;</div>
+</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>static class&nbsp;</code></td>
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerView.Default.html" title="class in org.eclipse.net4j.util.ui.views">ContainerView.Default</a>&lt;CONTAINER extends <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;?&gt;&gt;</span></code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing methods, and an explanation">
+<caption><span>Methods in <a href="../../../../../../org/eclipse/net4j/util/ui/views/package-summary.html">org.eclipse.net4j.util.ui.views</a> that return <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Method and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>static <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.html#createSlowInput-java.lang.String-">createSlowInput</a></span>(java.lang.String&nbsp;text)</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.AbstractContainerNode.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.AbstractContainerNode.html#getContainer--">getContainer</a></span>()</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.SlowElement.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.SlowElement.html#getContainer--">getContainer</a></span>()</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.ErrorElement.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.ErrorElement.html#getContainer--">getContainer</a></span>()</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>protected abstract <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;?&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerView.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerView.html#getContainer--">getContainer</a></span>()</code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing methods, and an explanation">
+<caption><span>Methods in <a href="../../../../../../org/eclipse/net4j/util/ui/views/package-summary.html">org.eclipse.net4j.util.ui.views</a> that return types with arguments of type <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Method and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>protected <a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.html" title="class in org.eclipse.net4j.util.ui.views">ContainerItemProvider</a>&lt;<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&gt;</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerView.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerView.html#createContainerItemProvider--">createContainerItemProvider</a></span>()</code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing methods, and an explanation">
+<caption><span>Methods in <a href="../../../../../../org/eclipse/net4j/util/ui/views/package-summary.html">org.eclipse.net4j.util.ui.views</a> with parameters of type <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colFirst" scope="col">Modifier and Type</th>
+<th class="colLast" scope="col">Method and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colFirst"><code>protected <a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.SlowElement.html" title="class in org.eclipse.net4j.util.ui.views">ContainerItemProvider.SlowElement</a></code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.html#createSlowElement-org.eclipse.net4j.util.container.IContainer-">createSlowElement</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;?&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>protected void</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.AbstractContainerNode.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.AbstractContainerNode.html#fillChildren-java.util.List-org.eclipse.net4j.util.container.IContainer-">fillChildren</a></span>(java.util.List&lt;<a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.Node.html" title="interface in org.eclipse.net4j.util.ui.views">ContainerItemProvider.Node</a>&gt;&nbsp;children,
+            <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>protected java.lang.Object[]</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.html#getContainerChildren-org.eclipse.net4j.util.ui.views.ContainerItemProvider.AbstractContainerNode-org.eclipse.net4j.util.container.IContainer-">getContainerChildren</a></span>(<a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.AbstractContainerNode.html" title="class in org.eclipse.net4j.util.ui.views">ContainerItemProvider.AbstractContainerNode</a>&nbsp;containerNode,
+                    <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;?&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>protected java.lang.String</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.html#getErrorText-org.eclipse.net4j.util.container.IContainer-">getErrorText</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>protected java.lang.String</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.html#getSlowText-org.eclipse.net4j.util.container.IContainer-">getSlowText</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>protected boolean</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.html#isSlow-org.eclipse.net4j.util.container.IContainer-">isSlow</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colFirst"><code>protected void</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.AbstractContainerNode.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.AbstractContainerNode.html#onAdded-org.eclipse.net4j.util.container.IContainer-java.lang.Object-">onAdded</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container,
+       java.lang.Object&nbsp;element)</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colFirst"><code>protected void</code></td>
+<td class="colLast"><span class="typeNameLabel">ContainerItemProvider.AbstractContainerNode.</span><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.AbstractContainerNode.html#onRemoved-org.eclipse.net4j.util.container.IContainer-java.lang.Object-">onRemoved</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container,
+         java.lang.Object&nbsp;element)</code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table class="useSummary" border="0" cellpadding="3" cellspacing="0" summary="Use table, listing constructors, and an explanation">
+<caption><span>Constructors in <a href="../../../../../../org/eclipse/net4j/util/ui/views/package-summary.html">org.eclipse.net4j.util.ui.views</a> with parameters of type <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a></span><span class="tabEnd">&nbsp;</span></caption>
+<tr>
+<th class="colOne" scope="col">Constructor and Description</th>
+</tr>
+<tbody>
+<tr class="altColor">
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.ContainerNode.html#ContainerNode-org.eclipse.net4j.util.ui.views.ContainerItemProvider.Node-org.eclipse.net4j.util.container.IContainer-">ContainerNode</a></span>(<a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.Node.html" title="interface in org.eclipse.net4j.util.ui.views">ContainerItemProvider.Node</a>&nbsp;parent,
+             <a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.ErrorElement.html#ErrorElement-org.eclipse.net4j.util.container.IContainer-">ErrorElement</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container)</code>&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.LazyElement.html#LazyElement-org.eclipse.net4j.util.container.IContainer-">LazyElement</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container)</code>
+<div class="block"><span class="deprecatedLabel">Deprecated.</span>&nbsp;</div>
+&nbsp;</td>
+</tr>
+<tr class="rowColor">
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.LazyElement.html#LazyElement-org.eclipse.net4j.util.container.IContainer-java.lang.String-">LazyElement</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container,
+           java.lang.String&nbsp;text)</code>
+<div class="block"><span class="deprecatedLabel">Deprecated.</span>&nbsp;</div>
+&nbsp;</td>
+</tr>
+<tr class="altColor">
+<td class="colLast"><code><span class="memberNameLink"><a href="../../../../../../org/eclipse/net4j/util/ui/views/ContainerItemProvider.SlowElement.html#SlowElement-org.eclipse.net4j.util.container.IContainer-java.lang.String-">SlowElement</a></span>(<a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">IContainer</a>&lt;java.lang.Object&gt;&nbsp;container,
+           java.lang.String&nbsp;text)</code>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- ======= START OF BOTTOM NAVBAR ====== -->
+<div class="bottomNav"><a name="navbar.bottom">
+<!--   -->
+</a>
+<div class="skipNav"><a href="#skip.navbar.bottom" title="Skip navigation links">Skip navigation links</a></div>
+<a name="navbar.bottom.firstrow">
+<!--   -->
+</a>
+<ul class="navList" title="Navigation">
+<li><a href="../../../../../../overview-summary.html">Overview</a></li>
+<li><a href="../package-summary.html">Package</a></li>
+<li><a href="../../../../../../org/eclipse/net4j/util/container/IContainer.html" title="interface in org.eclipse.net4j.util.container">Class</a></li>
+<li class="navBarCell1Rev">Use</li>
+<li><a href="../../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../../help-doc.html">Help</a></li>
+</ul>
+</div>
+<div class="subNav">
+<ul class="navList">
+<li>Prev</li>
+<li>Next</li>
+</ul>
+<ul class="navList">
+<li><a href="../../../../../../index.html?org/eclipse/net4j/util/container/class-use/IContainer.html" target="_top">Frames</a></li>
+<li><a href="IContainer.html" target="_top">No&nbsp;Frames</a></li>
+</ul>
+<ul class="navList" id="allclasses_navbar_bottom">
+<li><a href="../../../../../../allclasses-noframe.html">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type="text/javascript"><!--
+  allClassesLink = document.getElementById("allclasses_navbar_bottom");
+  if(window==top) {
+    allClassesLink.style.display = "block";
+  }
+  else {
+    allClassesLink.style.display = "none";
+  }
+  //-->
+</script>
+</div>
+<a name="skip.navbar.bottom">
+<!--   -->
+</a></div>
+<!-- ======== END OF BOTTOM NAVBAR ======= -->
+<p class="legalCopy"><small><i class="copyright">Copyright (c) 2014 Eike Stepper (Berlin, Germany) and others.<br>All rights reserved. This program and the accompanying materials are made available under the terms of the Eclipse Public License v1.0 which accompanies this distribution, and is available at http://www.eclipse.org/legal/epl-v10.html</i></small></p>
+</body>
+</html>

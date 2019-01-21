@@ -1,0 +1,3347 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.modisco.doc;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.modisco
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.help;bundle-versi
+ on="3.5.0",org.apache.ant;bundle-version="1.7.1"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Name: %Bundle-Name
+Bundle-Version: 1.2.0.201805182005
+Bundle-Activator: org.eclipse.modisco.doc.internal.Activator
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: javadoc/overview-tree.html
+SHA-256-Digest: ouS9AL2ec39PFY/3oLsvHPcay+DbL/6Cw9utkSfYOQI=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetMethodDecla
+ rationText.html
+SHA-256-Digest: ufhj4eLxs3kAd+MhvtOZ0Z826BhmstJSgBsH1EX3US0=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/DiscoverJavaModelFro
+ mProject.html
+SHA-256-Digest: 11qa2l9Cyrus57OOPpGi7lv6ostVJ0UoMQ+Ty+4Jd1g=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/package-su
+ mmary.html
+SHA-256-Digest: w5xE3fDgaepwtuACUncW1iVJf2CDVaaz1sqqoUIv9KE=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/ITreeEditorO
+ pener.html
+SHA-256-Digest: 8EEsj5Im/X5Mo2TZwwy+dF22dLwYLWxEIIpHksNKqrk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsExclud
+ eSuperclassListeners.html
+SHA-256-Digest: +IbxzY57dBiUks6FoFra/960sYc7ZUIjFo4BXbW98hU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMapKeyTemporal.html
+SHA-256-Digest: NosR45DKcKufe4+awcL9qVRO056ad4KR7HFmR9lJPPQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsRunAs.html
+SHA-256-Digest: IKsCNryrno0qWOQPMXom33dRDSY2sPwm4WnIAHVywx4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsJoinCo
+ lumn.html
+SHA-256-Digest: LeUSsfdIWUrekO/NWTftNuoJM+Ey1DBLftowbJqsKyk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsTable.html
+SHA-256-Digest: LQ1oFDJhAvpcIlvIu/cxLjILNOY7ylJx/aLE5V8wiw8=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/java/package-tr
+ ee.html
+SHA-256-Digest: NtkfAsj+e+IpN2TwVtjm7ULOvrY9jXO2gCt26dQJXvE=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/disc
+ overer/package-summary.html
+SHA-256-Digest: aaMBaeiryOqeHtH6f895X/W7+77J4UxJtmDGyapJYAU=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/package-use.ht
+ ml
+SHA-256-Digest: khnHVBPIHcaF2ICnfiNv8icj3/U2+gyxA7idc0Hzz24=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsAttributeOverrides.html
+SHA-256-Digest: 4J6cHJ+r3C60U62abTeOAVetddMD5Wb1cLaapiUNbpk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsInit.html
+SHA-256-Digest: 0lW50MUjeVhJnlO2QJzdokqJhBV2ltO9ImssgfDbgCk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/package-
+ frame.html
+SHA-256-Digest: VrbtrScSUtpp4e4kNe5xL9OJMLSU4RoXgFBDyhP4VdQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/package-tree.html
+SHA-256-Digest: BvVGxP3w88K8Nv81jxNWuuvR8p+LmlNuPDh01Y5+f4Y=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsEJB.ht
+ ml
+SHA-256-Digest: hV6d+8AN0bISzEIhhXfxMGKNlS563t4hPbQ8vadeAoY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMapsId.html
+SHA-256-Digest: CPcC9tu4pp/GHsNfwzQ8OC36GiGzqZj9kajSfTRCKbw=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/common/core/logging/packag
+ e-tree.html
+SHA-256-Digest: B68KN4kjsK5fJmJ1SzOArQdDydqAl6OZ2xJE3altxBc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPrimar
+ yKeyJoinColumns.html
+SHA-256-Digest: M+ctrwYKaab7xUswxZaqvnYZIZdaeQ69Kh/lOJtJg1M=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsDeclareRoles.html
+SHA-256-Digest: IxsqWD4f5YraaTxoUqYk1RgZJIJOW4dJQBb2P/Rt56k=
+
+Name: javadoc/org/eclipse/modisco/jee/class-use/JEEActivator.html
+SHA-256-Digest: 1YsLCVnMFqRXiJBp4YC6ZYU1UxT2hEKUMRR9Y/n6oRQ=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/utils/packag
+ e-summary.html
+SHA-256-Digest: KgAqqh9MgX8mIdBhWDI/Xp/cbyVZPrR6afrsmnmRpA4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/ChangeListe
+ ner.html
+SHA-256-Digest: 6nA+sz991e1ZUoAQTTIOU72tkCgveP5UAEDzF5eoMUc=
+
+Name: javadoc/index-files/index-10.html
+SHA-256-Digest: mL8ZWmKE6PPtBgz2JD22x4eI0AbrWbtLrTCgvAofGFM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsGenera
+ tedValue.html
+SHA-256-Digest: BbTy+8/Yw+7cVSSmDXXy2aekpV8XFW0hE7SoHy6Pvbc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/class-u
+ se/JXPathModelQueryFactory.html
+SHA-256-Digest: P/LPTXvpgEMme9bS8e8aziKXIegBPxAkuxKp5d57I3o=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetA
+ bstractMethodDeclarationText.html
+SHA-256-Digest: KZ8xCm2O3OR7Hmds78We8LHl/+D85Ql2OUJu42b4eUI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/common/core/logging/class-
+ use/MoDiscoLogger.html
+SHA-256-Digest: z4Tk2gMpYImMpz6F0cmP28wBCU0LAaEcK9zd2qGKzNs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsCacheable.html
+SHA-256-Digest: QWOFr1qHm8wrd6BXwlgCPeULjxoO8+rAVmR4Lu8PpB8=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/NameProvider.html
+SHA-256-Digest: OuDcWvKehStY8psN3qKmCmjQE55fY5mwd5eT2EmfOy0=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/package-summar
+ y.html
+SHA-256-Digest: kgaIhlzFZ5dfgUJLrKVlrVzH8ycAKihJG3a2aLuakzU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsTableGenerator.html
+SHA-256-Digest: orpzN5wl9zwqeJJf1LJNA39JSVzvQCcjlZip/n7tjOY=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/RadialGraphViewUtils.html
+SHA-256-Digest: j90W0TZXi3NTN1S8o5uc0f2Qz3iO6t3vktE9y3xVtIo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/class-use/Facet
+ SetCatalog.html
+SHA-256-Digest: t78D5BFk0EwPwZo0lshNLOhuidXEUZDx1oRR1j4rHlw=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/class-use/IT
+ reeEditor.html
+SHA-256-Digest: p1/Qdh0oxzrIXsfGwfgMoKYXEKILVrspyqkdN/KfeNM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/clas
+ s-use/IsWebInitParam.html
+SHA-256-Digest: Glw7W29efMH6jWOsLdG+tyt/03abKtRZ5hAss+/X9kg=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/Customizati
+ onManager.html
+SHA-256-Digest: bVx5QKsm1JuQxXirCQISFOct7bF/Yejf7K9xwDBIwQk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPreRemove.html
+SHA-256-Digest: i776eRE6zW8UKQ1Drek4lIeZZQpmzh7q/xUOA5s7xmE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ NodeColorAction.html
+SHA-256-Digest: SYUP5G/XBVmE5RV2YAGsko2SjXGrIzto/TEjCUCgY08=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/interfaces/p
+ ackage-tree.html
+SHA-256-Digest: l2AJDR5BganyyHbN+R3CYvs05RsEM9laBvrxbctcyGo=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/actions/pack
+ age-tree.html
+SHA-256-Digest: WRTy1LnE7V5b7SRbsmk5Jv+by2FrMo+/4/XXnyizj0k=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/interfaces/c
+ lass-use/RevealingStrategy.html
+SHA-256-Digest: mhZ+jXPoQyiwdTO4TQKPNeqCmhoyEcrSdew52KPKVk4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ OrientAction.html
+SHA-256-Digest: UTGmyKxIdWs+Yl/9alMH1FHMILH7hEEahZI06HxTrm8=
+
+Name: mediawiki/new_and_noteworthy.html
+SHA-256-Digest: 7NQ0TJXaSBSRzPv6rJMAGh7z/xOHqUy6lMdg/g6KACQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPersistenceUnits.html
+SHA-256-Digest: tVyVOi8T569HA2d0GqAeXsLx5IOccPe1zho+fDbNCko=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/class-use/D
+ iscoverEclipsePluginFromProject.html
+SHA-256-Digest: cAQBTqH90vvsxrH2kM3hzRfE/H6MpstHSjLbvw7U6eM=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/Activator.html
+SHA-256-Digest: DSsY+vt96Fd+4nNFmsYIoisk43dP3ggXSgCGNGTGKoQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPersistenceUnit.html
+SHA-256-Digest: 8hs7SuHn0VxNzZpo7VBjWggRZjVwDf8cAu/JBDto3+c=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/class-use/Abstr
+ actModelDiscoverer.html
+SHA-256-Digest: +f5zQ1kx+kQmgvHz4RfXsbASe8VzwtUM9yHTAl3kI4o=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetC
+ onstructorDeclarationText.html
+SHA-256-Digest: rnQaZayGAN1305KKlWU198l3VyJapbhY0ITjU1qbEZU=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/ui/package-tree.html
+SHA-256-Digest: E+TBrZppxpnchGYj6NlEmV+n7ZxRKSX6b2Cpq0jGQM4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/java/ParameterV
+ alueList.html
+SHA-256-Digest: ELDRUL2bMBheT6CRiyZ8+wHeKjeWhxKMFmlrAn2FJRQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/class
+ -use/ExecutionEnvironmentException.html
+SHA-256-Digest: 65aSB1/g94VS6pHelcQENpBn7c2hw5e8ABoMPDtj9As=
+
+Name: javadoc/index-files/index-17.html
+SHA-256-Digest: Yaof5ciGn9d5AEbv/uDtA3nm9H3DVmnAuD/Ftak4noA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/package
+ -summary.html
+SHA-256-Digest: 41FuGnVjsVFV5qFVuwA6fdrI0+M6DgKWgV+TeD09WT4=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/class-use/D
+ iscoverEclipsePluginFromJavaProject2.html
+SHA-256-Digest: KuZm1BInTnZ9tQrLqKe5onMtFiV4apHaMsitp2DdDPU=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/exceptions/p
+ ackage-frame.html
+SHA-256-Digest: fX52ci0JCuS7xF4Uz45+BNY7mDZSnIX49gLgGZUCrdQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/views/queryExecut
+ ion/package-use.html
+SHA-256-Digest: Dbt3w7kD6XKbveMwyV3cGKbybBfKuiYk3YBb57lmvso=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/package-fram
+ e.html
+SHA-256-Digest: ziTkPQwELnAZic8Oj4P6rRlGrn3weuy83ilpr9iPbMg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPostLoad.html
+SHA-256-Digest: Y/eeQbHq6hrqyZERW3vIeNU73Ig3BRD/qhlUdeunzD4=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/generation/files/GenerateJsp
+ .html
+SHA-256-Digest: SHMxYygalOUgmJxN//2T3h7gpIiyI21hxIyuakPN0I4=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/EjbJarActivato
+ r.html
+SHA-256-Digest: F8jOXiHW3Ukws6AvZR9DT0fa5vKP4GSQHQm28lLqkeo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/package-summary.html
+SHA-256-Digest: 5xsE+F81qJmPk3V0CFvqtiboCHQbyXfd0EEeSeEjlVI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/class
+ -use/MissingBundleException.html
+SHA-256-Digest: 3UHQ/YbI+RlZ7Yv5AqBx4k7c8d78Ym1pTsdh+oMzTrs=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/allinstances/package-s
+ ummary.html
+SHA-256-Digest: Ui/vYBzSJlftJrO1fnevEPv5thyzDotGaHicYj3G9cE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsCollectionTable.html
+SHA-256-Digest: cc88Y0yVOmhauYBvHpsGf/XzC23WIIo7EwAqSY2UPZM=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/disc
+ overer/DiscoverMethodCallsModelFromJavaModel.html
+SHA-256-Digest: t3Y2nzc8OXeM+Bjn2sTxFuBOP9wjUSYy3Sze7goFJLc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /class-use/GraphViewConstants.html
+SHA-256-Digest: qhmVYickqaA1AaWH5H+On0v7GhzQX2yA0YxXPCAGL0c=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsRemove
+ .html
+SHA-256-Digest: IYMSAQZ1WEoJlbIt8pn13VvHDUquoHpN7kxHqgqT6XI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsRunAs.
+ html
+SHA-256-Digest: gmIpn2TSgN1CLWyEZU9tMgmFWvXowykOVQHARiVW5D4=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/D
+ iscoverUmlModelWithBidirectionalAssociationsFromProject.html
+SHA-256-Digest: 8yV+0+WKsCoOAf/gCLk/4aoG7nT4orDx1rFfOWmdwQ0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/Customizabl
+ eModelContentProvider.html
+SHA-256-Digest: kc+0pwdFo/EZ2RNIhXdmc64SmlB1EVACRY0WaaOCfOM=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsOverrid
+ den.html
+SHA-256-Digest: oaopz4OyKLfk6BeY6NNE5OgS8a0qUoljNYuoTB4oQVA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/package-use.html
+SHA-256-Digest: 0KKtGVif+lVdbUMkUJTvdj7Cpn2enKHAim+hPcwL8aM=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsGenerated.html
+SHA-256-Digest: Qk5UwYUW2HMxNTMTaoGE5aQSNJe1G16Gv/i+mFD/olM=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/package-tree.html
+SHA-256-Digest: IhepCGRyxB7qDqxvidTv6samAcpqgm+bHSzL1sKWQGs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsStateful.html
+SHA-256-Digest: 1rOul2Kz8A2zebgZFFLF1zW7sHJSmL30Q913O9h9Fng=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ icons/FilteredIconProvider.html
+SHA-256-Digest: XUt/f2QXzZh3MIMVVA6kltRi5U6Jx3a4RlTqcPFpUZQ=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/disc
+ overer/package-tree.html
+SHA-256-Digest: e94rg/aPu57oLuymRczs5MQF+uwU0RQy5ygJRb11n0A=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/WebXmlDiscover
+ er2.html
+SHA-256-Digest: lvDAN6el2MgPKkHonSxnezb7UlHcPmR/Dr6UtKUhLI0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsRemote.html
+SHA-256-Digest: rS5no0bVL2ILvr2vBssOaFYpHol51h6k2jwbAm0rfg4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPrimaryKeyJoinColumn.html
+SHA-256-Digest: PAu0g33RdvHVy3SZVn2UsO9yg39zVjOP5xzt89ASlYA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/class-use/U
+ nwrappingSelectionProvider.html
+SHA-256-Digest: +uk+tHzuvhLCynyw9Zv89DLlkeWqBMhBwiIzEKocIM8=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsDefault
+ .html
+SHA-256-Digest: hAAXWG36rXEVVlfY1FMKX1GMeWn5yOLDAGsz0KxTPuA=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/package-summar
+ y.html
+SHA-256-Digest: wKZhTeF6i0qu3ni21Kv997EBBKKgriCFgIwQY9gVxg0=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/class-use/WebX
+ MLDIscoveryConstants.html
+SHA-256-Digest: gwQZBKEDD50jD7SkfHtFqgVheHWo+OPdftiRqMNelk0=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/clas
+ s-use/MethodcallsConstants.html
+SHA-256-Digest: Zbbfs+phx5NgrkLlXok4F5QS2i0WMhMOZPRb7s9FW1E=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsNative.
+ html
+SHA-256-Digest: ocvy2wjsxSIgdeSfiyrfFAJaP9XeCV6ljHgldI4SpSw=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/DiscoverKDMModelFrom
+ JavaProject.html
+SHA-256-Digest: 1sdBzHvsXnnILfxp3dZgkKTtRPNF2r4J3b+zJ8/q0Sk=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/DiscoverSource
+ ModelFromResource.html
+SHA-256-Digest: dgrrZjxXUOrjW4leO5KFzpmtta8XFJqdORGT9amrU5o=
+
+Name: javadoc/index-files/index-18.html
+SHA-256-Digest: rz27+nedzcJdoM33W59OY3rc/Fxidb96ELwtxJzYVDQ=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/package-tree.html
+SHA-256-Digest: Nnqj9Jh2gONTyZdPkOyuIOwJQomZdleg0Y63T3jljQI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/NodeColorAction.html
+SHA-256-Digest: Qns136f8LcAJI1L/Ldq18O3Glqw7DbtEHBKguPWzDno=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsTimeou
+ t.html
+SHA-256-Digest: XrNR46Vzo9bJoFMYgqkA9XCmYwItZ46OaZ0OQUgCxRg=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/package-frame.html
+SHA-256-Digest: Z4qSsc706qRkm4bkcsdl8mc/sAqTknWZkOnteWExgME=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/common/core/logging/MoDisc
+ oLogger.html
+SHA-256-Digest: IkNyZFspjkAAFUhV+2KzkDs2AodctFt2C6lSl5GmJuw=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/EjbJarDiscover
+ er2.html
+SHA-256-Digest: ohi46OuKe3ht2QChwG7gTiwHI/wtrvrfTg7hubDg758=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/extensions/pack
+ age-tree.html
+SHA-256-Digest: 5A1fbOrEuz76hHrjNvG0uB1TxyO4yAmRPisnQjyFJys=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/class-use/RadialGraphViewUtils.html
+SHA-256-Digest: 3iiZJlvKXPriVHVoh3dcxnFUdbzPS7Xb+B/GK3c+Tmw=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/class
+ -use/ModelQueryExecutionException.html
+SHA-256-Digest: z7NoxlQGMHPRC6Pa1AJQrsG30kltqIGIZVjhOtkrBR4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPrimar
+ yKeyJoinColumn.html
+SHA-256-Digest: csA66Rp2Imm4udf3NW4Qi0z3ENzGgld4rAMaYyIMOHo=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/package-use.ht
+ ml
+SHA-256-Digest: u724R1+0XdRS1XEwwtL+XOrqZqXDIL3qThc1qGxthyU=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/class-use/IT
+ reeEditorOpener.html
+SHA-256-Digest: ykiEXkXAsixptn/owjPg+5bwfnuhuOGr2ZKtbeZsQPU=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsAbstract.html
+SHA-256-Digest: CtmX6WV+z/l3bChCADFR5R7x9OI8qg1U3nE8KEvdwqM=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/JXPathM
+ odelQueryAdapter.html
+SHA-256-Digest: ewiBqzutAKgDauUoWLtoKE0BYVd7wIlF6WsXJezahYE=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/DiscoverJavaModelFro
+ mClassFile.html
+SHA-256-Digest: CAt6MABJ4TOOWVNterSwHEvL/H2H5KdUwfqyfHeSd5g=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/class-use/PrefuseG
+ raphContainer.html
+SHA-256-Digest: sBt3yC5H2POaI+qK7uhLCF9gxx6cAKtSr5gIjKrAz/Q=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsNative.html
+SHA-256-Digest: tmdnSfSryk0Lr0YwD4GzDYqRb2SClubgp5AYIpI1q/g=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/exception/packa
+ ge-frame.html
+SHA-256-Digest: 5qmY3P5LguOABdtXwPngJQ2q7MqfAcnwEKy4LWEp8+E=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/package-
+ summary.html
+SHA-256-Digest: d74Zh2Q3XiOHCIn7hAwvsUtCIt8FVMkkwG8AIlZzwrQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsDepreca
+ ted.html
+SHA-256-Digest: 2rcTVR7yiyGDEW3XVOxv2fWoc6QjOBBOJNNB/6TDMa4=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/exceptions/p
+ ackage-tree.html
+SHA-256-Digest: zwdx+VwNXYY0de/CxChLRcWXUOfcwnw1Q2Z3xGBxnqM=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/package-frame.h
+ tml
+SHA-256-Digest: u0JnppzgYv+yWDR2a8Q1Ni4H1vnLbxS9BKjg8G3IZSI=
+
+Name: javadoc/org/eclipse/modisco/xml/discoverer/package-tree.html
+SHA-256-Digest: hksHUCkna9cTQmSNbmYITcc1rUFMP3wVxTqRBfGfEy4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/Activat
+ or.html
+SHA-256-Digest: hHwN2z0TEuCvJ1HqWluPfVALe7KHeUoskb1TO4IOhUQ=
+
+Name: img/MoDisco_CreateJavaQueryImplementationClass.png
+SHA-256-Digest: YVO7HwmeGS8uW85PZOFd5gYZjpnsQssmyDi877+VkWY=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ package-summary.html
+SHA-256-Digest: SR5mA0W/7D/rudQzCjENeThJjg+8Ciix9Su7zyoQTIE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/common/core/logging/packag
+ e-frame.html
+SHA-256-Digest: VbdhIQQB+qjCm1VVNnLl3iQlpr9sjrdaAILaRQtH77U=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/disc
+ overer/DiscoverMethodCallsModelFromJavaProject.html
+SHA-256-Digest: s5hZBMyrkhW/KOCwELiex4+iD61kMpS2ZmHZgQ4jM2Q=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/interfaces/S
+ ourceStrategy.html
+SHA-256-Digest: IXC8RPG+Uv15i/k8cq4TuO4ZoQijHEM2FXg90iB3xnU=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/IDiscoveryManag
+ er.html
+SHA-256-Digest: jla2phV05l6b8JglZ9pLQQHsqkYQxWBu/ql4mYnn8C8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsNamedQ
+ uery.html
+SHA-256-Digest: RlcmtlKHU1UwmRSb7rf5oiTM/ffy4eGPlLSWEZ3aUAc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsEJBs.h
+ tml
+SHA-256-Digest: eGX/ArzIHTg6WAKQHylS/uRMPB7od01UAbamARMlV+4=
+
+Name: javadoc/org/eclipse/modisco/properties/discoverer/package-use.ht
+ ml
+SHA-256-Digest: V5E++DEQyguYH8AsuheKh03iLC0xlhqaIw8Cu6oI+uk=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/WebXmlActivato
+ r.html
+SHA-256-Digest: jNktAG+6+jjyuoez04vnObqWO1CZr19L7MeQ7AraUWU=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/utils/packag
+ e-frame.html
+SHA-256-Digest: YkfBuIeBD6gKhN6+jAJLhZTEnWmJnXJlWFFQYK3jAF8=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/ElementsToAnalyze.ht
+ ml
+SHA-256-Digest: 9aOTMnBL9sp2hNVcca1nZjbYEIviKc3bFA4XDDJNBh0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsManyToMany.html
+SHA-256-Digest: mMW+ov3n32JvbkTiEFDxacplli3YEgTaYebx7z9PwJ4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /class-use/Messages.html
+SHA-256-Digest: WbH+pUSyedcnIveayjPyTgeizuUNXUBekax0zjEvQWg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsAccess
+ .html
+SHA-256-Digest: XQIZO6E2y1QJJ1iQCipVPfdrzGG6IQl9xdJP9jwMdKI=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/package-tree.ht
+ ml
+SHA-256-Digest: ndczZE/JEW14jsqBDTQiH7lv4jqcM4WZCrb7o5Yp4Ho=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/class-us
+ e/JavaCompositionDiscoveryConstants.html
+SHA-256-Digest: DJ26jv7fSj5vQWWR+ROD5MOhfiDihpfS2hUEJIdLe7M=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/class-use/IMode
+ lQueryFactory.html
+SHA-256-Digest: xCYFzXdx7POqJd9h6t/7MoVjvTJL4WQqmySbEkyvPg8=
+
+Name: javadoc/org/eclipse/modisco/xml/discoverer/class-use/XMLDiscover
+ yConstants.html
+SHA-256-Digest: KrE3cSXWOZe8M2PR6dxVuLrylDjocu+D7dPyCTSEW9Q=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/Generate_J
+ avaStructures.html
+SHA-256-Digest: DJAY8rgrMZvcrUb0WAcI1YGTirua2sA293Xp4PSz24w=
+
+Name: javadoc/index-files/index-6.html
+SHA-256-Digest: w176dPC+m9lYgYzn61V5dQwhegh1F+Dp2j6v3UQ4/cg=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/Discover
+ KDMSourceAndJavaModelFromProject.html
+SHA-256-Digest: 2m03JtL74UxiEZNSII77JoaPI6Ps0wx1uLFpdLRMA6U=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/common/core/logging/packag
+ e-summary.html
+SHA-256-Digest: xXgWAGgG/QVe9bc5mwvjrAT/74sUyIFqUZB/5k+9K9A=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/pack
+ age-summary.html
+SHA-256-Digest: CVtDCR2/qPt7Y6g/YuNsiPS9XLOclOX/sMprrhISWqU=
+
+Name: javadoc/org/eclipse/modisco/xml/discoverer/package-use.html
+SHA-256-Digest: tZekNNLHGeGkc6YB9wiR1DPg9olNtQFwU3IOP7VL7Ls=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/class-use/IDisc
+ overyManager.html
+SHA-256-Digest: 5CYylF/WAsThAB8X8Ti8pZahOtqBKX2NIIzjrezs6uk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsJoinTable.html
+SHA-256-Digest: fyAb8UJJOGFuV7/rZDX6Wj2HKUSEZW+o/EPoS4V6Az4=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsPublic.html
+SHA-256-Digest: mgDMRwtJ1BFVbJqvEhVqplMLdteouQWGZ1iqZi/m4sg=
+
+Name: img/MoDisco_ModelOpenSourceInEditor.png
+SHA-256-Digest: qh1APZpF0bZn7do53AtxhzUC8uqWAKItBbRirRq+eZ4=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/class-use/EjbJ
+ arDiscoveryConstants.html
+SHA-256-Digest: df3u0JW78im32KsLMjgKickzMH9FLQCRQl2jwuTKbBA=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/class-use/
+ Generate_JavaStructures.html
+SHA-256-Digest: 1v7zSY5dUS3OEwk2ESfq0pSZ4/ks0Beg6grKMJE6Rd4=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/annotations/pac
+ kage-use.html
+SHA-256-Digest: AR0x91jhJPHwUpdpvMIubTcNGbuI0GRpg8/QlUOJrbo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsSecond
+ aryTable.html
+SHA-256-Digest: lCa7avSP5lMthykgqGyrtnnh3jvycBJcwONYv3FKHhM=
+
+Name: javadoc/index-files/index-8.html
+SHA-256-Digest: MayFZNbjwBLNTEHpcUwdLRo69l/Du/eJyVkKP0nPxNU=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/WebXMLDIscover
+ yConstants.html
+SHA-256-Digest: Z0/OeWQQLNp+DJNVczZaXa7GxnErfKbvQRwKG6J9w7s=
+
+Name: javadoc/org/eclipse/modisco/manifest/discoverer/Activator.html
+SHA-256-Digest: /tZCsqjOtmTloHt3XhjePSdFn3/5HR1jOHEfyPpu8Fw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPostUp
+ date.html
+SHA-256-Digest: pWstAaVoc6FLTAzlh+h4Fd48xtB4KJLxpwuSZ0SWcS8=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/Bundl
+ eClassPathException.html
+SHA-256-Digest: CmIxhNuhpvRPvVDdw0tYnJWqpze0ljQz1HbZXTI49ak=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetQ
+ ualifiedName.html
+SHA-256-Digest: v03ADTI7F1WwvySY4zXPOSVCWDpfF2+ygIeXuxkz/Ec=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/exceptions/p
+ ackage-use.html
+SHA-256-Digest: pzG26c6ircKFjpQGtryjnAn+LQomodB1un7enuXskaI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/extensions/listene
+ rs/class-use/DoubleClickListener.html
+SHA-256-Digest: 8O0TjZaR763OTL0BVe6lJNV23sqMNitZUtsbHl81r5s=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/pack
+ age-tree.html
+SHA-256-Digest: CWoqvhXOs58OPnEq1XKyPuO7FWRHRqFNpcTCMFBmKUs=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/exception/packa
+ ge-tree.html
+SHA-256-Digest: tksF0NSQinF3YJOG+U6mW/CugL6x+XcANMq8ySGJckQ=
+
+Name: javadoc/index-files/index-11.html
+SHA-256-Digest: CiauN40W3j654VhRzzL6tWOX/dqpOBMgXKXdS8lLKxQ=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/package-tre
+ e.html
+SHA-256-Digest: c8ac2NP3GlOeOdaxpBbJhR9/D5VaFtNkPwxPiVyylPY=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/interfaces/p
+ ackage-frame.html
+SHA-256-Digest: Hh2jBJZZed6eKUpwCeDqKCe/xQx4d6O7iOJBDtrIuO4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsApplicationException.html
+SHA-256-Digest: tzkef9bcEMR1bIrvpaa8uZpqOqkj0HWNlDoB8H1uk28=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/IModelQueryFact
+ ory.html
+SHA-256-Digest: 16b7WQZMOPd/3XgtkkqyWi4H0Ulg+Sbn8VBWoYfl1ec=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/exception/packa
+ ge-use.html
+SHA-256-Digest: c7rh4WrBH1qapGBBsYdf6sALuzA2zLfCbm+2SdHwKYY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsOrderColumn.html
+SHA-256-Digest: 144qPlNakyADaDTRanEbFH517iqyHCuqCo9zVltP9Uo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsEntity
+ Result.html
+SHA-256-Digest: aLQaIwhVmCMVfagitwH2VDA9tAfb7QJnJIUdTYIVJRg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsManyTo
+ Many.html
+SHA-256-Digest: 8hWaw3/qX/mmilKiSe+q2GbG2wakXBeYpLFGcy7xlF4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsJoinColumn.html
+SHA-256-Digest: uP+4WEjO71L2uShWevx9KDTtRgpZDmIAJF+EYQgb7J8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPersis
+ tenceUnits.html
+SHA-256-Digest: DdO6LV46fNyN/r9tNCZPK+li+PLzFqkVOzoRd++8k5I=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/AbstractDi
+ scoverJavaModelFromProject.html
+SHA-256-Digest: n7CTUa8exr6tkglkozpR15F3x7Dny8Beb2cMbGPRDKQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsInterc
+ eptors.html
+SHA-256-Digest: Fy38r6K6oV5DxHGJ2FJQHG9vfqf1HGXdSulM89B3yK0=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/pack
+ age-tree.html
+SHA-256-Digest: ohZRc8aXAvogj41vXey+FLwmQPzhZxdrWQvEFYFh12c=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/package-frame.html
+SHA-256-Digest: NCEFYTnZPs4a7+rOTgQmcbh49X51vxyndiQKaI8DEgg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsExclud
+ eDefaultListeners.html
+SHA-256-Digest: IZjkxrr3vi3pRn/XZpk4iheWmS9565fQsHnjGqQg1VY=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/java/class-use/
+ ParameterValueList.html
+SHA-256-Digest: iVJ9n0/+rtannLor/D32fN/jP3ZXCm7UGx+1Zv/vgUk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /package-use.html
+SHA-256-Digest: iqmE+nYtUmDRjonboT6Jg8LIVzVwNyc8A0Xd/1in0NE=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetFieldDeclar
+ ationText.html
+SHA-256-Digest: L0Rk4j+VjVOWyKEH71eyPEBmqmKaBkIgGYtpc691u0Q=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/package-use.
+ html
+SHA-256-Digest: XkgpMHIqfUhYgqgKg97M8h0ixOlpKiDQvSiDzS88xOQ=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/AbstractDiscoverJava
+ ModelFromProject.html
+SHA-256-Digest: s0/x1+JHK+ayCIQsYHh//Wvnl1DF14X5S6OqZIrGiLU=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/class
+ -use/SourceVisitListener.html
+SHA-256-Digest: vExuZODn5Ft1k37vDOEXVTg9b+CqAU/3aNvXBOEkaxo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /package-frame.html
+SHA-256-Digest: 5akgFNdu5XKAPrkeA6vNsA2flpz62pdcwHoufYbZHPU=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/actions/CreateQue
+ rySetAction.html
+SHA-256-Digest: H2Pr2RqlFMO5qMAWxYTBBdk/54tQYRppGClFJJ9oC44=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /package-tree.html
+SHA-256-Digest: GpkjDhCEygzeis4bDSAGTguXWWYH5gO6K5t+teHleoc=
+
+Name: javadoc/index-files/index-16.html
+SHA-256-Digest: lvEb7Cia81a7Qn51OT/sZ+7M7WCIIPZ/V65ynxv3a0Y=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/extensions/listene
+ rs/package-frame.html
+SHA-256-Digest: Xswb9bcaeAHdt9ytxciQY3GEdUvel3ACWx33s33Oroo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsSqlRes
+ ultSetMapping.html
+SHA-256-Digest: I1ukgszo6Ofskv1vME/RNXX21RJxph270T1qmTY0TF4=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/class
+ -use/Messages.html
+SHA-256-Digest: GLdg7QTyoKYO+Uf+nAy7ERUZdac72bxqQsvs5LvcwIM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsFieldR
+ esult.html
+SHA-256-Digest: JmIFDzm7TxKH/B0jBvXOdSq26V7WBL9iYAEo4DdX3T4=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/package-f
+ rame.html
+SHA-256-Digest: dFWPeYVk6Mu5SmCGzoHpzkHrfmoDuBP7QrPbOxCCDWY=
+
+Name: javadoc/org/eclipse/modisco/kdm/uml2converter/DiscoverUmlModelFr
+ omKdmModel.html
+SHA-256-Digest: 3QS4KckJv25n13jk3uop7jOE9fBFb/C/4t+E6R0aH7o=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetF
+ ieldDeclarationText.html
+SHA-256-Digest: pmBo4NdHQ2oXuOCQkrk65BvyEBdZlR/Q7nyD6Pi6xVo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsAround
+ Invoke.html
+SHA-256-Digest: ZzHM7UHg1DT/0YjU7cH+iDw+z5Jqeoj83sw65kO20SM=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/c
+ lass-use/DiscoverUmlModelWithBidirectionalAssociationsFromJavaProject
+ .html
+SHA-256-Digest: DDeD3M+ZVMSaqKl1iR3NyX7jjEWfHJjFNR1MrXxK/30=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/package-tree.h
+ tml
+SHA-256-Digest: vCsO2O5SnFY2zV+ffv2pTxTpEHXkPt3YEv+qAH0NOhY=
+
+Name: img/MoDisco_BrowseInTextEditor_SourceCode.png
+SHA-256-Digest: eaKOqwRWE6t644Gn83vBHXAS01yM7ViI20ZQJ3JKUzc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsTable.
+ html
+SHA-256-Digest: sro5+JZB0XhK7rQz2w9U7VPnEm4bUMH/+oHJLMDeleA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPersistenceContexts.html
+SHA-256-Digest: QXKY0WmufaYvAsiwjo9ryTyYTFgzpI36NvKXbAsbz38=
+
+Name: mediawiki/0-8.html
+SHA-256-Digest: ektkWN5cev5g/qNozqhuKz8JtapFDjkKVanC2w/xyII=
+
+Name: img/MoDisco_createModelQueryWizard.png
+SHA-256-Digest: Hy1Up3I6Xwh41vyZepPatu6BoZpPkhjnugR1T2CxAzY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsNamedNativeQuery.html
+SHA-256-Digest: zQSIrBcKMe6nnkv1pMXcnfbsCiiOTTnoSHxTdWVEw5A=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/class-use/Message
+ s.html
+SHA-256-Digest: 730aJshZi8CHDBWzV7biDxU6EAY4sOoOus0Gg7IYais=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/interfaces/p
+ ackage-summary.html
+SHA-256-Digest: SULro7c8Ft43vJUcMxylpzjBMejaE9gdLOYMoxj5lpQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/Customizabl
+ eModelLabelProvider.html
+SHA-256-Digest: EXRA51qc275MekeQ4AJvsfB+Z91WpD3nBt+0zdDEyt8=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/exceptions/c
+ lass-use/TreeEditorOpenerException.html
+SHA-256-Digest: y/iyFIst43Bw341MFbPQi2L9MtjWbcPXgh6MQzk/UXM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsTransient.html
+SHA-256-Digest: 97YFQaoSrqD43zNbWE34LCECMitlzKh7UbF+kePNKIM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsApplic
+ ationException.html
+SHA-256-Digest: p93cvDf3YMN/woVgee+o1LUSDt2YfAikHJnSG+NV9LM=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/class-use/
+ GenerateJavaExtended.html
+SHA-256-Digest: jWed3vM3Rn0Wb939IA/Earu8Yk6kSJTapyjDez6Lkp8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsColumnResult.html
+SHA-256-Digest: a3VzpjnAelaVRImdWOXJKu987TvxRahdgVXpWJ8rBv0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/packa
+ ge-frame.html
+SHA-256-Digest: A4512RgzRFR4NWSOsXYZzX2zIpBNcyPwT79m3BAfPgQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/class-use/C
+ hangeListener.html
+SHA-256-Digest: fkWg3U+3bMdPzH+oV7s+szEtL4Oi8kRlFUS4hQuMexw=
+
+Name: img/MoDisco_ModelBrowser_Ordering.png
+SHA-256-Digest: 4zmPbkKTuy6OQ/G9l4y9HYpgEnNlpicPYnELFbl2S7M=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/RadialGraphViewConstants.html
+SHA-256-Digest: tJ3bS9TeeDE5F3gKBo3Lq5dykFe4KCfP/oKYTkBWF9c=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/package-summary
+ .html
+SHA-256-Digest: b3uQ6IUwc1y7DSw4psiGa8bGbK4xV62t9w5Br+WzugM=
+
+Name: javadoc/org/eclipse/modisco/xml/discoverer/XMLModelDiscoverer.ht
+ ml
+SHA-256-Digest: N7c5KELx89/6LbkwtFjYlyqwlhWA5jzgS4fj2KIKNwQ=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/DiscoverKD
+ MModelFromJavaModel.html
+SHA-256-Digest: 85h7zoRp06jjWjd1GV35B3MTEUImSGYz18XRgfxklYk=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/JavaModelU
+ tils.html
+SHA-256-Digest: 3SsiT6Y3o7bcV3yHUj3cGedp8PmWBS2bFC/q4L6hqzU=
+
+Name: javadoc/index-files/index-1.html
+SHA-256-Digest: GgSuHWr3UBKQrj36z01i+vMUybBpNtF4eE/c7unDZNs=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/package-tree.h
+ tml
+SHA-256-Digest: ejZFxkjH+5Rhz5a+yMNFWcshQpdZBSHOHwMqQSJSb/8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsJoinTa
+ ble.html
+SHA-256-Digest: AQLiW4H3bgkpjzUvadIa/BxQa8YsmjU47ReF9cax0Jo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/class
+ -use/ModelQueryTypeCheckingException.html
+SHA-256-Digest: sb2WcMdCZAgC1ssenyuTpd//c8emhCn2jW9AqszzFBM=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsAccess.html
+SHA-256-Digest: NjjRows3iOCY+TjJjvonpHJfzZn5uVtgnsT4DPLB3BA=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/JavaDiscoveryConstan
+ ts.html
+SHA-256-Digest: NMpzIMCHhTDEu6WmBsxQFY08UzkFIAJ0tKpCzkQhsI4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPersis
+ tenceUnit.html
+SHA-256-Digest: gx70wThatffXM3r8lwbT4ivrbxWO9B+cf3Hwmd08H1A=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsFinal.h
+ tml
+SHA-256-Digest: J6d/KYLmqG818vXPaxEjQJElTS+vqVH0CLJBiyC7JP0=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/class-use/IKDM
+ DiscoveryConstants.html
+SHA-256-Digest: Rjnj3NBVugZtviiLGHeE4CKMuDvZI/Rrizb/1VPlRp4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsMessag
+ eDriven.html
+SHA-256-Digest: PfU2JGbhog01hoNeIadxRKEObhnLLLEkFMJPkxo+sy0=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/class-us
+ e/DiscoverKDMSourceAndJavaModelFromJavaProject.html
+SHA-256-Digest: dGPTMMorXyok0M+m3k6hx5ioZeJSuEAeIXXOt3R/bug=
+
+Name: javadoc/deprecated-list.html
+SHA-256-Digest: XGkM+35ydDOQnUFIfOukahYK1hmwHPddJNgA/z5gs9M=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/actions/pack
+ age-summary.html
+SHA-256-Digest: L9D59V+cbsSM9KGhBaL0p9d6n0kpIMPUzh7U5uEnxEY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsId.htm
+ l
+SHA-256-Digest: 1ftDMZYjQstWM9+QkkxP9wDSVnqVwRrQ53AO7DKwzZc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/FacetSetCatalog
+ .html
+SHA-256-Digest: m9xOb6x3UR2B+tZxl97vJzm9jUy7yFHYxWMGEtQLjHk=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsSynchronized.html
+SHA-256-Digest: ayY/4ZDNl2P2SzZQmbpXyJ8ECcAXMHxjWvX5nv3z1aM=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/AbstractModelQu
+ ery.html
+SHA-256-Digest: D4HI/MReNmpc9a/cnISg59auamu7P/TenuSMdHar1fk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/class
+ -use/BundleClassPathException.html
+SHA-256-Digest: NHk+hZN6qStA69nlo5XB3yFMW8yAet/wrSX/HHygFRU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsNamedN
+ ativeQuery.html
+SHA-256-Digest: A4x3CzdGEj9E93UON2eCKZ36cQIFb2bpibW2UuXtPvE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/class-use/IMode
+ lQueryTooltip.html
+SHA-256-Digest: CZcLpaEgUaiOaHzs/Pwn0mif6Cl761AaapLvSpUq9AI=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/Activator.h
+ tml
+SHA-256-Digest: /2/QkRC36DWMRM9TtcrqR6PXwq6fe7a0zjZMSi1nkWE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/TextColorAction.html
+SHA-256-Digest: z8+wqHFUv+ydosRsWRZ/RIFyufXm7IJNDrrnRFWWk9M=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/java/package-su
+ mmary.html
+SHA-256-Digest: AX6P7dPmERtm/FntTk13Fp3Yynz8Hufhp8aX2+El9D0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/actions/package-t
+ ree.html
+SHA-256-Digest: T5HZaR7KA6byphFo8qeyQ3CqFqygTC3FBXztMoBMK4Y=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsQueryHint.html
+SHA-256-Digest: 61qgDFGstNruR4G/lcHejm+AWPFCdCx0ik6b4a5M0Uk=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/annotations/Par
+ ameterInitialValue.html
+SHA-256-Digest: vzcaxPfJUp3hO8GDndLQiI/o6fFWRZvEPI4XmcUKaBo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsCollec
+ tionTable.html
+SHA-256-Digest: QDU87iV9r2i5g2EXhm8cpesP9kBXgebLuz4lTpIOv24=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/AbstractNameProvider.html
+SHA-256-Digest: vcKE4i0Pw2LHubp+YGOCABG8p0jnEkaLkRze3zpuiHI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/exception/packa
+ ge-tree.html
+SHA-256-Digest: kpszQz9LcykJ+hm09kmJ0uveMqe/Gi/5hlOBIziE938=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsLocalHome.html
+SHA-256-Digest: 0gn7T8TwFKWyvkTc2/jA0m0EWFlVLOe88v2ung+dYNo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /class-use/OpenGraphAction.html
+SHA-256-Digest: bJExJt7SZBGH7KtmUYvkSsrZ2rposr63Kx+xhtivf/o=
+
+Name: javadoc/package-list
+SHA-256-Digest: zw8Cv5tl6Mdl9A89tl4OytxTD6gd5N4BNBWTr6gKASY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsJoinCo
+ lumns.html
+SHA-256-Digest: 7VhNhtb3KdBJfYjR9LSSz6zprtCCwh1pFaMCbCpWmzI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/packa
+ ge-tree.html
+SHA-256-Digest: QlTRED6sbNteW7TgMRsLj8ilD68zDiia0yLpfC8TGsM=
+
+Name: javadoc/index-files/index-19.html
+SHA-256-Digest: Pbl2ufcNxqCDG2zadZ8YRRLVlpN85l2dELUbQEeeo9o=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/extensions/listene
+ rs/package-summary.html
+SHA-256-Digest: 5ka5/isNVR6aUl/ItAkAX8JKsXWiSWceDX4GVgqEy/s=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/Message.htm
+ l
+SHA-256-Digest: MmOlYLVOKDm0ZV/A3lVBBY/cdpXNXzPdSXEMdeWcl/8=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/D
+ iscoverUmlModelFromProject.html
+SHA-256-Digest: xPJj5jwSd0BWSbtLWW/P1kNE+PrdXD6bmc7lwa51kU8=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/FacetContext.ht
+ ml
+SHA-256-Digest: rD4BUhGJMXMi3EoT3ZEyjQvtU+dsvvQcHA7NXbLqhVM=
+
+Name: javadoc/index.html
+SHA-256-Digest: vgVXvEhfBBevT1ieMyOcCzZrUKu0AE2gdF+Hqq0tap0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ Messages.html
+SHA-256-Digest: cLv7JURWmnEtN2riWF6Bw6ybajl6QTeGKiZkmtKxYiw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMappedSuperclass.html
+SHA-256-Digest: 5e/i75KBWUATC5YNOFktboNp2+G9P6CB34a6++lx/dA=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/package-tree.h
+ tml
+SHA-256-Digest: omHjMGq1kEq/G8FitDPrD4jXHTR50zzBYE5lIxYyYLE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsAttrib
+ uteOverrides.html
+SHA-256-Digest: IVd3LLMGVF/UQqhVLguj108Sg0GuNrGabfiBg/Suhig=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMapKeyClass.html
+SHA-256-Digest: ByEkFUCpwbu9BnF58me+V1AtEy5GSkz879Kyzugp6hI=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/Abstract
+ DiscoverKDMSourceAndJavaModel.html
+SHA-256-Digest: YX5Gw6WYrc8OqGQQcX0Z4J1wBAB6+R6jKPBKQt6wRrA=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/class-use/Abstr
+ actDiscoverer.html
+SHA-256-Digest: SGp6oDpMAAHKb4ZOeGiP73u36T6gEjc0M4LxIi6XfwA=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/utils/class-
+ use/BrowseCodeUtils.html
+SHA-256-Digest: WLQq9fYFqQ0uT5uFRSnJ2QgprhyW/ysIhcqtdC2+czA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsEmbedd
+ able.html
+SHA-256-Digest: 6/vwcFODkr73SUi2NDRC8uM/CAh7XkQQOSEGbQ7iNi0=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/package-use.ht
+ ml
+SHA-256-Digest: 1O+yfmoz8CxWLiCQh/9mSY7UnMxXCOPk2ljsvnYn4Yg=
+
+Name: javadoc/org/eclipse/modisco/xml/discoverer/package-summary.html
+SHA-256-Digest: DnMXgrKD1BfdbfX32l5Cf5hhicHQG1MGEp399CF2WKc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ TreeViewConstants.html
+SHA-256-Digest: 1GgO68eG2PaYMJiL8lE1J7MYBil4TbC2sIONwOUhwkQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsLocal.
+ html
+SHA-256-Digest: jriyME3xrnVgwDtdNG/onhBe8uu9RhMrBkuBktMpaUo=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/package-frame.
+ html
+SHA-256-Digest: Jn+Tkk4EHrava/QpbMnmyL1mRemV9HGWlzlgCGUNen4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsEmbedd
+ edId.html
+SHA-256-Digest: 4w+AWom3nv5VJ+vZ5nUtTn7fA2TKfJBmlcaBc0kt6Yc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapKey
+ Enumerated.html
+SHA-256-Digest: LGvPeKybboqzt8UTYyBpkOrrFTbHKfNPg9faWLHxNCk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsAssoci
+ ationOverride.html
+SHA-256-Digest: m1jSxuO4YQDFjnT/FpbdQu3ZyJ2fhdZmwIqNRPwsNyo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /package-summary.html
+SHA-256-Digest: LpZW3z9PBlUmHvtNwJBRwL5VMTSFrcjb7iS/r73m6Ho=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/FacetContextLis
+ tener.html
+SHA-256-Digest: b6WCJGMMEqJYfKIoHKNZekCA4vMO9Cx/u/pN3kuK8lc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/clas
+ s-use/IsWebListener.html
+SHA-256-Digest: OSU/rBr7ffhmbT0l4TolYKNc1YRGnxuI5AjaY/eGsiA=
+
+Name: img/MoDisco_ModelBrowser_SortLinksByType.png
+SHA-256-Digest: e3ZmCU3wKs1dvdZuc1Hgn48RYg9yyXhsYr7+P2RWNSs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/package-
+ use.html
+SHA-256-Digest: Wwp1rc+9bhZ1HCo1GAYeI1v8DS6vnPy8sHfTInH9+P0=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/package-summar
+ y.html
+SHA-256-Digest: dA3oXs+/R2K579DVvHyBEjPkXXbju8svqxGeI5I2zpI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPostRemove.html
+SHA-256-Digest: vq98WUSpWCHxiyrFUUBbHpV3BrMxEhKmXjPYKiTD97o=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/class-use/EjbJ
+ arDiscoverer2.html
+SHA-256-Digest: xu+DVxAbEx6sVYt327NtKt6360DE+gGuVZazD11n71Q=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ TreeViewUtils.html
+SHA-256-Digest: +d8eEvI1XOmwyav0Gdv0iLgn25TisPRWeSoh4/eRJzQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapsId
+ .html
+SHA-256-Digest: iNSj3b276BB8On4Y5zAcvTnRje4VyYen+CyJ+f4xM24=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsResources.html
+SHA-256-Digest: ZnuSXGIAJRi/Y9NowX4wEPQbjyPfezlgHlzZ1KHuUFs=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/class-use/Messages
+ .html
+SHA-256-Digest: bLvtMOQTT7vPTOLsNJmR2UJq/Mzgxnwo4q+lFf8vOzQ=
+
+Name: javadoc/org/eclipse/modisco/kdm/uml2converter/package-frame.html
+SHA-256-Digest: fzIkfP7ir3VKNKOkUHZI0CpH+aW8Ejk/1fUshWm3ugY=
+
+Name: javadoc/overview-frame.html
+SHA-256-Digest: y1ivt/+2RZsotKsZ/z3cKxGGaGxa7cxtMbl1VDrY298=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsTransa
+ ctionManagement.html
+SHA-256-Digest: gMpwgPcfQptCR0TDKAvkJ0Hq4/BGQdSmRRRELhBWpk0=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/DiscoverEcl
+ ipsePluginFromJavaProject2.html
+SHA-256-Digest: MuksV1d9V+Rz6J8GAMp0q39KP8nst19Efh8KmCuifZY=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/package-u
+ se.html
+SHA-256-Digest: Jf4eXKeum1IT4ivP9SwyjSrxVEo2rBSf8xwD9AlVY6Q=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsSequenceGenerator.html
+SHA-256-Digest: lY0ZOJXqjHVJoQhFAGVQJm7oC4DZ2JDPXHf3b7Lf3yA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsResource.html
+SHA-256-Digest: WH4q3anbBG3qYJJOG7FvHmCdSd1g2c+5CpOUwm6YI5s=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/class-u
+ se/JXPathModelQueryAdapter.html
+SHA-256-Digest: k1rfBoEW4dX0IOaFXMM478SLp39IIHND3LBc/YzoWRc=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/package-us
+ e.html
+SHA-256-Digest: 6ZUHr22E4mY2ivJHlNnyEpdPDr0HH9w2j9xLSD06TTg=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/extensions/clas
+ s-use/RefreshStrategy.html
+SHA-256-Digest: 7lWxzN2rFYui0ZjdxaUFOJTJwo7zFAJ+jOQ+5sbmJcE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsStatef
+ ul.html
+SHA-256-Digest: ZVcHh5vKKVX7paej0gYEQzJHcQPXFxM3YA/AJPCQjyE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/extensions/listene
+ rs/DoubleClickListener.html
+SHA-256-Digest: PDeW7rCbj+/Oh725XZIJZ3r92/8RMjVFCG+0uVFLrw4=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsPublic.
+ html
+SHA-256-Digest: 01Lt8hPZvZAc9JAx0M4QITo26zWBUXmEO1K1mG8nNyY=
+
+Name: javadoc/org/eclipse/modisco/kdm/uml2converter/package-use.html
+SHA-256-Digest: ou0jFUKEGxnbN4FDTFiOKz2ZNxiiZSTsHTXwiA4DJ5Q=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ class-use/TreeViewUtils.html
+SHA-256-Digest: 9zeo5C/ebn4JbOuOp4eNahidIUpsdxzwJbJ9A6bMl/I=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/c
+ lass-use/DiscoverUmlModelFromJavaProject.html
+SHA-256-Digest: ikzjjH02PwDq9BWwZTLNhC8wrGygbTT4ZWvMot3X+Fs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsResour
+ ce.html
+SHA-256-Digest: kpa8vAs2AKSVQD/A5kIvZPwVoYaJITrsaUfXQkroWAY=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/class-use/Facet
+ Context.html
+SHA-256-Digest: nlVQ6X6Wv/5jkTsoNMQQnHJHDkJe9MIQE9wnYDjScBo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPersistenceContext.html
+SHA-256-Digest: 33Ejfyh0id9JWL8nis8hop2BfPzcEC46tMQC5zGs8nQ=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/DiscoverJspModelF
+ romResource.html
+SHA-256-Digest: 2szni7O+EOg5UKI/pAAqJJ9KlybKVpLOsyaeVi3e/yo=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/class-use/WorkflowExec
+ ution.html
+SHA-256-Digest: c4by7LZ1S5WI5uN7ccVnH4isXF1hZvjbk7QaVJo2p98=
+
+Name: javadoc/stylesheet.css
+SHA-256-Digest: G9fhf+PVG813X/8Ib2axn8l6L0ZySPOC2DEMaxFMTV4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsOneToMany.html
+SHA-256-Digest: y2DTDwM/jAlWbSw55+bI7tlgJssGrQHpmrWElIt0ETo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapKey
+ Column.html
+SHA-256-Digest: 4gldIunh6O55HgJYdjXH5vyb1CqWCFyZhGeGZGzDMLs=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/package-summary.html
+SHA-256-Digest: Sl9NDReMp7OcJVHaPur3vb/mW1QVaozt88iXtQyZ2Ck=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/interfaces/c
+ lass-use/SourceStrategy.html
+SHA-256-Digest: uqY+lRTwykyHDkk0T3KzcZwCpWUNOYu3eXe1RMs3wN0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/class-use/RadialGraphViewConstants.html
+SHA-256-Digest: Tr3ClvWTA3+dZtFY/7neiQFI2Q82nxKtk/pUhZrAV0A=
+
+Name: img/MoDisco_ModelBrowser_ShowOrdering.png
+SHA-256-Digest: kO7JY+2hV72nT8C2RxbipHVT9nEcsqdfkFw/HSvA+lw=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/class-use/Disc
+ overSourceModelFromResource.html
+SHA-256-Digest: /WwYXOoi/gzi661qYyG+b2gBkzc3N64aJeyClXVTACs=
+
+Name: img/MoDisco_javaCodeAfterCreateJavaQueryWizard.png
+SHA-256-Digest: yZBMWuvPHmSjqySIRe7R1Y+pJeqVC3oGwrPwzkkAjb8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPostUpdate.html
+SHA-256-Digest: 6/TefzBpOofTEL+rGhOsH6MAgi5pLut6kYm6Z1GScQs=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /class-use/FitOverviewListener.html
+SHA-256-Digest: HXmdipahF4zSSBgg8ALWGeFAQ8B1OR6WcjtzmWyFjZw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsTemporal.html
+SHA-256-Digest: UpTzn9QAgUdhX/eIJYSETYxORvyfXUTEIyB1Iw6pDVk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsRolesAllowed.html
+SHA-256-Digest: DDuaisgkfhm8y6J1jf8lTH02UMnIG2qNOCyVtz6cqMU=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/class-u
+ se/Activator.html
+SHA-256-Digest: olz0BXtk44p9pFU+7bw7mgRjGr7hIdHIZHMITgiZCh8=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/class-use/Discove
+ rJspModelFromJavaElement.html
+SHA-256-Digest: PWawscPfCUHP61b9PL2PeoW5x1DkXqpNQl4nDw4+YWs=
+
+Name: javadoc/org/eclipse/modisco/jee/package-tree.html
+SHA-256-Digest: OGa32vETdyu2Jh/5b+/ldvhniWuonR0GibiyDmhinhk=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/class-us
+ e/AbstractDiscoverKDMSourceAndJavaModel.html
+SHA-256-Digest: 5l9B5/BQiVg+t1E6BtZs/u9tIgfuWmI5hyicLyrHLV4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsTableG
+ enerator.html
+SHA-256-Digest: FtDTYKUo+amY0TBg5YbNyCpYqFzKaiANON2N+hRl4Rg=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/package-summary
+ .html
+SHA-256-Digest: 2WXZQiubEFXJ9Jd4R8/VpebmvqxCZ6+w2pMg8ZLv9rY=
+
+Name: javadoc/serialized-form.html
+SHA-256-Digest: PI9v096xGGS5KK+Zkhz2JOautSAIgNDmiM07Fp2mft0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMapKeyJoinColumn.html
+SHA-256-Digest: R11yNxA59vO+ILyd1L45Y0ZPD6IGjq4RRvOPWB65zVk=
+
+Name: javadoc/org/eclipse/modisco/properties/discoverer/Activator.html
+SHA-256-Digest: Q/iL5A6QaHaVzhrgiWwPpX6wh26ir+NkX+9/MqBYZ3Y=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/class-use/TextColorAction.html
+SHA-256-Digest: 06QOmdYLb8actHBs1MbqDLIx/JFsXJLWFdlMRVDmyU0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/class
+ -use/ProjectDisabledException.html
+SHA-256-Digest: 83KuYuU9ouKldcQjQlX1uz3GjwXRCaoiPGQGN4HV61w=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/package-tree.h
+ tml
+SHA-256-Digest: H1eAfOJseImSS+pP7f4FSHpdBsEDU+z6paVfmHWTQ8s=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapKey
+ Temporal.html
+SHA-256-Digest: sJuxLfUsACn8JDFLTGzwu+OxI9867dUClScd7t5n4RM=
+
+Name: javadoc/index-files/index-12.html
+SHA-256-Digest: t4wEiCE4x7e6iyd9gmuTFEavmRJgji/RSXXLtcG/yQM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsCachea
+ ble.html
+SHA-256-Digest: pH389nGlemSpJrsdmWCQZFEHNv71I3ArJtrpc8ImWoI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsEmbedd
+ ed.html
+SHA-256-Digest: tXsVFYhV4N2eAt5K/wj+zs8qx7Q5IJE9rNhFeaNH1+A=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/TreeRootAction.html
+SHA-256-Digest: iQsYwqdEW59dgVvcfRap6jwddjvW3K0DhFVSOfc4Uxg=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/annotations/cla
+ ss-use/ParameterInitialValue.html
+SHA-256-Digest: KzXH8SwgI6UcQsi2fxbxbJ8RtE7CcLF+OdaaP/Kn1l0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/exception/Modis
+ coFacetException.html
+SHA-256-Digest: 08fiyO+4gAuuG2b+Iek5KPcsJ7DOspwmujY9EVM914E=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsPermitAll.html
+SHA-256-Digest: 3sNmhMBq8a9ZeqYxtPoZbBqsLeGOU198mXNUwaiCtOk=
+
+Name: javadoc/org/eclipse/modisco/manifest/discoverer/ManifestModelDis
+ coverer2.html
+SHA-256-Digest: a5DGIu/iNlCMG+cIlOU1yHUXSUirHHeGD7HrgeIgu/s=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/package-tree.ht
+ ml
+SHA-256-Digest: adzfYZVOcb0gLB4zUW5CG/gQbHQs48cw7mJR+oK2SwU=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/package-frame.
+ html
+SHA-256-Digest: baTzEa8ijKDJknesct9ED6qzNImzvYuuSXsMEOGzwSA=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/DiscoverKD
+ MModelFromJavaProject.html
+SHA-256-Digest: O75WbdRc52QhOCsFJan0mZIy46LNWFkh11NZr8Bao3o=
+
+Name: mediawiki/API_policy-toc.xml
+SHA-256-Digest: Z8oJj5/hznj3a+gjZYMQLGHDce5hPnulaLp/fij4qRQ=
+
+Name: javadoc/org/eclipse/modisco/manifest/discoverer/package-summary.
+ html
+SHA-256-Digest: 0ZNd99eiCB45DHcWgZXnxtLW/5QVY0ZM9I/F3FA8BBE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsTransa
+ ctionAttribute.html
+SHA-256-Digest: HPR3TND1hVbYmft08LuHmwyIq3eeW74tRL2WG1v+ZfE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/exception/Struc
+ turalConstraintViolationException.html
+SHA-256-Digest: jbmxvHacJ6e2NsWkhubIkoKHF4ihWLtU+wreOlDv8zw=
+
+Name: img/MoDisco_DiscoveryParameters.jpg
+SHA-256-Digest: YCVtvvNkDTkTXO7btjFrkfNeILKmjT88wHj3wKO2F/U=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/class-use/WorkflowMode
+ lNotifier.html
+SHA-256-Digest: 9o4kYPMFBHrUqjE401Y7iZjxqX1wwamYKcFPp4L4fl0=
+
+Name: META-INF/maven/org.eclipse.mdt/org.eclipse.modisco.doc/pom.prope
+ rties
+SHA-256-Digest: U1nDzxyJUMQQD0oef8FqFQuqxSrkBe0lHxNzH0G9tGI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/FilteredNameProvider.html
+SHA-256-Digest: Q+aw7k4LA3KlYFCmY30mtIEzs/VnPWBbIe6m5d+Fg1g=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ class-use/AutoPanAction.html
+SHA-256-Digest: jtrZUoKmWDIPv8sSYhSv8cig3BuQt62xnU/yLw3enEA=
+
+Name: javadoc/org/eclipse/modisco/manifest/discoverer/package-tree.htm
+ l
+SHA-256-Digest: DPzWWUIhaILGBpCkI7x9H/jkTpWyioRFD1IbI73Z1LU=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsPrivate
+ .html
+SHA-256-Digest: 4l7BiSBn0yXS64BNDszE9UQQgLbcQcRCHU8iUwHBbR4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMapKeyColumn.html
+SHA-256-Digest: s+yD5T75OesGqMuGl5bQF8crzx5VvqfbVTmq5/8zdS8=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/class-use/Messa
+ ges.html
+SHA-256-Digest: WfQwqMYkf35VaX32i2HxyD6ebwvBPVTgnqEC3uhma9s=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/class-use/Model
+ QuerySetCatalog.html
+SHA-256-Digest: donpk3X9IpfdjKmR4kDlalxh6MskuCT2Qx4tRwzEy+0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/package-use.html
+SHA-256-Digest: ZlWdUGIDlP8jNQb+Fagic8iHi2Nog0VOpoy2n67l4gg=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/generation/files/class-use/G
+ enerateJsp.html
+SHA-256-Digest: UYsb16agyU25nMQwejSPLP/wZpUqCItA0IEKFHsViNM=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetS
+ ingleVariableAccessText.html
+SHA-256-Digest: 3VNil4wcAKtlV8QEToHmR1iM18tPRhgXawjxlp1/WEw=
+
+Name: javadoc/org/eclipse/modisco/xml/discoverer/XMLDiscoveryConstants
+ .html
+SHA-256-Digest: TKERMPB5Zkv8p5Y0DSBpzqupXh5LAah7jghyapaPuEM=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/allinstances/package-t
+ ree.html
+SHA-256-Digest: kR/Y5o8Ju9qm488cYvWMh4/SH3EVmcC37J+qKnPohYc=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/actions/clas
+ s-use/ActionBrowseCodeInTextEditor.html
+SHA-256-Digest: +S8iTvRAWCPIxRbARpHJLOCk2YoICukRc0S0fS1vTf0=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/Abstr
+ actComposedKDMSourceDiscoverer2.html
+SHA-256-Digest: fAFCiZPK5P9+bhY+sp0NwXKdv1fnibWNkXRXbbTvIXE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /OpenGraphAction.html
+SHA-256-Digest: DbLXAVXmuzYuL8RhRoS15hwG6lWRgsjYCPzWC608Msk=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: wV8T7st9Ei3siTZXtyxOfLuedoAeuwIpH1c9Qj9AeAk=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/disc
+ overer/package-use.html
+SHA-256-Digest: Foy7Fe3eNNc5XEF9gMYC6kXJhuUztSJADYj/sDAogK0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/pack
+ age-summary.html
+SHA-256-Digest: W1Ew0sgu+D+Z6oe8oKKCCUraD1tB2lRndh+Kb5ZPR1s=
+
+Name: javadoc/help-doc.html
+SHA-256-Digest: LFSnfWIN83o8DSTu04DPqkF0yHq0ZuImxJrCC/X5fr0=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/package-
+ tree.html
+SHA-256-Digest: lA2lVSxAiXoNHzsLjrDO7CQFJm5DsBDNhJLlkf/lnvU=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/Messages.html
+SHA-256-Digest: LlwcBZVOJxD/wKXhESHo0a/vpJQzsEXpOgGQoE7e8ic=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ icons/package-frame.html
+SHA-256-Digest: Fg4MB8VwkgV+m68evd1Mqgj8xnF0G6uXTaxXVV1nfEU=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/disc
+ overer/class-use/DiscoverMethodCallsModelFromJavaModel.html
+SHA-256-Digest: yJiNVv/qUh7JkGS2exeKYicXkVmB+m3+wPPQeKu2los=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/c
+ lass-use/DiscoverUmlModelWithBidirectionalAssociationsFromProject.htm
+ l
+SHA-256-Digest: pn408BAhTT4NKGa3Q5R8civr8xpzkQ7jZ6fEEjL+o0M=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/annotations/pac
+ kage-frame.html
+SHA-256-Digest: l89QZv+vz+6nW5LAu8VCu4e6aO2bAVaos7BIVQmAEsg=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/actions/pack
+ age-use.html
+SHA-256-Digest: 5nFTGkm4+6GZ56fKva3iqquEZqLcNOE3aWP7yXFyhi4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/UnwrappingS
+ electionProvider.html
+SHA-256-Digest: ij2GAmAmdytXqqxLkIC9o6FWpl7vo8IaexjSoeK2l/M=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/package-tree.html
+SHA-256-Digest: OeIU5r3xPgiSCL1B9bjpno64zS5Nl1msJf0ONDK9Uss=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsDiscriminatorColumn.html
+SHA-256-Digest: X+Y7cWphxqzFe5VCfcCqFrf/yIIf4z3dFlzULEBwqEM=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/class-use/FilteredNameProvider.html
+SHA-256-Digest: OD9SXDEpsI5MlBHJWUBEIuxmWS+ng5v4lX9FbTlpzYw=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/Messages.h
+ tml
+SHA-256-Digest: ekk5dYSNhq3IZw5kI8tGP6zHiptp6DltK1lF4JbhOjA=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/package-summar
+ y.html
+SHA-256-Digest: TSPizpXJ/6kkBY78yf8LYQf7pE3k5e0tym7X5u7SYbg=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/package-tr
+ ee.html
+SHA-256-Digest: 47iWdhUKr/Hug75Z9zhl4jtXosv2HVvE2q2av43XF8Q=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/AbstractDiscove
+ rer.html
+SHA-256-Digest: UhrNoZJE0xpOjyJf+fVmRfUkptDmQ51zt+WwvnY6tvI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/extensions/pack
+ age-use.html
+SHA-256-Digest: gQ/wcH4RWt1ZgWv9lc8SfYQO7eOq8RjcEKaYhFeTdyM=
+
+Name: javadoc/index-files/index-15.html
+SHA-256-Digest: z+RVGXUvYmskBp1m5a6hhAU/82ExHWWYdfd7p6sESHU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsSequen
+ ceGenerator.html
+SHA-256-Digest: 4u3CM117yfwm0rso+G5oGo7tpVaDfLMgfbLnAOCEZmg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/clas
+ s-use/IsMultipartConfig.html
+SHA-256-Digest: +UeV/t9Vqpjs3kDAujW1Uz/kSMOQ56YU6LHy7xtZdDE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/pack
+ age-use.html
+SHA-256-Digest: dCCMLqgNI3YinPTYUh7Q9qvTnV7MeOvBJcqMF2cM570=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/pack
+ age-frame.html
+SHA-256-Digest: t6jcJgH5+/mtgT5nsdIop0kcvrnt0uf6JdOe+SW075Q=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/class-use/E
+ clipsePluginDiscoveryConstants.html
+SHA-256-Digest: CcJIQ/1GGD9Xkfjg1IuIiKY2AOGhjFcul6fFugNgZAA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/IModelQueryTool
+ tip.html
+SHA-256-Digest: Tf9zO641Ef4zvAIlb4grmx6iJYZo+bU9+UxqfICQ+TI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsRemote
+ Home.html
+SHA-256-Digest: ozDhmAOMCiOQygUQLmHL3s4SqHd+S8jzcxLxnxB1WQU=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/package-frame.h
+ tml
+SHA-256-Digest: OueF5s7fo1rD9fnwH3laVwu0zDAiUJ/UEc8qZX2/qZc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsEnumerated.html
+SHA-256-Digest: uoprJg/tqOovvfY6P9iJzzdt1Ddg3maIz2jqu6bWur4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPrimaryKeyJoinColumns.html
+SHA-256-Digest: Bip+IJ+Il3tidE4ZvKh9SrM9D7Vu22DL0PBwUSAOxj8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsRemoteHome.html
+SHA-256-Digest: uTsdAIawjOgFZ5CRLLvYEkwTXFbdUv76eJs1UqZ5wFU=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/WorkflowModelNotifier.
+ html
+SHA-256-Digest: 4EKN/bSq85fClAMu/MDOC9ofJIX+tYpYOChkIeF0pKQ=
+
+Name: javadoc/org/eclipse/modisco/properties/discoverer/package-summar
+ y.html
+SHA-256-Digest: +wXNQzktXgLR24136dZa/xZCZ23LEzLM0Kb8BBnvCYQ=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/IKDMDiscoveryC
+ onstants.html
+SHA-256-Digest: k6ouDAe76eBlYncHtTuczRfTqx+gLdyQET5D9JOd7/Y=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/views/queryExecut
+ ion/package-summary.html
+SHA-256-Digest: QLyDKnvkZjdvkekwwhPEFtFNfZHN5PM7sTNd4W/lxkI=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/class-use/WorkflowMode
+ lListener.html
+SHA-256-Digest: z0T02j5gJyaLhGmhpoJJiz02wS+YjkHdriW0LeN2Pc8=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/class-use/Abstr
+ actModelQuery.html
+SHA-256-Digest: qlxK/sE706KwRjsuILQ24ylE2lNmR4HLk8XSkiQsS6k=
+
+Name: javadoc/allclasses-frame.html
+SHA-256-Digest: SQbSCsjja+kOkDPgm/n/2X+eQB5uIODsuPX67tymcgQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/package
+ -use.html
+SHA-256-Digest: QaMY7lzLjhkb6V8IxiCsA5ICF9p5B3HoB8dh7gu/lpQ=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/utils/class-
+ use/Utils.html
+SHA-256-Digest: TgKANIee0P0vrOLd0+i+55y5AU21uc6XEkuG+UVZtZU=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/packa
+ ge-tree.html
+SHA-256-Digest: J3thP2kfX4/vLbXUKXQx8AjzDNrLifrUQmpNIQ/AWyQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/actions/package-u
+ se.html
+SHA-256-Digest: UkUv6o1Q+KQBdLZ2gcQYG4Q8dAYP8NEH4KH5RMfJEDc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsEnumer
+ ated.html
+SHA-256-Digest: kWmQHEeaOPEcVQ2ErM739ZXMzyjJaqa+1jU6ozOwDck=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/package-use.html
+SHA-256-Digest: gVbUQYEra4vhras0xn6OeRDDynwpASh7G6vOHFtoTw8=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/ui/package-summary.h
+ tml
+SHA-256-Digest: 0ZCGghie+Luncg8lt7GoZCv47c5qahbBSGNcCvxIu1M=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetAbstractMet
+ hodInvocationText.html
+SHA-256-Digest: C1OTnuCrpJV1P+DxpjlPmAjAzuX1mwRNM7Gn/PFT0hY=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/package-frame.html
+SHA-256-Digest: aBycJtZAHFpF5gz1qukOI9TAngVE5jidsqjdC9Wr0TI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/class-use/M
+ essage.html
+SHA-256-Digest: hd79B81mqAjFtzSsmbuMI/GGV7s63n2UErBEEF/Ux+4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsEntity.html
+SHA-256-Digest: c9mHcHwddJ5/pVoBqnMO+MArT0Da5UxGg7eMOkYNK+A=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/extensions/Refr
+ eshStrategy.html
+SHA-256-Digest: JIWbMjxoVyj8M3/Sm2Ur8WcFMdHHc3u4SV8N5H4blMg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsGeneratedValue.html
+SHA-256-Digest: ioZ12HI++GxGm/SeKPoKo7prfF72AAXVb2bU1g3yfCs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsStatel
+ ess.html
+SHA-256-Digest: fVRyUdN39GIkAjZ8PZ1MJxbL9GkrAwYrVlX4PuWn5AA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/IQuerySetProvid
+ er.html
+SHA-256-Digest: IF7TtEBAL5Qd+ieByaSeSnUTdZQ3Wa/gVMF9Yq7e6V0=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetQualifiedNa
+ me.html
+SHA-256-Digest: W5OtD2VYUWlY66PejZSAtf4Hl1NC6oF8/uTNYTZoiDs=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/IDiscoverer.htm
+ l
+SHA-256-Digest: wRgTzpQ4t6W3JffvuUHg6thFKEo5r1r0XJxl9qBFmck=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/extensions/pack
+ age-frame.html
+SHA-256-Digest: R/TD5rJpeobBe10ZufXd0V2ZL6QrTqqgYXwfDdWoq6Q=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/WorkflowModelListener.
+ html
+SHA-256-Digest: VgIV1aug5poOJLAgEcNdQS/00Lo8aidBVkQ0l5+PxWQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsTransactionAttribute.html
+SHA-256-Digest: ZKgAfuLL00sS5cOzP+h32gZMttfyvJeknQyCJXbq9Vo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsInheri
+ tance.html
+SHA-256-Digest: kDZO38Qd7HBTnMgRR9XBkuWarb0CDX7iDAiEy0NA4kM=
+
+Name: javadoc/org/eclipse/modisco/jee/package-summary.html
+SHA-256-Digest: ixiF8Z03kmnhfoec0U09nWNGBWAeulpswoUzK/wFSUE=
+
+Name: javadoc/constant-values.html
+SHA-256-Digest: a65zt4hpyZbnW00ZwBuwNXKdwPucMG011hJ/0ZKWxnw=
+
+Name: img/MoDisco_Queries_Tooltip.png
+SHA-256-Digest: muiTFMcWcYSCWaABEDhLThWkHg0EmuVuhNef1g6ph5Y=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/ElementsTo
+ Analyze.html
+SHA-256-Digest: jKEyWecwq+MU7rREyUTbgQUuf48TN+5NG6AlmoHAShM=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetConstructor
+ DeclarationText.html
+SHA-256-Digest: rMk+8TwGa92Eb2L9/j8l2KVPmLThy7psothl5z9edhk=
+
+Name: javadoc/index-files/index-7.html
+SHA-256-Digest: o1SplV9ZCTg9cHd+z9sS6Fomj7V/aU87S9e4YkSeNQY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/IsWe
+ bInitParam.html
+SHA-256-Digest: W3kpOrtbqemi8G5lH80dH7j1DlfZ61lXC4C/tHSL81s=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/JavaDiscov
+ eryConstants.html
+SHA-256-Digest: 7anNsRAhCTcZg+brZub9yaqUvZyWQ0UTv4IKsAtDUMw=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/JavaComp
+ ositionDiscoveryConstants.html
+SHA-256-Digest: K6Na57fIW6KhhUE59pgEyyYZjXCrsvv8Vjb9zhpkPx8=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/DiscoverKDMModelFrom
+ Project.html
+SHA-256-Digest: YTu8G1Fq2HBsLbNZSwEPzvV6HkErkqIyKvhjxAUuSMU=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/ui/class-use/Activat
+ or.html
+SHA-256-Digest: 0iap5SfP6J1hd4oLUZKy6geP6hAVGWdtGIarP2XL8qo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /GraphMenuAction.html
+SHA-256-Digest: AjYVsw2HS/LPn0iCbiZ3i61KmZI28SbzsWqpDrCGBWw=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/package-use
+ .html
+SHA-256-Digest: PSKZwLEHbcKc/XI0PA9mDT769vF1WZ/cCTLxvxPKKmU=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetA
+ bstractMethodInvocationText.html
+SHA-256-Digest: 1jTmjug2aodVj4AnkZCrVp7wbroa5CI58cr+e5mU1g4=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/class
+ -use/ISourceRegionNotifier.html
+SHA-256-Digest: 08OIs8ZxxsC/WL3So/uPwhFfqV9R8vuL5mpxgCW22K0=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/package-fra
+ me.html
+SHA-256-Digest: L+Y/J0YIkaJYsN0QLKKa4YFOGYJbKPPLwuqJu4bVERY=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/p
+ ackage-summary.html
+SHA-256-Digest: nODf5dsrHBk/jeTFCTH3oJPhaUUlY6yr8ZHoJMgWn9o=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPersis
+ tenceContexts.html
+SHA-256-Digest: qpEm2WLT6VSPixVK2U+2e0n47YvzN0UAWPYbRAW1OiM=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/class-us
+ e/Messages.html
+SHA-256-Digest: 8q7+ZkSPuCFsTWpknxbqlOy59IZMutj5DBqFOr/JOBU=
+
+Name: javadoc/index-files/index-3.html
+SHA-256-Digest: RIuxmfuwOLrAaqJFaaNf06H7CE3uYqjrYZLTSXdSAew=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsTempor
+ al.html
+SHA-256-Digest: an5137fl+m3mEXzW5EHcYF49kn3Zl2x9rXMX8pB4kmw=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/package-frame.ht
+ ml
+SHA-256-Digest: mI59UJEtIU+bFC7f7zuE6pzhTIiOlZv5HxOidAHXSqY=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/class-use/WorkflowMode
+ l.html
+SHA-256-Digest: uiykY/AmuHu59zFTxEdCZwYf3Vt3dBslFYTF2aljCnc=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/ui/Messages.html
+SHA-256-Digest: W4Bgw7fa0cl4+UKazcwH+RQsb3Ybun7b0fuLMYAtomk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/package-use.htm
+ l
+SHA-256-Digest: jEhHl0RGJdnqxqkJU1MKtB1kr7InfX4K0akPf/hWfRM=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/package-frame.html
+SHA-256-Digest: 7Ve8qouQ7tJYv1cj0GOHReQ14WZ+73h3ED+Bqf0cOHg=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetM
+ ethodDeclarationText.html
+SHA-256-Digest: fVEgNenx/GauRkZMeO1Gzzo6RXsbs4PNNMcuCV/BFFg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPrePer
+ sist.html
+SHA-256-Digest: fhIiOjsP0ShliRHc/YtemMlsRH263wmuPWN7alF99HU=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/class-use/TreeRootAction.html
+SHA-256-Digest: auS7q3JwKHtVBw1czfYt0s9RdUdXsJZ600JlFLJ4/qY=
+
+Name: mediawiki/API_policy.html
+SHA-256-Digest: uSHBDm6nHo8L0HhRYF5jUJTIcVq9Uf90MbTkq5WHGqQ=
+
+Name: javadoc/org/eclipse/modisco/properties/discoverer/class-use/Acti
+ vator.html
+SHA-256-Digest: +q7REwNwAtmzIKWpMpYxNLQCHXZ5oBl471cjLQbnD/I=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/package-use.html
+SHA-256-Digest: y6r2KtqxSwA1zSrhXxG863vDIDg4AKJLyVx53MI6ivk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/package-sum
+ mary.html
+SHA-256-Digest: nBuYfn03gcN63L4pPllPT+AE580cki/svST+Mi+DgQs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsEmbeddedId.html
+SHA-256-Digest: l/p/MMmY0kkuRFmwB1mq29GIL8jPxJ6Q+M58Col0D+0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsOrderBy.html
+SHA-256-Digest: 3b/vMCmda016u3aIHrF7g4Un5DoIZ0lWzOOfPA3ottc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/Proje
+ ctDisabledException.html
+SHA-256-Digest: D24uJaqH9Qgtg+ce7Ma+D/+u/9/pRC2qCSkB/wfS2t4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ class-use/TreeViewConstants.html
+SHA-256-Digest: 68YAuyYGyurJgMNMFTh4KXUB6asdZ94OYL/cOaJK/V8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsSecondaryTables.html
+SHA-256-Digest: lwq7XboVUfEiTkIkX8ybx9dx9zsEKQbhkUnS0VcHbKE=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/annotations/Par
+ ameter.html
+SHA-256-Digest: LCqp/MSftVaK0NsY/Y3eHCuKKYxnUsKeKzpKFgxDqMw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsBasic.
+ html
+SHA-256-Digest: LMZTMBcAOZ6qrHQ1LipeGj/VN6mrEkEswcnjfIU7qxs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsRolesA
+ llowed.html
+SHA-256-Digest: /W0kNiLl30/NNp5xgDPJwUuvvKoPNchAmPS2f+AyDPk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/package-
+ tree.html
+SHA-256-Digest: vPFOKd5cf293/iSHqoSdohinTWDmwqEA6jTRDEAX59Y=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/ui/package-use.html
+SHA-256-Digest: mXOLw93dH1BxR8S10anJ8V/Ii0zfVdc0PgRpsSv4kww=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/interfaces/p
+ ackage-use.html
+SHA-256-Digest: /IId8Pp6l1MyXYJ5Uo5Acj5dtbtdhdPoLpzAVZPtoTA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/IsWe
+ bListener.html
+SHA-256-Digest: 8CFYVi3BAPxSmFagtsm0pDFoxtg4nHv3uJ53DDFuO3o=
+
+Name: javadoc/org/eclipse/modisco/properties/discoverer/package-tree.h
+ tml
+SHA-256-Digest: dK/XSP/EyXc25lOWX62VAsqPaV30Rh+LHEwuIxtDTkA=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/p
+ ackage-tree.html
+SHA-256-Digest: FnQDllmVchDuCKTEXMwzIzCBXHlIRXgmCv3A4GxT6Y0=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/package-t
+ ree.html
+SHA-256-Digest: 1TabmMFedvbjK28h1BSkrKBilCNqHxtFeJd/kh++Z+g=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsEJB.html
+SHA-256-Digest: epEbG+IcbMo70m80P3Y7oJ2WPzUmc73ZBtHlKuhVLPw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapKey
+ Class.html
+SHA-256-Digest: CozExL2xksKfu69WbwJQaL/hzCKjIVtMsoEqcFhGfYk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /class-use/GraphView.html
+SHA-256-Digest: UjnMewyGURVcmhEatBDlOKJi4jbuMQNsXyUMz/VIFZk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPreUpdate.html
+SHA-256-Digest: 7792VHPd9qCztFdkxZxR5kJBP5b0ygYOsoXZyq/PdBE=
+
+Name: javadoc/index-files/index-14.html
+SHA-256-Digest: /gCcq8gqaHUZ2JboaVeln7KKpquibA5u+vOW3RBzyQU=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /GraphViewConstants.html
+SHA-256-Digest: PU3hojM6y58MEj5R8t6y6zBkG1qDmNbM1+gHBXKVnJ8=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/class-use/AbstractProjec
+ tDeploymentDescriptorDiscoverer.html
+SHA-256-Digest: CyfyskWkZXDnL7dKNPB+PQlQn7B2IVmSr5wnhtsfyzc=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/DiscoverKDMModelFrom
+ JavaModel.html
+SHA-256-Digest: CrqYYcKVWousdLkJTBfjmIpQRXZ73VYknsZTgON23No=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/class-use/NodeColorAction.html
+SHA-256-Digest: Cq1PcViYKhimA6AnOEl3bJtkksVV70uZtf7hCm9Agv0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsExclud
+ eClassInterceptors.html
+SHA-256-Digest: CD7tWPNaGdWqfDmzFC1xApcuhgW4ICjpsjCdPe8C2Zs=
+
+Name: javadoc/org/eclipse/modisco/kdm/uml2converter/package-summary.ht
+ ml
+SHA-256-Digest: nELeZdkHC9PPlAK3idoITc+0eo8unguA2DvwRPMqDYw=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/class-use/AbstractNameProvider.html
+SHA-256-Digest: MI7ViVZQFdxX2lGdJoZDC74MbhNs2BWiiD/c0NTNIbE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/class-use/NameProvider.html
+SHA-256-Digest: cAof0bf74e54vt/w9ALaCJFZJsxp9coe6flMaO6NSvs=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/subclasses/package-sum
+ mary.html
+SHA-256-Digest: XO0W67ekJZ9G2XQjhBFXRCfQQ/ZEGiT7j0VCRRaNUgY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMapKeyJoinColumns.html
+SHA-256-Digest: 04rYYc5KRnRWk85L8QYu8d3BOLPVsURNWvTzz7iGWxw=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ class-use/OrientAction.html
+SHA-256-Digest: mPbVhDYbJCCQCrKC4gjBExpvWGUBphC+Uwxx81z83tE=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsVolatile.html
+SHA-256-Digest: 8A1yEeTfdvU7e1p6JaH/7h6v6JparN/QbAuYt9u8PI4=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/packa
+ ge-use.html
+SHA-256-Digest: lGym2rOv/bXQS1cMAClw7s1Mn2JbT/c3vZ5r+qZf7jk=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/class-use/Messages.html
+SHA-256-Digest: BVm9oXLC10gSm6x26S0p7GQadIvLSgOzxrHExuFufLU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapped
+ Superclass.html
+SHA-256-Digest: 3GZifHiC8WG+Yz36CYvh2RuwbigMu2hwWOAwnT+dfAg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPersis
+ tenceContext.html
+SHA-256-Digest: 3qZ+/SEa5lNSeS9ZdmAnfSKqsrvLzmqN0xTqGP9Ba/o=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsEmbeddable.html
+SHA-256-Digest: RPA6/JMh6WYPaz0wjp1u3tubwca38LvLPCVZRIOytXw=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsVolatil
+ e.html
+SHA-256-Digest: QsFKNMiQd21nndB9lY24PBvW3sDj/6iduNlGId0r7cc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/class-use/RadialGraphView.html
+SHA-256-Digest: yWUdlfg4qlUF8jxhZYc93GPutkA85dV1Ee1OcziKJ0s=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsJoinColumns.html
+SHA-256-Digest: XIzUhdcDKCbsU+S4pR499xo6mfcWup8c6OE/RmU0auw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsOrderC
+ olumn.html
+SHA-256-Digest: xa+QyjY6yJ+3O4FdiaXfwXR787IsT6UJsJBBX5ZK03A=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/package-
+ tree.html
+SHA-256-Digest: hXVB4A2j9WIxW621+xlyj/cuOR26TkNo2l+8OPI/e1w=
+
+Name: javadoc/index-files/index-13.html
+SHA-256-Digest: 5kTckMjjQ01LCDyj7QjXidopXJpehEnRbS6GbxOGKPQ=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/package-summ
+ ary.html
+SHA-256-Digest: ZVegagdqHhCR6gU8Yx6pnMb8qoUEUguCgPy6XrwPrk4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsInterceptors.html
+SHA-256-Digest: sWC5vXms5wDust65XkLSaPfZyMNEx3lrzcb4G9Gxj+4=
+
+Name: javadoc/overview-summary.html
+SHA-256-Digest: EPnV5JeNoPEwbwrvfiOf5aQ/94gDoFSau/Sm03lGQ3E=
+
+Name: javadoc/org/eclipse/modisco/properties/discoverer/class-use/Prop
+ ertiesModelDiscoverer2.html
+SHA-256-Digest: EY5txov2rbJ6mPnShf/Smotc7eGftXemOEJ7LZlB3tw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsPostConstruct.html
+SHA-256-Digest: Jp5UuNWJGA/kYLCj+9IRvXlLCvvat8cRUavyCSE+GlA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPostRe
+ move.html
+SHA-256-Digest: ihCv+DCSdw+PTJCoJuvTng50W/4zgeoXnB03fKCLa1g=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsDiscriminatorValue.html
+SHA-256-Digest: wtJeuklZ6AnvqImMpcSWCtBDeoKumyAwms+c/pd5pgI=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsFinal.html
+SHA-256-Digest: LGYUx2GrS/bg9biVIAIxXHRJn7bQH7xDG4JjObfdLEI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /GraphView.html
+SHA-256-Digest: 9g1bwPYmpvWaCDq4agmG0o1uI475kZNPB6P+frN8+vU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsOneToO
+ ne.html
+SHA-256-Digest: SQWk9CYAvE/F4jwhdtfhcBZSZeE7A1Tor/MwQTcgQ7Y=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetT
+ ypeRef.html
+SHA-256-Digest: Wpc4VR8Ljkoc4MPZaxigWuHIGNou9ZjBewAsxfhVgA8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMapKey.html
+SHA-256-Digest: hK75ac4VSS82kpLmOTrj6MfSxOU7Dv79TIkM1R2pY5U=
+
+Name: javadoc/org/eclipse/modisco/manifest/discoverer/package-frame.ht
+ ml
+SHA-256-Digest: z55xYlsqfXq7Yi7G/X0qomu5G1l5O98TfbwuELOIHbk=
+
+Name: javadoc/allclasses-noframe.html
+SHA-256-Digest: zfXasqth2pNXLfO/jdYIijlklfNhhstbpv+/kA+IKqk=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/class-use/AbstractDeploy
+ mentDescriptorDiscoverer.html
+SHA-256-Digest: FjaXbAdJjBTJLFxX0xqc//gR/dQUOYCyrWr0oYN4vwg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsPreDes
+ troy.html
+SHA-256-Digest: HXckaXznMgmR1EgUySWDcJZYtNGoSz6tcI+4+By6bLA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsAccess.html
+SHA-256-Digest: giW6fb1M96U6nQjEvHbVNnMCgrIEkMDJi7Bg61ySCL4=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/class
+ -use/AbstractComposedKDMSourceDiscoverer2.html
+SHA-256-Digest: obSB1gMEtqOXBVmmunaGD1Dwkr+y8Oc6YrTVPq5/qBk=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/utils/packag
+ e-use.html
+SHA-256-Digest: baR7vhW8RNv9UrflRGsLEv5OBi31HbA3hP51UNXAUFk=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/ITreeEditor.
+ html
+SHA-256-Digest: aX8v29rtGsR2m4Hx3xFDfg6CPjBQbejoyCz0waYhq3k=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/disc
+ overer/class-use/DiscoverMethodCallsModelFromJavaProject.html
+SHA-256-Digest: H681aAELXvjkb2JcCtcMSlHS90sbE9+GvRVLY+lZd94=
+
+Name: javadoc/index-files/index-22.html
+SHA-256-Digest: MhsbUK9Ry89cJvnZ23znSR2kgkcCEYGx/ml/najYeIs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsColumn
+ .html
+SHA-256-Digest: 46u0opsmscaZpwpBZDh3EVC8/eTREN6xtSqdbvJjaXE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsUnique
+ Constraint.html
+SHA-256-Digest: h5Ae+Qp+IkdUAE1xgO27CqZzDG85k+b7m/1N5L9XKzM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/IsMu
+ ltipartConfig.html
+SHA-256-Digest: e6dAt4LmE4xCH9c5lR5YfDWLTXEyWfxyG+eHesYf794=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/package
+ -tree.html
+SHA-256-Digest: jqTa+GvgTfK3rdFSnf42M1DHU1mltgF6rLPGd9HJsd8=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/class-use/IDisc
+ overer.html
+SHA-256-Digest: 2znAy+vDUaE/YA4mox8KCg5iDlLW3frijQNd0vLjYaw=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/Messages.html
+SHA-256-Digest: qZl2WFRDfO+u9UYS4Wiokt7JDu1v85dsKQHWr8pfU5M=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/c
+ lass-use/DiscoverUmlModelFromProject.html
+SHA-256-Digest: EwwUaKL+xeY6DL99Bq5CLh8DguLyB98lvpjPN3mxT4c=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/packa
+ ge-summary.html
+SHA-256-Digest: uxm/FccW+J5RU6gCfLzp/WIrxWfMHvcdpnBXFssiZ50=
+
+Name: javadoc/index-files/index-4.html
+SHA-256-Digest: hDwFq+Vt2DtmlEX2ptBiPzRLvJ9BuS+q/Y26C2zM0ps=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsExcludeClassInterceptors.html
+SHA-256-Digest: tvFAb5nkzOjgdOKMz6t3E7p1fAtzV6rJlvJUxb2J6ew=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/DiscoverJa
+ vaModelFromLibrary.html
+SHA-256-Digest: tSO+wzrmrsDD8DvffMp03h0B9WexKQtVWxMo5NguWao=
+
+Name: javadoc/org/eclipse/modisco/xml/discoverer/package-frame.html
+SHA-256-Digest: VFhMN5Ycb0RUqUwHlwA0WxJpj66rQAHSB5s/7sf6JJo=
+
+Name: mediawiki/new_and_noteworthy.mediawiki
+SHA-256-Digest: eqPLGSidjOfAEmhcFoF31ovxOdcf24oJeUenxT1Dc6k=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/java/package-us
+ e.html
+SHA-256-Digest: nSk/RJ+R4XfVTGOAQ6wcfts8motYa15yfCGX27HEi60=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/utils/Browse
+ CodeUtils.html
+SHA-256-Digest: G50EvUPXqVeSZp4ojFCg4qjL+1Iogq8drpZtgfUiRUU=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/annotations/pac
+ kage-summary.html
+SHA-256-Digest: EilHEVBDaedBhMLXSrDb3BmHT4yt75cQJnMVG7aNi7Y=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/ui/package-frame.htm
+ l
+SHA-256-Digest: Uy4OQEekZVdM1gDgJWBH24Tr6AGYJAzBWtPNrhvmKn8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsMapKeyEnumerated.html
+SHA-256-Digest: i5ykQmNIXbAfhFdm9JNEUnQywzm6c/gadKpySEJaRyM=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/class-use/GetM
+ ethodRefText.html
+SHA-256-Digest: 1kzjncuxg/Klt9+2fPu5DhXtkEF7FhYjEmfe65+ZtfY=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/DiscoverJa
+ vaModelFromJavaProject.html
+SHA-256-Digest: 28nW2ryeoIxJp0GfQgHcseZ6xA94cvqfXwmHe74FpT8=
+
+Name: javadoc/org/eclipse/modisco/manifest/discoverer/package-use.html
+SHA-256-Digest: pEtUSdMDRSTRu3kKe9ywgIA8N2wTG+eeqqA6UfxD+gc=
+
+Name: javadoc/org/eclipse/modisco/jee/package-use.html
+SHA-256-Digest: lOJJK2KwG6NQCVKHWXtQJGdovff1pUCUnuS13V4djow=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/package-
+ frame.html
+SHA-256-Digest: Zj6qRNtdhwX+cGghtl1nn0NxzN0xZpWGhPOIIWU/qEo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/package-frame.h
+ tml
+SHA-256-Digest: 94U9t5mhczvwXVQ2mUMeTAfywmAsid8DU/WqwSJSpGc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/common/core/logging/packag
+ e-use.html
+SHA-256-Digest: 8hLj+VbkxIldsZeVZ9wq/JOjW9Oj88qstcw9WkABH70=
+
+Name: javadoc/org/eclipse/modisco/xml/discoverer/class-use/XMLModelDis
+ coverer.html
+SHA-256-Digest: hVC7E6numKNnJoQBCiueJgThiRnoj974ztEtWwHU+xw=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/DiscoverEcl
+ ipsePluginFromProject.html
+SHA-256-Digest: UdnycTUfIv+ioE/nNciChrlr0W501GqqlQfGtmHgnjs=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/class-us
+ e/Activator.html
+SHA-256-Digest: GgItwXjSsNSk+JfxmPzkP8YewLCEezoxWOMGkl163DA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /class-use/GraphMenuAction.html
+SHA-256-Digest: FfWFe0nbParduOPNqO9I4hlPEAOBtfktakrMwwe3W80=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsProtect
+ ed.html
+SHA-256-Digest: bdnkRqZ6gythqNbrJdPon+BiuyN5ZpYnA3JbPEGE3nw=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/subclasses/SubClassesU
+ tils.html
+SHA-256-Digest: 0WqjnZfn7B0qt7LeZy3G0wYlmMqNK8/84fxIz0YlGh0=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/package-
+ summary.html
+SHA-256-Digest: AXB6Fbc2CWAKkY+oYA3I6mjihfctw576NEBECP5qBUY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsDiscri
+ minatorColumn.html
+SHA-256-Digest: L/zI7gReHVHDq1H9ZXaq5759s9YOKZLhmLkooiTiMq0=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/class-us
+ e/DiscoverKDMSourceAndJavaModelFromProject.html
+SHA-256-Digest: Jt1gf+Lxnqhn1RMZfGtNtfh0ujX8qEuXGlxvfY4xMqM=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/packa
+ ge-summary.html
+SHA-256-Digest: y7ffoY+5uybQSblRA0uaYUartL5Zh97Ea404VM/s9cA=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/EjbJarDiscover
+ yConstants.html
+SHA-256-Digest: jOQiCTidL1hlcgWRAAm0axNAQrf1pf3IzsfX7j/FKFY=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /class-use/GraphViewUtils.html
+SHA-256-Digest: f683Ypj1agf7sVxaggWfiS5SXZ5VrA+iw/HCFUjkLjc=
+
+Name: javadoc/org/eclipse/modisco/jee/JEEActivator.html
+SHA-256-Digest: QTzuos4T1hzkKLLi0TjTDGkNNzSidVWrDP7UODax5Pg=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/exception/class
+ -use/StructuralConstraintViolationException.html
+SHA-256-Digest: S6bwlDs8y13HdJthZETiw65EWZBXiugGiNtRMyFlhwY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsBasic.html
+SHA-256-Digest: GXoeGcS62CYipB55RZJzcgo0OHFocJBzha8+H29e+f4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/Model
+ QueryTypeCheckingException.html
+SHA-256-Digest: LRtcTrt1M1ELDg3wz5DD457+KXTpc9CYBIzzemtxKy0=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/JavaModelUtils.html
+SHA-256-Digest: RAzbPz5JTdYZ9ofIiZs7fkh75F4RsKZ5LZtT3aMdi98=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsGenerat
+ ed.html
+SHA-256-Digest: 4UJAfEfuv5Llp1QpRSrfrEpSLrzBrXSiAbBbHEL9eDg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapKey
+ JoinColumn.html
+SHA-256-Digest: 1bD0yRhYW9EZXMVVZt5LH2SvAuhNCJJDOkRYk1BJI7o=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/views/queryExecut
+ ion/package-frame.html
+SHA-256-Digest: p/cLgiStYRHAPMn2cXxyvYBwjT8zEliovpHvgDAXp24=
+
+Name: javadoc/index-files/index-21.html
+SHA-256-Digest: 6adot49FBVGbJUPbxerHfcymsLbPk/CfySDasbM1FIs=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsSuppres
+ sWarnings.html
+SHA-256-Digest: C6IxuzA+ASv7RcZWnEMWJcyAxwY29pH7HJnCz91Idsk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ class-use/Messages.html
+SHA-256-Digest: VvRPzj1xdEnmAFjaWQLeMhlGJenVVSj64Lnsw9+3AuI=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/subclasses/package-fra
+ me.html
+SHA-256-Digest: ybX1WwK6XaUONchtUOJuSldqOvBdEZxjlv2GsuxKXmg=
+
+Name: org/eclipse/modisco/doc/internal/GenerateApiJavadocTask.class
+SHA-256-Digest: HudmiJRqAtb0BWu81Z5Hd7/l0AYZweiKRBVEIz1vMWs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsPreDestroy.html
+SHA-256-Digest: uU2/RGuUqZXr1GdR7+Qza8ZHC7vzu9wDa0HZiHst8vc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/class-use/Facet
+ ContextListener.html
+SHA-256-Digest: +BJITZK1cKnm7qY1YI9NHfcOUx42+opT16l38J+dy5A=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsOverridden.html
+SHA-256-Digest: FNEjA1aqeu3RhuiTJxRMODzkUCLdq/3yelbBkDtqm6M=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsElementCollection.html
+SHA-256-Digest: Ya0zi+KWJdHuXAz9E3/tMXi/ATLoWJSH/NmOOrPS5L0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ package-use.html
+SHA-256-Digest: /KGhRCuuvHqrkRrErqYU01g3f/jdjI5pmrm2BE9GKdM=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/package-frame.htm
+ l
+SHA-256-Digest: 9nR3M5V5cd3UJCGsvPPILRIbcpxqB/IdyTt+vLxr0+c=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/package-use.html
+SHA-256-Digest: rpCjcLQJFkp97ZXJHlZb7L4piGWfGJzA5aUF8fklzAU=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/JspActivator.html
+SHA-256-Digest: Ea9bTOA7f2hpnMx5oacL1Ikn/p6djrbYLxB4wg3JKVo=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/GenerateJa
+ vaExtended.html
+SHA-256-Digest: ViktOLvIV7pHKK9mPGSEswoPvPLPiUm85OSRtwxDrzI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPostLo
+ ad.html
+SHA-256-Digest: /Y+wVIlgZToItzMSsS8Yvzo2y2HdxT7z8z16Zans6Qw=
+
+Name: javadoc/org/eclipse/modisco/jee/package-frame.html
+SHA-256-Digest: IBUfQhjHQbVT4afM6y/SoDzx81HvyCN4YZx/7IoM7B8=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/package-use.html
+SHA-256-Digest: JG+k/UN92iPR2GjIBqhqj9FcfqZZcRO4o6Li1sf6z40=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/Activato
+ r.html
+SHA-256-Digest: wRRmn8lJ9+vVF0tM6N70ARmKQFyatkCKh+l2WF3OAp0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsNamedQuery.html
+SHA-256-Digest: DndZsS2NyTWUrKjSEhvfoc2hrXsUPIDG1GM+lz/VD3c=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/actions/Acti
+ onBrowseCodeInTextEditor.html
+SHA-256-Digest: yzrx5/XfblliHO3clq0xJShBGTcI/ykvzDeXltwJWe4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsColumn
+ Result.html
+SHA-256-Digest: 32H/tH1HmwK4eBBBWn0DQrtkIx5TjnIgyifQnLqCji8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsPostCo
+ nstruct.html
+SHA-256-Digest: j4u8a45DTgcHi1h2ChLcbGuE5GRVFUFNUmOdsdgpi6w=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/Execu
+ tionEnvironmentException.html
+SHA-256-Digest: CbsWvpqo0LVYzwEKcGLIEq0LLO4lq5/c5u5PYB8JqHE=
+
+Name: META-INF/maven/org.eclipse.mdt/org.eclipse.modisco.doc/pom.xml
+SHA-256-Digest: Ywcgf6qa1Def0i7kwcifvXFluW6ehWsblWIq21Y8wzQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsPrivate.html
+SHA-256-Digest: /DzpRhE+w4T/5cZdmRjjT7hmtZEaQmg3U0h+uOqWe/Y=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsStatic.html
+SHA-256-Digest: 7FeSWTBek4zs0vrCIKTmS37DmSDoRzFM5zc52x/xmkE=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/package-use.html
+SHA-256-Digest: oWKajN7jxKGzmQ4pSw8ZY4t8ZNFr9izWTK28diDQckc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/extensions/listene
+ rs/package-tree.html
+SHA-256-Digest: zCtlDbeBH8bJZ9ZmF1WVvXTqrMDf5QWNzUoSEabFnbc=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/package-summary.html
+SHA-256-Digest: 07KTvGfxqZlnZEVMOZsajmIn77JNfVoPRdZdKgeYO7s=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/Constants.html
+SHA-256-Digest: ZnRdlssPSqbxiI2vKya6XGPKXd5vA6gHjDktWqIh2Kk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPrePersist.html
+SHA-256-Digest: FEfNeVdMUZyg1WNmvTfakSCIYX9BBn4F2yyqgAgwRT4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/exception/packa
+ ge-summary.html
+SHA-256-Digest: 7qMPcNZPfGVpoY4rqM21vj870Bff7f1bJBjizHPHSeI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsAssociationOverride.html
+SHA-256-Digest: U3QvjrfsOYOBjBG7YVQD6z5U8WLuKFF0sKxxa/lKsaQ=
+
+Name: img/ProjectExplorerWithModelContents.png
+SHA-256-Digest: XfHabya6NbPPoru0SxZwiPbplsNsx0GdDfm7fL0giM8=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/package-use
+ .html
+SHA-256-Digest: 9UBOlGM5jit4hn04EsKhT7oCQWkLMAgUe/9GIm3v3Vc=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsDefault.html
+SHA-256-Digest: 4Nuop/yCLtpKQMnX+G8oshSDPtULrsWWPMY52PAxToE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsUniqueConstraint.html
+SHA-256-Digest: SqJ8NwJ6LnaomIPSaAJpLHnbHUubdoVvW6mjQpXQQ3c=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/Messages.html
+SHA-256-Digest: nB7t7p14fjS6eqj0smHdTWxpjYyhq4qLnT4dmcYc1/M=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetSingleVaria
+ bleAccessText.html
+SHA-256-Digest: Ang2KawH6+Vc++m5dADrLmmW2eIYL591y7JaE8//Qz4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/clas
+ s-use/IsWebServlet.html
+SHA-256-Digest: +T47qbqVWXwsQ5e3ZhMA4CfuBNvRGJbvd32mrMcI7AU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsQueryH
+ int.html
+SHA-256-Digest: R4EsmF/jvIhdded/lE1qaMSUc/5L9YB1GyjVJ8ui2Ko=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/exception/packa
+ ge-summary.html
+SHA-256-Digest: EcDvPZ2lS760MqyxvrOH22mmI4FDZj8UxD8fGqaLHxQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/package-frame.
+ html
+SHA-256-Digest: 9IpG6bCa+WydRBNCM3DH/6EIMOGj+X8p0o8aD1EyFLY=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/package-
+ use.html
+SHA-256-Digest: SY2qRuWk5paF1eYcrdJGVN7N9qbgRx0QaZSofE1ph3s=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPostPersist.html
+SHA-256-Digest: IftXrydCzwlyqX1YWidZHUw3J9BXC7Jg3C+pf0EwSHs=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/generation/files/package-fra
+ me.html
+SHA-256-Digest: uOJo9K3mzOtQ2blT4gImWOXNWn1TSfY5xOYNRGcNhoc=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsSynchro
+ nized.html
+SHA-256-Digest: 7HeagshyvCGy/O0IKh4+PcLISR1jlRLJqUcTd3r4Adc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsEntityResult.html
+SHA-256-Digest: IBJBlcVB4r0yn+h+qF1YG94UqVvPV+ARF9AjhkQDeNY=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ class-use/NodeColorAction.html
+SHA-256-Digest: lY9AJfAAzSP7Y6Clt7Ln3oWmoPDwM1UGcwO94s2Utec=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsIdClas
+ s.html
+SHA-256-Digest: qDXrETtThFVQCc3FDtPHDSxnLjoXTgen3hMFovXlIDU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsEntity
+ Listeners.html
+SHA-256-Digest: zQw59e1AlEIM/auJM1z3j/uNymxHy1rpQ1LJ+DbDrBs=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/class-use/Abstrac
+ tJspDiscoverer.html
+SHA-256-Digest: GMYtQgO1Upwgj9wRNm7kRiAr5osEtECOawxmVJwYgBo=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/package-summary.h
+ tml
+SHA-256-Digest: T3erE7jNUGBQkx9SZkzR5UNq0VBXJP9U3f8JpA9+B/w=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/ISour
+ ceRegionNotifier.html
+SHA-256-Digest: UBChaJKp2ZGp0GjSfKcPf+gZCRDNzRJBeJHoGvL5f8Q=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsPersistenceProperty.html
+SHA-256-Digest: 6xEl8eC/E7kgqRq1kjVs+bMZmbDrzpVFr65ujgA4D5I=
+
+Name: javadoc/org/eclipse/modisco/properties/discoverer/package-frame.
+ html
+SHA-256-Digest: 5g0KjOjtIxATtitNDOnH16NIzVSmQoD7G/j/Sc7xB3Q=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/class-use/C
+ ustomizationManager.html
+SHA-256-Digest: 6v6IUIYBsK2DqEEXoUO5aDb5EPRkyH0VkGBP2FElaJ8=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/Model
+ QueryExecutionException.html
+SHA-256-Digest: MZAt0e6KDkP2vroA2UjooLhl8G7cdlg0JegPN1tAxXU=
+
+Name: maintoc.xml
+SHA-256-Digest: C8fEGFm/1WeGJmhT2x8GZ2KVanFxVT1eVaFpkkSo54Q=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsEmbedded.html
+SHA-256-Digest: 3+waJeircyrwROXpsFZbJqApkjR8SOgs7wQuCgXtHmg=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ icons/package-use.html
+SHA-256-Digest: dpoZ6KSczlk4hwUsjJq0V9+AJTpAA56leSl7V0wcS3U=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsSuppressWarnings.html
+SHA-256-Digest: NfOpjH2SaySWeWIYdjdYsI5z0esnL3exXGXEWkpBEEo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsPermit
+ All.html
+SHA-256-Digest: 1U8h3c35+skDESPutW010xHbyI1LVEYonL/OJbuS/dA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/JXPathM
+ odelQueryFactory.html
+SHA-256-Digest: W9WsuAbRoi19gKBxuFF7dUFRKHDU0M0hy/tSh0iN0xA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsLob.html
+SHA-256-Digest: cjNfZeA0qDZ9AKy+NswCpQ73Ekeg+w2dHNhl/ahwJ7M=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/class-use/JSPDisc
+ overyConstants.html
+SHA-256-Digest: ZBAIk0J9xFQVLr1b+bzz0vxoNeAQmk56PRvw3bTx3k0=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/ui/Activator.html
+SHA-256-Digest: Pa03jNORWqWKOxjWUtdKsoan6aJvhiW98OnRG/eoNoA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsOrderB
+ y.html
+SHA-256-Digest: Sc4yv8OkjufifB/xlFH/8kfLVJKhkBKGtjDxHWfyw3M=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/WorkflowExecution.html
+SHA-256-Digest: 5OH70KWpeMFGZAr4xd64f0VuAS8bBXL3hskpDvpPcIk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/extensions/pack
+ age-summary.html
+SHA-256-Digest: MYQzSFELwhcb8gl3kFpvtnBrPfp3Q3Z1DIFo9luoyPY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsOneToM
+ any.html
+SHA-256-Digest: Vu6ULcQv1w39v8MSkC6NAEUGKEex50N7kS+AI3EXdDY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsVersio
+ n.html
+SHA-256-Digest: Tss6S6qUKQ59hCMmYHHpk3BvSUHyIUaLdfQ/95nDMV0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsNamedNativeQueries.html
+SHA-256-Digest: JxQOKiQ1zl53+xH8sjWjJf2bqKF/61U/1scDsaVIJ30=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/package-sum
+ mary.html
+SHA-256-Digest: +lEVjIdVxSKhTbRIO7NtZykJoxMinQDYCiTy57AG51c=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsInit.h
+ tml
+SHA-256-Digest: rrccB4MBlkS2RapTSnRO7xyWKEshDgoAgmTYvcY0Nf0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/views/queryExecut
+ ion/class-use/QueryResultDisplayer.html
+SHA-256-Digest: mQvqUbl7BROFM+8CNS8aVNK8Bp8dwUtVO8ZhUWrqp4E=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/Messa
+ ges.html
+SHA-256-Digest: rtMPeTOij/Ex8doZaytlqpypY7772Jq02oyGDwLxpAo=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPreRem
+ ove.html
+SHA-256-Digest: /KZ2PLF15jayOyiWIsGk27Zi4v4TQ04R130woeSwfNk=
+
+Name: plugin.xml
+SHA-256-Digest: ZtAuK/L2e9LuoHwIyUGiGSErQJYeX303PpPHakMujSs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsTransactionManagement.html
+SHA-256-Digest: LykMEoKsnCx99vTlmxcIditjuuM/K6D8CJkw00tELDg=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ naming/package-summary.html
+SHA-256-Digest: vIOfCyJv4jT8t6O6LyKuqunZjKUlfE7+79NNxin7hvE=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/WorkflowModel.html
+SHA-256-Digest: PITuE4EtnPx+ckXiwy1y7pUxdhSBqGjQ/4J6dRi8NGU=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /Messages.html
+SHA-256-Digest: z2HDDHRN0WP7fNpMnmxtk5yOQ2mdnHaKBJtbLe81uAM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/IsWe
+ bServlet.html
+SHA-256-Digest: Zn3/OO2G3obFr/8c0AOn08P57A1wPhpV84ozRdntcr0=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetTypeRef.htm
+ l
+SHA-256-Digest: jU2AKVOsYY8cPaI0nTbwpgXZDGWn+taGsVooeHzsKKc=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/exceptions/T
+ reeEditorOpenerException.html
+SHA-256-Digest: A0mJ9UtAdYl189R60pddk8x6F/BFWG3UYIu24CMEOFs=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/Meth
+ odcallsConstants.html
+SHA-256-Digest: 63TqoaaCcXGDErb0Df3jt2Yn6KK4gPHOzXurwcfufVY=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/Messages
+ .html
+SHA-256-Digest: pkvwXemSqZEntrJhINQ9IwPwmJWTilCU8wQi86b7nIc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsNamedQ
+ ueries.html
+SHA-256-Digest: OjuAbz4G/yyBqVcxqYc/r08l+GIgnHVoXbegiodufcA=
+
+Name: javadoc/index-files/index-5.html
+SHA-256-Digest: DdiphgclIi7ObLioxMo7XjH3NSsVtJ/3C234hPW+qo4=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/DiscoverUmlModel
+ WithRealTypesFromJavaProject.html
+SHA-256-Digest: PGqA6j4SvFPgN2cLbA9TAzTktcDr8qoR9qHLo4OYzlQ=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/package-tree.htm
+ l
+SHA-256-Digest: x9RxxsfPWcWJQfWtHmgEVlgbXWLsjXag7/lMpJ/dbKk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsTransi
+ ent.html
+SHA-256-Digest: XDqZbHClSlC2f4IcLvoIykIUk5Cgf7PhxS4AmQbmGPA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsColumn.html
+SHA-256-Digest: 4Oh0P8SRonFq/gfPxifzrvCMFcpBztW/GaCoqaiaTQw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsExcludeSuperclassListeners.html
+SHA-256-Digest: FdHmgJWjMJ42uvXl9KL5JL7ho1S+PScyqA7KA4mt08w=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/package-tre
+ e.html
+SHA-256-Digest: bMEKCnZBxnV1uXWE10DXNb22BOYbybqfPMh0or/z4aU=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/packa
+ ge-use.html
+SHA-256-Digest: hwMldMOMRKi997MhB6cEO3IDTmMQDBKjyCmJnz4cIVE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/Missi
+ ngBundleException.html
+SHA-256-Digest: GedBUY2Omo3elA0bmtLKV2MXmwe4ISYSi8IMb/T+KAM=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/package-use.htm
+ l
+SHA-256-Digest: a22Ab+EZuti937GPEvi9ejVdXNsdp77iRnR/ppGaJ8I=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsElemen
+ tCollection.html
+SHA-256-Digest: NmN8TCbJ/ATfkmTBBcJoz/73LQJXGyivmJq0cm3c350=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/GenerateJa
+ va.html
+SHA-256-Digest: EMHiDGaneCUId8lyr9OGLZMhgOvQPyYPBFBAkRw1NhM=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/class-use/
+ Messages.html
+SHA-256-Digest: 5gqo8haza14QhQ7F6YluopIVU+2z6IJV/LDAx2EPs2g=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsStateless.html
+SHA-256-Digest: 0waGLTtlNaDGsoAheVg8bY/cqZTgIXvsLOY8szr0Bcs=
+
+Name: javadoc/org/eclipse/modisco/properties/discoverer/PropertiesMode
+ lDiscoverer2.html
+SHA-256-Digest: uq5gIBkSNnqNgAX/D5pUR6k25FyLyQqmjPeY+pnSekY=
+
+Name: javadoc/org/eclipse/modisco/kdm/uml2converter/class-use/Discover
+ UmlModelFromKdmModel.html
+SHA-256-Digest: HOJaL0qFxPBqweFFLYu5U642sgPJ/GSWyh1PHqutbuQ=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/subclasses/class-use/S
+ ubClassesUtils.html
+SHA-256-Digest: h2QYETLDFUtgq14SNqBw/DZAbyQPOo95eSwPRBtm+s4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ TreeView.html
+SHA-256-Digest: uSJ1MxLt8NE+vvC4JLSQKUXJJbfFLn1YPgMTeFN4BRI=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/Discover
+ KDMSourceAndJavaModelFromJavaProject.html
+SHA-256-Digest: iJOHvA7HXyaWWU0ewWKCZQzweSJMDSPoEqGiWUoqfGI=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ package-frame.html
+SHA-256-Digest: lo0KY10rzv6FdAcpTwSobQ16/bZvaz7X2NqVJqUel6k=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/package-use.ht
+ ml
+SHA-256-Digest: bzGSe+qC1qHdBiLByIIKGNW9kpY7vdnR50D9gWwcBtk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ icons/package-summary.html
+SHA-256-Digest: MTHmhG3N+cnN8YurCtqMCgJGs1xERAA5Z+sLzYIFYeA=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/Sourc
+ eVisitListener.html
+SHA-256-Digest: FTF3AW2POuxAHD2CokUEBlBj1C6Q634OFEMUl9SmosE=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/annotations/cla
+ ss-use/Parameter.html
+SHA-256-Digest: nnMrcxdhWu0thN+qR9Bms80jaftTYom2GgEDk2pa+bA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsPostAc
+ tivate.html
+SHA-256-Digest: CO+SZ6NwCgAHoM0tYfa4PYlJN++CgHBk7KuZ3VZfTtA=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/class-use/
+ GenerateJava.html
+SHA-256-Digest: cUHdiJ510oYyI++D8tMiPs08XluNMgyiAl1JeXCsjjg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsSqlResultSetMapping.html
+SHA-256-Digest: gjFQ0HiBDFfooCoDUmGJbmvs4c1PINMN3zkTmEgzN8g=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsLocalH
+ ome.html
+SHA-256-Digest: OUgeR5jBMPS+2QlO7u2VCP0IaB/Xc+Og+zj6/1ju58o=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsResour
+ ces.html
+SHA-256-Digest: Ix3npjBgKxhmO9iASwWMwHnTT5lEAyGX3Jx/SAplboQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsVersion.html
+SHA-256-Digest: 2CVq3gKmkv4Ph0RSArL4glQaab8mImwcUd83TXY2N5Q=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/AbstractModelDi
+ scoverer.html
+SHA-256-Digest: Gqq4oxJNAicoAVvLn5YMhHwC9bZzohoxyqn8JFjEkXU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsEntityListeners.html
+SHA-256-Digest: T/8LU8pvScsUZXUgYZLIBY/V8hx1+ufrpJwkrL0o48k=
+
+Name: img/DialogLoadMoDiscoResource.png
+SHA-256-Digest: /+F8BjJdf+dDLsgGCGO4a/ZLG1tcNIIgSteRrdzCLMI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsEntity
+ .html
+SHA-256-Digest: gKDDltzvwdEYLWU9GLAQkjJJwSqjgYJJxh70EzfYXUM=
+
+Name: img/MoDisco_ModelBrowser_FormsLook.png
+SHA-256-Digest: xYh+tAD4TR8j9kKIzbOykOuIJ5OFq/VVxD30DgOWGOQ=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/package-frame.html
+SHA-256-Digest: /uoZ6LT/kNXh9/jVE3vyNvEGzz2b+WqKRJnspOFXsGA=
+
+Name: javadoc/index-files/index-20.html
+SHA-256-Digest: gFDIm6HL/5bi1cvsZSeGIpcmKUqrlSRbVZufdRcLF0U=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsSqlRes
+ ultSetMappings.html
+SHA-256-Digest: wo7k/qjeq9WwIGwOhXpaBpps2RTmPfDroTxsmqOQcbM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapKey
+ .html
+SHA-256-Digest: FcXPxAiMXCs1WATV1ABshfsCb0zIW0GYtUQw9A+8GYg=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/D
+ iscoverUmlModelWithBidirectionalAssociationsFromJavaProject.html
+SHA-256-Digest: HO1K6FIjeG8JAz3UvJjI91nVAX14iEprzpHBwzmoNBs=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/class-use/JspActi
+ vator.html
+SHA-256-Digest: QkXfI5S22n+fXhVzzP8LrhH3UolhRuA0wjPYMDMomAw=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetAbstractMet
+ hodDeclarationText.html
+SHA-256-Digest: gJ7ELLkj/ffrXffgZYiMCPB6MBqZknX69ISXsiaM8dI=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/class-use/Discov
+ erUmlModelWithRealTypesFromJavaProject.html
+SHA-256-Digest: c0Y7CbijssPOvdOPeXvKUghSaPkj1qIZShxXow1aZkM=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/AbstractProjectDeploymen
+ tDescriptorDiscoverer.html
+SHA-256-Digest: hmQlU7tO61pRLmwk+2OWzEykIr44rzYLXhyk0wnnRZo=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ icons/class-use/IconProvider.html
+SHA-256-Digest: D3jUI8rBX1mVof0/AnlNZNX+4L+cILL8nwllADNRd5Y=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/ModelQuerySetCa
+ talog.html
+SHA-256-Digest: JykCyDmtwL5rSrxvY3mogIr+J+RwTcaKLcqIeQnk10s=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/DiscoverJspModelF
+ romJavaElement.html
+SHA-256-Digest: rvLes6tPXCtnQd+nhPXSHRyT+gwSRVBY9g6oq/LghW8=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/package-
+ summary.html
+SHA-256-Digest: z3IemW8o6j8jJm0RukfJ8Vepw53tQ5aSqn6g5D5CcM0=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/exception/packa
+ ge-frame.html
+SHA-256-Digest: OOdlr4tFk+gNpfzDHlKzoL7UzqIN1/JZH+WkNlyqfXs=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/class-use/WebX
+ mlActivator.html
+SHA-256-Digest: 9q5nH+cnm7M+L6FENQFIhuJNbyBkwZ+L429U0eDD5qs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPostPe
+ rsist.html
+SHA-256-Digest: BCeL+Q/3GtpRRMBIlxo8gSrqPd/+g3VqTjLC69pHdDQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsProtected.html
+SHA-256-Digest: r7wexha1ZZH/l4YDsoeb9raQKaLO3AsTQvr/ve4EMXM=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/ui/class-use/Message
+ s.html
+SHA-256-Digest: 52CfhKqV5wl7pGQcFLL8CZLGCVXuRqDLxxhphE/yWPU=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/package-tree.html
+SHA-256-Digest: 9q5BUYMOTxBIUvEIJZETANTFrSYyeAPqEOTQGmZBKrY=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/DiscoverJavaModelFro
+ mLibrary.html
+SHA-256-Digest: JNNv7tmmNCNxrK+Wz8KwinyxUuDNR8XAGLVdQHedslY=
+
+Name: javadoc/script.js
+SHA-256-Digest: UGOTFhtpJWj1iNaL6uz5rV0z8UerrZCdnN4SkY2857c=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/package-
+ use.html
+SHA-256-Digest: yhZNlGYRohLZD09c/SufczIoN0PXAt3CT2vHlGMJpuk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsMessageDriven.html
+SHA-256-Digest: sBeWKmn4n42dlDOgjmlcme6fl40cbAV7DJZ2UZBEi3M=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/package-tree.html
+SHA-256-Digest: Ul4pbkw5wDCJQqp/oMco5S4XT/s9woB3Mto5aU1f+wg=
+
+Name: javadoc/index-files/index-9.html
+SHA-256-Digest: Ks51eYgR4NpVZZyFZzTVEhK/4wtbNRyWYH1H6kgeRcE=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/package-use.html
+SHA-256-Digest: Qa2vTY6UdVzZjrFfHYZEosVYd9we+gzokgZYYjLp5cE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsEJBs.html
+SHA-256-Digest: x0FRhMBSPaCtDX+1d5JyR9g/wTM/RjEtuKTyfzibbaI=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/generation/files/package-use
+ .html
+SHA-256-Digest: R8WqH7/u3ToDBVO0t/RJilK+tE9McHSvvjR7n8YxvDA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsAroundInvoke.html
+SHA-256-Digest: y6WvD/HsdWBMV/vNi5dLnmTehF+0rgO86VSMPBSJyRk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/clas
+ s-use/IsWebFilter.html
+SHA-256-Digest: MQwhuKYrPJqxTLb+SgAhaj/5D7DuqYDtvN9zJumj/wY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsId.html
+SHA-256-Digest: RQ3A1OydZC7rmaTkIZrP8676Vu6N/Mbp8Wuje+Y2T34=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/DiscoverJavaModelFro
+ mJavaProject.html
+SHA-256-Digest: 1k452wem4+DCQsf53dkEJhCRzLekQql9Qg+ZTll2Whg=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ icons/class-use/FilteredIconProvider.html
+SHA-256-Digest: bkiAgED2642xJoCe8XAP/P5GIqMuaBZfvOddzu284ZY=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/subclasses/package-use
+ .html
+SHA-256-Digest: UD6LPJNy9XET+XtfmOTPyngbPp+Moq53OZjFAQLHsx8=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/AbstractJspDiscov
+ erer.html
+SHA-256-Digest: 5gIEjOMKo9NR0JFienGM7FJhOCnYPiCUU/TZ2nN7FlA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsManyToOne.html
+SHA-256-Digest: hH8Vpz9L3tSDn6HPxPsilYzWJNmhpAwBiSkJjJz7fSk=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/DiscoverJa
+ vaModelFromProject.html
+SHA-256-Digest: zot4hHklpek9vF/HZIyUIAhafPWyvqoLhqOcNOFrhbc=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsTransie
+ nt.html
+SHA-256-Digest: r/MFNlGMmetdgUOuQZFKuO921AaFw/Qaq0CSjusiUwc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/jxpath/query/package
+ -frame.html
+SHA-256-Digest: T20PbSQg/GIwMMd+2dCGG0jQGEdbbFo+OfXGYAp/7vs=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ icons/IconProvider.html
+SHA-256-Digest: tBNR1eWe9eOC4PazjVGO/UHsS+N1eh1MWglLmW+28iY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsRemove.html
+SHA-256-Digest: rWd59WcnWoSbRMxQVOEOsF+TGQUbxCiBiSiz9OYUDHY=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/Abstr
+ actRegionDiscoverer2.html
+SHA-256-Digest: lZcGnMRo2xn2G6Xg/EuD5hHrDRnA9a7UHyinMTZQkFA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsSecond
+ aryTables.html
+SHA-256-Digest: QWO0YB9GsIsZb4zgKjnCO36sYkswbGky3HjMJzq4QC0=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/generation/files/package-sum
+ mary.html
+SHA-256-Digest: FOCy14mfeM+KoBjctDS62gk3aCVJ0cjhi7Cb9euk1eo=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/packa
+ ge-frame.html
+SHA-256-Digest: DxxWlj+zUX+qlaZtTgVJX6B2N34lMPswnDZuAGEenEQ=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/discovery/class
+ -use/AbstractRegionDiscoverer2.html
+SHA-256-Digest: ltd6xHgglCxxOz3MiE0BbltbXsv2US7hhPxXaVxwUnA=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/annotations/pac
+ kage-tree.html
+SHA-256-Digest: lYtFGwThRsbS7uBUWIjVZFekouFDRjpgRDDVWY69SZA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsInheritance.html
+SHA-256-Digest: 9wBJtWHnRLvjTJsxzLqv2L2PDXjQvWhR+ms8gFfXd4M=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/java/class-use/
+ IJavaModelQuery.html
+SHA-256-Digest: /+rHIuTIfioi3mKvKSjMKd/mfWfzN0kdissjAD5U2AU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsDiscri
+ minatorValue.html
+SHA-256-Digest: OtZ4LaE0XFyDhzBHUCq/eksTw9IvwsH0KCGfmGIFMtM=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/package-summary.
+ html
+SHA-256-Digest: Tq8Is1fKySSebfVXQGxJJ1+V7vhNcoTvJxm7SDx1UUI=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsUnresolved.html
+SHA-256-Digest: rRSG1dvvfylLcH2g9cHR8lgcGfZPTRYQ6fa8TcrUCWU=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/actions/pack
+ age-frame.html
+SHA-256-Digest: ieLYEbWo00BAlwHvqOZiTGccavr8mZuPiFM9iofEmVg=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsAssoci
+ ationOverrides.html
+SHA-256-Digest: LLBbbtgj/wRZEynnM46Eun5phW2diFVL6Nfa6VXJw+M=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/p
+ ackage-use.html
+SHA-256-Digest: w6QAHprLyPKLMBuRV5dfJSk/bpuWTjRU8DL3zDykj1E=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/AbstractDeploymentDescri
+ ptorDiscoverer.html
+SHA-256-Digest: tcnlyIt2mOzzryofsqEy8xDfaqLv9poicK2O6rgDTCs=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/interfaces/R
+ evealingStrategy.html
+SHA-256-Digest: cGPbX/hVmDpn7ZhpWEByMGiVRyyifUraM9PmGD62em4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsTimeout.html
+SHA-256-Digest: nLyXVTrorWqa0MYR7LrwS1a4JpyN4BCfvLNqPUuABUE=
+
+Name: mediawiki/API_policy.mediawiki
+SHA-256-Digest: yAPQ2OJ1leyfplAI8UnpkqZCnaZyA/9kxfwQVA8WGxg=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/exception/packa
+ ge-use.html
+SHA-256-Digest: +mAsW75A/7qYatzys0+Blh9eqS12BzLfnwprw74d0Dc=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/allinstances/class-use
+ /AllInstancesUtils.html
+SHA-256-Digest: y/ZoV4EEmWOTkL+fn6vt3FX+UDCV1njDGXyl2if2wJw=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/pack
+ age-use.html
+SHA-256-Digest: tTY+JBwKyUl9sgKoNu1+3rAYrovp9JhiIuXFWZ4FDmY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsPrePassivate.html
+SHA-256-Digest: YAVLhtMtU1sLYoWjuD5nPx0sKFUe3A7KQvzXk+wwjRA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPersis
+ tenceProperty.html
+SHA-256-Digest: UnBlhJz5miS+Cz73+e+m0Dr1ZTsVMMtLIFmCvTupBj0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/package-fra
+ me.html
+SHA-256-Digest: 0LICGOzRXlK53MZ8vuZGM0W5Aguq9P6DscTDC8iVc9M=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsSqlResultSetMappings.html
+SHA-256-Digest: +yzr1L9QlY0o6VOSEWUMeUK9y+5aQx8Vmhmn/Hk4pFY=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/extensions/listene
+ rs/package-use.html
+SHA-256-Digest: fYMhOj3+C3EVn5M4hu+t8GaHj5NUi3WAdwvMAirnhyU=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/text/GetMethodRefTe
+ xt.html
+SHA-256-Digest: q+OWkxdYOxDOtKoPWF/h1Uqoa1iSpV8jvsBNB77iWJQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /FitOverviewListener.html
+SHA-256-Digest: 2CKaMuD3Y2dABYbOZCdO4XgwaHUOE/dhKqH29vSjmvk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ AutoPanAction.html
+SHA-256-Digest: yJBPTyuQk76/7hdFd+nzEokjTh29TqNbeqyrWGJ7rSc=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/exception/Disco
+ veryException.html
+SHA-256-Digest: 5ClBa5RKIhHJfnysXDY7exoiozvZjo0QDEBCnY1UldE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsSecondaryTable.html
+SHA-256-Digest: ITw73Y6hP79yNQeP8/T7luR+SuF4Ug9ZfWu6BEW3T5Q=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/class
+ -use/ModelQueryException.html
+SHA-256-Digest: sjobEw4+rKQR05fNdCMYlAimmt8SVCAKSJTry2Go8BQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/actions/package-f
+ rame.html
+SHA-256-Digest: LzRzbdHhoGFfeKuA+H/UQqwTll72PxM71kAZydIzHWk=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/package-summary
+ .html
+SHA-256-Digest: aWqoj90Maiml8ei40FOuSrY6CbwX0Lrnv45c6fGC9ic=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/exceptions/p
+ ackage-summary.html
+SHA-256-Digest: oPmtBPoijnn9irXX0muL6+PWRrTFmqNgJMHCjsyHFh0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/actions/class-use
+ /CreateQuerySetAction.html
+SHA-256-Digest: PK84/euyScb6utywiMB85xg3qhRr4XWOlxyRishR8B0=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/class-use/C
+ ustomizableModelContentProvider.html
+SHA-256-Digest: guQFUw0jN06bhsXnN1FhbyiiQ5+diwTjt6WGFS4/0MQ=
+
+Name: javadoc/index-files/index-23.html
+SHA-256-Digest: j8PI426NfUq4Vc4+c3roiekD4EcBn1MsxkBlx6MU+7g=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsPrePas
+ sivate.html
+SHA-256-Digest: yMRbc8Qrx4A1WTL9aldiUk9r9w6aPB1fNoEKN8LqjbA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/extensions/
+ icons/package-tree.html
+SHA-256-Digest: B+D+XKcmydq8DahrKUigjVwl3qGgu4bTPbqpVHCBvkI=
+
+Name: org/eclipse/modisco/doc/internal/Activator.class
+SHA-256-Digest: jPcOpITTD/+7Xf1WD6G10akVBU5i6CBxMZZxWPinhNw=
+
+Name: javadoc/org/eclipse/modisco/manifest/discoverer/class-use/Manife
+ stModelDiscoverer2.html
+SHA-256-Digest: reYMEiafxerTHm4QL+8c8M1n49SXMhsedmoM1wTPA7c=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ package-tree.html
+SHA-256-Digest: fNUhdTRdVGs8YIKbOi3T6IbNLJebs7E/nx76AWJm44s=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/facet/core/exception/class
+ -use/ModiscoFacetException.html
+SHA-256-Digest: Rs1ckY+EHAlMEeYPW5718ut3m33wQaIE78Ib2BxPosU=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/package-summary.html
+SHA-256-Digest: ktNVc2936rAirqWmQHBPiI+3DSu/kk3hTcjPxZDkyaI=
+
+Name: mediawiki/0-7.html
+SHA-256-Digest: aMQT0mv24f1CmgjqlQSfAGV+7Lk9uxmmGkdIalsRGaE=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/IsWe
+ bFilter.html
+SHA-256-Digest: 5mjI58j0AN2vmPn76HXTFW1gc1ifCxnrPQRbl+uofPM=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/allinstances/AllInstan
+ cesUtils.html
+SHA-256-Digest: 2oZFhJpJeHsQctmOR9yinvNwXUxLdOVswKv8bEuKKDY=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/actions/package-s
+ ummary.html
+SHA-256-Digest: lEhFJHx/KMg+fPsLOYpIv+8H9GkSz4vq5wtQsYHh7jQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/RadialGraphView.html
+SHA-256-Digest: 20IyoVtXsQOaNnrLkQAzpKKJeENeiKdVZ73zO8+aaj0=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsTransient.html
+SHA-256-Digest: tEw/aMmxNvsBMiqV1gJqNuu89LZPxP+jXfnhF6ivm+A=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/views/queryExecut
+ ion/package-tree.html
+SHA-256-Digest: qzrClS+g2ASfY8B0lmW6DWGU9Hcu9W06Uo/TW8Hc0C4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsManyTo
+ One.html
+SHA-256-Digest: iwWGLSFYt7urxE7RJlc6Eu9CBkkJB5CDxohAPfghwaA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsNamedQueries.html
+SHA-256-Digest: ZtEnozIot3E0J91Adc7KtUahBoXDXRUizk2Z7S9qOik=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/class-use/IQuer
+ ySetProvider.html
+SHA-256-Digest: XG3fV/gFIP/9CPndxHLMujNzeD+7KZPHwaoHoqKSiNE=
+
+Name: javadoc/org/eclipse/modisco/kdm/uml2converter/package-tree.html
+SHA-256-Digest: UbJe96kQHskY0ufF6f1STu3nHgYxVWhAuhwXks0n+FY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsAssociationOverrides.html
+SHA-256-Digest: 9UgakdaY8ZJgGyRfCIzRK+hclwudNmTpjbgybma3Gzk=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsAbstrac
+ t.html
+SHA-256-Digest: qfIMCByTomDj/m1GHnlH4p2/itYjOZAkikHeEmKi6M8=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/EclipsePlug
+ inDiscoveryConstants.html
+SHA-256-Digest: XJqK1HHs2H87kuWQO0OK3OAiicwCev+zphRIxOExiYk=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsFieldResult.html
+SHA-256-Digest: 99LryhiQySQiqoO3Q1ByLW+U3iFqCCcJeDktjf03H0I=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsLocal.html
+SHA-256-Digest: 6IDqJPWpee0MzqslOPITDHm6ArNqtu2og1GoYk0P4t4=
+
+Name: img/MoDiscoBrowser_Element_id.gif
+SHA-256-Digest: P5MfK7FIlrvJJtIOi2HEZPuyTQsXgGbmOE+/hM53WGM=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/JSPDiscoveryConst
+ ants.html
+SHA-256-Digest: AgwcNlocSmXR9naOSD2e5V/z+BIvGKTgfifWkMZm+aE=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/package-s
+ ummary.html
+SHA-256-Digest: ZkGKx6Kt8TlDI/z9PrbApGH5W5QoPP+DGNQKSwRC084=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/graphview
+ /GraphViewUtils.html
+SHA-256-Digest: 88XIXqSG0bG9VvBZp/KdSj44hQtHCh83/UBedOTrVp4=
+
+Name: javadoc/index-files/index-2.html
+SHA-256-Digest: 6RcL6k27UUFy6V/q6b1gmmSaLZRnvR0frIeNC8isYyY=
+
+Name: javadoc/org/eclipse/modisco/jee/webapp/discoverer/class-use/WebX
+ mlDiscoverer2.html
+SHA-256-Digest: xtR2gv/v2YomUWEHpKaWgm801Om8VX742+2MjwLDBjA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/exception/Model
+ QueryException.html
+SHA-256-Digest: ZaD4r+iqJ6tkZwS6kNEYrkulmVhvpGU951E+h+eVNEg=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/discoverer/class-use/Discove
+ rJspModelFromResource.html
+SHA-256-Digest: p0gZkwY75jgf3jfWlaSkwIDbGfQ051U7f2zuzCs8EGY=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/allinstances/package-f
+ rame.html
+SHA-256-Digest: XIPP6BJjc7H677OZFO9VfiPLukM6vEmOfOmtBLUXOuU=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsStatic.
+ html
+SHA-256-Digest: BUic6XnLNdhnnaDd/qpBx2r/yW3swZvj5AO69nvgVOM=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/package-tree.html
+SHA-256-Digest: kNj4PjecCIYlgodbpyA0oLDxRm+hYtICyYKbV9CaM5Y=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsRemote
+ .html
+SHA-256-Digest: 3DjPTF7MmDFvKKtAv1IUhKO/kCWNjZrbdEhOWiE3Mj4=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsAttrib
+ uteOverride.html
+SHA-256-Digest: iOVEUkFTKLVonMiAgE2AQm08e/57+X5p49jzIQTriz8=
+
+Name: javadoc/org/eclipse/modisco/usecase/modelfilter/methodcalls/disc
+ overer/package-frame.html
+SHA-256-Digest: bJYIp5KGJlDx94GbmGGP4L24gpwxMUxOEeAVqwfv1BU=
+
+Name: javadoc/org/eclipse/modisco/eclipseplugin/discoverer/class-use/A
+ ctivator.html
+SHA-256-Digest: DxlAihTcdel32R5/n+z1V+owW2IvVrNrVHqV3bAtJFQ=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/D
+ iscoverUmlModelFromJavaProject.html
+SHA-256-Digest: 59Q+1g1NgigzSQeyRh53Awmtn5osbV6l+YMCqyqTFSg=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/class-use/Disc
+ overSourceModelFromJavaElement.html
+SHA-256-Digest: nJW7MwHAyjBeUHnWgxlghrlRfOsFbPhBqmlNQ0t8/yY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsLob.ht
+ ml
+SHA-256-Digest: Vr4YXIJSGmPhqupkF26CpJ02XQ8FCDndOYLTKwwaqo4=
+
+Name: javadoc/org/eclipse/modisco/infra/browser/editor/ui/package-tree
+ .html
+SHA-256-Digest: TreIC5ilQrA+6yUkkynrh6UBUUcLYnzaXwBSlrcEmKs=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsDenyAll.html
+SHA-256-Digest: tohklzsT1wanzJFSZxZEWfendLYqYgO+abfU7lYFULs=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/treeview/
+ class-use/TreeView.html
+SHA-256-Digest: x0/AygOQmSkoV5apRQzztf0YS+q5OOMaOHPUwN4vAyQ=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/allinstances/package-u
+ se.html
+SHA-256-Digest: w6cl3AO40KpQlLzeFUVbdLVaq2CD+fuo0XZzQnWZlgI=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/package-frame.
+ html
+SHA-256-Digest: 2xdc3Pe8N4S9YGGzowr/AponMhBAUxGZdpeTY0YpqlU=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/examples/radialgra
+ phview/package-frame.html
+SHA-256-Digest: 2UDvD/YzYzTjpjSywZ6ESbMJjYXxE6ry5+xN5lXpGwQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsUnresol
+ ved.html
+SHA-256-Digest: neLeE+zbI9K45VVzr7fqZmbG5IKvLS9tHWx1Pm2RUm8=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/IsAccess.
+ html
+SHA-256-Digest: kc/x6jXvB8qIacjaCCUlwAdq+XsbdkyvTp40Fi/3Ios=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/generation/files/package-fr
+ ame.html
+SHA-256-Digest: EPrWH8U7LZoiATlbV71tIEo4G2n3J6gGyhJzhdJpMXU=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsMapKey
+ JoinColumns.html
+SHA-256-Digest: Io8NgQIIi9gYMwEuotXDvbRCsds44v0Vjiin8LfVBWM=
+
+Name: javadoc/org/eclipse/modisco/infra/discovery/core/exception/class
+ -use/DiscoveryException.html
+SHA-256-Digest: zqBCymUeKsc/S/u1WRzCB4BO6Crl7cNY4gLdfJumFIw=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/class-use/Activato
+ r.html
+SHA-256-Digest: riKC7BDWoP6ojdSqM/EaZoQe83HN6MYtEA2GBMxz4bA=
+
+Name: javadoc/org/eclipse/modisco/util/emf/core/subclasses/package-tre
+ e.html
+SHA-256-Digest: VXZiXcvEtKUY3bwJeFwlG49vU3Lof9kjuZDiHtYVYJc=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/servlet/pack
+ age-frame.html
+SHA-256-Digest: 8GOzVE6JM3mg3Mlt6lfSlH4LLCalE/1j4zpAw11YuZ0=
+
+Name: javadoc/org/eclipse/modisco/manifest/discoverer/class-use/Activa
+ tor.html
+SHA-256-Digest: 9hJ3am8ETV/EZ/9kBQoXYBoK+ElRiBjAZnU+SQNPPeA=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/browser/uicore/class-use/C
+ ustomizableModelLabelProvider.html
+SHA-256-Digest: Cig9KizWm4S0DsHVR9I/R6rAit1wq0BuvfQkZSI41V4=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/PrefuseGraphContai
+ ner.html
+SHA-256-Digest: I8FhvA/YYu7B3HRgK1Nxx7L9Fg+RHQ1YzptO0F5VuLE=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/DiscoverKD
+ MModelFromProject.html
+SHA-256-Digest: CP0LxWko/2jlkbb4QiFMQLS+Lrbj4oOKyJmJz9IMLUI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsDeclar
+ eRoles.html
+SHA-256-Digest: 1IdUJwsthwPzbItLWYXq9yB9YI9xLeRimGtqEzYPeYc=
+
+Name: javadoc/org/eclipse/modisco/java/composition/discoverer/package-
+ frame.html
+SHA-256-Digest: SAmoI8MZo4WM0/4DW068ezcs9/ikZwZPTAN3MTPc8wI=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsPreUpd
+ ate.html
+SHA-256-Digest: ZzDVBmBZbt/rRZgjOQa2FcxfFYR1HD56aDxOivIo93k=
+
+Name: javadoc/org/eclipse/modisco/workflow/core/class-use/Constants.ht
+ ml
+SHA-256-Digest: WK2/IEgz7JPlwLBb2O1toanbj4kU6YwknxRFpfM69po=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/IsDenyAl
+ l.html
+SHA-256-Digest: A5CXnz+cWFJoMYnjTTT+HIPih35zfraSls7ZVGZgfa0=
+
+Name: mediawiki/new_and_noteworthy-toc.xml
+SHA-256-Digest: ujtNO12VYYggYUpYsTHxXytrncxTDV26HyixikIKquI=
+
+Name: javadoc/org/eclipse/modisco/jee/actions/Messages.html
+SHA-256-Digest: OttiZ6myIGwhRVP+/A8DjClq1HyA7lmgUNL0tGfLs6g=
+
+Name: javadoc/org/eclipse/gmt/modisco/java/queries/modifiers/class-use
+ /IsDeprecated.html
+SHA-256-Digest: kTw2nj3H+Q7FXyATRdf2vC/6noGbltY/ORcnnda64qk=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/prefuse/package-summary.ht
+ ml
+SHA-256-Digest: Vsp088zJSVG/w8rDVkEGn43iX+B03KgVQx3O2R9JzU4=
+
+Name: img/Customization_example.png
+SHA-256-Digest: d6NUazNw9SnsGAw85Tq22cEZC3QNasLhozOUd4PyPHI=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/utils/Utils.
+ html
+SHA-256-Digest: /YqisymB0EbUJqwYjxUjYuSJ1pUp6z0hc4ZUbly+MsE=
+
+Name: javadoc/org/eclipse/modisco/usecase/simpletransformationschain/p
+ ackage-frame.html
+SHA-256-Digest: IUPo6wuuo3FeOLK5iU6EwOTqF/V7SIZ6YPbuLGjY/oM=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsIdClass.html
+SHA-256-Digest: z6/GkMOHL1LXeZPDCmnEh7/VjEeFAZoALaZndLAwkIU=
+
+Name: javadoc/org/eclipse/modisco/jee/ejbjar/discoverer/class-use/EjbJ
+ arActivator.html
+SHA-256-Digest: flqbL3aunaOfBGHvh1FH2rrW+nX11xnQQ1e6VQvCYOg=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/extension/ui/utils/packag
+ e-tree.html
+SHA-256-Digest: D3iAxBc+JTbp28yoaQsxsu1FcszmVCU2vzYLapmQJNQ=
+
+Name: javadoc/org/eclipse/modisco/jee/jsp/generation/files/package-tre
+ e.html
+SHA-256-Digest: 2doNbfBE31h0jOGJpeel/646p/LkwcB1NGRHjXMcjtg=
+
+Name: javadoc/org/eclipse/modisco/kdm/source/discoverer/DiscoverSource
+ ModelFromJavaElement.html
+SHA-256-Digest: 7L3hFt3G/jabz3wRxnsHRhoe5HLBXrMqHAvSnMVDjvw=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/java/IJavaModel
+ Query.html
+SHA-256-Digest: /hWF/x+JRy1E8f2fujQEVEAgZU/MXsIXOI1k6MhICIA=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsExcludeDefaultListeners.html
+SHA-256-Digest: niPEbQIJ+k94pggM8UYec/e9+6D69aqCMGTHJBvINJ0=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/ejb/class-us
+ e/IsPostActivate.html
+SHA-256-Digest: tNq4t96QmOMtNoSqcaS+JBw5vFin/AqW5fve0QgWAQc=
+
+Name: javadoc/org/eclipse/modisco/java/discoverer/class-use/DiscoverJa
+ vaModelFromClassFile.html
+SHA-256-Digest: Na7HfVuGlBzmMsPd8huGWlh8VIwrWi+XNiQ0AUJWTAE=
+
+Name: about.html
+SHA-256-Digest: aKC/a17M1TXPsutYwlpGeDRXjH/8DvyjWQ1YzKE85OE=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/ui/views/queryExecut
+ ion/QueryResultDisplayer.html
+SHA-256-Digest: +OBmdqCuGVJPZ78W9AhSrOQt3YT/KGFIpwYFmGr+mBY=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsOneToOne.html
+SHA-256-Digest: iO1l7t83yy5soe+lgJPGhIW4m0HI/lbqtlwRKHENbvc=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/package-tree.ht
+ ml
+SHA-256-Digest: Y0s5Geo0lwNrsYUFt4iRkkqJUkqNK0jPlhrqcA6yufw=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/IsNamedN
+ ativeQueries.html
+SHA-256-Digest: xJHUk9Yzl40l5lf0DoCalOriOaRvzIeEeOrtcH+JwcQ=
+
+Name: javadoc/org/eclipse/modisco/jee/queries/annotations/jpa/class-us
+ e/IsAttributeOverride.html
+SHA-256-Digest: A6ktO30FusTsxo75U828kXRH+AOETSFA8QN8nxE1mjg=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/package-use.htm
+ l
+SHA-256-Digest: WxQDLa9/nYIQ2y88M5xjIi+kV1iieeZLAFiAZsgScZQ=
+
+Name: javadoc/org/eclipse/gmt/modisco/infra/query/core/java/package-fr
+ ame.html
+SHA-256-Digest: LbVGnc6vdxq6A5PeSUoBVf8KD0ba2diNvOUcLCKr+YY=
+

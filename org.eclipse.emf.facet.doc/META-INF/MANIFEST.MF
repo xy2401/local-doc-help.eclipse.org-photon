@@ -1,0 +1,3029 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.emf.facet.doc; singleton:=true
+Bundle-Name: %Bundle-Name
+Bundle-Version: 1.3.0.201805181509
+Archiver-Version: Plexus Archiver
+Built-By: genie.emf-facet
+Require-Bundle: org.apache.ant;bundle-version="1.7.1",org.eclipse.emf.
+ facet.util.emf.doc;bundle-version="0.2.0"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Vendor: %Bundle-Vendor
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/FacetSetLoaderHandlerUti
+ ls.html
+SHA-256-Digest: Unz1HWrytUXtL82ERjwzJzO1R0lWf4WNI7WJ/s394PU=
+
+Name: javadoc/overview-tree.html
+SHA-256-Digest: kC8aPCEBLzwNfpfFSFXC/sTDCWYZ19VdeqTGlFz+6qQ=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/class-use/SerializationPackage.Literals.html
+SHA-256-Digest: 0DLJWCyIeRZz0YhJPAIF/a91MK9oiExvR17HZiA8Z/o=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/package-use.html
+SHA-256-Digest: io5+Ig+mLF33G25Vn/zV7mx6RabYV9aE0aKYiTEM2E4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/Fac
+ etCustomization.html
+SHA-256-Digest: 1lMNA9s1ghWh8W5Cj1YW62ZcXftMKzBvoXHy1Slj4jg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/package-tree
+ .html
+SHA-256-Digest: 5BcERrJN0T0Wy6VcTNN0QrHKRi35WhS9VtzF4jdU37I=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/fontprovider/IFontProvide
+ rFactory.html
+SHA-256-Digest: ENiZ4L49iG91+niuDAMiT8BC8A24Rt0r+v1tRAG55kE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/package-use.html
+SHA-256-Digest: gGCNOMCjQkO6/zAhayswamGvORI+gsXy2suVcyOraJk=
+
+Name: org/eclipse/emf/facet/doc/tasks/GenerateApiJavadocTask.class
+SHA-256-Digest: HimSK11LJTmJ2VlMBCWEPCzLRnhXjyOZm4w1I4dIqjE=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/ICatalogMana
+ gerFactory.html
+SHA-256-Digest: JmKTztwgyLC9FF383psHwtZcn5Df1UjgmXwhOJ1gmy8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/core/composite
+ /registry/ICompositeEditorFactoriesRegistry.html
+SHA-256-Digest: oWt7jJUrUcncG1OtpTx6dL4zPuQjYhsgC4bC6VF3zt8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/class-use/EfacetcatalogPackage.Literals.html
+SHA-256-Digest: 6XxTmMNgdh8KKeewbZ9Ic31NJzdUFAguXowT2aAMpm0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/pack
+ age-summary.html
+SHA-256-Digest: +J1IJIk6taPQrZ4cgQPDzButn4jclu7Efpvg4e3wh3g=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/package-frame.html
+SHA-256-Digest: U6pwZAzmlmY0UqPTevnvtAbQgsLnJ5O4GYwQRTQItBM=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/package-tree.h
+ tml
+SHA-256-Digest: WWdCqUD6bWaG/UOnygRNZvx5QfP6FImnBLfkltO0hJg=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/ICustomizationActi
+ ons.html
+SHA-256-Digest: h8vY3PboeaSyStIpkKltsecQcdKSe+M3P4q09JtOUzg=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/custompt/package-
+ frame.html
+SHA-256-Digest: h4HUGEDtTOP+4A0FS7JhwXxNNh5bqYGZPKOgjoLBRsY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Doc
+ umentedElement.html
+SHA-256-Digest: iSv1MioZW4d/rRcJI8MpVdE+7H8IPtYNNgEcsc6KI3I=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/class-use/AbstractModelCellEditor.html
+SHA-256-Digest: GSOYDp/CF6Fm9PFz/ClF5+7Ea5DfJetfY8TVxvF5lWg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/IsOneOfQuery.html
+SHA-256-Digest: h2XLVi+tfE4Phhi5F3Act+62ZO9N8/6XWdaz3kS+/1k=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/OperationCallQuery.html
+SHA-256-Digest: /QiJEJ2OqPyQ7VGP//1lVbsrQN/tKY0aDkUlq66+RWM=
+
+Name: javadoc/index-files/index-10.html
+SHA-256-Digest: 9Xds0JnUzmNNc5uK0JH/VtSh7VOHWHGs55uXWrajccw=
+
+Name: javadoc/org/eclipse/emf/facet/util/efacet/ocl/core/package-use.h
+ tml
+SHA-256-Digest: X0TKxisHWt4wDRWDhgNhiR2hKWepf0yyerKA1vdrafI=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/class
+ -use/OclQueryFactory.html
+SHA-256-Digest: 4xFpScUPkYzHYjBNMTwz/K8Q7fpZn+Njcb1KoDSa5cQ=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/ByteComposite.html
+SHA-256-Digest: 9qJ/w0AU1aAovT7xW016q/9MZS2RXvyxDf2OCpKLx1w=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/class-use/JavaQuery.html
+SHA-256-Digest: XZODYvqrkcd+Oa2W3mRmicc0ET1xnIYDuG+H5cvM7Xs=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/class-use/RuntimePackage.Literals.html
+SHA-256-Digest: 7KlmoFPMT0Xll0jFgccHmIZ6GGbSV4gUgdR0U1AgQaI=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/core/util/class-use/OclQ
+ ueryUtil.html
+SHA-256-Digest: bzOk+UHfGIXugfpT2H08a5AILmyL2hHZ9TqmbJJa6H8=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/imageprovider/IImageProvi
+ der.html
+SHA-256-Digest: haH7MbICcEq6yMAFT+CVBvABFpuhQqtChEV+mXkbpz4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/BigIntegerComposite.html
+SHA-256-Digest: 3bhN+CXyJ3xDXa2j5MYmjk07CenixbL0cS7t7c6Lje8=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/package-use.html
+SHA-256-Digest: wona6x2HqeBUxXgKVDgoY08Am2syOb1ZuZcU8mnZNDg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetSetCat
+ alogManager.html
+SHA-256-Digest: I3KhwA+V8AxhGz7haWux49heEhb5ItwDIwgQTGDqR4E=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/package-frame.html
+SHA-256-Digest: w6OrzDgJ4zElm3OAl2OJxmu444qo9R51gB/NqdBboeU=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/exception/Customizatio
+ nException.html
+SHA-256-Digest: UPfpRjeoug7g+YwonF0GcW0jVy9Arj+GMPwGTDn1gmU=
+
+Name: mediawiki/new_and_noteworthy.html
+SHA-256-Digest: n//XQ0Se3Vvfv2miz5lpHIJu794s5+ll44IB2XK5G6s=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/pac
+ kage-tree.html
+SHA-256-Digest: pmsF6GEIXsbH/GM5BmOn38Jza7LvY1qjLN4diENVmQY=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/class-use/IJavaQue
+ ry3.html
+SHA-256-Digest: Q9ScXNbuiHjRqt7eVhdJTR2QDpXuigi9YQhhmfKudMU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/package-tree.html
+SHA-256-Digest: Ct3mDoen7YMLc0+tjqNjC3U3F2P2EXkEc8kHLl5Ev8w=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/ECl
+ assCustomization.html
+SHA-256-Digest: z8i3z03g3/cBWORsYM0M2zLgrkObvHVYTd09WvvVux0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/AbstractModelCellEditor.html
+SHA-256-Digest: iBEOHlvRLKHLdAfmprK8tK4JHUeCXvzcGXh00DBfOcM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/class-use/FacetSetLoader
+ HandlerUtils.html
+SHA-256-Digest: TuehuGX0qE23mBlpyIClML+zUiKMuvQDiULIts2+giQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/QueryPackage.Literals.html
+SHA-256-Digest: +ZIO6p2cczoU0SW7g7878lJrHYyVito+sieCRWSmBm8=
+
+Name: javadoc/index-files/index-17.html
+SHA-256-Digest: uw3xx1wPNrSfNkSyJgkNL3PWiITMUH+/C2HSp1bGt74=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/EfacetcatalogPackage.html
+SHA-256-Digest: bta3DuV9WDYSdL547ZR+Od/qEOSLrlsAwPR/Wr7iD1Q=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/CharComposite.html
+SHA-256-Digest: 57pr+/f39Trjxbud7fFEUJ/5TqYu9r4ICjqXGULe1Zs=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/class-use/TableUt
+ ils.html
+SHA-256-Digest: rWAgkBLllg4Cdodz4Cv6d4xeQ9wUk1Ks0eHLXSkJ1lw=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/SerializationFactory.html
+SHA-256-Digest: wra9a4sNdBYKoCLy+eK/bPuhHrf7LklQmDg1xLNTFlk=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/ValueColumn.html
+SHA-256-Digest: aowobhbjvAifYCZCwdEHOPX/XNMKVu/AZQjY40i8DLk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/class-use/ETypedElementEObjectResult.html
+SHA-256-Digest: 7pl+njxenJdWm62szBznqtp9s40/rJtGAorCIVI6sSI=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/colorprovider/package-sum
+ mary.html
+SHA-256-Digest: VoB4XekG7kLlng8FSraCF+A5ErY2bR2Nc3bFVh27bhI=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/oclexpress
+ ion/package-frame.html
+SHA-256-Digest: UfQBdnnxj3n3Gw7GzJXUZ/aW+evQJ6RlbOA2JEtwG0I=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/TablePackage.Literals.html
+SHA-256-Digest: 5lX0zxBbuqVMMCl3UNl8kEQW+3tRd/5WWt2cFfRf3M0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/class-use/ICustomizati
+ onPropertiesCatalogManagerFactory.html
+SHA-256-Digest: 3lkYj09opa3n6umFfi3HWTyzmGcwcjRl9kljNQFKgQk=
+
+Name: mediawiki/API_Policy.mediawiki
+SHA-256-Digest: A9UjlMKqqcP99pX2JP+Yb7qFPhN1ex8gG81xFNkYdic=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/TablePackage.html
+SHA-256-Digest: 7MIKYhRgQ/pCL2Tiys8lIJnkKvey/cnMZIEK3ZthAD0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/CharCompositeFactory.html
+SHA-256-Digest: bNx1MUtsbUXqpMRM4pxMfgeHVAHibKtayoI+dYde/dQ=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/IParameterValueLis
+ t2.html
+SHA-256-Digest: q5xVvAqBQ71leES5b0D2KW3AbdqgNQ7IHmsRlPR9UBw=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/PrimitiveTypeQueryRow.html
+SHA-256-Digest: aXj6R8ETtemZTjizqzLYL42/o+r2n1fa/V76IKzUeN0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/custompt/package-
+ use.html
+SHA-256-Digest: 1AG4Tz07WLYBTxHF+O3h2wSdiHD2F1neTVszers1/N8=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/imageprovider/package-sum
+ mary.html
+SHA-256-Digest: 7ZQxpQgWuc11Y28dyEBOvu64USCcbhLoeMYAriVVAio=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/package-summary.html
+SHA-256-Digest: e8jDfiOkLPdOJKkU8lxvlUr3i61es8cVh6xxvz7YeM0=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/class-use/SerializationFactory.html
+SHA-256-Digest: CKzy4seFIvVOiF3Os3biceFP7c/1k+PIhZzgB5ZGeWA=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/class-
+ use/ISerializationRegistry.html
+SHA-256-Digest: rnOK5ZmXB6Q6u8iLSTcUdnSiMf37gtEF6BALzyLItYI=
+
+Name: mediawiki/running_tests.mediawiki
+SHA-256-Digest: gb1svtlRRkcb0zrWY1zjdahdTrkvRRFgtMlSZC8dNys=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/package-use.html
+SHA-256-Digest: CzaVyOUsWoXKV4o7t/N5X3kICCA94MF+wasGSmeESac=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/FacetAttribute.html
+SHA-256-Digest: 1yPxGqfQmoZ4rxRJEXYE13X+Kl82e6p106Lq7OXYl9s=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/dialog/class-use/
+ IOclDialogFactory.html
+SHA-256-Digest: try9Yr5BdZ/vZIRQLhkqkLk3YggbQ5ddi6gX1/0We8s=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/pack
+ age-frame.html
+SHA-256-Digest: HhsUWBOFjquaXEi6D02vltazwDTsgyEZVnORXE6wMyQ=
+
+Name: javadoc/org/eclipse/emf/facet/util/ui/utils/UIUtils.html
+SHA-256-Digest: +pvtrHJ6p/SHOSnjizSM/zA6kNkwLLJay2qVKWIAcmU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/class-use/EfacetcatalogFactory.html
+SHA-256-Digest: oCww6gXh7BNGq1f3wuKmpSKjZdqRtZPcKWoYMBBsL34=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/ShortComposite.html
+SHA-256-Digest: pj9lhC8hR4ZAvQVPPnqvD+ruYl/Wgaj3PLPyVudsT+8=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ISelectionPropertiesHand
+ lerFactory.html
+SHA-256-Digest: EsTJ4MUUjcvPOB7eciNdr4uoFYwHLGMxShu0Yf44gPo=
+
+Name: mediawiki/ramp_down.html
+SHA-256-Digest: 5WGv2uWHb5/zA5WlYJs0cUrWPuFLgikA2y0e1kBPR88=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/ui/class-use/IFacetPro
+ pertySourceProviderFactory.html
+SHA-256-Digest: Oln7YzGEBodeDj/hDwRIU5v1YyZGFTEMOYne81inSO0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/package-frame.html
+SHA-256-Digest: aoz95bXgzzv+JCMF/mXRMtqWA3ZQKXU/f7w7nCdvQGE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/NavigationRow.html
+SHA-256-Digest: Nd7sEW09vxabo+i0aYB81STXtbCXlFd1e31eLOfi518=
+
+Name: javadoc/index-files/index-18.html
+SHA-256-Digest: 7N2YPYfBeupICcGZYGH7ksrHqxnuWYaCOgC3RruAz9o=
+
+Name: javadoc/org/eclipse/emf/facet/util/efacet/ocl/core/package-frame
+ .html
+SHA-256-Digest: AGESenoRabuhmOJWLQ6Ix81BdR7txbSc6NgxMV9rh3s=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/ICatalogSetManager2.
+ html
+SHA-256-Digest: fkFvlmG+RyGwXyLqwv7f3ujd7O0I8njkIpK0x3prmWE=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/FacetUtils.h
+ tml
+SHA-256-Digest: xaQNxQMLhwRGhwCXYLZ1gjB+L9wQ3yArMW6w7nIQTLM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/package-tree.html
+SHA-256-Digest: /X65b1OZbFWH+ethEYfgIX48QXPQLnRcLnYcRUTkNY8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/SourceColumn.html
+SHA-256-Digest: zfNVAI9hJI3oPJM2eIM+i1tTOkNhNE/VnATF+nLGs3A=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/exception/package-use.
+ html
+SHA-256-Digest: 38DqLwvLXiGp6sWYfL1EHPkmzeGdvgIOjpsVQ/ylBzY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/CustomizedContentProvide
+ rUtils.html
+SHA-256-Digest: bV34kP5+sg8WCjqYwOGN06E4g9Jjl3T+YD0TY2zuQ9Y=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/DoubleComposite.html
+SHA-256-Digest: AmP+c28zF0icr+dWySac8UTsP2KIW5VbPhiVYoZLq/c=
+
+Name: javadoc/org/eclipse/emf/facet/util/core/Logger.html
+SHA-256-Digest: JJMvcnY3MqcAGI8VUB44H/KhuoSt3cazbEQbaXP/11M=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/Category.html
+SHA-256-Digest: VE/Bb2t+NTox+YQigST9KxSgEw3L6gdUy3/L4gqki/U=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/package-tree.html
+SHA-256-Digest: 0QB0i1iN6E/WEqxLmDWhWoSIAX22RDfu3QLtZB+ixY8=
+
+Name: javadoc/org/eclipse/emf/facet/util/jface/ui/imageprovider/IImage
+ ProviderFactory.html
+SHA-256-Digest: F+qmbBwx42FN0Nw4AP9uxnmwmSAdQN7fpuZNmYsXySA=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/EObjectLiteralQuery.html
+SHA-256-Digest: P/ix9yf+QEP6HI4adsTEK2OJqyA8iG1TSwzxYvWpaBQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/class-use/ETypedElementResult.html
+SHA-256-Digest: 71FRut86FeojGqA4kagwFmCREPaAoVs4+rD+Teyydzg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/EFa
+ cetPackage.Literals.html
+SHA-256-Digest: LpktNGSCi16/SyJ+NcTMTIG7GAh8djG1b8ouVpu0FA4=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/dialog/package-su
+ mmary.html
+SHA-256-Digest: Z4ojcP+2vCHFE42f0YXnmcADTW3nwumEN2U2YFLZxpo=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/TableconfigurationPackage.html
+SHA-256-Digest: mOWU82JM7R3TM8gMvNNdIoGER89XLYF15NT3M4KQqp0=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/package-tree.html
+SHA-256-Digest: vwuVDC/Z+uD4n8CSiRE9CDLryxw6wGJVcjiaQRlg+2I=
+
+Name: META-INF/maven/org.eclipse.emft/org.eclipse.emf.facet.doc/pom.pr
+ operties
+SHA-256-Digest: UaKYGDe4/GpdlyDvxUFFnwDzW9NS9AUSQblepTHbHGU=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomization
+ ManagerProvider2.ICustomShortcut.html
+SHA-256-Digest: fhEvX0iXtJbtabeknkSDo3bHkWEdcCavtgwgijhhews=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/QueryFactory.html
+SHA-256-Digest: mIiDUdW35KwMeXfHhW5zGUMT1iGHZZGdzB3dJaCxDKQ=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/class-use/TableconfigurationPackage.Literals.html
+SHA-256-Digest: XCk+U8ybXP/WgFNudSoKa50cleI4XSYG/t/LGC7wy4Q=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetComman
+ dFactory.html
+SHA-256-Digest: kDYjVtm14BFKeeN9zbwFlx0n5KS3wl3rBXPS8hPe1mE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/Column.html
+SHA-256-Digest: uG+bD0AWOWon8QiBn7mu/a9acGOpxa5n1EE2FoFKQQo=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/ICustomizationCatalogM
+ anagerFactory.html
+SHA-256-Digest: qqR0trXUF7K4HY8G6TTff4tLmgaFHfDq2ihwJCz7En4=
+
+Name: toc.html
+SHA-256-Digest: pML87bUWo7G+eyfXBfJznl4MJL6bRiOMmGjErAO+77g=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/fontprovider/IFontProvide
+ r.html
+SHA-256-Digest: xmOHGCbRb4N77GsEMJWb9QJYc2lJRFT5ua+SMUZNveo=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/dialog/package-fr
+ ame.html
+SHA-256-Digest: jzYhGoam4Fg07ksjKawQwqDSwMdQEOCb9By8B9T6D9A=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/package-use.html
+SHA-256-Digest: GtReEHNPKrk+oYirlmieu0wVzbnpfIcc+Y17Nmj2tH4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/edit/ui/package-frame.html
+SHA-256-Digest: XX/bTq0vWeaSXTlR+FwG6EFGOAzt6Wt7TWkEF9m+uHE=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/package-su
+ mmary.html
+SHA-256-Digest: Do8EzPBn9pZH5huGc2hu8l5lJ4wAYJ+LBX1hCveNShg=
+
+Name: img/EMFFacet_NatTable_CustomizationExample.png
+SHA-256-Digest: Be2g6n2Bd6DIfvEgfcnIe4r2tez+KXXGQbz6Fns6+q4=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/package-use.html
+SHA-256-Digest: n5lvNd5gCtgcbjIOSNNx8BhhkKtPMx2NPwfqSr1xyMM=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/IListener.html
+SHA-256-Digest: UG50H3ZWyZk4CmMgp3WxCxM7gnXHw17rAQd1LJhMU5A=
+
+Name: javadoc/index-files/index-6.html
+SHA-256-Digest: uhYbl3GMl443Nu1C4WpjWIYFoJ5PUcZbKd1H5eYUCQc=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/package-fram
+ e.html
+SHA-256-Digest: sfHXohdRIc6/ohI+p1ciZojF7ZmvUCakqhx2mOZx7/Q=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/colorprovider/package-use
+ .html
+SHA-256-Digest: g1dNGUq21eW3aYaG2hyFCCCZtCndHYhPeloTnOwXi0E=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/class-use/IJavaQue
+ ry2.html
+SHA-256-Digest: LpEOt6WrydL9C6DcjqEiyjYJtZDjgQzBnqd1bFyrTsQ=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ICommandFactor
+ iesRegistry.html
+SHA-256-Digest: 2nRSyie3O/Glr2fTAAoK3ClSwxQ2a2b12FvWLlGn91Y=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/package-frame.html
+SHA-256-Digest: u/bJGvcY5lG7Bwd/lNiJLyPNPrIpVOxkN9fJ4mjR5tc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/package-summary.html
+SHA-256-Digest: /NC07+tepPaEaxYNOL0NNSZO9rlnF03+G03ZyfyOV8A=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/package-us
+ e.html
+SHA-256-Digest: o3oUGgUPwd3SwAQJwPihApTVe99nk8hMXxc4TJyQBIY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/IEObjectBrowserOpene
+ r.html
+SHA-256-Digest: ygncpsrTTH1WSNQSWF2PlTaaR6V7qMjq7Bv8+KaNGNg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/command/package-u
+ se.html
+SHA-256-Digest: CroJcmaEVBbgRcQWcx79sIoYiMvfu9rMNrJ1p79ZS8k=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/DoubleComposite.html
+SHA-256-Digest: q/zCjFX8NsiWxnQplS6u7DDQ21jehCdv64FmrNXKoKk=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/Cus
+ tomFactory.html
+SHA-256-Digest: 0ZwBeYytSTT0qEeLaPGoG4lfJAotfVGk4liz/dkBANE=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/FacetElement.html
+SHA-256-Digest: EIJIynjdo3R2BDw/Ks/bNmkPPOnS9yjoDCzkYPa+9YE=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/clas
+ s-use/QueryFactory.html
+SHA-256-Digest: nBtuSlUjMqaN0LAxBHvI4cY0LqVtsS4OxAbp91jKpss=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/package-fram
+ e.html
+SHA-256-Digest: x7952D7z8cYu0M5awXrURfm0WdO+SlQDSnOGnx7o5bY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/SerializationPackage.Literals.html
+SHA-256-Digest: vBV+ZxOhy51LaXQSbzrfWIpaaJRCw3E7MSamUbZxiw4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/FalseLiteralQuery.html
+SHA-256-Digest: PbREAYqi+Vj7jfd6S6yB3UrbjDqzFpJk1tP4VpGYdsQ=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/IModelCellEdit
+ orContainer.html
+SHA-256-Digest: ag5lmlRZr405BcWjssNEPnz97J7GGAI6MszyzkRbqgo=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/Column.html
+SHA-256-Digest: XxW47tr3jAsW1kydI3UpVNTN/uW/IPwDH78MIdZBpBA=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Fac
+ et.html
+SHA-256-Digest: j2z++JFqPAQleOV3KV1Ku9xoGUFTbL/+5Ex3SPElDP0=
+
+Name: javadoc/index-files/index-8.html
+SHA-256-Digest: PVnBVNIUnNH1sQIMH/cxpKIovl5teATDNDcPo4ezh4I=
+
+Name: javadoc/org/eclipse/emf/facet/util/efacet/ocl/core/IEFacetOCLEnv
+ ironmentFactoryFactory.html
+SHA-256-Digest: cX2zxQ6+xWL/C7gFT0gDj/cIV8LQHvAzkjvLjh6mszs=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/class-use/Catalog
+ Package.Literals.html
+SHA-256-Digest: swRyelkOSQ1qb3D2j6HyXSttPveiHRiG5ywLd/vzN+g=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/StringComposite.html
+SHA-256-Digest: OUHOt++3ONVWEEIPdVZsukc7Slbs23pKZeaha1cQM3o=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/clas
+ s-use/URIImageQuery.html
+SHA-256-Digest: eZnIQwIYJr7Y9zcviskZEq6DUMI69HuccTn45mMUkkY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/exception/class-use/Cu
+ stomizationException.html
+SHA-256-Digest: AXmp31NH7CqVp5/K6xLNJPbO4Mh+GSpW8Z43/s1Fmss=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/package-use.html
+SHA-256-Digest: K2k2JJay4U38ZIqElFZi+LVT2g2kpWCKUW9EmXl7VEc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/EFa
+ cetPackage.html
+SHA-256-Digest: 6d5umisYKQ+LRZ8riIGpTYB1Tt30b7YIhR4HWuBxLxI=
+
+Name: javadoc/index-files/index-11.html
+SHA-256-Digest: RqJNOMzKHUipPTKJHjz6atQiP0w6CcZvfh0UlzVss3I=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/DerivedTypedElement.html
+SHA-256-Digest: gF8OYJZdsqrbrdhyypyXYJ6BKjW6kD5thUwdFIAwUEM=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/package-frame.
+ html
+SHA-256-Digest: 4OFP3PVjh5ovQSus8IBi9UKiDSpdfYio1alCc4mu5fE=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/ExtensiblePackage.Literals.html
+SHA-256-Digest: ovvnz96ChXnN3Z/CktYoDdM/Z75roNyUuMEIF9milSk=
+
+Name: javadoc/org/eclipse/emf/facet/util/jface/ui/imageprovider/packag
+ e-frame.html
+SHA-256-Digest: txUzhX1TiFf3WJKXg+5QdVky9PtrLm44WYSW9CuoT3Q=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/FloatLiteralQuery.html
+SHA-256-Digest: nPFXlt2FgM+LZe1z9WlrbUnwYDYTT9GIwvWmAL4DGc8=
+
+Name: mediawiki/API_Policy.html
+SHA-256-Digest: QRd51fTmevaf1dZ634NsSI7rDHpNsmnUV2MWM+Y5T6U=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/JavaQueryPackage.html
+SHA-256-Digest: i82xhm7OwzU5WlqOUvvqtj4rSb4Bit5hsfNTHmqZ10Y=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/imageprovider/package-fra
+ me.html
+SHA-256-Digest: y6PIwlhfuOLjkwQAeEaiK9B6XVvs26J0ipO5CjlCBHk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/IETypedElementResultDisp
+ layerOpener.html
+SHA-256-Digest: rg7U+vYVatgndkv5HQpgVdJLNesOGUzGfibUkJaDe6s=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/package-frame.html
+SHA-256-Digest: bdduCT5gxIIIHegBB8kMp81k05ffWOAnvug7U24wziU=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/custompt/package-
+ tree.html
+SHA-256-Digest: mr67VBdFTA6wr+co9pwSs9jsZk53CNx35V6pO1dvjLA=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/INar
+ yFeatureCellEditor.html
+SHA-256-Digest: wWSw+9JPlsuFD9Tf8u4OD3IIKMCQG2NRqyXFTIO2aPI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/ValueColumn.html
+SHA-256-Digest: KlOueNxOxHdYfcBfh+jg6GuH+3MBDMDkmivYPG7Wkg4=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/package-tr
+ ee.html
+SHA-256-Digest: hzMC9FKFaXuGQxhDStZT4lspDg58S2KCvVcOXramBfM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/core/IFacetCommandFact
+ ory.html
+SHA-256-Digest: SFXglHbHhgZZUCgU2xeV9O7wheOT2psAJAcK1482lcc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IDerivedTypedElementMa
+ nager.html
+SHA-256-Digest: V5C/p3EkqtYScEmz7PMNpWPYMMgNUI1mtC03Hrluam8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/MultiValuedReferenceInstance.html
+SHA-256-Digest: lPX77wG6uNM+hPvB4zGfdZ4yVi6Um+JnLWIOl810d4M=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/StringLiteralQuery.html
+SHA-256-Digest: AOUOKDi5E3/+R+iKZPpDaycw3/mR74hytqbdYbisNlQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/ExtendedEObjectReference.html
+SHA-256-Digest: H5uAESS5TtJ0uzdI7lNPM8iQ6vd097cBO+IjbKpM0xw=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/ModelCellEditorPackage.html
+SHA-256-Digest: g2mrX3qLP8oUkbwW0uJ13817UcCmK2oyT0F81aKqutk=
+
+Name: mediawiki/running_tests.html
+SHA-256-Digest: hVwyUUaFDvEt5qE0Sv5HgoIwsHCQiYuEP+336qWUua4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/package-frame.html
+SHA-256-Digest: Z4w49swuUOhdCc5fwWMeKnvFcs+b3NJ0TXXBNo4FyG8=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/exception/InvalidFac
+ etSetException.html
+SHA-256-Digest: ToHSdUPrkRa6LFY1+eUaVGn1261VeV1fHZO490ZQk98=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/AbstractReferenceInstance.html
+SHA-256-Digest: jnAP8M9AFyj7jtaYDAFXORg83x8R/3xkbJw1hRwQUu4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetAction
+ s.html
+SHA-256-Digest: eC15bls50Ir9n6hAh6UwcRKtsEqbKZ5UWoq1gYgafH8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/package-frame.html
+SHA-256-Digest: 6HoyG76ioH11Ovi12kBXWb2ediLbwpd2FaiT5TASyq8=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/dialog/package-tr
+ ee.html
+SHA-256-Digest: ACgfBqbN2PBpZg0PfFoFxtM8FSroHC3JppiUUW2cmoQ=
+
+Name: javadoc/index-files/index-16.html
+SHA-256-Digest: evpCdZ0drceaDS8HRjgEl656rE4Y4iylCAMcqAVgSzY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/MultiValuedAttributeInstance.html
+SHA-256-Digest: yhs8CUIvgJuSfzX8zD6GvQAkYAeimIplQU2OzVTgG9E=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/EmfCommandUt
+ ils.html
+SHA-256-Digest: /BHdwjZUOuZKFeIgwXiCjKoPhF7gTR6OE8ubaai9z1E=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Der
+ ivedTypedElement.html
+SHA-256-Digest: TkfwAqEuUlasKpaafby4XqeXLM8c3Av30h3hGWj9rO0=
+
+Name: javadoc/org/eclipse/emf/facet/util/jface/ui/imageprovider/class-
+ use/IImageProvider.html
+SHA-256-Digest: rph56YMcxxEydSuQc7o6t5ACdJHaY/0NmHLCLa+L98s=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/ICustomizationManagerF
+ actory.html
+SHA-256-Digest: IfMVz6tKa4vP1aK9as1L0unE8boNMbnRMU3Qp1kEtVg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/package-tree.html
+SHA-256-Digest: JdXVX9YzYA+0FivLs1uwtVxj86BVWU+hI1ne7kEBDn0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/DoubleCompositeFactory.html
+SHA-256-Digest: WSOxASTHbYmdaD7uHKo9mWvPSiE1yZ9A7inbXAshU9g=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/cla
+ ss-use/EClassCustomization.html
+SHA-256-Digest: mV0BiAaWl6Yx4xuwsYBKubkeYIjV3/Ou989AXBd5KNs=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/custompt/IColor.h
+ tml
+SHA-256-Digest: PYse7Tsb3Q93RdkdMSWS9gY7p/tA2OkzpH5ZbjJmBao=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/ILockableUnd
+ oCommand.html
+SHA-256-Digest: vPpLfEdnPY0zBPppUgdy2RigoQGWcDEGB6OFU/05/+Y=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/packa
+ ge-tree.html
+SHA-256-Digest: n9bVeWCD/6PI7tJMXd+KmtBbkgYP816dLM7CSS1BYvc=
+
+Name: javadoc/org/eclipse/emf/facet/custom/edit/ui/class-use/IEditingD
+ omainPropertySheetPageFactory.html
+SHA-256-Digest: F1uGcbUJeywX4Ipg5ZrUCCNIhmSDOn3slAM86SCh0ME=
+
+Name: javadoc/org/eclipse/emf/facet/custom/edit/ui/IEditingDomainPrope
+ rtySheetPageFactory.html
+SHA-256-Digest: IgegQ/DpT/fKsZYYSik6M/+sxTl7U9oVaZamULqGoJA=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/class-use/ICustomizati
+ onPropertiesCatalogManager.html
+SHA-256-Digest: TmSrNcrdEHmUzRa3Y7Dy37iqtPbFe58ldrmxSz0tDPI=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/ICustomizationProperti
+ esCatalogManagerFactory.html
+SHA-256-Digest: a0aHiB/oXqs3F1SxpELqq+FrycA/ADG0+0Yy51uOCjM=
+
+Name: javadoc/org/eclipse/emf/facet/custom/edit/ui/package-summary.htm
+ l
+SHA-256-Digest: sPp4UWzNMhlQogZWDM01BduDq/iMYdAbFWocHctxCUA=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/ui/package-frame.html
+SHA-256-Digest: OEl1oeTGoFneVDw9VenhFtkoFHJ6yrcysFV4AtbB7x4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/package-summary.html
+SHA-256-Digest: CEoGUzaGAjMblgC62oL58HKTp5/JtaWs9P+wRPuw5k8=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/exception/package-fr
+ ame.html
+SHA-256-Digest: xxH3ZqqH4obZOgFYhThQaTg//WdJB62lBg2a058++3E=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/TableUtils.html
+SHA-256-Digest: or+3lej2+GVy6ExAshhUx1nJa+YPr5kRQ5MBkF9WO5k=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/custompt/class-us
+ e/IImage.html
+SHA-256-Digest: g2Mu9tiO/ecuEt/p6bt+OHJzvm/e3B8UAaq2Fej0pmE=
+
+Name: javadoc/index-files/index-1.html
+SHA-256-Digest: 3K7cQWLWz3Ddb22vggt2Zs6cE7ruXLIlbQ60EvRe7Zs=
+
+Name: mediawiki/checking_BREE.html
+SHA-256-Digest: tv1s4ufuU4EKHkv1NYb51ukzQ6OJu8EtkxanrL0QBbw=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/IWid
+ get2.html
+SHA-256-Digest: F35EQV2tJIH1tSTmDXKBzeDYVZIW7C3FRt5bxfs0w6Q=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IDerivedType
+ dElementManager.html
+SHA-256-Digest: FSqn8OzXqJNYusQ2zFIxR9cHTzcyiGO7sRTnI+U7zMc=
+
+Name: javadoc/deprecated-list.html
+SHA-256-Digest: 9XiP24inQPdBo2V1o1G0iLi966DozVtKaxcLgIRiiOw=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/ISeria
+ lizationService.html
+SHA-256-Digest: GZarWZveNdxt2H7b6joz4Sus4o74UbWGPkkZe1Ecnuw=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/fontprovider/package-fram
+ e.html
+SHA-256-Digest: vZkV6bNexkW13MbGoQF8+g7RT1+4A+x0r4Ebt2CtArc=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/ModelCellEditorPackage.Literals.html
+SHA-256-Digest: Nnx0OOYPOdPx62cBASxA26dmMlmUUlAlOmfFTdW6Tng=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/IContentProper
+ tiesHandlerFactory.html
+SHA-256-Digest: ANSDt8nntu8mcW0g1OnnQAZx9o83cTA7Y9flc1+IMSo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/package-summ
+ ary.html
+SHA-256-Digest: D4CRT02topKzzIzJVpNfgJ1MGjGTfVD+jz9KsHP1NIY=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/oclexpress
+ ion/class-use/IOCLExpressionWidget.html
+SHA-256-Digest: LNh0gHd+yhC2zmTXB7kmoNDjtZ5tJR6Y9Ffslj/4Ii0=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/CatalogPackage.Li
+ terals.html
+SHA-256-Digest: 3zlokDTj2yY/MiKrDgQ1AZpjYlLBVpo44/V9yjAytvY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/ICom
+ mandFactoriesRegistry.html
+SHA-256-Digest: Nhrnb3KAvOqJQcHy1dBnOnub7MtENf61u3BeS11mUJQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/StringLiteralQuery.html
+SHA-256-Digest: QUYk46+azQCHgdG87XhvUKlgch8DEnwJS+w4odM3c/U=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/class-use/TableConfiguration.html
+SHA-256-Digest: rrns1tLhaZHKLPxHcldlAu+lzARd0VP7C5rl2aJkuz4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/cla
+ ss-use/Customization.html
+SHA-256-Digest: OrHh9O66rhsgv7SW1lWJo9LHjkpsy4c6smMD9Ze1fig=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/IContentPropertiesHandle
+ rFactory.html
+SHA-256-Digest: 6be0QcQc9A6dmz4igqiL34o05RYPC5TSADzwDOQZZvs=
+
+Name: javadoc/package-list
+SHA-256-Digest: B00PPyepdh/q4dUoX7mmwoc/ydXgb0gFYM6RJKLqrhY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/package-summary.h
+ tml
+SHA-256-Digest: EOunE5i9CdctrgMBPg533W+6jRILwCavZTmzp/IxCpw=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/package-tree.html
+SHA-256-Digest: x5z2udS7O1etH21q5CE8ftH54l21i6qTl0kCcgBJGnk=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/package-frame.html
+SHA-256-Digest: 8xA8BtaEjN4El7wiHihSdwVV7wicQFEISetWzKnkBdQ=
+
+Name: javadoc/index-files/index-19.html
+SHA-256-Digest: vbBQWE/fwZGWojs7qNs95c9otbEl0CJcyqKw6kpaqso=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/fontprovider/class-use/IF
+ ontProviderFactory.html
+SHA-256-Digest: PF6Kplb0SaN2PytXdr9SBsAg+yCK/vfdF39qT3bW2bQ=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/BigIntegerComposite.html
+SHA-256-Digest: QIQMCW3m8u22t/92Oqbblf9MNh3YhrUdnaeGv/lkMKQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetSetCat
+ alogManagerFactory.html
+SHA-256-Digest: WX7xSS50E4TmUflrTtClCZ2LylHoHFkYIus2YaF1hkI=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/EFacetFactory.html
+SHA-256-Digest: 70khe6EbbbL876gJIurvzQZBYod4myy9hAbegzhg1K0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/edit/ui/package-tree.html
+SHA-256-Digest: HG0hLx2MSNuE4/Y42yWkCyDwv0a7b+AoyroVFJZj/hg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Fac
+ etReference.html
+SHA-256-Digest: bFi5v8iqk0kd1dOMIjey7KV0cGG7x6mgXUkEBG7BO3Q=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/exception/package-summ
+ ary.html
+SHA-256-Digest: nlMi6lljMErmG3Tl61+LCNUYnmjsHlhVkoAhOhaLnO4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomizedLabelProvider
+ Factory.html
+SHA-256-Digest: 2q0MJHJXKnoRDSfiOtE2qIx/TnSOfpaHBedI2HziStM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/class-use/IFacetManagerP
+ rovider2.html
+SHA-256-Digest: 9xQzTySPJjDnBbV5W22reHbO0725+PVRXSgHeO6gMtQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/EObjectLiteralQuery.html
+SHA-256-Digest: iIHgLo4OBV3Nvm2ZxUoOdLyRbs8gd1uc2fwO17jO2iI=
+
+Name: javadoc/index.html
+SHA-256-Digest: g8IlBZTFmqXd3UvxnLrJ9U93ORa36u16YUM9doYgaI8=
+
+Name: javadoc/org/eclipse/emf/facet/util/jface/ui/imageprovider/IImage
+ Provider.html
+SHA-256-Digest: 8k2++8fCz99fAUPb1k62tWNCdUcNabToJG4BPpmwQx0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomizedCon
+ tentProviderFactory.html
+SHA-256-Digest: GFe4phyHBBRtymW1zZ9RBz9E5o28Y648Xhx9CF3qAtY=
+
+Name: javadoc/org/eclipse/emf/facet/util/jface/ui/imageprovider/packag
+ e-tree.html
+SHA-256-Digest: XMvTHXTwsi+EbLzkFPplCegpbfxn2oWfTPEgCHqBrzg=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/colorprovider/IColorProvi
+ derFactory.html
+SHA-256-Digest: ge3DcATMmCkqr8QHaVfdF6G1fdj9N8ON4aZN9COuzt0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/RuntimePackage.html
+SHA-256-Digest: erAtLRlYG/bReegN7ho+qns1msHr97HwnanMxxIsAz4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/ITableWidgetFacto
+ ry.html
+SHA-256-Digest: OiJpYPXRjXHbHr1LJ1BO3VWMOUm5zyUR5vNREGmyg8I=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/IFontPropertie
+ sHandler.html
+SHA-256-Digest: iyW0e76XwuEgLqqjw3aXgRxxCx2Ndup2rJmMJ8C3QTo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/ui/IFacetPropertySourc
+ eProviderFactory.html
+SHA-256-Digest: Rk27do8y006+IOT9E1TVXVtEwkaPcQdDpbW5vB+mh/o=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/OclQu
+ eryPackage.html
+SHA-256-Digest: lyQ+20DwUu1Hsx9/qeAJVjJbFc7PgCCgPhnBdO33Ktc=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/TableconfigurationFactory.html
+SHA-256-Digest: IOAziq0myAG7ptOUSbk+Mf77JcF11iiFYmFFteax4FM=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/class-use/IC
+ atalogManager.html
+SHA-256-Digest: ujKN5VznWnSGtkHwD7HuPd7dC/GSbSI0JKMJAUWMFzw=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/IParameterValueLis
+ tFactory2.html
+SHA-256-Digest: hwKpi3R39mq05wnxJ8zoYNI/pkFFtUmq42Z8m+hUUcQ=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/ISeria
+ lizationRegistry.html
+SHA-256-Digest: CYcQ6gOlc0aMi+eWAnzlOj9yuhGZRL4Gov/H3n0jHbU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/TrueLiteralQuery.html
+SHA-256-Digest: Mdl6SqSgMbnsfEgxFZB5nFM36XrLrif1hfIsGfGgpcw=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/package-tree.html
+SHA-256-Digest: ULVyS0NmcIkx9QY7XVZs1emY7JP07Ib21KMq+nfMQKk=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/EmfDebugUt
+ ils.html
+SHA-256-Digest: ZdW68ZWOFk/t38QuGInBOy5dZnsG4gRp+xJCFKKNvoQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/class-use/ETypedElementPrimitiveTypeListResult.html
+SHA-256-Digest: Vx8kxCbAdc/dWk8fNjRQftlcTk+XRBkTWCK3jSI6lr0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/ETypedElementPrimitiveTypeListResult.html
+SHA-256-Digest: WUImohbJkmtNTa3DofUBdqHVmoQXn8lK+8h5SV35Nkg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/package-frame.html
+SHA-256-Digest: IGFAe5k0bRu8D2SyYGLX/Likz2mGbS33pTWmEIH+v74=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/package-summary.html
+SHA-256-Digest: 6QUwyt9Y/VR7b3QhTSZdTaTregEycjF5gglRQ661WD0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/IContentProper
+ tiesHandler.html
+SHA-256-Digest: 1YYsURnJjTf4CjPv3WKBHbPHfvGuroy/ehvrtbL2Ufk=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomizedCon
+ tentProviderFactory.IContentListener.html
+SHA-256-Digest: Wx5teRgTvW+ws6KDKbPLXQYwRF9VMiajHaPQdKCW4KY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/ICel
+ lEditorsRegistry.html
+SHA-256-Digest: Gapu615FkVDy89jDzEsdVOPmTCNHNvtAkVJbXYKqWaM=
+
+Name: javadoc/overview-frame.html
+SHA-256-Digest: GkuSPNMC/Xm+bkhNmA/T7LN5FymZ7BXpCSTszcYAF/w=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/StringMultiComposite.html
+SHA-256-Digest: svzNPIEwVfTv1zTPwbNP/6Y1riO2N8Sf7dhPCNqk7Kc=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/colorprovider/package-tre
+ e.html
+SHA-256-Digest: 9R+00egAZ9Jh+OkWMGIYamA57oSBeDUsTjHWfWYCq/A=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/class-use/ICustomizati
+ onCatalogManager.html
+SHA-256-Digest: TG76vHCp6kE3lFatbRZwS5ToZcj00wFX8IltWQ/gs8g=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/package-tree
+ .html
+SHA-256-Digest: kukX6iwf6/b2DTyE54KjWQO/fyNNXnNb4cJuO4TkTyo=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/class-use/BasicCellEditor.html
+SHA-256-Digest: ZlYjcRvP9aczlTWMAu3zlC+klKGSjYYL6c8+a4GFviY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/package-frame.html
+SHA-256-Digest: JH1Rz663yn/SP7Tsd/a7kzVY0gisyMokSRrzc6ltbT4=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/EmfDebugUtils.html
+SHA-256-Digest: Yz7oLR25u5sFjz484vv62KsiKVSEQglyLCMuPQRmKqA=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/StringMultiCompositeFactory.html
+SHA-256-Digest: NiJ9p0aU81C+aqMqIGg3y6K53WUjQLSYdXnK1HnZ94I=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/ICatalogSetManagerFa
+ ctory.html
+SHA-256-Digest: KKgJ0p8U3Cy4HMGThxl/E5GYPMI9QYscK/Q4P+fSILo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/class-use/LoadFacetSetSh
+ ortcutsMenuUtils.html
+SHA-256-Digest: BN/6tTsFUtaJ5/y5vdtr2HiVf2QOxNbtud1T4qFadC8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/ModelCellEditorFactory.html
+SHA-256-Digest: ykcmO1Z/0K6iN9vXwF3SWcG3CH+5AbM8Aqvw+YWdbaY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Cat
+ egory.html
+SHA-256-Digest: o/5rtXhAy2YKvCdCWBU6nXp9IyzHlhga1aXdUweRXT8=
+
+Name: javadoc/org/eclipse/emf/facet/util/core/DebugUtils.html
+SHA-256-Digest: rECiMn3xFGSh02hMncriaY3pmSFPhQWOobo1hzYMDDo=
+
+Name: index.html
+SHA-256-Digest: yCxdP1ROz46tHjsg+IcVdvFrU85vw7hL7Yw/oTWzqCM=
+
+Name: javadoc/stylesheet.css
+SHA-256-Digest: G9fhf+PVG813X/8Ib2axn8l6L0ZySPOC2DEMaxFMTV4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/package-frame.html
+SHA-256-Digest: 1/p2Ek3qHDkXtYIs2UA8WeabJrWIqzBbxYERsTiwenQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/sdk/ui/dialog/package-tree.
+ html
+SHA-256-Digest: t8UFtUa73cw7N8N9uaD1z62kL42CgN7iRM+/XwLroGc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/ui/package-summary.htm
+ l
+SHA-256-Digest: LSCwhoWm7qQq0o9z3nK16vvEORSX4akhYlRLaOsmy7k=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/package-tree.html
+SHA-256-Digest: Jb2Z68We/RBl8EZjrA0JzWagqxRC70eq9lCtzYgN9lU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/SerializationPackage.html
+SHA-256-Digest: c1hYyIfTQE4u27COZsTxItIZo3E54Sub3HoMx00Bj4E=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/ICommandFact
+ oryResultFactory.html
+SHA-256-Digest: 02xHjorZevIirYO+b2WRMWoO7g6nHMglp6Ocp7VSYNo=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/UnaryReferenceCellEditor.html
+SHA-256-Digest: KbzEfmOci9YkjAkCz90f/fqQMN5uRK7cCtFB7ZkxEKI=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomOverride.html
+SHA-256-Digest: dH+N9ZZ9h/0vzHJXA/he1jkFxjNUlAMpWLtr9BHRCbg=
+
+Name: javadoc/org/eclipse/emf/facet/util/efacet/ocl/core/package-tree.
+ html
+SHA-256-Digest: jBuVGC6rc/HvslryVpc6TG3rPBCkBGagqLPHwvrOJSE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/ByteComposite.html
+SHA-256-Digest: jWbSXamf9GoBcoeNjTg7M09dQ1ak3X5CUkfWIH+vrWo=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/core/util/OclQueryUtil.h
+ tml
+SHA-256-Digest: Z2xfe6AYRNdlYxbfzaSaFp9DNN6JopSmip6knKSucYc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/SingleValuedReferenceInstance.html
+SHA-256-Digest: 2DWg/V0PiLStE4bEvbagOGHhzDgywk3Z/p3MEQf9AdU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/command/package-f
+ rame.html
+SHA-256-Digest: H6Tsh17M9TWALFy5t5Qz3ghxbSdP+ewcuQTJodMYf5k=
+
+Name: javadoc/serialized-form.html
+SHA-256-Digest: IJ7gLC8pPJqWFUJW9mlY0AElSrR46y+awrvWbbITCVg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/package-use.html
+SHA-256-Digest: sfhQ37phY6gBDLN5PARGd1xFbCEslg1Nl/RVIGx/604=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/package-use.html
+SHA-256-Digest: KipjHwQ/RjqVZ6sa/HOmZYb3tseJw62WwSUvNR9QeWg=
+
+Name: javadoc/index-files/index-12.html
+SHA-256-Digest: LJBM4caxdUDi+mfmJJ9jWZw1BeDA41jl1UK0mKxs8u8=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/cla
+ ss-use/ETypedElementCase.html
+SHA-256-Digest: C0/lb5IbEwRdHm+OP75HS4A/ljFAK8fIua3JzE0ahPA=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/SerializationFactory.html
+SHA-256-Digest: wT+3Gi1UyMJASc3RFGfrPyQmsxSH17ipNBeXdlnYo5U=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/package-use.html
+SHA-256-Digest: SKnbr2w5f763lJJ5UKEVmtBVjxzQuNYJay+8RcC4FX8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Fac
+ etOperation.html
+SHA-256-Digest: XDbwZXHsLIqB83kWiA9wFjdVh/pYQnkQabh/26dmbPc=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomizedTreeContentPr
+ ovider.html
+SHA-256-Digest: vAPr1QKOkQMrHNECbJsV/7FQIffaeS4ObOpZMRVecfE=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/packa
+ ge-frame.html
+SHA-256-Digest: JJ4WWcBBtPDXtetLNredsOEfHMzNFCNq0BQTJHRJKwM=
+
+Name: img/EMFFacet_NatTable_QueryColumn.png
+SHA-256-Digest: s1I1OBA5JIHNHFXe1UEcKrhBFOl3Uew4hvY7e0HbQcQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/core/package-tree.html
+SHA-256-Digest: xfhGhMm1IG255My9nrgVpCgZxZLVTkBhtDEhUKmz7Hc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/OperationCallQuery.html
+SHA-256-Digest: XimrmD83aW2PhZNAWdGtpwGK0FUnlsAGtj5EGHZ4qVg=
+
+Name: javadoc/org/eclipse/emf/facet/util/ui/utils/package-frame.html
+SHA-256-Digest: DlxSIwK0Xp3ZttcNmJHjODL6IUBwuxJcyPFIuV9/N44=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/package-frame.html
+SHA-256-Digest: ZNl7JIQbNFHybZIwuYhJiyuYFfQifWL7zV7IfbC0S9c=
+
+Name: mediawiki/checking_BREE.mediawiki
+SHA-256-Digest: U7joO4AEvQhblDRHIu8pyIxPZbl3c/L0/5onRoh3gJU=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/SerializationPackage.html
+SHA-256-Digest: YjXc7fkGvUw3GMBDYZKD8wnaiUB5/TdeYG9Fqe0L6Hc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/core/class-use/FacetCo
+ mmandException.html
+SHA-256-Digest: OyqF2H5JdSwprXTKwkisM5s4Xn0SIjtJZsvpCO3Ua+w=
+
+Name: javadoc/org/eclipse/emf/facet/util/ui/utils/class-use/UIUtils.ht
+ ml
+SHA-256-Digest: //k/zr5fdWtctpo2k7rBr0P6FrMs+nsSHUqiTvC/TUU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/command/class-use
+ /ITableCommandFactoryFactory.html
+SHA-256-Digest: Msj0Cw9bYSFtr97awaNeExUClrNOqJJ5yGx6sy9+MPo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/ui/package-use.html
+SHA-256-Digest: CkqeS2CC/TubO4IjODFx18h/EsuzlwP/eQqlQkCWDFc=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/packag
+ e-frame.html
+SHA-256-Digest: 6GY+JCxM8px2lWdlBwk7tHHiHb0Nl5V+XUs9V1O9zsE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/ModelCellEditorDeclarations.html
+SHA-256-Digest: d6dSYr69J1AnQReF0Yc7rPnyXpivLrFRBXccd5EVmd0=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/IJavaQuery3.html
+SHA-256-Digest: Rn1NJPPif1T5Pe5z7bxmRE29/uC7syW335i6x7Meoi8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/core/FacetCommandExcep
+ tion.html
+SHA-256-Digest: u+jEZfa1fuqVnUXDKlb/a5p1nlr9+2U93r9q85zejXU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/PrimitiveTypeQueryRow.html
+SHA-256-Digest: SJuRbZZaOB7spL0yuzNbPbrDHp0xkznmO20XaJmO2xE=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/exception/class-use/
+ DebugRuntimeException.html
+SHA-256-Digest: 64B6YDyl/alhxaLzkffU7AZYAXvJ5ie+cGINHUZegXA=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/core/package-frame.htm
+ l
+SHA-256-Digest: 4CTHGRHb6mbB9JwNTPWMGhC3mN8pgwIo4y4mGWd/tck=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/class-use/Su
+ perInvokeException.html
+SHA-256-Digest: bC08gW5Tl9USbJdRPRIcis+OBy+sdKe+zbpOG8aMz9g=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/package-frame.htm
+ l
+SHA-256-Digest: W+LbGV9k/ZpsSQYHKK5n24k55aOtah1+iouWt3e1y8U=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/StringComposite.IConverter.html
+SHA-256-Digest: PEbPcltEaLio91ReO/ifVmVZyXQGvsZXn9thSZyPqOA=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/package-summary.html
+SHA-256-Digest: uCc8KhYol8LrzNC8rwncHgyGGmKoxiEcWglgrNnn9rw=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/QueryPackage.html
+SHA-256-Digest: LlJdtxgOCMBa9NhwOGP5mRYCVKFmPrhJJb14XGNQzFM=
+
+Name: javadoc/org/eclipse/emf/facet/util/core/package-frame.html
+SHA-256-Digest: d8rotfW6qUii6GvxUuQDvNeu574WuVVF0QAEilEUC00=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/ShortCompositeFactory.html
+SHA-256-Digest: pebr08+RbdPH0H5L/IwUKR5nEuWZStfYwSZJQOGCdtU=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: lJY0tNLi1kRLhB18TL67nIavHu8y5o30fNuo327wicc=
+
+Name: javadoc/help-doc.html
+SHA-256-Digest: YQ1tebex0DWvwGc24v6TNXXUifYDVoknmJojkyERRHg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/ByteCompositeFactory.html
+SHA-256-Digest: 45z/pqX6zgRDtfIGLMX6cAA2VJtfz2iVKmcI5iCVU7w=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/NullLiteralQuery.html
+SHA-256-Digest: jVSgbB4/TvVIER1+Rz74luMsJmLPC58Nx6JS3F0XsaE=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/ui/util/package-tree.html
+SHA-256-Digest: 4lBNbSS/7bPKglb3QPTCyaQCCxEGOOxNOBJ0D4Y0+eU=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/package-frame.html
+SHA-256-Digest: ZG7XjRdwWmNuJdgYgjUcYo8Kmde3sLoNwg48dl6Ax8A=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/class-use/ICustomizati
+ onCatalogManagerFactory.html
+SHA-256-Digest: C/bNNXyAstjUQg5iVJfQ7bkTHNAlnjLlks/KXbtjEIo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/class-use/ExtensiblePackage.Literals.html
+SHA-256-Digest: J/9Vcga3bmBxckbVnRH2npqBSXPYRDcJKfvx6hmg7yI=
+
+Name: mediawiki/API_Policy-toc.xml
+SHA-256-Digest: Ot3NXCDwQjnjvh2OO0erx75B9Lex4KiQwsWHRtxS5sY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/ModelUtils.html
+SHA-256-Digest: lWW9wu+0awbWSVZxasY+w5jyqjMgabCd5X7QB1/a6QM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/AbstractAttributeInstance.html
+SHA-256-Digest: KFZnreZu6we8E30vl1RM0lp6oAJc3aqFuYOdm4mqhJM=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/packa
+ ge-summary.html
+SHA-256-Digest: Q8/KsZ3YaKgg35zvQFTSmrg7f0+iNst/Enq2T0spo3s=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/ParameterValue.html
+SHA-256-Digest: qP7XGhbiHAF2D8ESF032flSuGfyfRQZ3/cGyTtaCzSg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/command/ITableCom
+ mandFactory.html
+SHA-256-Digest: dCREiQmNtEiKKPoinrIMBrqnGFyTkLNwSi2uT/Opc+c=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/class-use/Em
+ fCommandUtils.html
+SHA-256-Digest: QN915glFpPpodfFkUu5Kc4tBbwSxK9rBzKAUCjenk/Y=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/BooleanCompositeFactory.html
+SHA-256-Digest: Cj3MZqP2pQT+tX+dr6SffZGF7XMN4chxwu6D/PSbEn4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/IntComposite.html
+SHA-256-Digest: lfvHeUw63OZeBo8jCYZepCRHw5RUA3oVLjqL15uwnW0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/IntComposite.html
+SHA-256-Digest: g48YTZqp5y0dNNQ0uxAFL0TPt3vXaC7hwdoSuGuikgk=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/package-tree.html
+SHA-256-Digest: yTNkPET4VIY0a50SxD+JkDc4IutHzD+fyMkC0jK8PmY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/package-fram
+ e.html
+SHA-256-Digest: 41Bv3x9LfGqV4Gg2dmcTLYDI32toe/xQtiFJBP5njFE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/IMod
+ elCellEditor.html
+SHA-256-Digest: 9l3L9a4caiUUDlIn436lWt2L2FBSvp1edJCLdPgSl9Y=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ImageUtils.htm
+ l
+SHA-256-Digest: lSAtELXG6T2UeCov6bvrcjdXkiyIfjUcs2+6kogHwNE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/core/composite
+ /registry/package-use.html
+SHA-256-Digest: CmXiDmqm69VYbbE4UuuH8m2orQv8Yc0t8J2F/+PCGD4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/package-use.html
+SHA-256-Digest: mG8pT/NWkgbpoJfNcOBH/0diDsdp9NPZ0mcMmGXoXtI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/Cell
+ EditorsUtils.html
+SHA-256-Digest: my3JlH0ONcTzgouA5NXrbSaWA4l8svvNFkVKN8HJS5k=
+
+Name: javadoc/index-files/index-15.html
+SHA-256-Digest: gKiLjPbjk7xlMr2N+3QnoqwF/vrwwhuTEIgI8yoaeH0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/package-use.html
+SHA-256-Digest: Y6pXN2a/xQiqeSpk55+iAT0jh5mLtN2UzCKOuel2UEk=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/class
+ -use/OclQueryPackage.Literals.html
+SHA-256-Digest: p+GsSBrE6C77VFSPUfvr6rVStX0iRuefjQ5Ix+pmMe8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/class-use/FacetSetCatalog.html
+SHA-256-Digest: DTpa95RENc736UcS5MKPNvsAfIZ+k+O6iwpljN8O/84=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/package-use.ht
+ ml
+SHA-256-Digest: Nl6BHfRPsjMbuOULcZYSHX4RM6Z31P8BYmB8Zdf2Z4E=
+
+Name: javadoc/org/eclipse/emf/facet/util/ui/utils/package-summary.html
+SHA-256-Digest: AvBXw5S1D3gMbL+NXCx8SeCLB5uoBfkMvtdSAU1qnYU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetManage
+ rFactory.html
+SHA-256-Digest: hDWpJqpGmydAgHVYePyUelaU1FsQDHpyWE+NMYxsiHg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/package-frame.html
+SHA-256-Digest: o/W7o20qDPmHWAEHa2GC/X8SVc1vh50/Yv2W6cHJVkE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/IntCompositeFactory.html
+SHA-256-Digest: UjGytn4rAUbfw7VESsuFutuJd6jP5AoLOyT0HXvEVtg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/IFacetManagerProvider2.I
+ FacetSetShortcut.html
+SHA-256-Digest: qTiuI5JqzgWcQOsc8u79QvS0/4FuIrYUVWHCgb/lD68=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/package-summary.html
+SHA-256-Digest: m9RCPg+7BKwmuzFURLrUj4TzVNSEg8x8jDFgJg4oZzY=
+
+Name: mediawiki/capabilities-toc.xml
+SHA-256-Digest: RVfPjoqTGRLQCqxHvL63/UIcB1VYyk/nwr4S1/wGYAE=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/MultiValuedReferenceInstance.html
+SHA-256-Digest: pJeWGGDkTtH8GIqU5oEis2j/1/kJLJLO7jlbkWnblzE=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/exception/class-use/
+ InvalidFacetSetException.html
+SHA-256-Digest: cjzh7GjIq/jRkKLkSexIu4oWKvgIKXiHX1nVNC4GXeQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/sdk/ui/dialog/package-summa
+ ry.html
+SHA-256-Digest: pBJ2tEC4E/oefzKEdGrh0EA34WlcngNu20oWC4xFa0o=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/fontprovider/class-use/IF
+ ontProvider.html
+SHA-256-Digest: wuTO3nFPADkB8ChqlqHO0FWM/Gs4JnafaWzx43yBwXI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/core/composite
+ /registry/package-tree.html
+SHA-256-Digest: 7jOYydDH3Z1UQcWmc+V2Kf/0JbQa1zgsXEn0zT/nqI0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/pack
+ age-tree.html
+SHA-256-Digest: 8GWeG/fP6iYOsXAY4ezPZ5x1rjOhumaJV4ju3qV70pQ=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/IEObjectBr
+ owserOpener.html
+SHA-256-Digest: FU7uott9qqhDLVrGTGBAlMgpIpSQVO6DojcGJzbJV8E=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetManage
+ rProvider.html
+SHA-256-Digest: 9Pc/II3n8/JF9TQqRTmNaiKo4vjvzWskjok3SEW0aYU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/SingleValuedAttributeInstance.html
+SHA-256-Digest: EHTAQH0ZVZLoqiIuV1RMmqDUsj0sYGeXyAJH4S3nDiM=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/class-use/ICustomizati
+ onManagerProvider.html
+SHA-256-Digest: hYr1Ei+UAutYIlOEUWupvYNyT9lD07BWEjQzz8it714=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/cla
+ ss-use/CustomPackage.Literals.html
+SHA-256-Digest: s9Uja1mCr6gvDTBgAWAzgzJnKjcpDdbeQ76ZMejMbJw=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/BasicCellEditor.html
+SHA-256-Digest: 3xVI+RgJjJF7i7EHZFxaG3JOleJy39lrzSt6womBR4o=
+
+Name: javadoc/allclasses-frame.html
+SHA-256-Digest: citkj7Zjk3vUuHnaPbpPaovf3OrtcR6aS1MItGDz3AY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/custompt/class-us
+ e/IColor.html
+SHA-256-Digest: ERYn/l9WFbyOTRn3/shS0NToLUSpiV1nhmbsWC7ifNk=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/class-use/ModelCellEditorDeclarations.html
+SHA-256-Digest: 2JQ5YCh2M+B6daK9ux8zi34DzlOFEAbIQSJ8f3pRAOk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/package-frame.html
+SHA-256-Digest: Mt1JQ2piEqV9Z0SkY/Gdw5atq9CvO673pb3Fy/PQZvg=
+
+Name: mediawiki/ramp_down.mediawiki
+SHA-256-Digest: L15WvBPLSVsbAfCXtR1wVdEx/Tdt+toZLdfiwPhJGYc=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/ICatalogMana
+ ger.html
+SHA-256-Digest: jUwSDSQV9+B3ADVCYf1et+hHVsh8B8NMrP2qPKyKxBM=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/ISeria
+ lizer.html
+SHA-256-Digest: dXFXv92zGK/UPC7D+8IfYbwF4qMEmivCvQcwD2Xllu0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/pac
+ kage-use.html
+SHA-256-Digest: di86GBjrsPNn0/pzJsHuZyIVcWR5BHqwI1UHs0whsLM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/FacetUtils.html
+SHA-256-Digest: UdR7V92Ea0u0gIgFRnkRoSY9WrGoY+9YfZLJcSVgqt4=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/CatalogFactory.ht
+ ml
+SHA-256-Digest: NFzTN2700AXHotyj0DB4Ta5cJUafWT1WvqjQIkaObj4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/class-use/IFacetManagerP
+ rovider2.IFacetSetShortcut.html
+SHA-256-Digest: 6odEHhuOUTQr/K9KCw+Godrk4YGpqyIEcOkLLv/4SRg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/ExtensibleFactory.html
+SHA-256-Digest: Na8HGIpjEE40uuqql3hu/QOENsoE96aLmfzppa129AY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/NaryFeatureCellEditor.html
+SHA-256-Digest: ibeBzzVpOFj42w1nuGqv77dcUYWSV5SLCGeqdZGC738=
+
+Name: mediawiki/retention_policy-toc.xml
+SHA-256-Digest: nZ3kSOnLjTmiGwMGLdbe0TblFxVP0NwjMpTgGRatvbI=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/clas
+ s-use/QueryPackage.html
+SHA-256-Digest: 0mixM9CugRqr3otb1XCs8SoS+u+TiV05DytUUGNa8b8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/Query.html
+SHA-256-Digest: UmCaUin9QW71bX8XMT4/jG/O4P3xJ0Sdtv9FddU8wP0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/sdk/ui/dialog/package-frame
+ .html
+SHA-256-Digest: il6w/xi1sTbtfE4ybWDYy8tG6/SORlmuC4XKZm9gMG8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/TableFactory.html
+SHA-256-Digest: OvSSe/REei15OTY8kpGBT1+qktgc2AzEJW1r2BdSi3c=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetCommandFactory.h
+ tml
+SHA-256-Digest: R/KdFylCjlAdHteDg6ZdSXTvJkjVkk6xAs6spNGmt1s=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetManagerListener.
+ html
+SHA-256-Digest: oq6vwFBqs2ku0R62LADPo/WS4c+j2fgDGGuKy845A4o=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/ETy
+ pedElementCase.html
+SHA-256-Digest: 5DTO2aeZqlMryprHVfHnIAh2hbefA1fj7KXaeE9l9aE=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/Cus
+ tomPackage.Literals.html
+SHA-256-Digest: 9yOQHXFJCxKeCdyjzGASc1kpcHNou5mP7jWqoRLgCgY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomizedLab
+ elProviderFactory.html
+SHA-256-Digest: 8pX8dxvsa2R0Si433GMjaeWIOrf9b4ngJMPxoJAwFvQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/IETypedElementResultDisp
+ layer.html
+SHA-256-Digest: GMSpVAlC/dKv2NxzyQ+jD82Qn7WG67cL/B+Bd7UbXg8=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/clas
+ s-use/QueryPackage.Literals.html
+SHA-256-Digest: bbAQg6xAyNczDMDOo5XEMl62yRexMISFuXjiNe8DQTE=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/custompt/IImage.h
+ tml
+SHA-256-Digest: QTVrSwTb+KzGSgATvGhHgtLRX/CsPLef/sNgz4R1KMk=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomizedToolTipLabelP
+ rovider.html
+SHA-256-Digest: 8+SVyMAMs5SfarINtGtN3izt+Ps9OKVVspn5YiN9hQc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/package-frame.ht
+ ml
+SHA-256-Digest: e+NxnSgF3qy5kCyEIlcpeA8xK9ZQvx4RxCMzidmq1Fk=
+
+Name: javadoc/constant-values.html
+SHA-256-Digest: MAfI2+TfnMo7Z3mktxKozA3TE5Idki3Oza6HWwLJwpA=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/custompt/package-
+ summary.html
+SHA-256-Digest: 9pZeEJazcP+zGtJxUljiNHstm1/W0S2J38MvQZcjvEM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetManager.html
+SHA-256-Digest: vFpPy8bl4hmQqgqgwMoVZEutfkqnDWeXCdJeiC6cK6c=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/ShortComposite.html
+SHA-256-Digest: HoIez1VpTQhAmAZvxdbKstk1eIka7THRZBOxI3R4LMY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/package-summary.html
+SHA-256-Digest: qp1BiM+C+n/r8tm9q/y5oi+r8cqgH9yFHmTz17JTtes=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/EFa
+ cetFactory.html
+SHA-256-Digest: DkLm7JwGH2fNLRvq0WujlumFJ+Lbkn6Btd0bTHPE+No=
+
+Name: javadoc/index-files/index-7.html
+SHA-256-Digest: oYDBmrxFeLWyjzmW7sll38etb3/4a8SpeFj9H9BwAxA=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/Quer
+ yFactory.html
+SHA-256-Digest: PS92YKLKOOa7Q0B4gZwyyy7z/bOGqYFVB9MtuFZShxY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/LoadCustomShor
+ tcutsMenuUtils.html
+SHA-256-Digest: VqqHmTegkf0pResDfQM5TygWBfhBwuevFtmRJ/1dD+0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/class-use/IQuery
+ ImplementationFactory.html
+SHA-256-Digest: 7QIejVsBbgNzQHIk3PaDb4aeFMPnqXDAstHCqVDiPQM=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/oclexpress
+ ion/IOCLExpressionWidget.html
+SHA-256-Digest: t3CmcVowCcYLXTQAwGo9i/M31VLZdrVzSclFnwwdRJ4=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/imageprovider/IImageProvi
+ derFactory.html
+SHA-256-Digest: 77GjKXRForNaKDJp18gc9flNzqJjBWqHbGd172sJA8g=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/exception/package-su
+ mmary.html
+SHA-256-Digest: RY+weoJQaWJ7FjBoPf2iRvDh89ZOUe8uDDXMp4GZnzc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/SingleValuedAttributeInstance.html
+SHA-256-Digest: u/q5z6zaKu+NCdGiKkrFAhIGD6IokR8GWKQaxAvpNZY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/FacetOperation.html
+SHA-256-Digest: NIVtZg0s1oWanBIkr4bXCM3HhZoiOuVyY/EqBPs9cug=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/class-use/IC
+ ommandFactoryResult.html
+SHA-256-Digest: E3LRVFDE1RgQp66oYXD8/p1zuagJrbEdiZeJROlnuS0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/IMod
+ elCellEditorContainer.html
+SHA-256-Digest: r2rK8ZctsGHQrps5A1EDXqQdBCFWEoiKG8jTbfTKrYY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomizedTre
+ eContentProvider.html
+SHA-256-Digest: sfevg5iYV5O/v1X326sTQiA/StBe1LvT6zyvyXxhY5o=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/IResolvingCustomizedLabe
+ lProviderFactory.html
+SHA-256-Digest: sJg2u4nhWrsfIxAZpZL8gQNOVOOPuVJRoQLT437LZE0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/MultiValuedContainmentReferenceInstance.html
+SHA-256-Digest: xp3Nmlkjm5RblYvhIvuBhaWWqr28xAb7PaYRINCjga0=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/class-
+ use/ISerializer.html
+SHA-256-Digest: CvGVy5OyO5v0+YHi6LMqjvX2GOIz9yI+E7Vwn+I2YAw=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomizationManagerPro
+ vider2.ICustomShortcut.html
+SHA-256-Digest: 3M128eeFWrMmfv97qq6dTqsALxiTSILh0GomlmK1WaU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/class-use/De
+ rivedTypedElementException.html
+SHA-256-Digest: 2P+qJZMSoL2bkZ8FLeZx4KaCn56La6ycejwcwG6qRpw=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/ETypedElementPrimitiveTypeResult.html
+SHA-256-Digest: PhWc+O98x4/zZqG6ABRGqLvQCxE2ybnriTL+dvU+kIQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/IQueryImplementa
+ tion.html
+SHA-256-Digest: nwyfHqcxOCKFKqhkf+XZsaPLk3hrPZGnH4xmgq+r19s=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/package-use.html
+SHA-256-Digest: kLg8ufVvne9ntOMyaoHY0G6gS003fvAffYaIQV9saqA=
+
+Name: javadoc/org/eclipse/emf/facet/util/ui/utils/package-tree.html
+SHA-256-Digest: neclERzQnbDpHo46qlI/prNQsdi4RJz2dPacDHFFI6s=
+
+Name: javadoc/index-files/index-3.html
+SHA-256-Digest: woYeII3UvhF9XUZRMct28MFRfAOZSVrWB8+JYXKZ+K4=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/ui/util/package-frame.htm
+ l
+SHA-256-Digest: QkgxcXtqWdZtiOPhUnlli+vKmWv/s4o4rG9Rrnlfv+Y=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/RuntimeFactory.html
+SHA-256-Digest: fXFc7+FPgxn43b0VLdEIpeo+g085UUG7CYblQtps9g4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/IntegerLiteralQuery.html
+SHA-256-Digest: xkgnvI8Q3c0lZ0QNCXeCVjoqA1+5KKu4RjHcpt/YDGE=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/package-use.html
+SHA-256-Digest: fa4/3WUmTeLmASyL7z7vzOcpjq1Lb4BYWxBcM4a1yoI=
+
+Name: mediawiki/ramp_down-toc.xml
+SHA-256-Digest: BEBD4jaItXqxKefKkZtk2lpsvkGoMFJ2k1c/ktliXjg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/command/class-use
+ /ITableCommandFactory.html
+SHA-256-Digest: Tmhw84dgKQ53Abc/QqK8Vb4i6ZuwaSOv2yfXGytE93I=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ICellEditorsRe
+ gistry.html
+SHA-256-Digest: VUDuRi7QDb4x5QesgBXGx5gPW2xl03X56mYY1v9/YA8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/NavigationQuery.html
+SHA-256-Digest: DYo3mbA0hJgQx5Dxjn+tS7I6D7s5nh9ElkXkULSS4Os=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/ICustomizationManager.
+ html
+SHA-256-Digest: JAtKkob98EG2H/4ic7jE7T12q4NSMR6M2Zex0uRC4TA=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/EObjectQueryRow.html
+SHA-256-Digest: 527c42Yijs0/nmeq/6I5z04uHH/TpNTZDwAIyk1jUyQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/SuperInvokeE
+ xception.html
+SHA-256-Digest: 6vpEsAwXQR+4HTeCRQIS7I4fmbnsb67rNJo7wXrAbwo=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/fontprovider/package-tree
+ .html
+SHA-256-Digest: Hu6y5P2Dbt2UYduPjDKzPEfKg+Ts7m0J9A7gJ0lY25M=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/cla
+ ss-use/ETypedElementSwitchQuery.html
+SHA-256-Digest: XxbNAIXMU/tR93gUdaTKcFM5FhOG7NcqBoL+Ky0B/2c=
+
+Name: toc-full.xml
+SHA-256-Digest: JP5kOvt9I/wUrPLPXmINaZo2IPAqFDAlEPu7GEXOCJI=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/class-use/IQuery
+ Implementation.html
+SHA-256-Digest: eRMy55oZMR6YszarpTrIXyQCHkMLlbqv74In9b2sAmk=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/Table.html
+SHA-256-Digest: gs7WUpuq4SH7eSAGBQIUx2e+qz0ZOxYcK6EA/KNKHyI=
+
+Name: javadoc/org/eclipse/emf/facet/util/core/package-tree.html
+SHA-256-Digest: v3u5Ud9qhqRnsNnndAujyOh4SNQ1VaA9zOEHHZjbNB0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/SerializationPackage.html
+SHA-256-Digest: hnCRuq4/itZleT2azbHURyurg4TxOSdIPi3Q/60uTuw=
+
+Name: javadoc/org/eclipse/emf/facet/util/core/class-use/Logger.html
+SHA-256-Digest: vHrOcKy9qjR1ki0Ou4cuy+gjBtIfmdsP7BLTR1CavXs=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/package-use.html
+SHA-256-Digest: s0O4ruANNGC02p9olbi0b9X696LxDtCqMkKrLIDFPrw=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/Cus
+ tomization.html
+SHA-256-Digest: EjbUEcKl1OHzVcBcDpcB32ORxiOknQ45r4LhQzgrDsQ=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomizedToo
+ lTipLabelProvider.html
+SHA-256-Digest: 6zB/32YqpxKO0yTTUDzlk9w8B6PRMM0rBx5OY7vNH3k=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/command/ITableCom
+ mandFactoryFactory.html
+SHA-256-Digest: hD0/lV+28k0/Po57+cFTVq4XKsxHoyZSQ4IESMYNj4Q=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/pac
+ kage-frame.html
+SHA-256-Digest: uSjpecct5p1Cbw6n7+SGa0OQW08F4YZkBcAkU3j2CT0=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/IResourceBrowserOpen
+ er.html
+SHA-256-Digest: 4I4Pb9R53B2NFG8Z/W2yCjtFsukzxy7DHTmDOYFN0j4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/RuntimePackage.Literals.html
+SHA-256-Digest: 3FWfLxqoNpIBKBpaNc+GKbgzoU1UZqqQ/VANR8Rk79w=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/cla
+ ss-use/CustomFactory.html
+SHA-256-Digest: LA3oq5KXCHEHoOQRV+u9P6Ltsw4qp2BpLSTIBh9vngE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/FloatCompositeFactory.html
+SHA-256-Digest: oazP7uu+5aF3z9MhCQJuWO2I4MrzVKBA/ZDhmj4lgsw=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/IBrowserRe
+ gistry.html
+SHA-256-Digest: xZGqWRG16hS6ClTuCA8N0jeICQ3x3LbaKhKsslICoYw=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/FeatureColumn.html
+SHA-256-Digest: TvNv+BBjsrNIA5fgI7lVenORz4nc57RkkVr9+wSRUwc=
+
+Name: mediawiki/checking_BREE-toc.xml
+SHA-256-Digest: Fgnqql70jRKPvDiKLarHOqdX4+JoJ8nrZ6O0m4abuZo=
+
+Name: javadoc/index-files/index-14.html
+SHA-256-Digest: rKUQwzoHG7pmuSM7Jg8eXY2t/Np6C/0h39iJegJ/Gs8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/class-use/InstantiationMethod.html
+SHA-256-Digest: RlA1sRVuboxLDW9lKHrvkPhNo/MSvnXNn2VXWPeEt2U=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/imageprovider/package-tre
+ e.html
+SHA-256-Digest: OHNcjo6MoMdTDo+cTEYIO3IQ2UxgKb7owkoYJt+Xrjg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/INar
+ yEAttributeCellEditor.html
+SHA-256-Digest: 01SUcOeq/CazYflCaBUB5S3UfpkjnF67GLc9JLCzpCY=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/imageprovider/class-use/I
+ ImageProviderFactory.html
+SHA-256-Digest: dQ1lHPVqumXumnbaNHh3R7xY6H2eTuCanaf00itlXNs=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/IEPackageBrowserOpen
+ er.html
+SHA-256-Digest: JOmAny4plVbJLngcblWJ1f70yiquvnBSPNo8hEHbyE8=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomizedContentProvid
+ erFactory.IContentListener.html
+SHA-256-Digest: zZXZTXL9+8fLzS+PLPnxEYg+DuDFLys/fRZQ9sWBzPc=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/package-tree.html
+SHA-256-Digest: WxoHh2hPK58vxsIFk3PqeeFH/fS/XT4B+LzQfqArTvE=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/ui/util/EditingUtil.html
+SHA-256-Digest: KJ9XOOXOnulI5R75PsqNhGSm3dR8FxbAj8MkJop3BjU=
+
+Name: META-INF/maven/org.eclipse.emft/org.eclipse.emf.facet.doc/pom.xm
+ l
+SHA-256-Digest: nTCP1zzL4km1jGj1WBmW3ncwiXB/QbARmMit5BaGSXg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/ITableWidget.html
+SHA-256-Digest: 25AFZJ7almdCXy2NPnXLqRDwHTbU9OvyNXNqBN6rS3g=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/SerializationPackage.Literals.html
+SHA-256-Digest: p23lGXmP1AQ10SnWQ71ni5O9cUp2bQvhlbH9LouiIKA=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetManagerProvider.
+ html
+SHA-256-Digest: m/071juAJ4YC3UegPgpUpT9jft1+z1NtUj6ICdr2jsM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/package-summary.html
+SHA-256-Digest: 0waiRJnLz/a4cGk2GEQNmEG5n8XzVzpiyY+6+sCCSDQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/FacetReference.html
+SHA-256-Digest: vXqbteuh1d/Mcg8CVZYXvkWcjSxqTblt1QXyq8S/8Is=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/package-tree.html
+SHA-256-Digest: pNDl2jQQlihQkqUsI0xXEVQfcdniTkYX0+mz6BrSEsY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetActions.html
+SHA-256-Digest: 9wqzDTdXUmoBrifE6Dk8xwuZ+Y3LMzCn9r66YpFSPpo=
+
+Name: mediawiki/capabilities.html
+SHA-256-Digest: 8aHDFLCnvGBy8fqHHVLBQB7FrVEdIvo4QaElkFlh8uM=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/CommandFac
+ tory.html
+SHA-256-Digest: IEoE9kpkNpO3bu+dAhK2+CHvQRUVZTukE52ZiwYiZhs=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/IFontPropertiesHandler.h
+ tml
+SHA-256-Digest: ypla/LuKN6kcdgp/uCVs+d8pGbluHPU/jgEWPCXOrJs=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ImageUtils.html
+SHA-256-Digest: S9XHgXXb2qNLQrEw5X9jT86C9qzHW8aL0bp/DrGo7cw=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/class-use/NaryFeatureCellEditor.html
+SHA-256-Digest: lujwXP+lSJZVxS5eBXhKLuP9lDgw53xZ4wLlDE84GlU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/ByteCompositeFactory.html
+SHA-256-Digest: 02gttnvPXfZHhCq9FDRAyX7iyOwtHFwuaswmNPiBygA=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/package-summary.ht
+ ml
+SHA-256-Digest: 2U08ut7QkUxJoBijBs1lddwgCFyfXUgeSaT+fgWOD4U=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/core/util/package-use.ht
+ ml
+SHA-256-Digest: 8d6giRawQF5/4vOEDp7jnOjj0ao9Q5CMoz+ujCSuINI=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/ui/util/package-use.html
+SHA-256-Digest: WZRyGOkQpXnQrDDhJ3UFmbp2VIeWYe+NF6XbGf61mG4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/class-use/ExtensiblePackage.html
+SHA-256-Digest: XxH7Er/NlUJ4ZoIRU0usY7gdZo3DVhLAdebUrsgybGA=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/class-use/ETypedElementEObjectListResult.html
+SHA-256-Digest: sdSOksZePumY06QafkZasmSx7JNLyZCDs+vUIbP+LlU=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/packag
+ e-use.html
+SHA-256-Digest: 1fr0bhVVh4VWKBb64VxscVGNe5qq5k7MrBpGNzBX+KY=
+
+Name: javadoc/org/eclipse/emf/facet/util/jface/ui/imageprovider/packag
+ e-summary.html
+SHA-256-Digest: eiPvUhHnV2e6IYCmNSl+vrOO8tM/CCDzeKksaEsZ7o0=
+
+Name: javadoc/index-files/index-13.html
+SHA-256-Digest: jOasDc2VYZ4xxltv1w63BOoC0uS154fCX6lsipqu6sg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/class-use/Query.html
+SHA-256-Digest: W9UFRbQUKyjfZSo7AzcifbCnoeu6/7f1MSQxoQ9l9Sc=
+
+Name: javadoc/overview-summary.html
+SHA-256-Digest: WjR5Of0sMLTRXUc7G1m1nlqEXORn7laMkTcgcV0kaP4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/ICom
+ mandFactory.html
+SHA-256-Digest: a0p5Qddm0uOM2dfgbVvTD0eVyybBTgDRpAC0qO95q4A=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ISelectionPropertiesHand
+ ler.html
+SHA-256-Digest: b8LcVSVtB8XQszTp/u6DANNQy6fN+RttLBymjQioJFk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/package-use.
+ html
+SHA-256-Digest: n6z4cfne0Rq9kmtekdMIapBKA1JhNeporlyn4jenKhk=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/IResourceB
+ rowserOpener.html
+SHA-256-Digest: 41k/gb8BvX/pR+thpRrMOa9L2dcbUDNmjsD7VC7q3VY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/EFacetPackage.html
+SHA-256-Digest: 5Wetp3B2cG0kAyB7C4j7T5HxQGevCxPApvmyUyff/JQ=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/OclQu
+ eryFactory.html
+SHA-256-Digest: 2HtbKuZ/rXqU8vybMe/GQSNwFmTX4OS0tD6zESI9lRA=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/ICustomizationComm
+ andFactory.html
+SHA-256-Digest: I8U5wqnJQEixVG/7X5hQFg14f3J0Qt1uhGGhOsIekH0=
+
+Name: javadoc/allclasses-noframe.html
+SHA-256-Digest: eSGgyMD6i9SJ9o2d+CYxHLxafMf+UjHbCZsy8vLHjMQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetManage
+ r.html
+SHA-256-Digest: Y8ho4FbTV8iwMU01s1WJk9yDKf9IHpk3gVW8cOT0GOE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/BigDecimalCompositeFactory.html
+SHA-256-Digest: p+akx0oHTFFBlVA5dCWPqTtYFJOHifuE2RHAFEBt1og=
+
+Name: mediawiki/retention_policy.html
+SHA-256-Digest: 1HfcqfTRDV7CUNicDCmTS07WNE9j0o4XM3vkSvCjCqI=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/core/package-summary.h
+ tml
+SHA-256-Digest: dOms53pgfyL14EdvI8VzMTZtKb6snAzmZjxQJp+MhWU=
+
+Name: javadoc/index-files/index-22.html
+SHA-256-Digest: GAB3dJmUvjWQ0q8I0GgK3blJcCFdqdYSvMK/+Fo444U=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomOverrid
+ e.html
+SHA-256-Digest: EbRhLiA7m4ZbvI2B6EK2i/KxsgNTq1UwdTGxcX53t9w=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/IWidget2.html
+SHA-256-Digest: BSIk44C3pEbvmHXBP2aP07FoodcQMzTaAwQtW1jZ1xI=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/pac
+ kage-summary.html
+SHA-256-Digest: d/8NZ3/Y7mYC+r9/eQmp8gn9LgCO9h1fSlBxTUlPfwo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/ETypedElementResult.html
+SHA-256-Digest: TbN8LXsej/ajZIFKz2cSA3ayrr2wYM0QiUZPJ/H64xM=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/CharCompositeFactory.html
+SHA-256-Digest: SIBPEy408c6bfeYYulks81sOm43M9S5zqzwpG3qXijs=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/packag
+ e-tree.html
+SHA-256-Digest: vAY2fOzq4cGonHVw7UF9DeGJvT+Vi2Cbf/ekdVL2P58=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/class-use/ICustomi
+ zationActions.html
+SHA-256-Digest: sRDxP7LAnPrFaMOLHh7PnTbN6A75LmrdUvBPXwN/D/8=
+
+Name: javadoc/index-files/index-4.html
+SHA-256-Digest: NvdI49ex1GK5VSuJmVoS9Ty9HFY6DAmu8yJyJyKUOXE=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/ICustomizationManagerP
+ rovider.html
+SHA-256-Digest: k7VEeAiUkX2X/pA8bMZAWrpHVbjlKDAHRbKsscXcNBU=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/class-use/Catalog
+ Set.html
+SHA-256-Digest: my1eQY0/tgD3hhzBxAwW+JtdFf32heUDfrIhJcxK848=
+
+Name: mediawiki/new_and_noteworthy.mediawiki
+SHA-256-Digest: OSIygug7PQr7CxPS6pPK/gYwDVrCTKd4xjKRe+gVs30=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/class-use/ModelCellEditorFactory.html
+SHA-256-Digest: mBXlLQwWnOSSS/XOl8WbzRMDxWg0LcBtNmDwSMMsjXg=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/class-
+ use/ISerializationService.html
+SHA-256-Digest: dWMs97k5iY4RjS/5axr5GF9IVoHQAaM+LAohk74tgJ0=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/package-summ
+ ary.html
+SHA-256-Digest: 0nshV1KI8znVVHMjhiytSsChgmd7sytGlmXH3CIF+r8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Fac
+ etElement.html
+SHA-256-Digest: R7kh2rmHAZgVzOMk7PbcDcODv4e5j9LqSuhqThS/AnI=
+
+Name: javadoc/org/eclipse/emf/facet/util/core/package-use.html
+SHA-256-Digest: gvo/YZBntv9DFZgY4Iifc1p+4oVh07OHOI3UpdGXGjY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/package-use.html
+SHA-256-Digest: 2cWQln//3j/aO3Jj0DCvZL8zePkS4mMYQqjEkh8/9Ps=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/QueryPackage.Literals.html
+SHA-256-Digest: bnQsJ4b0wXE6Iqk2gZKwWchCiKSMKwWeLYIao/lVeZE=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/IEPackageB
+ rowserOpener.html
+SHA-256-Digest: JlwC9EB/VWPR7y5/FJqpsHsi4zievyVahWhFFO3UyPI=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/package-use.html
+SHA-256-Digest: IuypPQZEn1e6pDF9D0+4v5HZPEBUKtHHrWt6CrnYOA8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/QueryFactory.html
+SHA-256-Digest: gP4P62LlNql7Znq0i4TazTY4e0zDjCX0CMZb64Tt4B4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/IQueryImplementa
+ tionFactory.html
+SHA-256-Digest: 8v3XmymsZNtMyNbffuV3ASzEjfoyWZk0tR1ZfOGNgMc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/Facet.html
+SHA-256-Digest: WPRGSgSwhMzd30A5RpyyGBFwX4hmOjI5cRGe4mPJ9Dg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/package-tree.html
+SHA-256-Digest: 5Gf2+O7RGHDN5qR24E7Kh1M0l2yUU5XAbT1cyIWNBlY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/DoubleCompositeFactory.html
+SHA-256-Digest: hryy8GH7o07kLMXAiW0sOHKHIgyhZ++4V6crkDcgtsY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/class-use/UnaryReferenceCellEditor.html
+SHA-256-Digest: UK9UlznIg8O5lejzoCdtA3qGyIB7lFImHXrdw/I5X4g=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/package-tree.html
+SHA-256-Digest: 1gJupBe6YWYcbN/yzG59q6On5FHGlA973jRaqmSbFOA=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/ICatalogMa
+ nager.html
+SHA-256-Digest: pkjjLpncOgOxw+4cIZ/I/3ItmatqKeTm9Yh5n2FDFNU=
+
+Name: javadoc/index-files/index-21.html
+SHA-256-Digest: RnsOLnYo7p+m5zenEK4CHKmELsesnPUUQzeA4CTrUec=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/CatalogPackage.ht
+ ml
+SHA-256-Digest: CAb/+aFcgt9n/a/U2MdM8aBdHHqR6M1Rh1HyJpV6bdk=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/IOclQueryW
+ idget.html
+SHA-256-Digest: GUq/ulqMquuw2qwJ+RUgKTKddREgNoeNxY2kM+WLmuk=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/class-use/Catalog
+ Package.html
+SHA-256-Digest: HLbEP2OgjssHrqP628Dteg6IIVq5K9uw+ndS9OzeBBQ=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/ILis
+ tener.html
+SHA-256-Digest: zX1eWf0MgYEJjSEmOPEW+K39TJNUIUVXQn+/b4wbHSo=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomization
+ ManagerProvider2.html
+SHA-256-Digest: PFWztVxRhLzhCssOsIVYYFykaQkBia+6AJZwj4xA38U=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ICompositeEdit
+ orFactory.html
+SHA-256-Digest: giUFTLSceIugeBFDPXRUVsEkUDb/dc+AVbOkC8mgZco=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/package-frame.html
+SHA-256-Digest: dyKZzC8ODZouV1yx40J88Wri370UyfbCxJEzrpyIYE0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ISelectionProp
+ ertiesHandler.html
+SHA-256-Digest: VV+Mqa7buc3+zMbGxf87dzW5gafsrZCfNJr/Uqu+RXQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/QueryPackage.html
+SHA-256-Digest: er4gcBccLyEIE5Gj53BM36zEHY+7Yee8JOVlffhe9v0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/class-use/Fa
+ cetManagerException.html
+SHA-256-Digest: fnD0sJcP53poEryCP4TCcAQFWvAwkdROUWnHnrtSrcQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/AbstractReferenceInstance.html
+SHA-256-Digest: PKSsk/2FyQ2M1BWh6jtW7YWsd4o0t+SL3opnAjiuBIA=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/OclQu
+ eryPackage.Literals.html
+SHA-256-Digest: mXEYuABjfCcbdDONYBuk3/mXF16ZxZI7SjYXNW0PItc=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/package-use.html
+SHA-256-Digest: LPAIYRg+0BMd1fFhK9oBHwaRYFHddi+0Mpdl0p8nmHE=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/class-use/ICustomizati
+ onManager.html
+SHA-256-Digest: RI5X1/fmURBQeI7Gpf0gPhptCQID+YdTc1D4esjh6JY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/ExtensiblePackage.html
+SHA-256-Digest: B1/dNFKAb2ahFm91H8eFYrNw92ZbNkKcCmSmgXyQu/Q=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/BooleanComposite.html
+SHA-256-Digest: 5v9mg0rQRdSl9rEtr8wNtPO1JjpncHt2SdIg8VzMz30=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/fontprovider/package-summ
+ ary.html
+SHA-256-Digest: s4eupavm6icmZ3VOgJ5ea3/jilXLyWyNASEqlwoR5Dc=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/SerializationFactory.html
+SHA-256-Digest: fsjQIx0DSmmjhRaK9DLazX9v1OLETlYev48HfVqDtpY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/IVal
+ idator.html
+SHA-256-Digest: tbWRFKMnQb53vtNLrQXHBm7LyqqwvIRsrS45/A7lyyw=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetSetCatalogManage
+ rFactory.html
+SHA-256-Digest: g1QKyPNuSkAc8vScT7dfZ29KAz75t6E6hMplNrL4o/s=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/package-frame.html
+SHA-256-Digest: lYLJIacK0B/OXeAl+L43ivZ4RLFXbHkEGy5cauqCpYk=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/Quer
+ yPackage.html
+SHA-256-Digest: ZlAGpE4gKEOGXlHCVVXrm3jWp07hW8z37qQDsy0FLTc=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/exception/package-us
+ e.html
+SHA-256-Digest: qBVrZVMEAsYCtb+s2xoOql6w0zEf+mECM9zuoFvjjaM=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/IResolvingCust
+ omizedLabelProviderFactory.html
+SHA-256-Digest: xcplV+mHrSqvpxnCiEeRfacYBYUY05O0pjksg80Vyxs=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/FacetSetCatalog.html
+SHA-256-Digest: jnrK48u1inXUCwpnNnAsK0iBqQXveHvrz3d3KDitJOQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/SingleValuedReferenceInstance.html
+SHA-256-Digest: 8s5HwQ9lUiuPhplnr+gYWI1QYPxQyB8ek4QQG9mZHR0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/ETypedElementEObjectResult.html
+SHA-256-Digest: RyV7/B9ij92ZZKjzN6GJTYZ9FkiSgJduzrbpM9Jwh7E=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/URII
+ mageQuery.html
+SHA-256-Digest: IWm0/M80ptaKMAG5mhGQbcw3IHNJIQjiUcxoy1IUS2k=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetManagerFactory.h
+ tml
+SHA-256-Digest: NfQwXPVMer/6yuhmwrfloc6ZbiFnAAKrasy/YFIovhA=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/IntCompositeFactory.html
+SHA-256-Digest: rPR8WlZlshkcnkMnZ0GrsfuvnDyBcCVS4mi1O9dfRfs=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/class-use/ExtensibleFactory.html
+SHA-256-Digest: LFrJnNAyQELqgEYSkGu0reWA7a13nBIMS4JiMfo+8i0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/class-use/TableconfigurationFactory.html
+SHA-256-Digest: YIMkA8azgIQ4qiB16Vj7x9Zcr0wj0bKv5AGeWVRucqM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/class-use/RuntimePackage.html
+SHA-256-Digest: Iup3SMJniv6XpcCXnFCBVA62vY9VW0TZYSu7dzeNDcY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/ICatalogMana
+ gerConfiguration.html
+SHA-256-Digest: ozEcA95fmkDiK1VbdI+2/9h8z6pG81s2c5LRxdcp/pU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/TableFactory.html
+SHA-256-Digest: P5L2yKCkCcdttYuHgRJC4SuiA5dgESnIqKdZsYFnRfA=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/OclQu
+ ery.html
+SHA-256-Digest: X1lFY4mofKfKqu3mII0rktAUheQxAdDMjR/2tPVJY+w=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/NullLiteralQuery.html
+SHA-256-Digest: k32BmfDOHtr2Yp8sdR/T0lAdlTdU7C+xKILwEsT+gdY=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/IBrowserRegistry.htm
+ l
+SHA-256-Digest: aa4f5dDz5/JUK1ECIuRQrZeYvsH9I1z2bwAphmKGDN8=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/core/util/package-summar
+ y.html
+SHA-256-Digest: 3YOaPbIFKvUPscexFi/cXsI+nVBv12UvGLOY0qQO60A=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/exception/package-fram
+ e.html
+SHA-256-Digest: +wu5ZVbD+pXsQdh87bYAZl/Ij/aQ8fFSwFai0gu/QyM=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/class-use/ICustomi
+ zationCommandFactoryFactory.html
+SHA-256-Digest: SC3yK9u2eXx7CrYbFFX0nYLBI2huqOQilAbu37PW9wA=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/exception/DebugRunti
+ meException.html
+SHA-256-Digest: ma9kvUGVrz3O9DctXl2zNxOozRKjroWRFcIHGvUjXYk=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/class-use/JavaQueryPackage.html
+SHA-256-Digest: VL458OH0iYWNsPNl9SJtW22Us/NUshh6If+Gj9DC40w=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/model/
+ serialization/class-use/SerializationPackage.html
+SHA-256-Digest: cg/jLmMEmWjbU3OMo/UX1b16dxZV4463/yikZlrsbjU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ext
+ ensible/package-summary.html
+SHA-256-Digest: 058mfuuCc7gDfY9jm27lxKWYXi7oqSwudOiL6gtdiIo=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/package-use.
+ html
+SHA-256-Digest: E7pygMYJqy4V90xDulUbvJkOm9fqMVRR3b6yPtmYR7o=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/LongCompositeFactory.html
+SHA-256-Digest: pVtti6W2VcwJRehKoX4/sXblE/HOdyO6Or6dMHztVxM=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/CellEditorsUti
+ ls.html
+SHA-256-Digest: aJQG1LxihK8XcduGIEVTzvkpEukfnVTZuCu49PvG23Q=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/imageprovider/class-use/I
+ ImageProvider.html
+SHA-256-Digest: c8MhkhTbtWPZI/L71mJTCNSxA5luWKqekflbXtP9XU4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/cla
+ ss-use/CustomPackage.html
+SHA-256-Digest: B16P5LmD4Td3Q9XFTHqI6jjbfoWgxttrSTqvRTCrGzI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/core/composite
+ /registry/package-summary.html
+SHA-256-Digest: cZOo8kX88F/7wIyWYaqi8M5GDmCJAvP2V1nxqbVPBlQ=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/class-use/JavaQueryPackage.Literals.html
+SHA-256-Digest: VPvvgdHi5M2V6r1bNByD2Aax5NcVyF2zZaF3Xn/bPYo=
+
+Name: javadoc/org/eclipse/emf/facet/util/efacet/ocl/core/class-use/IEF
+ acetOCLEnvironmentFactoryFactory.html
+SHA-256-Digest: guDteXnqW/NOVoA4HPqiF0MiA6whsbPKkZUr6FtC7Zk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/package-tree.htm
+ l
+SHA-256-Digest: EB6VBXZFgPuLAMxr8aD39kwcmPd4Of5OoFfeSac64LI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/Row.html
+SHA-256-Digest: BLAv4m4wjmcE5iEhJ/K/bbiy9XrfCvEaGKyoDH9y+Mc=
+
+Name: maintoc.xml
+SHA-256-Digest: HA0h2WVuQD5gLOhH7O4YUkaMW2fFxm03hK1DUgB+8BA=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/IModelCellEdit
+ Handler.html
+SHA-256-Digest: 7BTk1j33W9OIh/OB9xzAiwp0sC8FRtJQBdVWpSdtbTM=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/ICustomizationProperti
+ esCatalogManager.html
+SHA-256-Digest: jeMTJdNdKEzhCLpgubYRy+UH/Pk2DfAAiLhTwQ2XFJE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/BigIntegerCompositeFactory.html
+SHA-256-Digest: IPkX2AxjnOGOT1WCy7gwDe9UxscA9ybhgGXRrN9hD3s=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomizedLabelProvider
+ .html
+SHA-256-Digest: WLVo7rjCaHEZT4JPAq0T86SnVRWSba/Mi5+2qcsSI2c=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/TrueLiteralQuery.html
+SHA-256-Digest: 0EkEQthlWwGZeWiduQ+vE1aDDQ8cyZcCJoakstGVhJs=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/package-fr
+ ame.html
+SHA-256-Digest: 5jlv6Y01UvzGajhuILnnHaxR8atFK9/qj5ilb4EjEpg=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomizationManagerPro
+ vider2.html
+SHA-256-Digest: RqIJPINp9nWNw1fZIxNbT6QwP4pQLtdTZpwYhZXbBo4=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/package-use.
+ html
+SHA-256-Digest: LU8S2JyhXpYhIOKi3Ww7beLP/+bawOkZPP4+8likOx0=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/package-summary.html
+SHA-256-Digest: Ktx5EjqE94fnlJC2vrZiewuGIa3yhrDwPTug1YR6+Kk=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/class-use/ICustomizati
+ onManagerFactory.html
+SHA-256-Digest: qrvQ6XLtcWoRd7tZcyMIgjQC+cRDUUWrrMylno8kzak=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/package-summary.html
+SHA-256-Digest: 4SnaoEbU7TbWN5aavsHsKiwI24SlM9dt+z0Nz0eKm8A=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/class-use/IETypedElement
+ ResultDisplayerOpener.html
+SHA-256-Digest: ljq8Of6sytJtxuZhIXhDrAqhWouj/jn2Lh/DbK9/4fc=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/IModelCellEdit
+ or.html
+SHA-256-Digest: IYhqJWMEZNK4fxv+dz60gtmpIvLIYjUoLYsfDU2UW3g=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/BigDecimalComposite.html
+SHA-256-Digest: coYkDajsxAuZ7kyrKqD5X4JmL22sQ1A6nYRCN9YBuY8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/ICom
+ positeEditorFactory.html
+SHA-256-Digest: YFF4iSydxXFJQOD3Rw6TIBLHiqJNP/h+yfthp6TKjmE=
+
+Name: plugin.xml
+SHA-256-Digest: mqMIeG1Nt3aoDSP4V1PorP6oTg83YLQExXWBt7MJEjk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/pac
+ kage-use.html
+SHA-256-Digest: KEdFP3SUG1f/xWLoUcXbYLfjSXzIa7/M1ZaCStPl4/k=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/EObjectQueryRow.html
+SHA-256-Digest: IdaX6QZ2wYcP/d84RSsucCu8X/oAW8aZa7lsbFCfELU=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/IJavaQuery2.html
+SHA-256-Digest: lzIrNofKC7DG2cvUzaRox0hJWqrGMXldk9ffJfe39pM=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/pack
+ age-use.html
+SHA-256-Digest: EyxHqRiSy0zYc58XItjk3Ba+3OvPC0SIwkOJmUgZJo8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/class-use/IETypedElement
+ ResultDisplayer.html
+SHA-256-Digest: FODbHw/AGmqYJ660c+Ozqh+x9IOtQGM6WU2NLVokdoo=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/IContentPropertiesHandle
+ r.html
+SHA-256-Digest: uMsAKpdiTRsp96xFmC4nLDvyjYnJLeP47rIS+4L1wBQ=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/INaryEReferenc
+ eCellEditor.html
+SHA-256-Digest: DbwaJYQOm22LHX3qNHrxsEFDCokvM2pTXUpw2q5akkg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/BigIntegerCompositeFactory.html
+SHA-256-Digest: ywxIU1dvHtQbUopcEA5whcGrbhn3mmaeFKb48RCoZYo=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/class-use/IParamet
+ erValueListFactory2.html
+SHA-256-Digest: wGPX7l5M+560+eJIlqX2EzKNpuekVszdZH2KP+Vzkt8=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/class-use/IC
+ atalogManagerFactory.html
+SHA-256-Digest: ZhX7dayBAo6Kz9vwpuOVr2FFktySd3xtoflayuNvej4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/sdk/ui/dialog/package-use.h
+ tml
+SHA-256-Digest: K2CCRf9s7FK7afVwTBIw3Yxv7NljRpdUUAJDne01zBM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/NavigationQuery.html
+SHA-256-Digest: 3W3fNnF3eoxL/dPHm+lcrRuq8lXxW1VN3lkJ5/Yv/g0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/FeatureColumn.html
+SHA-256-Digest: /D9hXO9RPANYIIobIZqeY1rZxdajHbzVN4VV+z5EFpo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/IntegerLiteralQuery.html
+SHA-256-Digest: wnIy7/Ipw+KsRUgxU4X2edxl3143NhJ9KjzNlpLOTaI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/StringMultiCompositeFactory.html
+SHA-256-Digest: +w269zVMiFY9XVMVgjUQJnHfWudr+g5KHyw5Kv9C5o0=
+
+Name: javadoc/index-files/index-5.html
+SHA-256-Digest: 5wiZDDWucu3WEmLVeup+m3fH07vPlb80G4kB3qhIevY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/package-summary.h
+ tml
+SHA-256-Digest: aJYH2oiyP5jmCowyDPdqOVkOq5w2YKm4HomGbwlbu+I=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/ICustomizedContentProvid
+ erFactory.html
+SHA-256-Digest: j1fYeCF5w+qdcuyNCWIt+XMTBZAHnSCl6A9MFdi8VDc=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/Row.html
+SHA-256-Digest: fdVgm3k12RdQvCTwePjBMPcLJUQYS97+qKAYK5JJ4kI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/INaryFeatureCe
+ llEditor.html
+SHA-256-Digest: MwcYaGmdR8X2PG1F+8T9OrxzcfNPNwX2JcNJ46HDnL4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/class-use/FacetSetShortc
+ utActionUtils.html
+SHA-256-Digest: GRGpYlT1khlc5/V4sIQgW3cbV2VIZNsP8aNN5hxsB/k=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/class-use/ModelCellEditorPackage.Literals.html
+SHA-256-Digest: mYnGeEbXS+9QYpIikovQqY6EZ3EGTC8QhGpwzpZGpz0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/ETy
+ pedElementSwitchQuery.html
+SHA-256-Digest: oamJTMoEncukHlasNi1PNzkRa7vl4eDrxiM4IB4vwgA=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/package-tree.html
+SHA-256-Digest: 1AL/Af8qdnwb58a7isf46ZOcmGAMa9LvpJo+4PxvJpg=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/BooleanCompositeFactory.html
+SHA-256-Digest: uSbMaH4LoKxQzHHVXdJCjHtmsLv8pFs8ZOiuyvQ+PVM=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/NavigationTable.html
+SHA-256-Digest: nnSqkEhv3euOxXPkcQtj6/evg+g6mKwhxlZcjSUv9B8=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/package-frame.htm
+ l
+SHA-256-Digest: /RTuH4XTp0u92tHRk1HyUtXL896sRusxWGQRKo2V2eQ=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/core/class-use/IFacetC
+ ommandFactory.html
+SHA-256-Digest: D0+QNb4m0Ff7y2uuKrczecnoUkoWrXpyeX24Fg21i8Y=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/package-summary.html
+SHA-256-Digest: O2g18YWASjL/dEwDkmL6bERz5TplDUctpok/0lEpi+o=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/ICommandFact
+ oryResult.html
+SHA-256-Digest: rd8ZQxTxblnaPgWWsJghiGySFge89rBpNq/kDImKExo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/FacetManager
+ Exception.html
+SHA-256-Digest: FIEbICxnhjUE5lu1e7bxXhRZdajJlU5X1fn4C7lDE2I=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/BooleanComposite.html
+SHA-256-Digest: JwZvs056+jGHkjdeR0N+dRxIS3/CRjGoKHtldAsD4Zg=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/EFacetPackage.Literals.html
+SHA-256-Digest: 8BxXn9CvSxl5rt36hIJNsqaC0G8kikDp2SqKp8Y5vk4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/FloatCompositeFactory.html
+SHA-256-Digest: D7tbFiWIdrEaA7eSxVWsXkW/5sxagVaRxxo3cCXveuU=
+
+Name: mediawiki/running_tests-toc.xml
+SHA-256-Digest: KVaq9JebnE5zuQyizM2SCTnvJuHmq05LDpF7b790Nv8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/IMod
+ elCellEditorValidator.html
+SHA-256-Digest: nTzTx5MLqH/hWj0G5tzu5JJh1v8Wk7/ywWvvCkTKAhQ=
+
+Name: mediawiki/retention_policy.mediawiki
+SHA-256-Digest: nfBiYTEWmu4w3a1mLgWn7Z/OH2jlTUrKyT/9ofluGYE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/InstantiationMethod.html
+SHA-256-Digest: VI3zMgczDBlzE7b+XWuW/3aIWhZ7PpzKo8bGNPZyJyw=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/package-summary.html
+SHA-256-Digest: 9MajCtJtBPsTMbZ+e75IuvgHaoou2xLUReKnnuyJOkM=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/CharComposite.html
+SHA-256-Digest: S9u1asqLjYcNlKH4u9TmhrLVJLNqSpLkSVHVi91Ba7g=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/TablePackage.html
+SHA-256-Digest: 9Fj6Cs5d02TQAd9P03zstuw6+0o4TDpZvOuqgSRuWuY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/package-tree.html
+SHA-256-Digest: dB+iPjmxCwP0GQ7SM/TuLrDFqRK1Oexce5HQsUawElQ=
+
+Name: javadoc/index-files/index-20.html
+SHA-256-Digest: lpeMd9fVIpOzidr9mVnHBA3jq+WF0Cb8n99DT1pr3H0=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/packa
+ ge-use.html
+SHA-256-Digest: kNfWoQRdmQq0qzLOO7a045lhCujobjgo44xVbJLCLjU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/NavigationRow.html
+SHA-256-Digest: ktEUoAljpsN/bX1eHOO6UZJLToXYgP4y5aaKHJ3onn0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/class-use/RuntimeFactory.html
+SHA-256-Digest: MuSqJplluH6kIeZ2CMZS7GRouPHz39cSX+4fOITZvug=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/ui/package-tree.html
+SHA-256-Digest: 1GnM7S5xuUE2JfM8kzijmgAZVMh6JoeGCNNMaMShaUo=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/CustomizedCont
+ entProviderUtils.html
+SHA-256-Digest: 3cuvPjWK4tSa1KBNUaOHAu1GAam0meGdzqLfmwPoE7E=
+
+Name: javadoc/org/eclipse/emf/facet/util/core/class-use/DebugUtils.htm
+ l
+SHA-256-Digest: Fe2c+GGiFuqD0NcolEgxlwxeVDyG7y+ddjKN6Zz46j8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/package-summary.
+ html
+SHA-256-Digest: o39J1Q80lmtgrL9Wk/Jl7n4c6SQ9y8UvvQb6JibhslU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/BigDecimalCompositeFactory.html
+SHA-256-Digest: tnvBVazHWST2jdgrbg9Jy8sDc/8OfedMYE7WPlo0pHc=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/StringMultiComposite.html
+SHA-256-Digest: MqYzbf39/I/niWkp3921D5jTjNPLcHbACea7Ed8zcvU=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/ICatalogSe
+ tManager2.html
+SHA-256-Digest: JpnfZWCKp01tjB0fAdTBqMxSZJBYhbnQ3SPVOLb7ii0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/FacetSetShortcutActionUt
+ ils.html
+SHA-256-Digest: 55yTUqk5CJn3FZOnTbgGwh9xE0VVX9+XUzF0zqnSTT8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/sdk/ui/dialog/class-use/IFa
+ cetDialogFactory.html
+SHA-256-Digest: 1L/5jxw9w3YPcvPQyYK46a/QytkVDgptMOzf2BjqjWU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/core/composite
+ /registry/class-use/ICompositeEditorFactoriesRegistry.html
+SHA-256-Digest: 62CAHzqoxuEHei6xNMSQqxSj7JiXJok/c8/ebAqT6O0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/class-use/IsOneOfQuery.html
+SHA-256-Digest: /LfxpMe8Aqy8nkumEQgYka2iaWIgNSOidTEhWmKSyvQ=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/core/composite
+ /registry/package-frame.html
+SHA-256-Digest: QffnJN4ZixwT3bN4e34dcXMzV5u6I8Yq2aJbvdMUI5U=
+
+Name: javadoc/script.js
+SHA-256-Digest: UGOTFhtpJWj1iNaL6uz5rV0z8UerrZCdnN4SkY2857c=
+
+Name: javadoc/index-files/index-9.html
+SHA-256-Digest: uY/Qe2zOE9bSi7rnLj16yI53dp3+JVpsMFLUiLUH61s=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/class-use/ICustomi
+ zationCommandFactory.html
+SHA-256-Digest: hxC4VHf/g23LIGDtPQjMSwRxus+x3TdPECDm8JOK2Ls=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/edit/core/package-use.html
+SHA-256-Digest: K5sQz63reHr3P1R99EM8CkfH8t33rbxab+acuwXaz2g=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/package-summary.html
+SHA-256-Digest: qsYWvnzlI+0gHox3Mk/3uHL2XbC9HOR6pE7DNtl3/2s=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetManage
+ rListener.html
+SHA-256-Digest: A8j0kvAEyNZVY4YkAma679Y358h3BjAoxKgVvGw1Y48=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/AbstractAttributeInstance.html
+SHA-256-Digest: xM1qQYRvnzqnDJ0ldGyI+IRlAJoNJ7BV950MkCn/4Lg=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/class
+ -use/OclQueryPackage.html
+SHA-256-Digest: 4rShcyjNnh/noR/dmy3ybQhgZUsibyJ1YSZmXhrWJsY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/class-use/TableconfigurationPackage.html
+SHA-256-Digest: cc/TM+WhJ+HJBYJ79wLub7pQ1BaIv+kDRGH0MDtqY+g=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/package-tree.html
+SHA-256-Digest: /SBOxIaY0u8t/inmM84iSy/jLMyC081fx5iSU+5m55Q=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/pac
+ kage-tree.html
+SHA-256-Digest: 8E68fjVNR1vaWemkietM3R1p4zpdVr5EEERNNVcFWbY=
+
+Name: mediawiki/capabilities.mediawiki
+SHA-256-Digest: /wP22fabQ4JyidijgdFtiVkxOveHWhoxAogn82F32iw=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/SerializationPackage.Literals.html
+SHA-256-Digest: yDiPi5u8fuBp5EPEWgMBq4DHDQeFnuWWeQplmIPgdGc=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/class-use/IParamet
+ erValueList2.html
+SHA-256-Digest: 8ixzwiPP/mRHIcz1hZrjAMOAE3XEFR1DLsFJ4YFObjE=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/imageprovider/package-use
+ .html
+SHA-256-Digest: pyaGB8931gwIl+EknToA1BX10yAti+uSfjDhMM4cQH8=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ISelectionProp
+ ertiesHandlerFactory.html
+SHA-256-Digest: 5+y4cyJEn4IvcemaIvSiWsP5nKE7FnVgmmdIO7+Uc3E=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/LongComposite.html
+SHA-256-Digest: n2EjF7QWquRfw51rvef/A3ErajCRe4tsXB7rRz028zk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/MultiValuedContainmentReferenceInstance.html
+SHA-256-Digest: JTcx+IHrItiMaDT4JfdWxhRNQBKSU6uOFYcuYxd7yRI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/LongComposite.html
+SHA-256-Digest: UonyCeAMWhqqCrNxRl07rpYMam6ic7KnfjRSRlTXAnw=
+
+Name: javadoc/org/eclipse/emf/facet/util/jface/ui/imageprovider/class-
+ use/IImageProviderFactory.html
+SHA-256-Digest: M4tGL8oUQ8eDpY+Qz9sBLRzGURriogADoKFlRe0ypQU=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/Catalog.html
+SHA-256-Digest: ZdxdRGG+CyuRt7q43V2wIPFEZZa1Mh4dOunnajZ/EC0=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/JavaQueryFactory.html
+SHA-256-Digest: 3SIekOQB05Ze8a1nuavfsNeinc4fyDRSDqwdUEk55Ko=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/package-tree.html
+SHA-256-Digest: 7FWPrgAS6EQHjaqBc0OM1gmVN7sw7tE9nXt/vb01UpM=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/SingleValuedContainmentReferenceInstance.html
+SHA-256-Digest: 3OXKwifhB6OX679jlGgAtoZaNlBWVCL9k4pe8ONok5M=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/ICatalogManager.html
+SHA-256-Digest: bTs+5bhsLGNEvcSFRoIn0WuRKMHsk023MHiezIgZXa8=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/package-summ
+ ary.html
+SHA-256-Digest: BAXQlqtoWwcva476bU4pGIfX8ooyYGrInjWtw4xOq7M=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/TableInstance.html
+SHA-256-Digest: fryc1HehCGnsAVofbshg/wLgdKl+I6xjXVrZwPdWnhQ=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/exception/package-tr
+ ee.html
+SHA-256-Digest: jC+A7MmFI1nDceddpaeLKJtCwMwB/G3zHlmML4CSkVQ=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/class-use/Catalog
+ .html
+SHA-256-Digest: 0sbiEvurIHD8XOsFt/sXKcOat/fvK2GfZr1+nDKMFJg=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/oclexpress
+ ion/package-use.html
+SHA-256-Digest: t6qa49oJ4vCSfjMuZW8fpePTOsEYrahX/PtgCn5lc9k=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/package-tree
+ .html
+SHA-256-Digest: jE7e/HNN6R6pjSh5CO6i5x97GjN8bS7tA/vG1lUgMws=
+
+Name: javadoc/org/eclipse/emf/facet/util/jface/ui/imageprovider/packag
+ e-use.html
+SHA-256-Digest: gBziLUZ44iHB7KW2xXUdrN+xwobBkqPF8aLQQtOH5u8=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_3_0/query/Quer
+ yPackage.Literals.html
+SHA-256-Digest: vCePlTqzlo11dcF3ZhJS8jPc4SbMhfdawO4CE0Uf35w=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/ui/util/package-summary.h
+ tml
+SHA-256-Digest: zuURCdUG9svEbV4bz2fvohlBAXAh3W14ePbmgWevLS8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/TablePackage.Literals.html
+SHA-256-Digest: 9RarYcBh74oT9Xx++p+sgO760jP8oJxBY8CCFg1H1yY=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/ICustomizationCatalogM
+ anager.html
+SHA-256-Digest: +8FVmkMoXk50ybWbJVXIjWCKcuHifEKL7I7lOtNEOgI=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/Abst
+ ractCellEditorComposite.html
+SHA-256-Digest: ND17Gmxv0ja1Dvy9qAB9QZym1Mc8OCzDpunzqMpmLw0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/INaryEAttribut
+ eCellEditor.html
+SHA-256-Digest: CRcKYB4ClW6vKH+qTQo69QPz2t6ybwWMOaed/QigDZ4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/SourceColumn.html
+SHA-256-Digest: m0tS6MZz4DHWz1QAzhznwnl6uhbC0ozqrIFwV9ddzjU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Fac
+ etAttribute.html
+SHA-256-Digest: 2Ee05PYIf/fRxGMaKWie3OdA890eI7FaI6U0TwAPIM0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/FloatLiteralQuery.html
+SHA-256-Digest: CNERFH/7NaO2HA8RHzn3yREpye4wClTnT20+cnnEyP4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetSetCatalogManage
+ r.html
+SHA-256-Digest: CY/8U4nuYZCS9BL/dv4MGo065VOBxGijNnlhMSaxfBE=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/LoadCustomShortcutsMenuU
+ tils.html
+SHA-256-Digest: KPZL5FnpJ0vpq+NNAwCMH+7XFQ3DgU6DSNs+Jqn7q/E=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/class-use/IQuery
+ CollectionImplementation.html
+SHA-256-Digest: pBoY02X0KShJRzrurtQn1J76eHJKha4vbXXkGx3f94U=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/FalseLiteralQuery.html
+SHA-256-Digest: jZ3fuzJOFKjjqQKJ9ZA+AOY2xTLba9ejoSKnpIcLlsA=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/colorprovider/package-fra
+ me.html
+SHA-256-Digest: Wf5GET1Zu48JHZ63oUENTchHhBFc7Tk396GaL96sbAI=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/class-use/IFacetComman
+ dFactoryFactory.html
+SHA-256-Digest: kuSLX98YzhV/3ndT9ANCqQtbDCANsDIKt3Xt9U/QOT4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ICommandFactor
+ y.html
+SHA-256-Digest: m0bL7HZsPRyiYM5zHpuZULr9lnRohSq5tE5/HlM+fQc=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/class-use/Catalog
+ Factory.html
+SHA-256-Digest: zw15I+u9QPx71LUf5CdJW1eP2DioiP5htE6IWtQEFxk=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/colorprovider/IColorProvi
+ der.html
+SHA-256-Digest: a56larxnlEGCIdSjw/BWOG8M8Lkvh8sDsIl0B3VWCyU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/que
+ ry/package-tree.html
+SHA-256-Digest: Zj+XK63e5QFi0ra0mcSGMFu1yT1onMV3gBXnRiGMaMQ=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/ICatalogSe
+ tManagerFactory.html
+SHA-256-Digest: HcV2/G6+hZvX7Av8K7nB86gY4TW6hfSvSvCHDHFbbCU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/IModelCellEdit
+ orValidator.html
+SHA-256-Digest: EhnlWpR/7fLOvv1z4d0exrG2NSa5C3ypY58ZRpYlMPM=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/JavaQuery.html
+SHA-256-Digest: nyqHHotc2A5loEoFDM3ykwH0MFZGqtrBj83sqxAiAGU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/LoadFacetSetShortcutsMen
+ uUtils.html
+SHA-256-Digest: 7i/Jf3L/eZlUxbYx3a/Kysl//Hxa3Rj7n3HixCJW8Ng=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/class-use/IC
+ ommandFactoryResultFactory.html
+SHA-256-Digest: XccCYVhHe6SJ4FlFJeTJGcSVDlZP2DJoCFY0TJ74CD8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/StringComposite.IConverter.html
+SHA-256-Digest: tJHWwDeCJa1tpeOFFGTeIx0zPEbHgE5rU4naRK+9qJ4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/ETypedElementEObjectListResult.html
+SHA-256-Digest: INsaOSKEKPl5ef/sNplMmwop5H6vPU4vw4nvLUepXf4=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/IValidator.htm
+ l
+SHA-256-Digest: QAZSZR1Uo7gfQnLlu52oo7w0cDuL+81J62ZtOdxmmIA=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/package-frame.html
+SHA-256-Digest: +g+pHft4dfK71g0pTs/Pg/3rkz09cftOphX97eNNbc0=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/ExtendedEObjectReference.html
+SHA-256-Digest: lhaRgspd89yOReMLjfzqkh4Lx1UgFJvoqC+a6IfB1Qs=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/TableConfiguration.html
+SHA-256-Digest: 8bY8+7SlolArRlI+sfkkNvUFrzHu98rBSTjHsaVOIac=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/colorprovider/class-use/I
+ ColorProvider.html
+SHA-256-Digest: DnT9P4iKR2MrZ9Yjs6RJenbxVL27O+gcdVPSN8WS7tc=
+
+Name: javadoc/index-files/index-2.html
+SHA-256-Digest: jt2QUzo/bGD1f0mWjUO80u2jE8qr4osydQ8FQyYPKUA=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/command/package-s
+ ummary.html
+SHA-256-Digest: aupV6uMD+HHwdtInF9FgGvPX83DVMFRc5S+EExNaS/c=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/class-use/ICustomizedLab
+ elProvider.html
+SHA-256-Digest: Q4oZBftiyE2oakoyr6L6UQyk+jJ0g6Mx8bAWxYIZnKE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/LongCompositeFactory.html
+SHA-256-Digest: SNzFPnQojTDdHgCKcmXcVF3sRoLfc3jt+SXRIbhsyi0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/FloatComposite.html
+SHA-256-Digest: X38gG9tPLi6y4yEqFMKtkTCxX2QQaZ9mscRDbMhJAkM=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/dialog/IOclDialog
+ Factory.html
+SHA-256-Digest: LXCsRxGL3MrMSGl9TRTxtGnh/cPGchWVpeAutbAMYq4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/SingleValuedContainmentReferenceInstance.html
+SHA-256-Digest: U5ukTm+Bhjpm5t9XXwNJiKJKQckQ4lxaUUVSxvLyfr0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/package-summar
+ y.html
+SHA-256-Digest: /1M8s4ryI6cs3RoiSn8x4bt16ZFlokUQTc2fTlk8Los=
+
+Name: javadoc/org/eclipse/emf/facet/custom/edit/ui/package-use.html
+SHA-256-Digest: KHiWKL1uthWuL0rQzNkKJN/fKAwt95ZceHSDvZrVMNE=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/class-use/ITableW
+ idgetFactory.html
+SHA-256-Digest: 22//7mpy/jVnjjllQKAmhujwQzjvcSQNSnGSHJBJVD8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/modelCellEdito
+ r/class-use/ModelCellEditorPackage.html
+SHA-256-Digest: wlSfycjyIQ8jlYVDSu28BlH1iuVwe0Xdm6MBIrcb8a4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/ui/package-use.html
+SHA-256-Digest: ltPrjQJUfO646pj1FLmih0Lybfh/MHQhyl3feguIiRE=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/pac
+ kage-frame.html
+SHA-256-Digest: Ks6SimHK/SBvnpB/WIbNgFmeIXS4tqOOfovyl+9NvKk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/package-use.html
+SHA-256-Digest: adQ0lmJamRRlWSvhDzrUBu4VxcM+KwowRXJjJFN/nj0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/INar
+ yEReferenceCellEditor.html
+SHA-256-Digest: qkgC54Q0RhREWLSZ3lVBQV5OFDm58eOcGdwK+4KIp+4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/package-summary.html
+SHA-256-Digest: uGq+ZO55oqzaPEnsyyfrVbH7Xf06zD5tAma76d7RlHs=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/oclexpress
+ ion/package-summary.html
+SHA-256-Digest: LJfXEdLVoJ9efZCWPSKTuhFcc+0bLRQfTpGrrQjbeSY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/sdk/ui/dialog/IFacetDialogF
+ actory.html
+SHA-256-Digest: oii5ruXvUo4JgE/541rqx5xKKjesqnOa9YkyzPbS2+c=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/ui/IFacetManagerProvider2.h
+ tml
+SHA-256-Digest: 3Sqcl0QorT97AeD7Gjrm+pgl2+GGa1uDjNcPtOdMb+4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/pac
+ kage-summary.html
+SHA-256-Digest: PgLq4wf0DMYyjwoPsaX6NpezuEQa32CrZCetFjh52q8=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/catalog/class-use/IC
+ atalogManagerConfiguration.html
+SHA-256-Digest: yIR9gc9lwUaFaX7Q6T1e234dCtoVHhNCgcdV4Gwgn94=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Fac
+ etSet.html
+SHA-256-Digest: SPBJUZuzxUk0cSkJBIAykV3QD9EdGgOC29GRkYEINSY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/Table.html
+SHA-256-Digest: V7BOTkn/MEBY3RH4BsmUxv/PphmR/PP0GVqo5OlFOWU=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/class-use/EfacetcatalogPackage.html
+SHA-256-Digest: OYFNcghFx19X4JpPwWE7jm4y7ycNi+lobpp/Ha+9z0I=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/DocumentedElement.html
+SHA-256-Digest: LxxEdLYvhEutakzwO67Mc/YmwsXZPtWqc3lq+sfIZOs=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/oclexpress
+ ion/package-tree.html
+SHA-256-Digest: VPCiLhPQ+AnwGKDHzm3LUhj+KAcc+Kt58Np+FkpE0dk=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/EfacetcatalogPackage.Literals.html
+SHA-256-Digest: je0z7hJpZ3L1rmdBgy+UtT/BoIheu2yjoca6HWgzCEw=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/class-use/ModelUtils
+ .html
+SHA-256-Digest: e+vzXdC6mwjuq04KauZT4xzZkki20pP1KHLtiF9r4m8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/ShortCompositeFactory.html
+SHA-256-Digest: mMySAlNJWIIhO80iYwtuVo8ZozEHDtyyy4cSc/dQpPU=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/FloatComposite.html
+SHA-256-Digest: GSzZJPcjkp9f9TyY9Cl2sGQDV2vMpO/uy+K8THxZKGQ=
+
+Name: javadoc/org/eclipse/emf/facet/custom/core/exception/package-tree
+ .html
+SHA-256-Digest: GGnj0l0QO06NajxQoQ6jOTBG+UzEQkilQRAsBfdMJiY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/class-use/TableInstance.html
+SHA-256-Digest: aIuPLjjAKKV6wtNhmHnm0kk7E1+3DPRtnBK4L59eZN0=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/ui/util/class-use/Editing
+ Util.html
+SHA-256-Digest: qRqmxa67cgA1ZxGKJnxOxxXbVA9Ml2LuThaJYlkmsuA=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/metamodel/oclquery/class
+ -use/OclQuery.html
+SHA-256-Digest: 1O/baCjj+AhTnxrb82Ax5PVRDoKm2nT+THxvXdR759k=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/exception/DerivedTyped
+ ElementException.html
+SHA-256-Digest: oGlxPvi2fqXgeLJW7y3jMGKH0n3a1uRJuQcgbboaNuk=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/core/util/package-tree.h
+ tml
+SHA-256-Digest: QptlZUjgCh671445QQEYYRh76GfwjLwSpC6YD4/hmIs=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/class-use/JavaQueryFactory.html
+SHA-256-Digest: kOGa0/HSulmphgv0jsk+SeU3VjyE2yowvqYjj9LMBKA=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/command/package-t
+ ree.html
+SHA-256-Digest: mm+qm64iQokpxWvqcDQsYgbREtnAsgMnG5UhLg06Bc8=
+
+Name: javadoc/org/eclipse/emf/facet/util/core/package-summary.html
+SHA-256-Digest: jj79DtEICMBi2PVR1WsavzilNwABq61eaTT6OnCLzgU=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/package-tree.html
+SHA-256-Digest: S6HjuBNJO6VnpszW3sWNK1BDaQ3CGGsX8mkpwibKm+U=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/serialization/packag
+ e-summary.html
+SHA-256-Digest: t9OpbQoK4zfSni07GdpLjhiXQIrDoPQcXg2mJ8naVUo=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/AbstractCellEd
+ itorComposite.html
+SHA-256-Digest: B/9A6AG/iKqxaUYiypcRqNTig1i8A4FvhDCp4OwxwJ8=
+
+Name: mediawiki/new_and_noteworthy-toc.xml
+SHA-256-Digest: xDQ3i7+BauAmB6PwKylh3Gl8rSsnS2L/UC+u8z/d0W8=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/query/IQueryCollection
+ Implementation.html
+SHA-256-Digest: 9ELRhxPxFAEbGE42f02qi86bxgK1Q+h30ToLReR4np8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/ui/class-use/ITableW
+ idget.html
+SHA-256-Digest: 4aRI++wlUdnUNgLC2XeNmaXUP1LCFGjNU/1yivk959I=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/widget/class-use/
+ IOclQueryWidget.html
+SHA-256-Digest: rfck333W1Pf/s6DIQDdp94PD+q46Ig6Jb6uHRbVsKVE=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/sdk/ui/dialog/package-us
+ e.html
+SHA-256-Digest: ZmLkjY6BJKogBHgAVcsn7iYFveV0PeMzUgH7z6xsHR4=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/package-tree.html
+SHA-256-Digest: Z6645v+yPvCrHCdOCPfN8DqNjnPQF8SpeagqbDHh95w=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/package-summary.html
+SHA-256-Digest: tK9Ia9s35CvFfMJE4usaW6UDI4NO5ihlNW6sbanlQb0=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/class-use/BigDecimalComposite.html
+SHA-256-Digest: dlKUIDaMnZeKdwuITG32O7Wklwhknp0VEqoztZpNcVg=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/core/package-use.html
+SHA-256-Digest: yxDe06hl9DmUhJ2W8/EGn3qCLRJNt9yVH17EHvs0u7I=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/colorprovider/class-use/I
+ ColorProviderFactory.html
+SHA-256-Digest: 54qKgjB0Dk7tXWuXHhXPM37WGUCWM8DH7/SXJwv98sY=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ leconfiguration/TableconfigurationPackage.Literals.html
+SHA-256-Digest: 2GRIO0wniggtIIM1QdSKq2vVWsCLq18kqbNOOBJ9/x8=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/table/metamodel/v0_2_0/tab
+ le/NavigationTable.html
+SHA-256-Digest: tHee9kXqwgVaVWoqLajoVKqsERgb50HKLJuCd49Ueks=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/CommandFactory.html
+SHA-256-Digest: XfkA70PuhRZoCYgS8J+eBDt1mbFAIa/xvtSCmq+5xJo=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/core/IFacetCommandFactoryFa
+ ctory.html
+SHA-256-Digest: VDs9sWGqxGX+5U22YplvVds2gtie0EvGaBAVAmNPAe0=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/ICustomizationComm
+ andFactoryFactory.html
+SHA-256-Digest: zNOk7P4kKnsHoPbR0hmlzcY79JA0lcuMX328KUFKXRc=
+
+Name: javadoc/org/eclipse/emf/facet/custom/sdk/core/package-summary.ht
+ ml
+SHA-256-Digest: SWqEjT+Hvp+5k7WDgcAZfP2duNcJ0kmlILQcFoIOjtA=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/catalog/CatalogSet.html
+SHA-256-Digest: 6DoL3Y9nfQ2s4V5ZOIcZ/MxoK9vSO3kquF3sNwytBXg=
+
+Name: about.html
+SHA-256-Digest: cSPIHbzF+pnO+QMYEK8HPwMwiGOs1iQ/83QuXG54P9A=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/cla
+ ss-use/FacetSet.html
+SHA-256-Digest: CY2lWRfpe42DqOVjszTtS1k711bLlbMeCD61eaJas9s=
+
+Name: javadoc/org/eclipse/emf/facet/util/emf/core/command/class-use/IL
+ ockableUndoCommand.html
+SHA-256-Digest: 87Qs36eizXvasLWl0AAozH73+QsYyA3q6XmpC47HGSI=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacetcata
+ log/EfacetcatalogFactory.html
+SHA-256-Digest: EuuZZ4Xr5JVYrwrdc56OIykarC3kkZtov1uB5DTCJi4=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/cla
+ ss-use/FacetCustomization.html
+SHA-256-Digest: FTFSDj2LQO2cJQuu7Huk0SS4jetYTBmJzrb2U2tEKHk=
+
+Name: javadoc/org/eclipse/emf/facet/util/efacet/ocl/core/package-summa
+ ry.html
+SHA-256-Digest: Fr3wXvdHPoD73f78wM+LkDu4nxR3WOsdBNUsVnq79Ys=
+
+Name: javadoc/org/eclipse/emf/facet/query/ocl/core/util/package-frame.
+ html
+SHA-256-Digest: oVxnYY2dCVOLCTEic7H8bOETMlnnC1wmzPshxB2+0QI=
+
+Name: javadoc/org/eclipse/emf/facet/util/swt/fontprovider/package-use.
+ html
+SHA-256-Digest: plafU9q67Fv6FQbuoo73nKyZP3P9sm4T//xpiAHRWFc=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/ecore/composit
+ e/StringComposite.html
+SHA-256-Digest: AuZ4WtsoPczKqzdM/2c0i8sv8FThJ/7JpN6rVMPjpKQ=
+
+Name: javadoc/org/eclipse/emf/facet/util/ui/utils/package-use.html
+SHA-256-Digest: njpJJS2u6X+c6DIgIEArqA5FXcI3Mnvdzi+2IAaSv2o=
+
+Name: javadoc/org/eclipse/emf/facet/custom/metamodel/v0_2_0/custom/Cus
+ tomPackage.html
+SHA-256-Digest: cRnJqW6cHgGAcpPf0H1L/7DsZNVONDMgEdFAUbn+RCY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/ser
+ ialization/class-use/MultiValuedAttributeInstance.html
+SHA-256-Digest: 42vI+UkkxRAJIgbxDJNVLzSXqOtbaG8nGBlfgu0FHbY=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/Par
+ ameterValue.html
+SHA-256-Digest: PijdEzmrywiYUNdDZyZs/sxl2+ydTcbmTOr0ThKT5wo=
+
+Name: javadoc/org/eclipse/emf/facet/query/java/metamodel/v0_2_0/javaqu
+ ery/JavaQueryPackage.Literals.html
+SHA-256-Digest: SagLgVusDLtnzmdhrKHnEVPmD//Ch7SMB1k0d+Bhutk=
+
+Name: javadoc/org/eclipse/emf/facet/widgets/celleditors/class-use/IMod
+ elCellEditHandler.html
+SHA-256-Digest: ES0WT5sFN+6Z6Jt5mQ1IrIm0VFYvONgWRV+NPxTul2Q=
+
+Name: javadoc/org/eclipse/emf/facet/efacet/metamodel/v0_2_0/efacet/run
+ time/class-use/ETypedElementPrimitiveTypeResult.html
+SHA-256-Digest: G/Q+WOmZ8Na/wT9/Fqn5+FXYpmaYZyh3nH8MBj50mv8=
+

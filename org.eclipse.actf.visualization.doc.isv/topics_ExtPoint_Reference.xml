@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+	 	<toc label="Extension Points Reference">
+<topic label="org.eclipse.actf.ai.voice.TTSEngine" href="reference/extension-points/common/org_eclipse_actf_ai_voice_TTSEngine.html"/>
+<topic label="org.eclipse.actf.model.dom.dombycom.elementFactory" href="reference/extension-points/common/org_eclipse_actf_model_dom_dombycom_elementFactory.html"/>
+<topic label="org.eclipse.actf.model.ui.browserFavorites" href="reference/extension-points/common/org_eclipse_actf_model_ui_browserFavorites.html"/>
+<topic label="org.eclipse.actf.model.ui.webBrowserEventListener" href="reference/extension-points/common/org_eclipse_actf_model_ui_webBrowserEventListener.html"/>
+<topic label="org.eclipse.actf.visualization.blind.blindVisualizer" href="reference/extension-points/common/org_eclipse_actf_visualization_blind_blindVisualizer.html"/>
+<topic label="org.eclipse.actf.visualization.eval.checkers" href="reference/extension-points/common/org_eclipse_actf_visualization_eval_checkers.html"/>
+<topic label="org.eclipse.actf.visualization.gui.targetWindowData" href="reference/extension-points/common/org_eclipse_actf_visualization_gui_targetWindowData.html"/>
+</toc>

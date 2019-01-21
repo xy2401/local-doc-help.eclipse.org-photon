@@ -1,0 +1,100 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.jst.ws.jaxws.doc.user; singleton:=tru
+ e
+Bundle-Name: %pluginName
+Bundle-Version: 1.0.400.v201802222200
+Bundle-Localization: plugin
+Built-By: genie.webtools
+Require-Bundle: org.eclipse.ui;bundle-version="[3.4.0,4.0.0)",org.ecli
+ pse.ui.cheatsheets;bundle-version="[3.3.100,4.0.0)"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/webser
+ vices/webtools.webservices.git;path="jaxws/docs/org.eclipse.jst.ws.ja
+ xws.doc.user";commitId=1e9db9905299edb01d13965c0fc44e05a5a15001
+Bundle-Vendor: %pluginProvider
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: plugin.xml
+SHA-256-Digest: Ls4wdanHUSU2s9VDiAizJ9RpK1szAG+vlDCm0jEC5LI=
+
+Name: reference/images/annotations_view.png
+SHA-256-Digest: cflYY2jkG8geZYufZWQqdG2DOqRQ7EfksYy8OYrZU4s=
+
+Name: images/wtp_logo_2010.png
+SHA-256-Digest: vs1kT1suFfOYvJDHf7DcYx0kne9M4xoFoEEkOP1PrYM=
+
+Name: gettingstarted/requirements.html
+SHA-256-Digest: 5dcoz9Bk8qb3vYcV4/7Qb5zDU66Px+q1CWV6tAg4OPA=
+
+Name: pom.xml
+SHA-256-Digest: 7gRkwYZbIdcWHpq0S6ut0S+rZQ/c1AwLtTmzh9icyMM=
+
+Name: tips/tips_tricks.html
+SHA-256-Digest: AWa1V+/1o90ysn4uIh/aalfuNak/5ZghmlDmFzYXBCo=
+
+Name: tips/images/quick_fixes.png
+SHA-256-Digest: dp6tu7O94iv1eMUP8M5xiOw3eoclUCwc6NZmOEC2ZSA=
+
+Name: legal.html
+SHA-256-Digest: mjiXTdDM7SceLh6xsm1gMONFyHgl4yB0NvIJ/Oehiic=
+
+Name: book.css
+SHA-256-Digest: Rbq9yzwWZS2OoFVCKV/g8OFEeQ9PbHUwgCZBKLMyPuM=
+
+Name: reference/annotation_view.html
+SHA-256-Digest: 49zMLaPb35VXxJ98AsjVlXZezlYbuKdyAEK8sD50eZQ=
+
+Name: plugin.properties
+SHA-256-Digest: xE71glo5lyCfZyjlDDDWcnSDBwgAZgOotEi/mql9/sI=
+
+Name: META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.
+ ws.jaxws.doc.user/pom.xml
+SHA-256-Digest: 7gRkwYZbIdcWHpq0S6ut0S+rZQ/c1AwLtTmzh9icyMM=
+
+Name: images/ngrelr.png
+SHA-256-Digest: dBehnQIDM4iTl4UnBZnqWWLTcoxIbDsfbJDQk/8KC6M=
+
+Name: about.html
+SHA-256-Digest: hAXRanoy9hfvJbKMiP4UrI9T9b/EfE39E1w4dqDVzkk=
+
+Name: META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.
+ ws.jaxws.doc.user/pom.properties
+SHA-256-Digest: rnaOQcvewX2O1jYMWC9a6o7CTW5IrV5qc/3fMPkyeMU=
+
+Name: tips/images/content_assist.png
+SHA-256-Digest: HmsDAsyg/dTqFHlVZqOQyYNNpb+zk8rYzoommI57nyA=
+
+Name: concepts/jaxws.html
+SHA-256-Digest: TsI5S2o5XpdyaAsb77LICFjWJ9QiAVatOVyaigiCfIw=
+
+Name: tocconcepts.xml
+SHA-256-Digest: rw7nPNno5r1EXrfs+YjRI0Fl9PUXF+X66YyVdGod0qc=
+
+Name: reference/images/annotations_view_expanded.png
+SHA-256-Digest: kbz7iHYRIZYnzD0WnhWO6Oeo2i0/xYDeiTQnpfiDTjo=
+
+Name: reference/annotation_processors.html
+SHA-256-Digest: OoT7kbSvi0E9fh9nJX9RKXvX3iwIy5Wj1jIUhxtQJeY=
+
+Name: toc.xml
+SHA-256-Digest: VSwMX49yv+Owlh9kc7BIWDVw5Sodkf+GjksHw78xHfU=
+
+Name: tocreference.xml
+SHA-256-Digest: QGqZYYsyAbY8uHvAE+UCrKyecEf5PATdJT5WbY2y4GI=
+
+Name: gettingstarted/getting_started.html
+SHA-256-Digest: st4vkJrgF436bcRjnpQHvkMIsvN84sYSKMrUZCDC0gY=
+
+Name: mainpage.html
+SHA-256-Digest: fhoBSuKbXGV+8upZ7X2MH+2hFe0Ri3K7+LhWC06AkZk=
+
+Name: toctasks.xml
+SHA-256-Digest: jOweehV7X2OOh1KWbviIliKMT6N1kjSZX3bPocwyk28=
+
+Name: images/ngrelt.png
+SHA-256-Digest: m9nB2OpdxQ0KPQaeVgpABw5lJCww9rJyff26dyR/sy8=
+
+Name: images/ngrelc.png
+SHA-256-Digest: u/MdKowJ493eXThkrY9G+FOA1N1i7P9jp8PIY5tAQbM=
+

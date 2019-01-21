@@ -1,0 +1,89 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: Q+lgVgSbj3Nbb+BxNT6tnVfS6qzoJ
+ XPLOg+0YBQql3I=
+SHA-256-Digest-Manifest: +DaSdWLPGEk3y71oXsj5DW0g4fCOievVnTgyYsiJybw=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: tuma20sOtxUKKFn/jfZEj2J79frmUiXMJ2lAO/4+Vm4=
+
+Name: reference/images/annotations_view.png
+SHA-256-Digest: MYnkUwALj2qxVOVe2BJVei3zBMjfV24YjEvyr34QSE4=
+
+Name: images/wtp_logo_2010.png
+SHA-256-Digest: CXMEiuda4KspLjVQWWh1lRjbKPa1JH7gttayFj5jiZY=
+
+Name: gettingstarted/requirements.html
+SHA-256-Digest: 2LwLt8rR2Th1U6LPlFLKsmxqUEYb3o28mNqoSb8Ja/s=
+
+Name: pom.xml
+SHA-256-Digest: jGq7ZR8DCslNBnaQJVjI5fdB4vrTaTOK1pg1z8HaKMQ=
+
+Name: tips/tips_tricks.html
+SHA-256-Digest: X7Q4WDci6D/H/hAiPGe+Pke3vb4+oT6zBs8Hi7vGpfo=
+
+Name: tips/images/quick_fixes.png
+SHA-256-Digest: Z0htFqRPwnmPUNKkxdAihnDsdpNznlxzoGE6oH5z6aM=
+
+Name: legal.html
+SHA-256-Digest: bKm27iCiq1xIDmxr3uEEPR/WPqN/FIy8a5mWRuGw23o=
+
+Name: book.css
+SHA-256-Digest: klWOSzpvDE1RCz/fxycVbMX8mlPmqFaIbbbbg7asS38=
+
+Name: reference/annotation_view.html
+SHA-256-Digest: Ys9OtVzJCeqeBfnHCVUoihWXYO4bHLjUG44p3Vvhkyw=
+
+Name: plugin.properties
+SHA-256-Digest: A0PuCMdgbucMzan1gp+D6fjEPieSnpLhC37828wOsCE=
+
+Name: META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.
+ ws.jaxws.doc.user/pom.xml
+SHA-256-Digest: 6J6OiRBiY4pwezUYADK6aZk57MiiUOJzCuJZQJElkXk=
+
+Name: images/ngrelr.png
+SHA-256-Digest: 6v0GQK18jAUVotvX2Ou4BolfYB9TGXNoiFOYEq8aNxg=
+
+Name: about.html
+SHA-256-Digest: xj6wUEjMeP6EC7UOK4XmoUtWdHbkjKojin07eyxKliQ=
+
+Name: META-INF/maven/org.eclipse.webtools.webservices/org.eclipse.jst.
+ ws.jaxws.doc.user/pom.properties
+SHA-256-Digest: tpWQZGo0UE3apvIHyjYK5bZs4rxa7DYcvO5UwhBifsU=
+
+Name: tips/images/content_assist.png
+SHA-256-Digest: Sr7Dis8t4PXKlu4VgcUCy8CbVZGdIsF7Amriy8P+rHU=
+
+Name: concepts/jaxws.html
+SHA-256-Digest: bXu9NMGpAaVUjKV1G3DS+Ihml8DAVVQ3+a+8oJKwplo=
+
+Name: tocconcepts.xml
+SHA-256-Digest: CBWCRqnbyFhvE0ShQhGzYDsZTJSvw5TRtZOlvEaX3wc=
+
+Name: reference/images/annotations_view_expanded.png
+SHA-256-Digest: oYtlmKsH9SuDKqJhRXiUjw9022EyUtOYhdeRpPDZlgs=
+
+Name: reference/annotation_processors.html
+SHA-256-Digest: 85oLPZLvFmsC3dItNYeelp1H9H+NJ06czRREC35ybY4=
+
+Name: toc.xml
+SHA-256-Digest: snqD+c28X6x3uc2st6wcUXVLZOAyvIVdzxk/t//XhZI=
+
+Name: tocreference.xml
+SHA-256-Digest: fzUSyI8g+fA8Mv6zIAtr9xmklxaPapA6cf9mxsWFqqg=
+
+Name: gettingstarted/getting_started.html
+SHA-256-Digest: 1l9EMTCKYe4LAxLpMpVUJrIrq88OpxOd+ZiIyBZai1I=
+
+Name: mainpage.html
+SHA-256-Digest: D/vzVz26Ii2zNT1M0IYk5cg4meoZlYieW/936E+wdeM=
+
+Name: toctasks.xml
+SHA-256-Digest: ks8fpOtTfQETXRATYkfJN6oaRqOE7V7SsOuuh7csDQs=
+
+Name: images/ngrelt.png
+SHA-256-Digest: eYWhuXZxGjWO+qycdS8MaizSY+3ZwWa11s7W0uV57+I=
+
+Name: images/ngrelc.png
+SHA-256-Digest: GYRSuqxHThT/W1wfWi+wkBb9K9x4yS/Oyy1vizULisc=
+

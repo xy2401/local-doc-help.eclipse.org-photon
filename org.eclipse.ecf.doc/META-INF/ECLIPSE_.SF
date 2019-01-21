@@ -1,0 +1,141 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: ubHbaE8fSIFaX4PMgHWhmDS9u9f8h
+ /XjwlOVI5YpVcg=
+SHA-256-Digest-Manifest: X8lrUfwl/3Htb5b0+WYjvJg0blCIc+dWnenorP8htsc=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: VCFhYVAQD+BNf+LbIVikidRer8xgWuirxmMWv+gmVdg=
+
+Name: html/reference/extension-points/org_eclipse_ecf_sharedobject_sha
+ redObjectFactory.html
+SHA-256-Digest: E0ptVqKr+dcP5YD4Fv/QldbqS0GNTcMQTyWv6KTRmR4=
+
+Name: html/reference/extension-points/org_eclipse_ecf_provider_filetra
+ nsfer_browseFileTransferProtocolFactory.html
+SHA-256-Digest: UyG7tk/i2bQ3Nms81EntQCGArT/M0Jm35mNAzFQRVhs=
+
+Name: topics_Reference_RemoteServices.xml
+SHA-256-Digest: GDbOUGAVhn6vsAhkARGaK9DmmmkjHC7dQB7I6hRZO0k=
+
+Name: intro/samplesExtensionContent.xml
+SHA-256-Digest: f9E7qpbx+vyoinilYGfNioRlYxOTWZfH2hBe+06klBs=
+
+Name: intro/whatsnewExtensionContent.xml
+SHA-256-Digest: YeSUpwLbnxmJwBcJa7IuGYzrCFvAF1hJOvSyaC9Zf6A=
+
+Name: html/reference/extension-points/org_eclipse_ecf_server_generic_c
+ onfiguration.html
+SHA-256-Digest: zHmWabqGpvgmQODRqjQTkE4w0fvMud8U5ujgbpcA9Bw=
+
+Name: topics_Reference.xml
+SHA-256-Digest: qO/SU8kl1C/MPxTRAdQ4pFnt8PL6UTGup6GtZiGbWV8=
+
+Name: html/reference/extension-points/org_eclipse_ecf_presence_bot_cha
+ tRoomMessageHandler.html
+SHA-256-Digest: ZYBv5KhH+idq6eMFyirpNcp+PPmnhYWJoQS2oEoPocU=
+
+Name: topics_Samples.xml
+SHA-256-Digest: 0a/L9WLGqCK+K9Apoehmbfqm8uviP2nEyaaBWkruXoA=
+
+Name: topics_Extpoint.xml
+SHA-256-Digest: vMP/HCDXfgxDEv1rjdLuTcZQUgRe5GWY7/HvOXO3QB4=
+
+Name: html/reference/extension-points/org_eclipse_ecf_ui_configuration
+ Wizards.html
+SHA-256-Digest: tOjkdZe4QyLPxrv74Sy2VSxQhijX7dneN0SJEyCeIA4=
+
+Name: intro/css/tutorials.css
+SHA-256-Digest: Ix3yMIg7zlqMa4d5+74NVjNbiB+SFt53idjTlNzqLqE=
+
+Name: html/reference/extension-points/org_eclipse_ecf_identity_namespa
+ ce.html
+SHA-256-Digest: B5m9FIpIERGmEIPVQg78YZslNIFyf1b5JQfUeqWMR8Y=
+
+Name: plugin.properties
+SHA-256-Digest: DCGD4TUndJzCRRvqQ6gYDKQ30I92RS2BAxRv475sTYs=
+
+Name: intro/css/samples.css
+SHA-256-Digest: +g1T973AWu43A/f5vzUrPpT8LMIg9W6mdft6UskPgJc=
+
+Name: html/reference/extension-points/org_eclipse_ecf_containerFactory
+ .html
+SHA-256-Digest: OyB4v+y0W6ty6IM92ZqArv8F9zz8ALBzCrE77ATGqHA=
+
+Name: about.html
+SHA-256-Digest: LqnGhIUk/7hX2XEO9L9TBGz98V3kAkiAAtwiiFlLQ0Y=
+
+Name: intro/css/images/ecf_intro.gif
+SHA-256-Digest: qQLtclizX6jKP5sPfCM5Q3kb/kqTuIVmxgQ3oJm42uc=
+
+Name: html/reference/extension-points/org_eclipse_ecf_provider_filetra
+ nsfer_sendFileTransferProtocolFactory.html
+SHA-256-Digest: if7KqEmGhB/SWH9Iz3+QUKEEV4ry1WlkfmGZEUkJxzw=
+
+Name: intro/css/overview.css
+SHA-256-Digest: wdMEBDiPf8VjRGQlatTn8jMmsgV5XFB59KDug3b7CvQ=
+
+Name: topics_Tutorials.xml
+SHA-256-Digest: d7h8oa6tY3YgOpw92URp+PmwsraiNxjDYSETQ6RpPXU=
+
+Name: html/reference/extension-points/org_eclipse_ecf_provider_filetra
+ nsfer_retrieveFileTransferProtocolFactory.html
+SHA-256-Digest: APWXcgjK+GxXMtCqWElWkYykB4czKqMxGTcNqVx190c=
+
+Name: notices.html
+SHA-256-Digest: QuakJBZ5hng7EikkSHK0NM+3mZZmiARlk3PwM0hBedw=
+
+Name: html/reference/extension-points/org_eclipse_ecf_presence_bot_imM
+ essageHandler.html
+SHA-256-Digest: t39cKQJxilagYWP55LsMW8wbGYPaWkvwbbbPaAlTASc=
+
+Name: intro/css/images/ecf_intro_hov.gif
+SHA-256-Digest: 4mlQ6ixYsSsxhkpjTOsGOgSuxGLw2R9qPTOTvrKGPps=
+
+Name: intro/overviewExtensionContent.xml
+SHA-256-Digest: 56QJaSz4nFDO583ZIpRuviyhut3XjIRmh8gs+BZK1MM=
+
+Name: html/reference/extension-points/org_eclipse_ecf_presence_bot_cha
+ tRoomRobot.html
+SHA-256-Digest: Ub40+Oy0T4Nvzf1sX5+ll2aVDc5P3Z5zunOSeBdGDNE=
+
+Name: intro/css/whatsnew.css
+SHA-256-Digest: DIG5iSyUsaJI/7NCmkipi3LY9E+UqQttNgFxF4423fk=
+
+Name: html/reference/extension-points/org_eclipse_ecf_container.html
+SHA-256-Digest: 4KxjiPy3gEgQ2lWWaUeJPRAx5VYDEIL/32uubL5ENbU=
+
+Name: topics_GettingStarted.xml
+SHA-256-Digest: l6/pN/8kxtUV8uOwfbmjzYg6wrxmI+c+0o8UO66zG2M=
+
+Name: html/reference/extension-points/org_eclipse_ecf_presence_ui_rost
+ erViewerDropTarget.html
+SHA-256-Digest: bDB0udeXJD/ROkCDAzfTHL+yQLAcPPcGisZKH6IKBns=
+
+Name: html/reference/extension-points/org_eclipse_ecf_presence_bot_imR
+ obot.html
+SHA-256-Digest: EZ4H6Kh4WfsIYxu9pQZ9f/PMjDVabP+DT3PSzEWeKyQ=
+
+Name: html/reference/extension-points/org_eclipse_ecf_start.html
+SHA-256-Digest: f3QwbEgX8y8aGkov6AJeopi2NADoxrGVEWcmf8Lcx2E=
+
+Name: toc.xml
+SHA-256-Digest: 58g9w9NWGLUPqjKJGqCe5R4VZMEraFvGD072dcNhtPE=
+
+Name: html/reference/extension-points/org_eclipse_ecf_discovery_ui_ser
+ viceAccessHandler.html
+SHA-256-Digest: mddr8sAY196j+Txl/Zq2g3OcnQILvr67HyjWnIvpJLY=
+
+Name: schema.xml
+SHA-256-Digest: lm1KJ9NDJRa20pQa/FvYk/WCShcnTtdmfDYWkkd4AUc=
+
+Name: tocapi.xml
+SHA-256-Digest: PTXVNSoCn7hJZiUwMjEQUr9fz84niMQD40ASir124Xs=
+
+Name: intro/tutorialsExtensionContent.xml
+SHA-256-Digest: zzvIeZsHHBrCFr4LuhGSXGnMNr7NmgCQ+Jx3lzCjfrs=
+
+Name: html/reference/extension-points/org_eclipse_ecf_ui_connectWizard
+ s.html
+SHA-256-Digest: 3RyX7EawDfb6cNjkhSgLGhcvCCJVWrhFd2AkhbJPPYA=
+

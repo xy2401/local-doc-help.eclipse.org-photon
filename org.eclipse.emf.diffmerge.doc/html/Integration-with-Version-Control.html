@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Copyright (c) 2006-2017 THALES GLOBAL SERVICES.
+			All rights reserved. This program and the accompanying materials
+			are made available under the terms of the Eclipse Public License v1.0
+			which accompanies this distribution, and is available at
+			http://www.eclipse.org/legal/epl-v10.html -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="copyright" content="Copyright (c) 2006-2017 THALES GLOBAL SERVICES.&#xA;&#x9;&#x9;&#x9;All rights reserved. This program and the accompanying materials&#xA;&#x9;&#x9;&#x9;are made available under the terms of the Eclipse Public License v1.0&#xA;&#x9;&#x9;&#x9;which accompanies this distribution, and is available at&#xA;&#x9;&#x9;&#x9;http://www.eclipse.org/legal/epl-v10.html"/>
+		<title>EMF-DiffMerge - Integration with Version Control</title>
+	</head>
+	<body>
+		<table class="navigation" style="width: 100%;" border="0" summary="navigation">
+			<tr>
+				<th style="width: 100%" align="center" colspan="3">Integration with Version Control</th>
+			</tr>
+			<tr>
+				<td style="width: 20%" align="left">
+					<a href="Difference-resolution-in-a-nutshell.html" title="Difference resolution in a nutshell">
+						<img alt="Previous" border="0" src="images/prev.gif"/>
+					</a>
+				</td>
+				<td style="width: 60%" align="center"></td>
+				<td style="width: 20%" align="right"></td>
+			</tr>
+			<tr>
+				<td style="width: 20%" align="left" valign="top">Difference resolution in a nutshell</td>
+				<td style="width: 60%" align="center"></td>
+				<td style="width: 20%" align="right" valign="top"></td>
+			</tr>
+		</table><hr class="navigation-separator"/>
+		<h1 id="Integration_with_Version_Control">Integration with Version Control</h1>
+		<h2 id="Local_File_History">Local File History</h2>
+		<p>Eclipse maintains a local history of file modifications and allows to compare a file with a version from local history. For more information refer to the 
+			<a href="/wiki/../help/topic/org.eclipse.platform.doc.user/concepts/concepts-17a.htm?cp=0_2_1_8" title="../help/topic/org.eclipse.platform.doc.user/concepts/concepts-17a.htm?cp=0_2_1_8">local history documentation</a>
+		</p>
+		<h2 id="Version_Control_Systems">Version Control Systems</h2>
+		<p>Eclipse provides mechanisms (Eclipse Team) that make interactions with Version Control Systems (VCSs) easier. VCS clients that integrate within Eclipse and use these mechanisms, for example EGit for Git or Subversive for SVN, can interact with EMF Diff/Merge in order to, e.g., compare well-identified versions, commits or branches, understand the content of a commit, or resolve conflicts when merging branches.</p>
+		<p>This can be achieved by</p>
+		<ul>
+			<li>Installing the VCS client in Eclipse.</li>
+			<li>Installing the EMF Diff/Merge plug-in for this client (at this time, Subversive or EGit).</li>
+			<li>Declaring the file extension of the models as XMI: Window - Preferences - General - Content Types - Text - XML - XMI Metadata Interchange - Add: type, for example, '*.myfileextension'.</li>
+		</ul>
+		<p>If this setup is successful, VCS-based features, for example those available through the 'Compare with...' contextual menu, will automatically use the EMF Diff/Merge GUI when appropriate. In the case of EGit, be careful to not directly use content that is pre-merged by Git (see Window - Preferences - Team - Git, 'Merge tool content': do not select 'Workspace').</p><hr class="navigation-separator"/>
+		<table class="navigation" style="width: 100%;" border="0" summary="navigation">
+			<tr>
+				<td style="width: 20%" align="left">
+					<a href="Difference-resolution-in-a-nutshell.html" title="Difference resolution in a nutshell">
+						<img alt="Previous" border="0" src="images/prev.gif"/>
+					</a>
+				</td>
+				<td style="width: 60%" align="center">
+					<a href="EMF-DiffMerge.html" title="EMF-DiffMerge">
+						<img alt="EMF-DiffMerge" border="0" src="images/home.gif"/>
+					</a>
+				</td>
+				<td style="width: 20%" align="right"></td>
+			</tr>
+			<tr>
+				<td style="width: 20%" align="left" valign="top">Difference resolution in a nutshell</td>
+				<td style="width: 60%" align="center"></td>
+				<td style="width: 20%" align="right" valign="top"></td>
+			</tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,1740 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.sirius.doc
+Bundle-SymbolicName: org.eclipse.sirius.doc; singleton:=true
+Built-By: genie.sirius
+Require-Bundle: org.eclipse.ui.cheatsheets;bundle-version="3.4.200",or
+ g.eclipse.help;bundle-version="3.6.0"
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:http://git.eclipse.org/gitroot/siriu
+ s/org.eclipse.sirius.git;path="plugins/org.eclipse.sirius.doc";commit
+ Id=a2a0e97e2b99d7d497dcde96531c06d1decda263
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-Version: 6.0.0.201806111309
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: doc/user/diagrams/images/tabbar_export_image.png
+SHA-256-Digest: cuEkUjHIJz8HZdyZCIBiWE4LT2SqrItPXWV4Dl83dlE=
+
+Name: doc/user/diagrams/images/diagram_editor_pin_toolbar_activated.pn
+ g
+SHA-256-Digest: W60iir+6FEUgv628BkqWjgCJ6Rzsm9dDTHrNgDIMfBg=
+
+Name: doc/specifier/properties/images/customize-default-rules-extends.
+ png
+SHA-256-Digest: 9HHLoLOyOjATXH1mB10WgjI56pyvAUbJXL1uFnz4etM=
+
+Name: doc/specifier/properties/images/widget-button.png
+SHA-256-Digest: 5nTsbzo1uO/5GGveJja1PbrdclPWSl5Rk0so3Oj/a9E=
+
+Name: doc/user/general/images/aird_editor_remove_semantic_model_uncont
+ rol.png
+SHA-256-Digest: 74/BrT2lAReONcbymBAUCXHpbG2DHnT28hvLKdSuFL4=
+
+Name: doc/user/general/images/managing_representation1.png
+SHA-256-Digest: aDN9inokT1au3KuUzi5JxzQ0MZf01I2xEIB5FqkTg8I=
+
+Name: doc/specifier/sequences/images/orderings.png
+SHA-256-Digest: yZP8vndTw3pOEA3isYREuhgmTtboSzVW7QKK+r2uYtI=
+
+Name: doc/user/diagrams/images/afterRemoveBendpoints.png
+SHA-256-Digest: jbrzIcXxQC/y+Ddb6QSRwqv7lM53Jwujl8aXxVscT6k=
+
+Name: doc/user/general/images/new_project2.png
+SHA-256-Digest: TdD9h3VTSlq6XcVKFMH01L0J25VFXbqR2SOECMHwAPo=
+
+Name: doc/specifier/diagrams/images/styles/Pane-Based_Selection_Tool.p
+ ng
+SHA-256-Digest: Z62hV5Bot5fRtdwLjW+9hC8mPmQTs5mkin2+jrWcgOQ=
+
+Name: doc/user/general/images/aird_editor_expand_aird_file.png
+SHA-256-Digest: DZjgpKxnbpEfCCQ4O/PTnSEKDxmXcGtojhKbhIATERM=
+
+Name: doc/specifier/diagrams/images/decoration_group_tooltip_example.p
+ ng
+SHA-256-Digest: cKaYo4qGFEBVm90RfEjODj7J5758hDbksubEQoaiNcc=
+
+Name: doc/user/sequences/images/found_lost_ends.png
+SHA-256-Digest: 8SUbzdowdkxMhPVrk3IcLSwp1B83VWmD69JB7s8ITrk=
+
+Name: doc/developer/extensions-properties_provide_custom_widget_advanc
+ ed.textile
+SHA-256-Digest: j37vrxpzpIWbyhi99NcrimvF3ygEOWVfGT1YlRMhfM0=
+
+Name: doc/specifier/properties/images/customize-default-rules-general.
+ png
+SHA-256-Digest: 5CI6uW0O/w3TyDBcIv+dcTH7XxAW36JjncDdvv6GAcw=
+
+Name: doc/user/diagrams/images/diagram_editor6.png
+SHA-256-Digest: puJAT+s4bJT23LuwAfw1guMQZUxnMNY1lnlUJ0Ytv1s=
+
+Name: doc/developer/images/style/styleConfigurationProviderExt.png
+SHA-256-Digest: +zh67CehGKQk/8q9up/WFujlyRKkhjUsukl82E2eqgk=
+
+Name: doc/developer/extensions-provide_save_dialog.html
+SHA-256-Digest: xDgyy6cHOdRqis9Q8bigghEmFeDFZxMJ/S9iMRLAWZY=
+
+Name: doc/developer/extensions-provide_tabbar_extensions.html
+SHA-256-Digest: 2FjbOS18Zwu1tKuvlNaSQiFnTfGJ5zYnWzEeHBH3YBA=
+
+Name: doc/user/general/images/aird_editor_pref.png
+SHA-256-Digest: drv9Pe1EADLs5x5vh4qLyED2uACKXZEaREIZrpWrT4E=
+
+Name: doc/developer/images/arrange-all/arrange-all-viewOrderingExtensi
+ onPoint.png
+SHA-256-Digest: ZFvsmcBvZtUwb88/Zwgd0ZMA6t4GzRWXpMB2UFEUWzY=
+
+Name: doc/specifier/diagrams/images/typedVariable_PropertyView.png
+SHA-256-Digest: KdO3lcu48WB+MrnXKdFgXEZcozFiHgzmPZ5vy/q8uSU=
+
+Name: doc/user/diagrams/images/port_selection_handles4.png
+SHA-256-Digest: GS5CtbFvC/o5HsZ08fLwIcQw5sBbnqOZHtjSxuDyFE0=
+
+Name: doc/specifier/cheatsheets/CreatingViewpointSpecification.xml
+SHA-256-Digest: QEc+ETUEXScmH/tsa1ZAUEL1sYqA0z5Hdnpa/Bs4fDk=
+
+Name: doc/user/general/images/aird_editor_remove_semantic_model.png
+SHA-256-Digest: jXLtDBN20c/DkwI2fvw9oidCdAqut37vFVNhptZfMoM=
+
+Name: doc/user/general/images/groupItems_1.png
+SHA-256-Digest: cn94v3RcYu7ou2FiMqNIILRQ6MZtka3D+HJbfvVTsvY=
+
+Name: doc/user/general/Aird_Editor.html
+SHA-256-Digest: w3cAkTy1wY++ZG4LKPBKJrRwDCTjYYGRRUWvIQNgKVY=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Note.png
+SHA-256-Digest: 1X6h3bad8zmsw10GDJ3b2sRorbn3S+56gui0IEVuZPc=
+
+Name: doc/specifier/properties/images/widget-radio.png
+SHA-256-Digest: 0nNGd2OgkhfXY8igtcsABAKAf2AoRCvva5sananhJVs=
+
+Name: doc/specifier/general/images/translatable_message6.png
+SHA-256-Digest: ngLQ8Q82O6O47d/Iyb3OlSMFTyXYnieIebAA13a8ZJA=
+
+Name: doc/user/Sirius User Manual.html
+SHA-256-Digest: pcSaC1LjqP6ff3S4HdL1OCuocY0gBV3aRQg/4zI1500=
+
+Name: doc/specifier/general/images/questionMarque.png
+SHA-256-Digest: eeLvgvypqfzgF3UniPiwvFYWD4X+C0xJ+VnWr/w0WeA=
+
+Name: doc/specifier/properties/images/reference-multiple-value.png
+SHA-256-Digest: hTEpboEd3693s+8DW9ZERG4PAKoTjSvtATolDyrNujI=
+
+Name: doc/user/diagrams/images/diagram_editor_paste_style2.png
+SHA-256-Digest: +1SRSoIRY0HxpaOq7rVrsjCue3513i7KjAA3M8IOgOc=
+
+Name: doc/specifier/properties/images/reuse-page.png
+SHA-256-Digest: 74/1ipwy0ZndANN4qLaFOLf5AXAtIkfEjZqpK/wZUd4=
+
+Name: doc/user/diagrams/images/tabbar_font_controls.png
+SHA-256-Digest: ZVLOFZ8qdAuurzNhXOHwDY+xP6lYMFA/k6FRLYdWqZE=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Basic_Square.png
+SHA-256-Digest: jN+bxMkj31GqQpyGF7br+W18jNUBB8hyqirAgVggSvM=
+
+Name: doc/specifier/tables/images/table_description_editor.png
+SHA-256-Digest: KSIFZGWxNFy/7CPJFuMLtsFdS3nkQeujnaOJxCTZRTs=
+
+Name: doc/user/diagrams/images/diagram_editor_pin02.png
+SHA-256-Digest: zEWq4Rqt0lFhytdowTf2LKmfQ0wyunPaGz1JQ5I7OFU=
+
+Name: doc/developer/extensions-provide_migrate_contribution.html
+SHA-256-Digest: sux2At75TaptJ+Ioj7HPyfL31dk1+cOnJupli46kVxA=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Square.png
+SHA-256-Digest: kXCihE9q8hXGYh8+H5B9meagHZMUHVDwL7kznQNC44s=
+
+Name: doc/developer/later/extensions-provide_custom_specific_editor.tx
+ t
+SHA-256-Digest: 4Y6B+ocJvIZjoVG1D6YpX3z7/McvxuD9H2vstsFk0k4=
+
+Name: doc/specifier/diagrams/images/styles/Edge_Style_Centering.png
+SHA-256-Digest: XzgR62DdyL2isCMpf2Jgw8TpoL37QU9qRMSVh3RsJK4=
+
+Name: doc/user/diagrams/images/synchronized_diagram3.png
+SHA-256-Digest: AFJ3G7x38Zn8/FoFMTkSYstMDs4y+04mFJfogOnf+RA=
+
+Name: doc/user/diagrams/images/tabbar_layouting_mode.png
+SHA-256-Digest: W1UhQiB0RWSzVbMrScfUubVuSu66UXiFvGqMMhSbwhY=
+
+Name: doc/specifier/sequences/images/execution.png
+SHA-256-Digest: iEVd/zv4kWQX8xwVT+qOkCipWew8aG6hpAXBP7cQviw=
+
+Name: doc/specifier/sequences/images/execution_mapping_properties1.png
+SHA-256-Digest: SnWw53fEXxWENd69oS0ckd7fMvSd6QboUiHDvP7CS+Q=
+
+Name: doc/developer/extensions-properties_provide_custom_widget_basic.
+ textile
+SHA-256-Digest: MnE1AGYZv4DaUP4nS5lpQAnQMge4/Hk44XFP276DBlc=
+
+Name: doc/user/general/images/open_aird__modeling_project.png
+SHA-256-Digest: uzb9zg/5UXze2TBWT214524+wz6bfztqiFUN0OcKaEQ=
+
+Name: doc/specifier/Sirius Specifier Manual.html
+SHA-256-Digest: sYainDl+I3807aYV9o3jpRRCiGEQQtosAj9Nxbh/nGs=
+
+Name: doc/developer/images/arrange-all/arrange-all-layoutingAPI.png
+SHA-256-Digest: RWUN+D/e3sBgp75eQDH38KHtWRBo92N1fGjm7N/t2dc=
+
+Name: doc/user/sequences/images/iu_states.png
+SHA-256-Digest: NdDY23s3uXAzw1n9ESVpaybHRUy4O2A9Gyl1/CUC888=
+
+Name: doc/user/trees/images/tree_representation4.png
+SHA-256-Digest: /CETenrA7RHELP2br4KlxcRT8uwPsgi47WlpydPCTys=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Image.png
+SHA-256-Digest: gqWooACDu5aBuw/+kLQ+az73Oy2nR/amsZE6IF47llM=
+
+Name: doc/specifier/diagrams/images/compartmentsLayout-Creation1.png
+SHA-256-Digest: vZAs3ceS/uH20cY9yd0JbvrhQrcQHM2Z54j0ZdJ9ebs=
+
+Name: doc/user/diagrams/images/distribute_initialState.png
+SHA-256-Digest: ygWrbeF28P/MT9SnmnJfi36kUwIPvZ6pcQphEIQXXGg=
+
+Name: doc/images/edgeLabelMoveBeforeSirius3.1.gif
+SHA-256-Digest: FWdTpOJHdSUPFC96NWlAFSduttO+9rSnRuJbORXvB/E=
+
+Name: doc/user/diagrams/images/tabbar02.png
+SHA-256-Digest: T9nVyy4fE5DpTIjZBfrChUb3HzwVfTJecSPJQPVcOO4=
+
+Name: doc/developer/extensions-provide_custom-arrange-all.html
+SHA-256-Digest: sWJtnFsg9UCCnMzDFGB4X/aj5URV5P6tIgFpI2+Ky3c=
+
+Name: doc/user/diagrams/images/diagram_editor_pin_configuration01.png
+SHA-256-Digest: kbiJ3/1uGMzYbSHfn6yRqF3VMnL2WR4TWQyJF4M3s0c=
+
+Name: doc/user/diagrams/images/reset_origin_before.png
+SHA-256-Digest: foCqbD+aGVw9ZE0FZkvkDZVclWwmhThV/E+ZwuxxZdk=
+
+Name: doc/specifier/properties/images/widget-hyperlink.png
+SHA-256-Digest: 5tjhYXTU+uSndrHn8cxHZ48nOcfk9zR+J/DRGYSYhP8=
+
+Name: doc/user/general/images/create_representation3.png
+SHA-256-Digest: an9BsVYAjd4TjbKBrktZgGGJy/x4wLtKKlp9Rt8iZGU=
+
+Name: doc/specifier/general/images/textAreaDialog.png
+SHA-256-Digest: kFze8YV9Yz7pRSHsW8837ja9Z5vvRK1TuEXMZpPpmNo=
+
+Name: doc/user/diagrams/images/tabbar_layers_selection.png
+SHA-256-Digest: MlnTl3yUmWr3VDTfsMaOqVRdabx/PCHEWdPjq2xaq+U=
+
+Name: doc/developer/images/architecture.jpg
+SHA-256-Digest: eOLKxhnn/7P4fLPkQmVgk1ZQMPRk8YmW0364FOVLNDc=
+
+Name: doc/user/tables/images/table_show_hide1.png
+SHA-256-Digest: 9Vm5hsWIw1bRVC6hyGFo+aJWlZ3suTK3ypycxK5FcdQ=
+
+Name: doc/developer/representations_lazy_loading.textile
+SHA-256-Digest: KXZJvbImd9FLxNGo/k6lTtC34RgORsaeA21RU3XMcpA=
+
+Name: doc/specifier/diagrams/images/styles/mini_Node_Gauge_Vertical.jp
+ g
+SHA-256-Digest: tTkgeaa7weZT0crUHJcODVwqJoWEZnXUUxWawxe/Hus=
+
+Name: doc/developer/extensions-provide_custom_style.textile
+SHA-256-Digest: qtioxVjLRjPBjTuMJ4PkxTxIIvpAPrsmN8Tu3JPzWl0=
+
+Name: doc/user/diagrams/images/properties_view_rulers_and_grid_tab.png
+SHA-256-Digest: vNjjQgWyq6xHybt21OeMvJAzctBzIOsZultLuYfnjOM=
+
+Name: doc/user/sequences/images/full_sequence_example.png
+SHA-256-Digest: hqPE9+5ffhmQVRouGHAuO/bVBcjz3vrkmzO5XKhsoMA=
+
+Name: doc/user/diagrams/images/layouting_mode_tabbar_activate.png
+SHA-256-Digest: U9p+Iil57yJ3b97QAa6DxmbRmo0M+KvA9VqLophVa+s=
+
+Name: doc/specifier/properties/images/group-style-toggle-none.png
+SHA-256-Digest: 9n6eRaCSGtyS+iU8Kh9qIbrf1iK/Du4hPkmG05m0ebQ=
+
+Name: doc/user/general/images/new_project3.png
+SHA-256-Digest: /DC8tptw8OgZxlVwFiGzTYQI5EsPr3oALqiF2qjDYtU=
+
+Name: doc/specifier/tables/Tables.textile
+SHA-256-Digest: EjUoA2tpEtbpL6r87mWZ75qpOf4t4f572MqwAF2lan8=
+
+Name: doc/user/general/images/aird_unfolded1.png
+SHA-256-Digest: /AR1FwA0q8bMpkcGpQngeW1lX83nspJytpFLFDS6EeM=
+
+Name: doc/user/diagrams/images/tabbar_show_hide.png
+SHA-256-Digest: pNebh9iYY5IZRNwjIsJnnkkMtRm5I/HlcnboIUN6qk8=
+
+Name: doc/developer/images/tabbar02.png
+SHA-256-Digest: cQAsQNfdydWjHRHd+zSxHJiimPvtfAFNPw51TpnHjvc=
+
+Name: doc/specifier/properties/images/widget-textarea.png
+SHA-256-Digest: DQ7pOh+tWV5LwCaTcVLjEbO/h35Ch5o/C9TAbUe3O4k=
+
+Name: doc/developer/extensions-provide_custom-arrange-all.textile
+SHA-256-Digest: ffqgu61eiyPR3XQNzLyZWkIYGgR3OqVkYrXJSqZo3wg=
+
+Name: doc/Release_Notes.textile
+SHA-256-Digest: gnrCFjtwOZXOqdhKQWkEtCTRRBaVP1lydsAWzMlK8Bo=
+
+Name: doc/developer/extensions-provide_custom_bundled_image_shape.text
+ ile
+SHA-256-Digest: bzlkZVIIP9M9K0OVxOOOlQ5akcSRhZ7ifnE2AsnFu/0=
+
+Name: doc/specifier/tables/Tables.html
+SHA-256-Digest: +Qm/+Ik6jNcEnetVUdF4XNwskVc58qJrQ2wjEYpxIw4=
+
+Name: doc/developer/later/extensions-provide_custom_representations_ex
+ port.txt
+SHA-256-Digest: uPpSX92wm/m23gwMkW//BOPuhujrxqDjjA5OioUMAAk=
+
+Name: doc/user/general/images/project_dependencies1.png
+SHA-256-Digest: 6gasBss/Ue3QsA034ntfIoYCA0meSWlFIDAhCD5wCCM=
+
+Name: doc/specifier/diagrams/images/styles/Graphical_Vocabulary_List_C
+ ontainer.png
+SHA-256-Digest: FuixEuZIuuiuKYJCv2LFFpHYRv8LT2ZZVdJjpbtrWWo=
+
+Name: doc/specifier/general/images/tricks.png
+SHA-256-Digest: RDMTea1vEoBbIITl3V4iFlYsTH+hqMKInM3D3Osh6Hk=
+
+Name: doc/Glossary.html
+SHA-256-Digest: qzxtmfhADy3htbOs+Y3p9hZHvKO0Ouz5fIqOpG4GV3M=
+
+Name: doc/specifier/sequences/images/event_ends.png
+SHA-256-Digest: vH0Q06o40q7+De5y79wcyFZHvpVkDHZC9kX7CgNeC7Y=
+
+Name: doc/user/general/images/aird_editor_create_new_model.png
+SHA-256-Digest: sb0BAyTK9skMCIA1A3EPVBx0Igbv8UG28vM5URDhLSc=
+
+Name: doc/user/diagrams/images/diagram_editor7.png
+SHA-256-Digest: r6MvF+3b8II9E1XRt0VNzeO1MqQgJBTv2XnMPnh1bvI=
+
+Name: doc/specifier/diagrams/images/styles/Graphical_Vocabulary_Border
+ ed_Node.png
+SHA-256-Digest: rADuJoBB6ZFHsJ3+vENH1XtVhpzZo7nV1eU2slDvrQk=
+
+Name: doc/specifier/general/images/specifier-guide/validate_model.png
+SHA-256-Digest: TAKqrWxc1Ar+ghre3BgoeguvbXsdLLYIEy/Ysl4TCh4=
+
+Name: doc/specifier/general/Specifying_Viewpoints.textile
+SHA-256-Digest: 9kI/uTRhxdKF79f7UBKS2LU7fcTHrA2+QOlk8x+qWrc=
+
+Name: doc/user/diagrams/images/diagram_editor_paste_style1.png
+SHA-256-Digest: z+ErwfulUmEChAoNyNAE8tiWzYhbXevF3EeU48/MO3w=
+
+Name: doc/specifier/general/images/translatable_message5.png
+SHA-256-Digest: NogeT7zxvYvpRkIfqzMpYjyy64FImZlLvii/y5BOnjA=
+
+Name: doc/specifier/diagrams/images/mappingBasedDecoration.png
+SHA-256-Digest: uEXthB0pw3+hXRdOKI+m8V6qZpDT/XWmw+Ue69uOaos=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Ellipse.png
+SHA-256-Digest: x5MFDlZTG+3nnpLGAHO6acq31EvdlzEt2jCr3JlqDqo=
+
+Name: doc/user/general/images/viewpoint_selection1.png
+SHA-256-Digest: hgGF7L/JBgO+elVkhPjlojw6V5LWjREKBNW8+tewlqk=
+
+Name: doc/release_notes_vp.html
+SHA-256-Digest: 2H4FwYM8nOz2JFd8d/s8w+iLHTJlwlYM7V6cHRGIrDo=
+
+Name: doc/user/diagrams/images/port_selection_handles3.png
+SHA-256-Digest: 6dG/i5r+b5ANRnmG2t1RaxW67t0YJWutURr5sKD5lxo=
+
+Name: doc/specifier/general/images/nn47/.directory
+SHA-256-Digest: BfV+eBhbfW7usLOHy9mhn/pdeEOSxKFVTLADhebRapE=
+
+Name: doc/images/genericEdgeCreationTool.png
+SHA-256-Digest: /ShYKyX73iSM5XgPXvvAzpaWKLn74Sk6kVvaGLeufjw=
+
+Name: doc/user/tables/Tables.html
+SHA-256-Digest: QSn7LwL0W34e+okYEnA24LKKp/fSFWRuBgUELu3Cq+Y=
+
+Name: doc/specifier/sequences/images/default_layer.png
+SHA-256-Digest: iTWvENsJFJmPo7BmLb4B04PUO9uBKzHeaB2WffrFwm0=
+
+Name: doc/user/sequences/images/complex_messages.png
+SHA-256-Digest: k5p1KzPV13s/ijp0Lqzu/58tnIiQjwGDTLUJ9bxkA2E=
+
+Name: doc/developer/extensions-provide_repair_contribution.html
+SHA-256-Digest: rYr0alVJAI7Cl9Mev8aYFLU3PUNpWh783lFTzCEovxY=
+
+Name: doc/specifier/general/ToolsSpecification.html
+SHA-256-Digest: opMu2MwJIecKg6EbhuGmCVBI7IHq58XzYFPMvE/tuS0=
+
+Name: doc/specifier/diagrams/images/styles/Container_Style_Gradient.pn
+ g
+SHA-256-Digest: z66nd4QkZSLVGLQCqBYcQp6vrGTKdNjWpGKC94hRke0=
+
+Name: doc/user/diagrams/images/straightenToRight.png
+SHA-256-Digest: 3PwnO/5u6OL62Ao2kHIHrk26Chd6ImDXMmJsNFgc7jc=
+
+Name: doc/specifier/sequences/images/message_creation_tool_visual.png
+SHA-256-Digest: LwBGYX4Ih2N0zHjUOnnphGo1fxHnabXg0Uhj/bP51tY=
+
+Name: doc/user/diagrams/images/diagram_editor_pin03.png
+SHA-256-Digest: LIDFt5VgYcjHNg1hmKeaB50jeZFURrvj0rUHE7MH9iI=
+
+Name: doc/user/diagrams/images/reset_origin_masked_edge.png
+SHA-256-Digest: Ef6cBdDyLdjo/tGzhpoJJjZSVBCTHmeBAPBbzg/dsYc=
+
+Name: doc/specifier/diagrams/images/compartmentsLayout-Creation2.png
+SHA-256-Digest: zLsH7VVTukjBtHouGKcJFKJZ/VqCYBRg/UevppD8FrQ=
+
+Name: doc/user/sequences/images/header.png
+SHA-256-Digest: DyibI3qoC/pMorEc8966w9ykt6WrRDaFABkfhqOAIDY=
+
+Name: doc/Release_Notes_Previous.html
+SHA-256-Digest: +BXy18afPPQRTqjysysTRTSt74Ez85Nb+kP+ay5GtHM=
+
+Name: doc/developer/images/style/editParts.jpg
+SHA-256-Digest: CSpalfCjaNGN3AaXOAvb5+t6sz3QLHi5KNKReQ8xx0o=
+
+Name: doc/developer/extensions-provide_custom_aird_editor_pages.textil
+ e
+SHA-256-Digest: oUmaCpQu6aAVbgShvONBBydU5HeX7NY5IBum4ZrFuKI=
+
+Name: doc/user/diagrams/images/tabbar01.png
+SHA-256-Digest: wIWu/flC0hPz/Qhol2IMfibT2pF6LHWqu6rsYHaBv9A=
+
+Name: doc/specifier/sequences/images/basic_message_mapping_properties.
+ png
+SHA-256-Digest: A6fD5S7KUoQ7FMPj56pxK+Ok2sTEFJOEf8Si+Hge1zM=
+
+Name: doc/developer/later/extensions-provide_custom_representation.txt
+SHA-256-Digest: WB3mnDfjyzMHHstvxMgRJl5wzZ0SW5SrF11wq87j6Q4=
+
+Name: doc/images/borderNodesWithSnapToGrid.png
+SHA-256-Digest: YkebvG/kZuTiTMO/AJWcBKgorNYwTRwtPliGzJCGG2M=
+
+Name: doc/specifier/trees/Trees.textile
+SHA-256-Digest: iq1Il53uAo7HsaxXS3mGIKpHTQdPhocJoekxyy9U7x8=
+
+Name: doc/user/diagrams/images/snapped-back-label.png
+SHA-256-Digest: kMLECG8XKIk5HQuXCB3igNbB2dCiiVPUWWC98VzxLE4=
+
+Name: doc/user/diagrams/images/tabbar_auto_size.png
+SHA-256-Digest: K5W4GLcphXlPCXvXhOOQPyWT8e/2V1wn3sezN1x/SYc=
+
+Name: doc/user/sequences/Sequence Diagrams.textile
+SHA-256-Digest: ThRCo2H9EJDdFGqdDlpKTVz+o1KY5JLS6GxJrFvXEeI=
+
+Name: doc/specifier/properties/images/pages.png
+SHA-256-Digest: 7nKYLVcVHonk7qxk20zL59v7D+vTZq/3+zmZY2vTKaI=
+
+Name: doc/specifier/sequences/images/reorder_tool_visual1.png
+SHA-256-Digest: Y63t3Ed+mCsIP3zTwIVxLYiy+K0S15IjDyiYviQUpv8=
+
+Name: doc/user/diagrams/images/synchronized_diagram2.png
+SHA-256-Digest: BH48rMV2WXttXHxSqd30iJHKrBroER1kVN8PhUYG6O0=
+
+Name: doc/user/general/images/aird_editor_rep_under_model.png
+SHA-256-Digest: YnP8PBC5uE4WNVN+LkRSUx0nVS9QZcnE0nQU+04pKvg=
+
+Name: doc/user/diagrams/images/straightenToTabbarButton.png
+SHA-256-Digest: 6VhQSAfAvtwGQcY7JpyIvCnc8+xi62vHYqC1pcrJnno=
+
+Name: doc/user/trees/Trees.textile
+SHA-256-Digest: Ddml+xIoQ4E3yfepGqyzfy6GrJXuCVrPgCD6Z+yyfHw=
+
+Name: doc/user/diagrams/images/snap-back-label.png
+SHA-256-Digest: hbAf2lvM7V3r14J2dxuaTsBMw+MB7cXyK4GrGPDvLT8=
+
+Name: doc/user/general/Modeling Project.textile
+SHA-256-Digest: 2kJHyBf2MljyiQOVb/ntVOR0z0uVG1rUvgdm2VNU8pw=
+
+Name: doc/developer/extensions-provide_resource_strategy.html
+SHA-256-Digest: OTxnmT/BMj9OHf15+jsCm5IfFsAV4SKEzTOzfXCxr/0=
+
+Name: doc/specifier/general/Colors.textile
+SHA-256-Digest: +d4+E2ugW46gFaq6mOTNGEGlGBRyx3VWh2Kk4dcOpKk=
+
+Name: doc/user/diagrams/images/diagram_editor_show_hide_dialog2.png
+SHA-256-Digest: ZYiNeZQlEbMiUKKR/nuPYq8RNHjJMPKgkkBnz3xlNYA=
+
+Name: doc/user/diagrams/images/diagram_export_wrong_extension.png
+SHA-256-Digest: iEC3/eB67gS/oHMDO+WqN6gxBwWZzrtDbwiFnUBzKJQ=
+
+Name: doc/specifier/diagrams/images/dialog_TypedVariableValue.png
+SHA-256-Digest: nkn+ii1xolHJjyMeVsxmYDsIp30+UxqbMRT82EFXWkM=
+
+Name: doc/developer/images/arrange-all/arrange-all-viewOrderingProvide
+ r.png
+SHA-256-Digest: pFMo3T/T5QAfBGVgfj/S+wz32cd8Cc7WjNpLUKx4DYs=
+
+Name: doc/specifier/general/images/interpreted_expressions.png
+SHA-256-Digest: yKYsDB27RX+27wX5jwAbBMY1XcFO3vWvv24v0vNSU48=
+
+Name: doc/user/tables/images/tables_representations1.png
+SHA-256-Digest: o9D9+qxKHXwFeou4bdlWN2chh6AGvGzxpWpoQzBuZjc=
+
+Name: doc/developer/images/arrange-all/arrange-all-viewOrderingArchite
+ cture.png
+SHA-256-Digest: 8aKBOGLPkV1lDjlabLV0VWapEg7k2BIi5944w+HaIwY=
+
+Name: doc/specifier/diagrams/images/styles/Container_Style_Image.png
+SHA-256-Digest: 0Ofx4sh7emcoZdWptQgA93uGP0YnrBvZJqdjNEu1XmA=
+
+Name: doc/specifier/properties/images/widget-references.png
+SHA-256-Digest: Buyl6evV5FS84JqFDA5A/eDDoyMiysekUSPJA1VlSLk=
+
+Name: doc/user/general/images/aird_editor_representations_block.png
+SHA-256-Digest: UQR5wGIl97sb5ujcuVRLBdzY+QEK+WvfGs4TfhA0AXU=
+
+Name: doc/user/trees/images/runtime_font_preference.png
+SHA-256-Digest: WA4LGqV7fy2+uf+lN4+GJCiAJgkPqMZbTj9RueM5wQ8=
+
+Name: doc/specifier/general/ToolsSpecification.textile
+SHA-256-Digest: xpJLK4OYVaHBfOLqA/Nf9DpzSeiDQYxeEXqojvaCEUk=
+
+Name: doc/user/general/images/create_representation4.png
+SHA-256-Digest: EpEK2RQh4gjfbiUi7Z/iwdBBa/9cy78S5myCygQak0s=
+
+Name: doc/developer/extensions-provide_custom_permission_authority.htm
+ l
+SHA-256-Digest: 6mnAVauj7/6USI9W1tE2f2ulIz+yepQxBIAGYw9uj9A=
+
+Name: doc/specifier/general/images/featureName.png
+SHA-256-Digest: f7p8/l+hpQBWcUG/AEUMT2mw224tOv0FUACIu1eOAxc=
+
+Name: doc/specifier/sequences/images/execution_mappings_visual.png
+SHA-256-Digest: 4rrKD7GZ1OfwoMGxdIGJ5j1cuBNt+qIKLlnMZT4dGyE=
+
+Name: doc/user/general/images/aird_editor_close_editor_with_right_clic
+ k.png
+SHA-256-Digest: 03CYoCzD+CIVzhorQiBBz7F0kS/8uY2nNzmSXQTWjVE=
+
+Name: doc/specifier/properties/images/widget-label.png
+SHA-256-Digest: Mv7aD4zEsqRalAbzXbkeT06gwJE18fduxi0F+s4kFHs=
+
+Name: doc/specifier/sequences/images/new_message_mapping.png
+SHA-256-Digest: vWJkmRGkqaXtmIKsDVlqhw9PC6htQDptA+rq30Y6QKM=
+
+Name: doc/specifier/sequences/images/lifeline.png
+SHA-256-Digest: 4S/qtXJEbq//wRmNyHSsu8+dV9AcYdfljha48ZtgUF0=
+
+Name: doc/user/diagrams/images/diagram_editor13.png
+SHA-256-Digest: bLwMT1fDB6bpnQf6NTL0p91n8ZpqokDMKy0Un9v3Vlg=
+
+Name: doc/resources/custom.css
+SHA-256-Digest: 1Z5KNhvdB3cty2JXbAADiQcTsGCpeQkxRHOq48so+MM=
+
+Name: doc/specifier/general/images/standard_colors.png
+SHA-256-Digest: 6iHUHiup32Ja/B5Fn4YgLzm5n0qs3l8qswXQ2HZgloQ=
+
+Name: doc/specifier/properties/images/widget-checkbox.png
+SHA-256-Digest: tPyak7dumV4WNDzFEQrwI89mXoc8zlwnTWWkJn6X+Js=
+
+Name: doc/developer/images/arrange-all/arrange-all-border1.png
+SHA-256-Digest: zI+MJJuDXa1bSg8lBrSQglrt7bN0C/t2BdzZanriSOM=
+
+Name: doc/user/diagrams/images/diagram_editor_hide_label_tabbar.png
+SHA-256-Digest: 3G+tsNtKZJiVFDOw+EUUehCd6JfVQr2kc+810BOX1n4=
+
+Name: doc/user/diagrams/images/diagram_editor_pin_dialog1.png
+SHA-256-Digest: 0pMwBEKBxQwwXGeUu2gGri3iqWRfGWePj6j8iUrLsQo=
+
+Name: doc/user/diagrams/images/straightenToBottom.png
+SHA-256-Digest: qN0b+q0L9i06xuAYBuXn5FYA9q0ACg99NYOiG3Dn4So=
+
+Name: doc/release_notes_vp.textile
+SHA-256-Digest: 3DgYJ6LMNUW1w0j9PueKEfaLdSS6tYIlYSOy4ByeP88=
+
+Name: doc/specifier/diagrams/images/styles/Graphical_Vocabulary_Contai
+ ner.png
+SHA-256-Digest: tl61JYnyFqUv6gyJIu1vltmnyXGxp5MjmUhiL/WEZbQ=
+
+Name: doc/user/diagrams/images/tabbar_color_style_controls.png
+SHA-256-Digest: Ccf9SEq1WS9ZbrBEU3PnW6cSHRUAdTJSZKHZHzbkwHE=
+
+Name: doc/user/general/images/modeling_perspective.png
+SHA-256-Digest: FwcnEy0eFiBhMnbdO1aqU3Wybte19q6xz3Wt8zIW1EU=
+
+Name: doc/developer/extensions-provide_custom_aird_editor_pages.html
+SHA-256-Digest: gUz8v9WE2ma9Eper+J1MXjcNvz3k3YhVgeUhhDxkDG0=
+
+Name: doc/user/diagrams/images/snap_to_all_shapes_2.png
+SHA-256-Digest: 4UGu612K4G3aGxiaujXYwZeaUpurPbSFGvLWWTfsb3A=
+
+Name: doc/developer/siriusCrossReferenceAdapter.html
+SHA-256-Digest: S4+7/MBgOBWn0PK0mm7I1lKSF2UV915JtqLqyvhpq3k=
+
+Name: doc/user/Sirius User Manual.textile
+SHA-256-Digest: qALbkFaISFQ5/WJuSiWpROneHp2OIFxT4B9bNj9WVU4=
+
+Name: doc/specifier/sequences/Sequence Diagrams.html
+SHA-256-Digest: JAU8BJFXY7RPcEmYozPlgsvvaAzX+FGjLi+6n46SgOY=
+
+Name: doc/images/improvedsiriusinterpreter.png
+SHA-256-Digest: iktQCTYpXxYu/jk1TKqTx9nvVEVoyKYDef/yiEv0LIk=
+
+Name: doc/images/representationNameWizardChange.png
+SHA-256-Digest: o8Se2+mkBOdLf0mqb8tbQOtlrF5K/phPH0IcE7mgCGE=
+
+Name: doc/user/general/images/aird_editor_model_loading.png
+SHA-256-Digest: F7M31pp0uAUFZ2P5wVkGQJgcIvIpvAmvaJs/GwcJZfg=
+
+Name: doc/user/trees/images/tree_representation3.png
+SHA-256-Digest: V9BhofVWQgiP/QHVEvm24fwPVc9MFigG3i5LBFeeERA=
+
+Name: doc/developer/Architecture_Overview.html
+SHA-256-Digest: 2j1Sp8FWKzTNA6vj0SHDvZ45E0xbyuqyh0xWkXfI4As=
+
+Name: doc/developer/extensions-provide_custom_model_operation.textile
+SHA-256-Digest: /056jjXIW6jBeRWsxMw2RSEDwA/3+acSnjJuaRAcAdQ=
+
+Name: doc/user/diagrams/images/tabbar_paste_layout.png
+SHA-256-Digest: jGfNDfbTQVOhxQHx2m5MyDrXlJ+XPIbUpH6Dwqcz3uM=
+
+Name: doc/specifier/diagrams/images/semanticBasedDecoration.png
+SHA-256-Digest: WFw7ATDab5HmC9MY32W1Z9rvbNZGgnZ0AGnI4PRoayI=
+
+Name: doc/user/diagrams/images/diagram_editor8.png
+SHA-256-Digest: iUAwg2CHMS0eH9oeLVO0XccVhlNkLzt1hZlW6v/6ers=
+
+Name: doc/user/tables/Tables.textile
+SHA-256-Digest: bFFT4zULjKOb609axAAHH9jaDyo2aofdyFgk0Jb4PsY=
+
+Name: doc/user/trees/Trees.html
+SHA-256-Digest: VaIE+nfLbCNZL+ea5N/xdtRcv7cI4M0Lev4ptXxvqnQ=
+
+Name: doc/specifier/sequences/images/new_creation_tool_section.png
+SHA-256-Digest: hDSG/LKINPIC/P172ZEqewkMlFH1G5YJDOpave4GmQ8=
+
+Name: doc/user/general/images/viewpoint_selection2.png
+SHA-256-Digest: bd58mIDTOmL+MLPnqNKYpM04let4Lc4T5iXWSF+t2AI=
+
+Name: doc/specifier/properties/images/reuse-widget-general-tab.png
+SHA-256-Digest: 7DgDeiDijPTj7RtsFXWg7LEsPpVWPC4zeKokVI8Ci1U=
+
+Name: doc/specifier/diagrams/images/decoration_example.png
+SHA-256-Digest: 3GAEgy83Gj+INOFuQynMIEY0olgTMGQ9PWoSDKQkUsE=
+
+Name: doc/developer/images/customPageApi_debugPage_example.png
+SHA-256-Digest: m3YZGbF4gsEj9GEg/8RRg1FzF5ctUKZn7mvvaxwGrVg=
+
+Name: doc/user/diagrams/images/diagram_export_image_tabbar.png
+SHA-256-Digest: 9DeGrtzKDm3KRxU0X248g3HlA3xPmOHjweN+6LDhPN4=
+
+Name: doc/developer/extensions-provide_resource_strategy.textile
+SHA-256-Digest: IXY/CKMcH6IfO83q801VZ7WJIF4TYNpG1IJ8QhQAVUA=
+
+Name: doc/user/diagrams/images/synchronized_diagram1.png
+SHA-256-Digest: 6hE3oRDwcCQNbWyu2YbIkxZKVtiNXaLGerlpYABL4cc=
+
+Name: doc/specifier/general/images/serviceVsmRegistration.png
+SHA-256-Digest: 8KSNjSN0AM3EraN2WVISROtiTw9kTRNS6xFtG45VVaw=
+
+Name: doc/i18n_changes.html
+SHA-256-Digest: GApIMk2yRCE9+CNnXUO62GI9RbuQvjad8S8JQNwvbQo=
+
+Name: doc/user/properties/Properties View.textile
+SHA-256-Digest: bhPY1MAxsfURBaXNdng/dT8ueugqWxOXP4+NE2G0jh0=
+
+Name: doc/specifier/sequences/images/execution_creation_tool_visual.pn
+ g
+SHA-256-Digest: 0vWyziDwLKd1lPECJSVpZM46AesFrNqzsz2ClEV2eaQ=
+
+Name: doc/user/general/images/convert_to_modeling_project2.png
+SHA-256-Digest: P6qPkWs7sYMVq8tE9zrM1JGNJpsQ5WoLzHhUUu+i+qQ=
+
+Name: doc/developer/Meta-models.html
+SHA-256-Digest: 754/DaN219Galan+k0CZW4O66Qi8gB1m4SC+7UK8Qr4=
+
+Name: doc/specifier/diagrams/images/styles/mini_Node_Gauge_Square.jpg
+SHA-256-Digest: LcO41lcOV1y+cr5X4uYR13kH9C8CVazbYfrqLSI0N98=
+
+Name: doc/user/diagrams/images/diagram_editor_note_pin_configuration01
+ .png
+SHA-256-Digest: QE3VTCEVkIuICER/+KBwnUMHfy8j2HOkUJPWdqHeXas=
+
+Name: doc/developer/images/tabbar_extension_plugin_xml.png
+SHA-256-Digest: nAcCrkugpyG0sC3oDM53ezB0/HFUjmaE1XHRbEW+GLo=
+
+Name: doc/specifier/properties/images/reference-single-value.png
+SHA-256-Digest: DLrTNn8VHh1qVKcP/u9wB96O3K77XUZ8VOrfQdtfD54=
+
+Name: doc/user/diagrams/images/edgeLabelAttachment_edgeSelected.png
+SHA-256-Digest: nkP8KlgRl79MtC4541PXm+jxRUnbOl1D6CuAPSEAVW8=
+
+Name: doc/specifier/properties/images/basic-properties-example-vsm.png
+SHA-256-Digest: TGZENoiAdIbwPm5Bmgn//aC8o4j3srRAJbRBjdpmxrE=
+
+Name: doc/user/diagrams/images/palette_tool_drawer.png
+SHA-256-Digest: 3mGrNXTUOtzdJUnIi1cMjK1pSL6cnVDfwo8c1WOp55c=
+
+Name: doc/developer/integration-modeler_description_file_deployment.te
+ xtile
+SHA-256-Digest: rPoz2kiKm2c4IV+XrtwYqbdtttVGbC7pPsT2wVjx7zA=
+
+Name: modeling32.png
+SHA-256-Digest: saSrfvJ79Uzl2BFpCbuVBho1UTuf14LrjD+wGJG44Ok=
+
+Name: doc/specifier/properties/images/new-properties.png
+SHA-256-Digest: llNeRH6wUjB0Q5UZjsufDHX5G/M+ob/X4y35iJnT3A4=
+
+Name: doc/user/sequences/images/cfc_cfo.png
+SHA-256-Digest: 6XmxW7DKlARCOvux7Neulepsv/ykYbYWtpOSCm3KT64=
+
+Name: doc/user/diagrams/images/straightenVerticalInitialState.png
+SHA-256-Digest: 1zkcc5h1iWAELJhdKCa8RV+dVQtQcCAtV8vhZxAapmw=
+
+Name: doc/user/diagrams/images/straightenToLeft.png
+SHA-256-Digest: wnQx7XWeq80cZgPsrY1/dEs83VRMxt0dKRjC5o9FL1k=
+
+Name: doc/specifier/diagrams/images/styles/Graphical_Vocabulary_Node.p
+ ng
+SHA-256-Digest: kenJbr7UxQ/xAcZhKF4xdj1D9GergDXD3bHCASE05FY=
+
+Name: doc/specifier/sequences/images/lifeline_creation_tool.png
+SHA-256-Digest: 4kvl8VfCFWHq7zd+0xIXbK2h7A5pcd7cimmfkgo7f+w=
+
+Name: doc/specifier/diagrams/images/styles/Edge_Style_Manhattan.png
+SHA-256-Digest: NYcfjgqiwcGios6+4pyU0Gy0ekdcs1K0FlgtgBi33Pk=
+
+Name: doc/specifier/tables/images/questionMarque.png
+SHA-256-Digest: eeLvgvypqfzgF3UniPiwvFYWD4X+C0xJ+VnWr/w0WeA=
+
+Name: doc/user/diagrams/images/diagram_export_one_image.png
+SHA-256-Digest: Pg+0JIKP0oww5UegNwyjZ7PILa8CeE4PSpIfqHFH5us=
+
+Name: doc/user/diagrams/images/edgeLabelAttachment_preference.png
+SHA-256-Digest: yYGC4r8UTTO4fS8rnfVGuBCb/rMDKQecNLYUGaGTm4Q=
+
+Name: doc/user/diagrams/images/palette_moving.png
+SHA-256-Digest: shV34LUiWU/vmajEt7F1Aia2KZWco91QFkpRZHqalXA=
+
+Name: doc/developer/extensions-provide_save_dialog.textile
+SHA-256-Digest: yunapU7QOQvrSL4gtWfFydoJvn2ALVuJB3SgHtevyGE=
+
+Name: doc/developer/images/style/instanceRole.png
+SHA-256-Digest: ieG9uXpYjxQSN1v8bT5rBVFgb74v+eH0gOpadktHYyw=
+
+Name: doc/user/general/images/aird_editor_modeling_project_creation_wi
+ zard.png
+SHA-256-Digest: +p2ovmaf2I8HWAHif0OXGRs9chpXjht23beLudyJiDo=
+
+Name: doc/developer/images/customPageApi_debugPage_before.png
+SHA-256-Digest: cjrte8z5d2tkBedWrWWBscRHQSBEYguGWgLrmjQtPz4=
+
+Name: doc/user/diagrams/images/diagram_editor_copy_format.png
+SHA-256-Digest: Ecc7m+jEk/eHX04XkCGJyUBM+RfDHwTfU/iZWfQXMd8=
+
+Name: doc/user/general/images/model_explorer_view.png
+SHA-256-Digest: IaMWHqvDz+qv1TjZkvD4t2LTDeh2i/oggUrIbW2uW8c=
+
+Name: doc/user/diagrams/images/diagram_editor20b.png
+SHA-256-Digest: dMRprtaHv588GKMohl1ia7ZdaAb2xPc+GqV6gpQ6gW8=
+
+Name: doc/specifier/sequences/images/new_message_creation_tool.png
+SHA-256-Digest: GrHRlNO2VAua8i87/iHRtOhylrmhGej9kW6T2cpPG/8=
+
+Name: doc/developer/representations_lazy_loading.html
+SHA-256-Digest: UHfE/cM7redDP0+U2f7CnebP/Wa0IL7eEpPppM+vQBg=
+
+Name: doc/user/sequences/images/creation_destruction_messages.png
+SHA-256-Digest: s5ULQg8PzDQ1dHCOyfYkkK89ew+imGvwftsegh52ja0=
+
+Name: doc/user/diagrams/images/moveEdgeGroup2.png
+SHA-256-Digest: MxW+FJ2/Q6wiLFV69y3DK9uqLIuXznxcO6/ReXR36Nc=
+
+Name: doc/user/diagrams/Diagrams.html
+SHA-256-Digest: G6jJA6kDRf8u6X2VN0KtRnhOu8BZyoH3a96JTVpYB2E=
+
+Name: doc/user/diagrams/images/tabbar_arrange_selection.png
+SHA-256-Digest: kf1xFXW35v39luNM4yTBNdqQOMA31Q164iwl2kdBRYk=
+
+Name: doc/images/compartments_collapse.png
+SHA-256-Digest: sDAnL7UQYKeOMSRfmUQWvF5uuKDt/E/OG4UshA22YXY=
+
+Name: doc/specifier/sequences/images/new_instance_role_reorder_tool.pn
+ g
+SHA-256-Digest: xSWftGx/16pxC3SE3SqvajVN5YpPZ7k38sdLcFKoPNc=
+
+Name: doc/user/diagrams/images/palette_tools.png
+SHA-256-Digest: C8EugBBJyrMt2N/vD5WviQsu/Lv0QP1kmYCxbx6aBT8=
+
+Name: doc/specifier/diagrams/images/styles/Selection_Tool.png
+SHA-256-Digest: QcJTTDyIUObeM9uT1hioCLih/JjsD+toBZhGO6rBwyY=
+
+Name: doc/specifier/properties/images/basic-properties-example-diagram
+ .png
+SHA-256-Digest: H/YEN2bdMI2bcQEciOgWYy22vTrt6S/SjGD3QVs6DoM=
+
+Name: doc/developer/images/arrange-all/arrange-all-border2.png
+SHA-256-Digest: RZylNZOpRuZeU0aTUH6qKmA2J46ANn2BCqhQyxJ+KTw=
+
+Name: doc/user/tables/images/table_multiline_edit_windows.png
+SHA-256-Digest: f0CzrzX6YxAbnyYtrN0SR3R5RiiGUMeQBJA2EBAEU7M=
+
+Name: doc/images/moveNode-edgeImpact-changedBehavior.gif
+SHA-256-Digest: W/+C4fVe+/E3yfWJx1kn/frPQBEQT180e0LxGNglzds=
+
+Name: doc/user/diagrams/images/tabbar_alignment_control.png
+SHA-256-Digest: XiKpnHmDN0QaBVxT9OdK4gKAApT8yTYze9LvWDZXWns=
+
+Name: doc/user/diagrams/images/tabbar_automatic_layout_tools.png
+SHA-256-Digest: ues7hUEbjNrXtQRBe6KODIJlyMrMRUn+vSbjSROS6OQ=
+
+Name: doc/user/trees/images/tree_representation2.png
+SHA-256-Digest: QH6tk8rQxMeRz+EzG1kYRGXusrtxmdQvmkDo6DtX39w=
+
+Name: doc/developer/extensions-provide_celleditor.html
+SHA-256-Digest: ipNzZLVA67uYMmyRAaVyuQUp32+21/UEQkji3bovYYE=
+
+Name: doc/specifier/diagrams/images/references/reconnect/ReconnectTool
+ _Before.png
+SHA-256-Digest: 1q3HnKqK8qb2u9rIBu7Ke4lBYtSE/gbjRBWTcKN+CPo=
+
+Name: doc/user/general/images/create_representation1.png
+SHA-256-Digest: Keh81KeJiOeq70vyZOXhLxI9nGpgCUAHqficXMi/iEA=
+
+Name: doc/user/diagrams/images/diagram_editor_pin01.png
+SHA-256-Digest: 3mXu5yd0sYMLvMY7Uep+VkwYxj9noBPAwIS6FzQZVOE=
+
+Name: doc/developer/images/arrange-all/arrange-all-ui.png
+SHA-256-Digest: S5el21nIS5ps1daz8P/D7jg0jUZTXE2Nu9ekL1UFxUM=
+
+Name: doc/developer/extensions-provide_custom_bundled_image_shape.html
+SHA-256-Digest: 1w0Og4qbCviiTBjEdjFWxfOpMvO+kqJWoxlN4zv5Paw=
+
+Name: doc/user/general/images/aird_editor_close_editor_with_cross.png
+SHA-256-Digest: dL2LbLxT4LWNpnyWVRvEv+DSxlZkBt9TTBiEakfWJRw=
+
+Name: doc/user/diagrams/images/compoundmoves2.png
+SHA-256-Digest: bLVkZmW5UiSjMeIu8VIh3oYtfw7GOrCEyH99XxhUa1Y=
+
+Name: doc/developer/Sirius Developer Manual.textile
+SHA-256-Digest: N/rPNGNn08tgR+dnBUAj8goPhtTXZDmHbWd59tDAE6U=
+
+Name: doc/specifier/tables/images/tricks.png
+SHA-256-Digest: RDMTea1vEoBbIITl3V4iFlYsTH+hqMKInM3D3Osh6Hk=
+
+Name: doc/specifier/general/images/translatable_message8.png
+SHA-256-Digest: R0dhDEYMpGGqnYBH4HK9ToRbpOWRQpBnluEPxLHNgDM=
+
+Name: doc/user/diagrams/images/preferences_sirius_diagram_rulers_grid.
+ png
+SHA-256-Digest: MdzsQp5d6fhiOKi8PaMZJGPFmPDHe55XFaAvfmw1D9k=
+
+Name: doc/specifier/properties/images/widget-label-styling.png
+SHA-256-Digest: 9r7Ag+G9pI6+MER8+sTI5x0bPveKziiiPUgGtf1t1E4=
+
+Name: doc/specifier/sequences/images/message_creation_precondition.png
+SHA-256-Digest: tjmnjBiqiQtgXohSkVRYCn75zlhgnG0khn1f4n8rs2s=
+
+Name: doc/user/diagrams/images/tabbar_delete_from_diagram.png
+SHA-256-Digest: VkxytMwucyJAS06er0CgZmO0XdiWexYrn1PahruMcxU=
+
+Name: doc/user/diagrams/images/straightenHorizontalInitialState.png
+SHA-256-Digest: dunYvVnOnILbtTRavvHh3zozYUAEhQs6UAStXq1c6K0=
+
+Name: doc/user/diagrams/images/diagram_editor_dnd03b.png
+SHA-256-Digest: Zl4UmPlT2MGK9oxmhOkXHBvwHzS4zc0IM19t2jfgcI8=
+
+Name: doc/specifier/diagrams/images/styles/Containers_with_compartment
+ s.png
+SHA-256-Digest: wv+DNZ7vD9n3hZsC6JKK4NUUCB6Re1eZl3MxQrDZb9k=
+
+Name: doc/specifier/general/images/emptyExpressionAutoCompletion.jpg
+SHA-256-Digest: JpzQ9Tkz5IHtBrFpzofwmmuruoyvxbB4FQrNkzxBAxA=
+
+Name: doc/user/diagrams/images/distribute_WithUniformGap.png
+SHA-256-Digest: LKWEU+X0qI+8uVKfX6l14cGoPcxobyRScKgBor3K5Nw=
+
+Name: doc/toc.xml
+SHA-256-Digest: 4TZ3jDU5nkYphYrqA1SDrOkByXtOYg8HzAiFzhLpvoQ=
+
+Name: doc/specifier/diagrams/images/decoration_positions.png
+SHA-256-Digest: utTG4+CBjC6LPqGbmpjU6OND4+c7Y1YOB4oQGdQ26ro=
+
+Name: doc/user/diagrams/images/reset_origin_after.png
+SHA-256-Digest: y4mupBFtvPoEd65glDeMJRbyhNjtpjS6a9Bv7ZSZstA=
+
+Name: doc/user/general/images/create_representation2.png
+SHA-256-Digest: n9qQx08TaLt2EdCSml3TLAKqEBZHgbQGpMYiwuqkCpU=
+
+Name: doc/user/sequences/images/executions.png
+SHA-256-Digest: MKPzz6mEMJcmVEntxpfX4BJTHwGLZw6pcxtxpO7Whow=
+
+Name: doc/resources/bootstrap.css
+SHA-256-Digest: z9tvWuvf+6W/OH2UE9sdnU0ROrjTqWfeCRaabRrTvnw=
+
+Name: doc/specifier/general/images/emptyExpressionCursor.jpg
+SHA-256-Digest: d0+BD9hQZKmWFe6ZtwwkqpJaOLjEEIIRtgmUU2wGOeQ=
+
+Name: doc/specifier/properties/images/reuse-widget-extends-tab.png
+SHA-256-Digest: kpgH7NKU6g+gvqqt5EGV8zdnaTWObq+DcWU4E1WhaMg=
+
+Name: doc/user/diagrams/images/decoratorsSyncStatus.png
+SHA-256-Digest: +v+G8Pjc8APCx90HcLkFQERQL5dmms2ifuYVqlCVkqM=
+
+Name: doc/developer/Architecture_Overview.textile
+SHA-256-Digest: 4mCF5gi2CmxPA/Vr8skRmo803RzLZVqN+kVQPsPp2b0=
+
+Name: doc/user/diagrams/images/exportSampleSource.png
+SHA-256-Digest: o+ZhU/A/Vqpb3zSrqikYK2hGLCsQWeW8QwxtD3kofpk=
+
+Name: doc/user/diagrams/images/diagram_sample_annotated.png
+SHA-256-Digest: 4/7wwietAxKOmRD6lB6TvhhfDmxW/g9dLjCUs1TN+3w=
+
+Name: doc/user/tables/images/table_sort_ascending.png
+SHA-256-Digest: oQN/AgWtdCwXf8x4De847DOmqxZJ2sfr0ej0naPtOnw=
+
+Name: doc/specifier/diagrams/images/styles/Containers_on_diagram_or_an
+ other_container.png
+SHA-256-Digest: gTS11FWjIRzWkJCt8k7gW+l3UoUH0LR/6Qsp3d1bU2E=
+
+Name: doc/user/diagrams/images/popup_bar.png
+SHA-256-Digest: sw4Yy1CLmUnDkT9azc90Ax7hL5OhD/6L4+oqB1H03FY=
+
+Name: doc/user/general/images/create_representation1_alt.png
+SHA-256-Digest: rjofkEIeuzFvlVzUruCrqfDnvJ948E3Uo+Yh35mToE0=
+
+Name: doc/user/general/images/aird_editor_new_rep_menu.png
+SHA-256-Digest: sp8cERNFisTj2jKBa1CSrRkj0YzAQIKzHcPeP4U4v8I=
+
+Name: doc/user/diagrams/images/diagram_editor12.png
+SHA-256-Digest: VsH6V7Zv5cU8e5V3RYyKRAZw6hTU1h5UUjyeUfUB5DU=
+
+Name: doc/developer/extensions-properties_provide_custom_widget_basic.
+ html
+SHA-256-Digest: mhixnRGt93xVnkdJdYYAUXi4R6PGRKVfhZyWhLQH4/Q=
+
+Name: doc/user/general/images/convert_to_modeling_project1.png
+SHA-256-Digest: CnOJBKz8VLg5NiTRJwWWpRpjhk5lnO0XvGPDZ0ZV6h4=
+
+Name: doc/specifier/general/images/domain_class.png
+SHA-256-Digest: NqB3M+IOx+r3zNIKDFMZGGUEilm/DIca1rkJh1lwHf8=
+
+Name: plugin.xml
+SHA-256-Digest: aol9ZShVp9vFlQAE4J3c79kRw+p+dcNejl2EtDg5qgM=
+
+Name: doc/developer/images/arrange-all/arrange-all-layoutProvider.png
+SHA-256-Digest: Hv01H3d6h5pjSQGUDn2JjnjKtPZ8oFUJ2FsUhBASg9Y=
+
+Name: doc/user/diagrams/images/edgeLabelAttachment_labelSelected.png
+SHA-256-Digest: XTGXgS1t9VMxvbByqvD3t+X7HzBo2ufFZqgpnZ6lQ+g=
+
+Name: doc/resources/images/logo.png
+SHA-256-Digest: KkbVVejHtFuaY0RfABre4hSBIXWSqtR9tgBUvTygXGA=
+
+Name: doc/specifier/general/Specifying_Viewpoints.html
+SHA-256-Digest: bMI31Z+JYMz9nl748ccFe3SMtwIG8ENiCbJpvonvqwE=
+
+Name: doc/specifier/diagrams/Diagrams.html
+SHA-256-Digest: TWpDadNk1MzRyKlmPKDfMtQwrl77A0IkfTQuRvEjuMA=
+
+Name: doc/user/general/images/models_content1.png
+SHA-256-Digest: K6JbfoXaZ2uF4H2HuM5dKmS9qVc9rQmQURAOeS78ebs=
+
+Name: doc/developer/extensions-provide_celleditor.textile
+SHA-256-Digest: D/cQ2P6F8gglOacg1si7DYqajRbb2gmjq2nCytNNIPA=
+
+Name: doc/user/diagrams/images/preferences_sirius_diagram.png
+SHA-256-Digest: Eg69gPYayzl5eADhvBpowKT/Bp2/MqFBi5goR8Yz0vc=
+
+Name: doc/user/diagrams/images/moveEdgeGroup1.png
+SHA-256-Digest: RfTTq6xzPLrhTYoxFOa+N3db79DH8xqTknoelOwE1w4=
+
+Name: doc/user/properties/images/PropertiesViewPreferencePage.png
+SHA-256-Digest: /daTHSeHs38iTqXlWtLJVXpJ1rOLLgzlB860Wy/hV18=
+
+Name: doc/user/trees/images/tree_representation1.png
+SHA-256-Digest: d92CwelHZP2tCEjyTDD00VOt3VRDoLEHccRcSCFYLp0=
+
+Name: about.ini
+SHA-256-Digest: eSIvg4XRk1qcPpYtNyHDdIBlzkTYbyqG0JO4KolkUCo=
+
+Name: doc/user/general/images/groupItems.png
+SHA-256-Digest: Wa/TQ8BWOcfh9PKgs/EdlgXvs4OAotf0+QuYHFLm8cg=
+
+Name: doc/developer/images/arrange-all/arrange-all-iproviderApi.png
+SHA-256-Digest: z8KWAJuG5QXx/mANyYvx1emCDwCGlS2HrXejVU6baPE=
+
+Name: doc/developer/images/style/editPartProvider_plugin1.png
+SHA-256-Digest: M813mm56OESv4z0RfIz7I91wILj4tsPodUDtPFT/xsQ=
+
+Name: doc/developer/extensions-provide_migrate_contribution.textile
+SHA-256-Digest: +SqyM9TM/uJVdn2yq7v8qhBg/fJvaewv7H4dfeoI0Z0=
+
+Name: doc/specifier/sequences/images/execution_mapping_reused.png
+SHA-256-Digest: +Ne0W7TiCSmgRVI8+YdPpPtL3jT+obNk8DRwRIQpn34=
+
+Name: doc/specifier/properties/images/group-style-titlebar.png
+SHA-256-Digest: wEIHLe+BmL3esjTrkAz/kykb5TTaINgTJ8ZabGhgM0I=
+
+Name: doc/developer/extensions-provide_tabbar_extensions.textile
+SHA-256-Digest: JX+pe5oqthkQRbmFOS+m/Ras4DfK/hbSwUxyoxB4P3w=
+
+Name: doc/user/diagrams/images/tabbar_pin_unpin_02.png
+SHA-256-Digest: +yZ7zYJMJRcRH+h0djlzafMtv/NODPtvISGnv4JAEqs=
+
+Name: doc/specifier/general/images/serviceNavigation.png
+SHA-256-Digest: PY6Z7uBiygtW54/sI/EVvWQmKVaE5pMljwHTjPAlOjw=
+
+Name: doc/specifier/general/Model_Operations.textile
+SHA-256-Digest: dRIf0tSkamlxk0IbG6Su2r4scRDbasGd6Ig9TzQkD0w=
+
+Name: doc/images/color_palette.png
+SHA-256-Digest: 6DemCXpe6/i1kW72T8qGCP3WZbfZ2C9TOngGo1g00p4=
+
+Name: doc/images/shapeResize2.png
+SHA-256-Digest: Yjy30oPCQV45jo5T67RlRkERezjZMiR5wBrWGX6o5WM=
+
+Name: doc/specifier/sequences/images/instance_role_mapping_properties.
+ png
+SHA-256-Digest: G2JLkPVAEDP/p1h5oXT03yw6dLFgM8iaTCQZbw1ibJE=
+
+Name: doc/specifier/diagrams/images/styles/mini_Node_Gauge_Horizontal.
+ jpg
+SHA-256-Digest: jyFVf6sKOGqzsuabBcMVqQnKx+o1qOnMpctfWqGbCtg=
+
+Name: doc/user/tables/images/table_sort_by1.png
+SHA-256-Digest: JlZ2fv0RgXwDc0TxbO1sBMnMrR7jMplckUkgahFQLTg=
+
+Name: doc/images/compartments_collapse2.png
+SHA-256-Digest: vgx1iR6fZl37qQCWYJmeK63CCF1Qa/wL8ZcfLI1Opx4=
+
+Name: doc/specifier/trees/images/tricks.png
+SHA-256-Digest: RDMTea1vEoBbIITl3V4iFlYsTH+hqMKInM3D3Osh6Hk=
+
+Name: doc/developer/extensions-properties_provide_custom_widget_advanc
+ ed.html
+SHA-256-Digest: 5zSkbjsL0hFibg1GYtVVVkQ165+EF9NxEJpc4hT/6rM=
+
+Name: doc/user/general/images/aird_editor_full.png
+SHA-256-Digest: oJy248loheopWaFdwBTSCgRaoJ+h9SMSWoRSG3dtiVY=
+
+Name: doc/specifier/general/images/specifier-guide/expandall.png
+SHA-256-Digest: zT4vUJ6iwxn+IPp6+EttIPgszDEw9+mUs3rXOXUcDwg=
+
+Name: doc/user/diagrams/images/diagram_editor_hide_label_1.png
+SHA-256-Digest: AMNaVttmPaeuG2I5nbszjGN9isP7GQHDK0Ho/HMZVNo=
+
+Name: doc/developer/images/style/viewpoint.jpg
+SHA-256-Digest: ZH/9GgBQ5TKk8VnvJrOlMCtdgpfGAKaaH6JhmUaeMUU=
+
+Name: doc/user/diagrams/images/diagram_export_history.png
+SHA-256-Digest: a5Xt7c0hXi7VF/Jhtx+nxDj+qC/o783dWSRFtHVo1sg=
+
+Name: doc/developer/images/tabbar_extension_result.png
+SHA-256-Digest: TNq617bSxRFp7u1KaQwwRz8W2FT6ibfrXuIZbeppnIY=
+
+Name: doc/user/diagrams/images/compartments_collapse3.png
+SHA-256-Digest: CR2u1QlzimuycCnCFcNihSXEsmJooajv28njMGd+274=
+
+Name: doc/user/diagrams/images/tabbar_distribute_actions.png
+SHA-256-Digest: +3hlzrR9W0teiHvSORp/1mPuOdMz16n3BuHH0S2NjWg=
+
+Name: doc/user/general/images/project_dependencies3.png
+SHA-256-Digest: yt3gSbhmkJugp6E0yuqPZtExZ6kDEOQev4mWLtj8XhA=
+
+Name: doc/specifier/general/images/translatable_message9.png
+SHA-256-Digest: SfG4KruUbAagOaDIMPvAg0frPg4eXddTDgFqzbm5AiY=
+
+Name: doc/user/general/images/remove_dependencies1.png
+SHA-256-Digest: y1iy05Dg0RUmnCT4g2vLWn6i31AEqHPx35vQnMROsqo=
+
+Name: doc/user/tables/images/table_create_item1.png
+SHA-256-Digest: 4I75TvAzIq87rFabMVvaA2kT0RAYXh6zbfcNV5U1XOQ=
+
+Name: doc/user/diagrams/images/diagram_editor_paste_format2.png
+SHA-256-Digest: QSzwKojShAvcP8AjzfxFP2xQxHNyI6TDlULlk+gmi/E=
+
+Name: doc/user/diagrams/images/diagram_editor_dnd02b.png
+SHA-256-Digest: 2rLPXp1SFRWT/sSfhPgifHgAO+eTni3DjezShJnPAgA=
+
+Name: doc/user/diagrams/images/diagram_editor_hide_label_icon_2.png
+SHA-256-Digest: Cdk1siDhc5naYujnO4Kp84EcOKkcFqm1qPQxnJpyEhE=
+
+Name: doc/user/diagrams/images/diagram_editor18.png
+SHA-256-Digest: OTCs4smENbsuJgyQCOiQgMHPxJI5gpJ+WsYe4kAi3P8=
+
+Name: doc/user/general/images/aird_editor_models_block.png
+SHA-256-Digest: /OLBeTXuLbVhWcx46p7bXKaC6ZiVkTkl16BpOyugWH4=
+
+Name: doc/user/properties/images/DefaultTabPreference.png
+SHA-256-Digest: bxIsqiIqPqzwpe6NclpQLu3bQmFzCsXeL9HEXjKrEPg=
+
+Name: doc/user/diagrams/images/diagram_editor_dnd03a.png
+SHA-256-Digest: cz1OzHD2yi+k21f0K6S4V+eQ1tO+kNZ+WzpQ4ZBrpoU=
+
+Name: doc/specifier/diagrams/images/styles/Container_Style_Parallelogr
+ am.png
+SHA-256-Digest: JKOhcH/iFSniv7BCyGrbzXRxR2VQWP4UNTTQvh7uWZQ=
+
+Name: doc/developer/later/integration-model_access.txt
+SHA-256-Digest: i+sOv1t7oxgkDBebzu9uGiSq9hkDPEDUmnPQZWn8weY=
+
+Name: doc/user/diagrams/images/diagram_editor11.png
+SHA-256-Digest: NJDhwHZaRqUbJ6eixVHJKCjPfDLk1se8sZ1qOyg+sn8=
+
+Name: doc/user/diagrams/images/reset_origin_visible_edge.png
+SHA-256-Digest: dbJ7nzE/EcEbbjUTfwoR/8HTwm6Kf60dUSvjr5TBSjg=
+
+Name: doc/specifier/general/images/translatable_message2.png
+SHA-256-Digest: ZXXotxcmgGI1VLCcMfz3HSpyi+c2D/CGr4zx1SzCZnw=
+
+Name: doc/specifier/sequences/images/basic_message_mapping_visual2.png
+SHA-256-Digest: 7IoGPzFzvbXMoQn7SFasZX/3dysCZIUvxbW8/E/Lmwo=
+
+Name: doc/user/sequences/images/insert_vertical_blank_space.png
+SHA-256-Digest: kXoDXVUgt66T779rlzt5P/8uNahL0PeBf+0mxZpgdfo=
+
+Name: doc/user/diagrams/images/diagram_editor_paste_layout1.png
+SHA-256-Digest: fm+SMG1xQ/mu18h1SnuRW1dMaUcmRgv++TCSOja55jg=
+
+Name: doc/developer/siriusCrossReferenceAdapter.textile
+SHA-256-Digest: ioaSLjsXauTzoR+9SeD14vK1iB8zDiPbFPMI5XgshVU=
+
+Name: doc/developer/extensions-properties_provide_custom_widget.html
+SHA-256-Digest: qlZ2oK46QQClqqNjDO3+dQ7IOxX8hDyBnj9intffdvQ=
+
+Name: doc/user/diagrams/images/snap_to_shape.png
+SHA-256-Digest: iBe0E8dzEgzwLr6tJK7dN56eGZ71HrnNEEmJHrrVgTo=
+
+Name: doc/Release_Notes_Previous.textile
+SHA-256-Digest: mvm+NAevBJVfGXLFRo5qodlVplTIHl3zNyfR1OcqaiU=
+
+Name: doc/specifier/trees/images/tree_description_editor.png
+SHA-256-Digest: 5K5sfymEZUwIm6uTqVgaMORS7pqHloyFA8aIcbOn9Mo=
+
+Name: doc/specifier/sequences/images/new_execution_creation_tool.png
+SHA-256-Digest: mQdIa/p6ESm6ESnEenq7uqyRxOjXfylO9lNRalFbDZk=
+
+Name: doc/user/diagrams/images/tabbar_make_same_size.png
+SHA-256-Digest: AjS1FYflOdwd8UXJBeWWd7Y7ZaPjNzDFLEtgUtU13m8=
+
+Name: doc/specifier/diagrams/images/decoration_tooltip_example.png
+SHA-256-Digest: f4WxOuhw8VYhn8sESv47LEcveOJ6vBaKpP3HZifFTGI=
+
+Name: doc/developer/images/Sirius_Representation_Refresh-Sync.png
+SHA-256-Digest: 9+cwsog1JRiGPccEYrllPGnZbVRUcEXupQSiFb/JWas=
+
+Name: doc/user/diagrams/images/straightenWithLeftPinned.png
+SHA-256-Digest: jC1hansbaeO5bWVrwqMjpljWfehtiKUZDqttF3vZtDo=
+
+Name: doc/specifier/sequences/images/ends_ordering.png
+SHA-256-Digest: LxYiGJHyOvf/ohLjnpVHxvKcDe5M9ZcXmBSrtk/Wc5g=
+
+Name: doc/user/general/images/legacy_mode1.png
+SHA-256-Digest: Bn9LX9oSYiHdZzAYpbVcaOlqILdgw6kbXx5A7HEfWUo=
+
+Name: doc/specifier/sequences/images/new_execution_mapping.png
+SHA-256-Digest: m6Wb+VRVzDCOUZ/RYhelPIA+vf9NZ9PCe23p4YIARgU=
+
+Name: doc/user/diagrams/images/rectilinearAfterRemoveBendpoints.png
+SHA-256-Digest: 8haYJmpY8k/DdUyFIOq7de+VGCe6B7/IEZcgTFGv5Cs=
+
+Name: doc/images/PreferencePageMaxTabName.png
+SHA-256-Digest: jzMZqBcuBohisdgAz/kHLF7IMSgPU7XTcB+n4q3HrO4=
+
+Name: doc/specifier/properties/images/reuse-widget-general2-tab.png
+SHA-256-Digest: HHyTW0fm9lRupjT0VdbnkV13z2sz+sDI/JkOgCBMxAw=
+
+Name: doc/index.html
+SHA-256-Digest: c+78rNU3jbpeDQsK7CoaVTcEPVuCeMyg+uMYZCuLFq4=
+
+Name: doc/user/diagrams/images/snap_to_all_shapes.png
+SHA-256-Digest: p62F0MpAEmLoHCdSZ9hQ03C+pdeOFeqFTVNQ+KisoP0=
+
+Name: doc/user/general/images/create_representation5.png
+SHA-256-Digest: HkxQpKHkeuGANI1DolvoOGLZ+0hfZopL/11q+JXhm0c=
+
+Name: doc/user/diagrams/images/palette_resizing.png
+SHA-256-Digest: DdK1rCwFx2N/1wGgOp8OnTKbiDxYEx77Q+HFQ98Q8Pk=
+
+Name: doc/user/diagrams/images/diagram_editor_filter_toolbar_activated
+ .png
+SHA-256-Digest: HiUNIn01o+7UiHmW/f2Qgv85f4bQrHJpIFzZa4j0fro=
+
+Name: doc/specifier/general/images/quick_outline.png
+SHA-256-Digest: A6Z9nnjAdSDSRL35tVQhlrQ2niV5ynkklt3VoTg6Nwg=
+
+Name: doc/developer/images/style/customStyle.png
+SHA-256-Digest: JPDSS7eP6/XLopZSSLSfgeTQ/n6g3DNWBIYN9BjICGk=
+
+Name: doc/specifier/properties/images/group-style-toggle-twistie.png
+SHA-256-Digest: wEIHLe+BmL3esjTrkAz/kykb5TTaINgTJ8ZabGhgM0I=
+
+Name: doc/user/diagrams/images/tabbar_copy_layout.png
+SHA-256-Digest: esVZKSS4+HmSlHOh/39Vyke2vBm4IJiYT9j0E8JxArE=
+
+Name: doc/developer/integration-plm.html
+SHA-256-Digest: ZfsDpxoE4o8r/ydj0uzJGSXwBVcNUBDdrV9KD6/mMik=
+
+Name: doc/user/diagrams/images/diagram_editor_pin_dialog2.png
+SHA-256-Digest: cPKhd2aG8rwKk/oITcvwcK6G8cFLXaJo7sdpbLe/jA4=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Gauge.png
+SHA-256-Digest: VkEi6eTDJBk7X2wOWppNkMMga/v1hNDYF5llONoolJo=
+
+Name: doc/specifier/general/Writing_Queries.textile
+SHA-256-Digest: Sf3OlYKTA2zwFx+6CYjgx/Vh1Q2IoHs0K7hPcglkiTA=
+
+Name: doc/user/general/images/aird_editor_close_editor_with_button.png
+SHA-256-Digest: phcHL3k4PVsH3si6UTmpKFxVo296V6iaoJSPQj+FDks=
+
+Name: doc/user/tables/images/table_refresh1.png
+SHA-256-Digest: xd2f5KqYP7N5TGXmJiMfy1SqPr73SpiwsIzs70DIDOg=
+
+Name: doc/developer/images/propertiesView.png
+SHA-256-Digest: HnFXrPFl6M5SIfYif2GeryqgOf35b8Od67U1AeDQjv8=
+
+Name: doc/specifier/general/Colors.html
+SHA-256-Digest: bTac2mTTCywpbL03fgiQuJD32B28dTgV3JEoA8y0gAg=
+
+Name: doc/user/diagrams/images/diagram_editor20.png
+SHA-256-Digest: PPBBFSi2uGI460soagmN7rwIUT3b51hZzPJBWngRtfM=
+
+Name: doc/developer/images/arrange-all/arrange-all-customLayoutAlgorit
+ hmProvider.png
+SHA-256-Digest: HZ+4wKuRqxkTSMsUPWxi6O/8utodFdYUAGETYjj4a1I=
+
+Name: doc/specifier/properties/images/group-style-short-titlebar.png
+SHA-256-Digest: k3Gz/+OTa7bdURoSSthy+cX/6iWULk+V9XO3z1oR/So=
+
+Name: doc/specifier/sequences/images/description_properties.png
+SHA-256-Digest: zm/7kT1BxIu7ukLHFw81VIkIihb519b/shAggw864cg=
+
+Name: doc/images/shapeResize3.png
+SHA-256-Digest: AhpgH/c3GAuwhI26KEn8WylH95xXM5dl5N0GPAq+B2M=
+
+Name: doc/specifier/properties/images/label-styles.png
+SHA-256-Digest: jGF5ft1+GA8G3WizZWpplPWVojyX/bXEFTICz7qsRDA=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Basic_Stroke.png
+SHA-256-Digest: opYk5gf6aFHq+c/efTtnMaN9/wJRy3iFN3NYSTtgChA=
+
+Name: doc/developer/integration-modeler_description_file_deployment.ht
+ ml
+SHA-256-Digest: 9+CV12aDosaxrtAarusKHssQJ20gSeGF9gnUSWv8+Hs=
+
+Name: doc/specifier/general/images/documentation_attributes.png
+SHA-256-Digest: 84/EcfU4rKm1Opk9/khJB9gcSvbm7Ol1AKrWz3MWXOs=
+
+Name: doc/user/diagrams/images/rectilinearWithBendpoints.png
+SHA-256-Digest: kaCFwWIR8It2Thi5+xQbDRElQKidqpOIYBbM9kcMg1g=
+
+Name: doc/user/diagrams/images/diagram_editor_hide_edge_label_1.png
+SHA-256-Digest: KtoOpvvAZbwGzQqHYzmWHi9sLqiZNLJEVOjOnmbbqoU=
+
+Name: doc/developer/images/Sirius_Representation_Refresh-Sync.svg
+SHA-256-Digest: Tx80QGWbhOmR5+b3YefFyP5jcnLz0WZC59X8/cKk7Xw=
+
+Name: doc/images/ApplyAppearanceProperties.png
+SHA-256-Digest: 8GAxZgsZmGePvCPJiYKdP3/y7cofNeJEKz8uXDOJEow=
+
+Name: doc/specifier/sequences/images/basic_message_mapping_visual3.png
+SHA-256-Digest: sLMXUvBHF0cmxjBfKY5tRGeoR8B/xHvFrP/3CVxY9pM=
+
+Name: doc/specifier/diagrams/images/styles/Edge_Style_bracketStyle.png
+SHA-256-Digest: 2OXMXEHtpIyTU4Rm08FUpA2E1/0nXgy0Uh5KtsJIAOw=
+
+Name: doc/user/diagrams/images/diagram_editor19.png
+SHA-256-Digest: DctQb+jVwmaul11oNgL9qIOWb1bHa9qc+QrKyDrLmFM=
+
+Name: doc/specifier/diagrams/images/decoration_borderNode.png
+SHA-256-Digest: wf2Gn7GicOhMaJeCzPTDWj5gkECAGWHEBAxfwEemZwY=
+
+Name: doc/user/diagrams/images/tabbar_cancel_custom_style.png
+SHA-256-Digest: hVwOyXh+hqgOzdWTrGDEByAwAUT6BVdP8YdsZvhfxq0=
+
+Name: doc/developer/images/arrange-all/arrange-all-viewOrdering2.png
+SHA-256-Digest: Rq8jVa+RoIHDhX+WmLxuz5IZwAIKBHpdj6t6wrHVd0s=
+
+Name: doc/specifier/properties/images/widget-text-styling.png
+SHA-256-Digest: Yl/hLc1KgN/OEceCkoJQX4ifi6x0uIamkEKnmO+h56Q=
+
+Name: doc/specifier/general/images/viewpoint_interpreter.png
+SHA-256-Digest: jfsrE+xod0j3qzuHa5SKLJS/3wY6SW4CHzTvVUDdJMI=
+
+Name: doc/specifier/sequences/images/new_description.png
+SHA-256-Digest: +THfiM22xUsIQrrbftEl/DkLcwdkbtIQvi4n8QsF38w=
+
+Name: doc/user/general/images/project_dependencies2.png
+SHA-256-Digest: r7C0xgZLwZ4BeynzA8S+32RHHjBMS4Ah8Fly97Ndm70=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Basic_Triangle.p
+ ng
+SHA-256-Digest: dl2pjLKFsMkdv9rgMbiG0smBd8W/hTerLHJyj/Er+E4=
+
+Name: doc/user/diagrams/images/tabbar_zoom.png
+SHA-256-Digest: D3X9LHc/z5KGAWtVE0+nZ1AAQW/6cAI9yNke+X7PUzs=
+
+Name: doc/developer/images/arrange-all/arrange-all-abstractLayoutEditP
+ art.png
+SHA-256-Digest: PemPUZcdIZyCzTNLHKAVvtrFQuFWJAp1Whu5FkmVuOA=
+
+Name: doc/user/properties/Properties View.html
+SHA-256-Digest: EfPbNEJR5By8uEKZ5xfV4NqVxHSJEKMjI229yCgcGg0=
+
+Name: doc/user/tables/images/table_create_item2.png
+SHA-256-Digest: 4I6vjoBXqXDZzp8pWrDDD+e5A0caHR9e4R9A02QaDbw=
+
+Name: doc/user/diagrams/images/tabbar_refresh.png
+SHA-256-Digest: 494uOjT6CrcdSbrsPiaL1qDlv+8Ie9reYGKio4dR+w8=
+
+Name: doc/specifier/general/images/translatable_message1.png
+SHA-256-Digest: vCBBzpwVmZr1A2zwKQZcpAD93+AKeJ2GttNWxPh5+OM=
+
+Name: doc/user/diagrams/images/diagram_editor3.png
+SHA-256-Digest: 8Nxbn9kfQH1pNUoo1zCA2n07wOEMUDozj9fSlrSVHCg=
+
+Name: doc/user/diagrams/images/beforeBendpoints.png
+SHA-256-Digest: wCIo1EunxKrbs2C1zsg4/GwAhJm+LFkdDioxcyxxyeY=
+
+Name: doc/specifier/properties/Properties_View_Description.textile
+SHA-256-Digest: ji4Tqd56uLvnlJK0B2sJ535ROl+Fa23uco7GYOPjBes=
+
+Name: doc/user/general/images/legacy_mode2.png
+SHA-256-Digest: BvbtuYvxwEgs4DZNsToZ9OXGo6AeI0RT4qQPuYUe4AA=
+
+Name: doc/user/diagrams/images/diagram_editor_paste_layout2.png
+SHA-256-Digest: DgPVeI8ZsU/zvITz8UVly56X5BMgnAkVPo1nuTA5sO4=
+
+Name: doc/user/tables/images/table_sort_unsorted.png
+SHA-256-Digest: AplZZbkrXHtrJpObD0lLYj2kBDN13uNJICFSvBAdZ/w=
+
+Name: doc/user/diagrams/images/palette_folding.png
+SHA-256-Digest: sSLW8uo6rG1s83qKXGpwmLLiuiiBfkE7ew7kkgdPi6s=
+
+Name: doc/user/diagrams/images/snap-back-label-from-label.png
+SHA-256-Digest: JDMoymLxKvjI26qRkFLO/QrdvVjzQXt5TfH6MOaGJX0=
+
+Name: doc/developer/images/customPageApi_debugPage_replace.png
+SHA-256-Digest: UYryuT0kQeU5gQY+wc9JPKHqU08GyWUy8Vq06cSSmZ4=
+
+Name: doc/user/diagrams/images/preferences_sirius_diagram_printing.png
+SHA-256-Digest: sxTVNOyWNklH3RT6SBvcDdm/2PM4FsCbW7xb9b42uag=
+
+Name: doc/user/diagrams/images/tabbar_apply_style.png
+SHA-256-Digest: Dp3BnG0/WmM7l0yS5sRaVcMkKjjSxaZyK7YviF0kRVg=
+
+Name: doc/user/diagrams/images/port_selection_handles2.png
+SHA-256-Digest: Tvb9F2eXPGbdw2yLCMgLpSrAat808AzwtVy5DD6Y2L4=
+
+Name: doc/user/diagrams/videos/moveInAllDirections.mp4
+SHA-256-Digest: fCFbpnU4xWWtI01aDNJUPoQeYq7EqX3ZIuD88GwRedA=
+
+Name: doc/specifier/diagrams/Diagrams.textile
+SHA-256-Digest: lcsAdevt9gXvYU6ugtdJYMR7V77K01JUZ7/Y4eHxPQA=
+
+Name: doc/specifier/sequences/images/new_instance_role_mapping.png
+SHA-256-Digest: 5OstaLeZhnH3Lu0Yd1jjNgcKTLlHioXh7y0IQshAySY=
+
+Name: doc/specifier/diagrams/images/references/reconnect/ReconnectTool
+ _After.png
+SHA-256-Digest: LHgVwvj8lTF7uZkE1RVGo7xKpLiUdBi57HYxaeXdZZI=
+
+Name: doc/user/diagrams/images/preferences_sirius_diagram_connections.
+ png
+SHA-256-Digest: 8VVpUJHWtDta9jrdc0YySS3YJeQW4Y52bgabURrVoEQ=
+
+Name: doc/specifier/sequences/images/mappings.png
+SHA-256-Digest: aMg1qKbLG4eR3rBSSIXiTD+vdJDn3FCwtEGrISnQMNA=
+
+Name: doc/i18n_changes.textile
+SHA-256-Digest: 5W7Oi7IqPbMpCxLF5lkwl2ADN/YGpUXCVSoVt566+s8=
+
+Name: doc/user/diagrams/images/diagram_editor_transient_layer.png
+SHA-256-Digest: WaGqDZ+r8+lWM30EgJZ/YwYOCpUhUn48J/G9tsQAxc0=
+
+Name: doc/developer/Architecture.textile
+SHA-256-Digest: d4JAJ4cAndWW3HAh+yCkIfkxI32DmNDM8MKGRmYm3ds=
+
+Name: doc/specifier/sequences/images/instance_role_reorder_tool_visual
+ 1.png
+SHA-256-Digest: Uunekd6xeV05F9Xw6XMY70acm+KmoImNvRFIgsczYzw=
+
+Name: doc/specifier/general/images/translatable_message4.png
+SHA-256-Digest: kHSSjghe1RCZZKE4wI4ZAYgM7Rl/NAhj/kIIXtXNl+M=
+
+Name: doc/user/sequences/Sequence Diagrams.html
+SHA-256-Digest: cnKogwCLLVi4cY/OQCckA0CFsfnFQMjVQJ4PydgBNy0=
+
+Name: doc/specifier/sequences/images/new_reorder_tool.png
+SHA-256-Digest: xd87OKCXVnaFv34CZ1A3mQAeK1NQoygjWUKMt96Qb4A=
+
+Name: doc/developer/Sirius Developer Manual.html
+SHA-256-Digest: H1mn6DxT8p1SQLrJRIyMrrXm0BtMNCx0lvZ9la7n2VQ=
+
+Name: doc/user/diagrams/images/preferences_sirius_diagram_appearance.p
+ ng
+SHA-256-Digest: ++yx2thJK+XnSRMXMWJB2UCG8pzGDkrUXO22aCqf2RM=
+
+Name: doc/developer/extensions-provide_custom_model_operation.html
+SHA-256-Digest: TP5tgqD4XMRHqFUfOKHibieL6y8cLzg4hBdWFEdrlB4=
+
+Name: doc/images/improvedsiriusinterpreter_thumbnail.png
+SHA-256-Digest: a6iwyyagMqOxI/S8acNwMrpjspy4Tqd/8znW31VvsbE=
+
+Name: doc/developer/images/tabbar01.png
+SHA-256-Digest: wIWu/flC0hPz/Qhol2IMfibT2pF6LHWqu6rsYHaBv9A=
+
+Name: doc/specifier/Sirius Specifier Manual.textile
+SHA-256-Digest: OMtlKBmEtkGuWEinPEz7gvoXafftrJhCxwWh+4Z+I1w=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Basic_Dot.png
+SHA-256-Digest: B35yorLbuOO9hzDPS80uSzFhZVC/ktPRIgxH75uXKu0=
+
+Name: doc/user/diagrams/images/diagram_editor_dnd01.png
+SHA-256-Digest: ylN1hS+6VPEfELXOsA2ux/v82BNrM3fR+FS9PV5mULE=
+
+Name: doc/developer/images/sessionCreation.png
+SHA-256-Digest: pSKvOruJ57hycCfUt3YmwRnvXeZBzrYmHZUWaNZLM78=
+
+Name: doc/specifier/general/images/specifier-guide/complete_task.png
+SHA-256-Digest: 2sZCku1yjDAgbpcr/pcHfKvbEP30GnLsG83km+z+Qhw=
+
+Name: doc/user/diagrams/images/straightenToTop.png
+SHA-256-Digest: xeeO2Pa3jNCcRoWNdfbGT3Vrq5ZZZEmy+2gJTZD1Tco=
+
+Name: doc/user/diagrams/images/tabbar_filters_selection.png
+SHA-256-Digest: YEQFDEJ+0JH9FxF6aRhgNYF/C79wAct+dRD8BVxVW2w=
+
+Name: doc/developer/Meta-models.textile
+SHA-256-Digest: D2pK25IuMeWlLaLQnsFrkbeukNa7h4sjxOkxob+vJno=
+
+Name: doc/user/general/images/aird_editor_create_rep_double_click.png
+SHA-256-Digest: 6TTpRe1Uy6BVg5J38mTVSsYvGR+BgwR2Lkfswk5AzNM=
+
+Name: doc/user/diagrams/images/diagram_editor21.png
+SHA-256-Digest: qVFUpwTGq+ZiLPCiJK7avrVrrGv3z5w9gTK5svEuzn4=
+
+Name: doc/user/diagrams/images/diagram_editor17.png
+SHA-256-Digest: R+V3t93rqoNHKVvzGQZnz63c0FF6v8ct8BMKXGoKgRs=
+
+Name: doc/user/properties/images/MaxTabNamePreference.png
+SHA-256-Digest: r+q1wzG0b5MDJyyH9TwE9wW5qctH+egaH+dLfNzvutk=
+
+Name: doc/specifier/sequences/images/instance_role_mapping_style.png
+SHA-256-Digest: V83BTDHxlXCOtM6Kt/etLJ1tfZs9YEVF3WSLCqB7zvI=
+
+Name: doc/user/diagrams/images/snapped-back-label-from-label.png
+SHA-256-Digest: FfEHuCU0g4m+HiaTd5KFhCxKvphO05DBi7WnxZpsS4U=
+
+Name: doc/user/diagrams/images/preferences_sirius_diagram_pathmaps.png
+SHA-256-Digest: Dvsn/+hw2DiLW2okPSE/4Wg1C/F9/6wyG6ZOxbRy3jw=
+
+Name: doc/specifier/diagrams/images/compartmentsLayout-Creation3.png
+SHA-256-Digest: nCjmlT7C+xc+x8sGT9fDb3HKFmjudJZBj12jhjzAku8=
+
+Name: doc/user/diagrams/images/diagram_editor_hide_label_outline.png
+SHA-256-Digest: SCV4cbLYYKbAgdzkWZpsL6auwl9Ci2A690QKYjMsYPw=
+
+Name: doc/user/diagrams/images/palette_tool_group.png
+SHA-256-Digest: tDCOlIWz7xrlnfFko/pXRd1MmbSgWYD/LuFWr1ljlIY=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Custom.png
+SHA-256-Digest: WvT86d0oYBOa7+z3wHpuAIrq8rg5a9QHget2QjHdUs4=
+
+Name: doc/specifier/sequences/images/reorder_tool_visual2.png
+SHA-256-Digest: 63EohrbRb84CGBO3owKBQtikaBvP/rkKzcXn6mc4Vu0=
+
+Name: doc/specifier/trees/Trees.html
+SHA-256-Digest: wza8ujgB2i0pFMBkDUnSGZlytbvni1hg5pFGUSFEv9Y=
+
+Name: doc/images/shapeResize1.png
+SHA-256-Digest: jx7CqDQi0idO1yakkgG7QcPkIEa1iPffEOfmo9u1WwE=
+
+Name: doc/user/general/images/aird_editor_open_project_modeling_explor
+ er.png
+SHA-256-Digest: LNuVJoJN1dTxvY2qM3mjjSRV1U5p6YIEJuXAuys4aBM=
+
+Name: doc/developer/extensions-provide_custom_permission_authority.tex
+ tile
+SHA-256-Digest: Rl2I+KqdMIRHVsHX5QzTYg7d7Lt+z9Y5I8sAuQcz1Ms=
+
+Name: doc/specifier/sequences/images/java_service.png
+SHA-256-Digest: aRZmv4vKohoQCHmkvVKGojA2+hGVFmRCN5sat1BIc7E=
+
+Name: doc/user/diagrams/images/distribute_Centers.png
+SHA-256-Digest: aR4s9tcGAod3ksVyB+ZhoJXWb104eF3decuLpEg2hro=
+
+Name: doc/user/diagrams/images/tabbar_hide.png
+SHA-256-Digest: vNBpgFIAtCKOAj0rngDm+89CpVN6IN9a0jkZuOoDdQ8=
+
+Name: doc/specifier/properties/Properties_View_Description.html
+SHA-256-Digest: lbR4BQlZNmSn1gscKDnp/ya8p/ZViWvDd1st3OmmN0k=
+
+Name: doc/user/sequences/images/lifelines.png
+SHA-256-Digest: q4Z8z6LveLl5ZEZ2HBb19QCi6+s1ne8hq7Q9n9hRbpE=
+
+Name: doc/developer/images/Sirius_High-Level_Architecture_Overview.svg
+SHA-256-Digest: RoW+aUc4PmyZPmnuI+0CyKYQYEEu1wbRqPdh+6dOlrc=
+
+Name: doc/developer/extensions-provide_custom_style.html
+SHA-256-Digest: DIHmj7ndIR4S1KrMpeic0qfPJkNkcuvjD8mWmpahAcU=
+
+Name: doc/user/diagrams/images/tabbar_hide_label.png
+SHA-256-Digest: lT13tZ6F537j1UX9YOdEVmDV9jLLdOibk/SSShO/Qto=
+
+Name: doc/specifier/diagrams/images/styles/List_container_with_items.p
+ ng
+SHA-256-Digest: oFENF9XP/WlM2iOiwlAS80nl4x73MpGiwTdZ902jORM=
+
+Name: doc/developer/images/arrange-all/arrange-all-layoutprovider-exte
+ nsion.png
+SHA-256-Digest: ZuLY74ubKNoarG/OS5pY2AS8cWXb8gqZbOnAtZ3OeEQ=
+
+Name: doc/user/diagrams/images/diagram_editor_pin04.png
+SHA-256-Digest: 6t5cn8Q9qYZcrLJZ5RcGKZ8MaQaxTSMmOByhb6q9yj8=
+
+Name: doc/developer/images/customPageApi_debugPage_after.png
+SHA-256-Digest: EMzniZfP8LFIM360+YD2ANVKnatP7BzQ7N0iFGNqI5k=
+
+Name: doc/developer/later/extensions-provide_custom_extender.txt
+SHA-256-Digest: toK3rF7fnuITIRIAFPlmI4jVMmLXK44OCiB9yPqil3U=
+
+Name: doc/user/diagrams/images/tabbar_pin_unpin.png
+SHA-256-Digest: OdsFT0tMeoxieTU4xGvS/3JnIk/OHY8v/b/8zuL9sME=
+
+Name: doc/user/diagrams/images/synchronized_diagram5.png
+SHA-256-Digest: R6Ur92AjIta+cEVwFtErEt3TMWa+wmO7qGro+J6ZKbY=
+
+Name: doc/developer/images/arrange-all/arrange-all-customLayoutAlgorit
+ hm.png
+SHA-256-Digest: m4DjSWp1K7cXBIBJBXghWVBd+smnI2vmADXwCF03SYQ=
+
+Name: doc/Release_Notes.html
+SHA-256-Digest: ViWwHWanxH/OfL3jNiqVHfw7aQg1r+2vvXlYDMPoi5o=
+
+Name: doc/user/diagrams/images/tabbar4x02.png
+SHA-256-Digest: VD40HhLVEAukLG95AWy5Ptxr7M1Wfsm8rVPycUKMtDE=
+
+Name: doc/user/diagrams/images/straightenToMenu.png
+SHA-256-Digest: +Lyzg1IBYJRP90eI2edgEOVvx+sZcn2PsW3FGPhfqsE=
+
+Name: doc/specifier/sequences/images/ends_ordering_visual.png
+SHA-256-Digest: PttEaPLpzegXBo9zEoPN6B9g0kjZwIhUzfw8UskZwiE=
+
+Name: doc/user/diagrams/images/synchronized_diagram_statusbar.png
+SHA-256-Digest: RdJ6XgFejJBriJzjSnJX7k3Nt0a2ITF93WreMW3anhE=
+
+Name: doc/developer/extensions-properties_provide_custom_widget.textil
+ e
+SHA-256-Digest: Jwbc1cIZEQYuuZ/YtAueE1l3pa4g/iV53lHw+gmXkPs=
+
+Name: doc/user/diagrams/images/diagram_editor4.png
+SHA-256-Digest: M4gsMt6v4u8DLXwpCWjwgsrRnoUPNoLfn2zrf7ToEuY=
+
+Name: doc/specifier/properties/images/group-style-no-title.png
+SHA-256-Digest: TP6vwUiURWSL8cJt4wX6/hqqoPX0QAjhDWVn+tU2YlE=
+
+Name: doc/user/general/images/aird_editor_filter_models_elements.png
+SHA-256-Digest: 5t9ZRFY/8JO9t9ju1rOZmrbmO9hRPjMp9Esodb0qiJg=
+
+Name: doc/specifier/diagrams/images/styles/Edge_Style_Tree.png
+SHA-256-Digest: 7pynUdUXzF6tV1b14RUBKAzocKbQSMGJ+UOl0KwS6n8=
+
+Name: doc/user/diagrams/images/diagram_editor_show_hide_dialog1.png
+SHA-256-Digest: QtmCGrymtHqR+1xkPxXhFraYtM1JVcZQns8f4VVBp9g=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Diamond.png
+SHA-256-Digest: 1UO7Tur3j85KzB+9uTT1KkvqXMXrUgLws82Mx9AXKhg=
+
+Name: doc/user/general/images/aird_editor_remove_semantic_model_repres
+ entation.png
+SHA-256-Digest: Vafr1WowgB49bTebMuMIVJO0lbnhqzz4VFqKlkyOat8=
+
+Name: doc/specifier/general/images/translatable_message3.png
+SHA-256-Digest: Cxv/Ek9JQJoRQE61VpkPVJe89hUzpWc6Vr2tuo7LeG0=
+
+Name: doc/user/diagrams/images/diagram_editor5.png
+SHA-256-Digest: m0Wz1MFTocBGnRFaWIM+t0j1Cb9La225NeH7zKjWsv8=
+
+Name: doc/specifier/diagrams/images/decoration_group_example.png
+SHA-256-Digest: BXNx0wTkNDSfokyS3W4QHJi2gsdjtnXULpR/fVSKNGg=
+
+Name: doc/developer/images/Sirius_High-Level_Architecture_Overview.png
+SHA-256-Digest: LesVBIPyxKVXidv2Hp5f/IKuS/Mqr5yQfRGYCDNn0P0=
+
+Name: doc/user/sequences/images/constraints.png
+SHA-256-Digest: dYvKODavLannTSFD0MQ05Aj571prA7VPt4P4pLUlP40=
+
+Name: doc/user/diagrams/images/port_selection_handles1.png
+SHA-256-Digest: vEBud+FtoAQXdBlc7/VS7pt+XhhUXguarWtir4a1E04=
+
+Name: doc/user/diagrams/images/tabbar_selection_tools.png
+SHA-256-Digest: IQko4YDqEU1/70pLT0i4bUaxbM6wLWkWHMeLgFMINs4=
+
+Name: doc/user/diagrams/Diagrams.textile
+SHA-256-Digest: yCr6eIKuloTLnY/ykRsW+QuBveYtIiNwEa2abPpQfCg=
+
+Name: doc/user/general/Modeling Project.html
+SHA-256-Digest: dIjMqzqNnOVe9lzfNyoAwoGsNd8xRJu0OmeHQ2odZuk=
+
+Name: doc/specifier/diagrams/images/styles/Node_Style_Basic_Ring.png
+SHA-256-Digest: ubIUKaH8TEoROamcHJ1HDC1ggf8lRFOaDV/7NsQT6cQ=
+
+Name: doc/user/general/images/groupItems_2.png
+SHA-256-Digest: KAMAiImgwixNVAUWmVhw0nuQxt41vdyiuWM7x4vFjuc=
+
+Name: doc/specifier/properties/images/group-style-toggle-treenode.png
+SHA-256-Digest: wme6kP3RyPoLnDloN6fq4+iazljnzWp7v9FByd9egr4=
+
+Name: doc/specifier/general/images/emptyFieldAutoCompletion.jpg
+SHA-256-Digest: uEYbyl9ewBdfKeqwDKwdFtutQLDgGTMRHNqOWUxFLz4=
+
+Name: doc/specifier/trees/images/questionMarque.png
+SHA-256-Digest: eeLvgvypqfzgF3UniPiwvFYWD4X+C0xJ+VnWr/w0WeA=
+
+Name: doc/user/diagrams/images/straightenWithRightPinned.png
+SHA-256-Digest: 2DkUP8jK+19YBaSbfhDoMX4zGhnYlrrtDqSaLR5e1ro=
+
+Name: doc/user/diagrams/images/withBendpoints.png
+SHA-256-Digest: j6z/b1W1lSEhVrvKK5RJd5wPHnWB/wSDuiSfpQRNDKo=
+
+Name: doc/user/general/images/new_project1.png
+SHA-256-Digest: P1OnzFn9DzgIaIKcYZez92KKoNIcg+lY2Eu8F5HFUnM=
+
+Name: doc/specifier/general/Writing_Queries.html
+SHA-256-Digest: cNHPYM0gx/5b97jpll84zInPCBxg8BGeyz3rBmxAK/s=
+
+Name: plugin.properties
+SHA-256-Digest: NgXMmSf7TsdmE/TK0Z3HRrCnbePihbxCxoM/W2jTvSc=
+
+Name: doc/resources/images/screenshot.png
+SHA-256-Digest: Xde6JLVGZtDxDGpT7qbIMQ3r+le+TO5gcxbROeoob8g=
+
+Name: doc/developer/images/arrange-all/arrange-all-vsm.png
+SHA-256-Digest: PCZBxzt1JMxbJxaUoC6QI4Gj+1wf4iDqTpbVgwKoiUU=
+
+Name: doc/user/tables/images/table_sort_descending.png
+SHA-256-Digest: ic2PgVhKBYcAx6db/J2bi3P1GInqK6yBdjAq/uGCasw=
+
+Name: doc/developer/extensions-provide_repair_contribution.textile
+SHA-256-Digest: SMrM3aEGMal+m5RUN2dAZMm5ZQ7rGpv4VlzPYr2e1ts=
+
+Name: doc/specifier/general/images/common_attributes.png
+SHA-256-Digest: 5QtZHwSdWq/rHGqYMrAuKqPZoPPF9XtZhepzXe0aLEc=
+
+Name: doc/user/diagrams/images/diagram_editor16.png
+SHA-256-Digest: I+/mgkcTrcjncY1iYO1ZMt3p4zDOZqpqSegjCKXUFvQ=
+
+Name: doc/user/diagrams/images/diagram_editor_paste_format1.png
+SHA-256-Digest: zlEj/KMnnofLT6vY8VZiOW99uNcEXqigF83x5JSfrSU=
+
+Name: doc/specifier/sequences/images/interaction.png
+SHA-256-Digest: XnJDZ//05z0an/aNJANYzopw5itMzoviQSq3YAAfWEE=
+
+Name: doc/user/diagrams/images/diagram_editor_hide_label_icon_1.png
+SHA-256-Digest: P+mbRgsxWN1NxrPrB719eeq29k9isfbwzh9yifvRZt4=
+
+Name: doc/user/sequences/images/basic_messages.png
+SHA-256-Digest: ISqRhnxPjNxu0TZeJi4sVqfY2nABRNLwPUIW0vQm53A=
+
+Name: doc/developer/images/arrange-all/arrange-all-CompoundLayoutProvi
+ der.png
+SHA-256-Digest: dJR7jogyB2fWksYocgN6ss/llbNfX7EYzzT4XnpXPJo=
+
+Name: doc/user/diagrams/images/diagram_editor11_tabbar.png
+SHA-256-Digest: Yxh6nwgAiaBNKqGLgjFvnFDl+wrvAamrTayDEuzyjy4=
+
+Name: doc/user/general/images/decorated_model1.png
+SHA-256-Digest: PMozCwzegnYLnZDW3aGmE4rzZ+SW6otCysDWzFvUsoU=
+
+Name: doc/specifier/general/Model_Operations.html
+SHA-256-Digest: eBwVJJuPL5Oo5m0u+ENGwpuNZhDKihKDv33DrEJibiM=
+
+Name: doc/user/diagrams/images/exportSample.png
+SHA-256-Digest: 3v1Ln8sCqc+Eb9cT1JdiH4//tCcSFB3EYsyKnApwhFA=
+
+Name: doc/specifier/sequences/images/new_basic_message_mapping.png
+SHA-256-Digest: vWJkmRGkqaXtmIKsDVlqhw9PC6htQDptA+rq30Y6QKM=
+
+Name: doc/resources/bootstrap.js
+SHA-256-Digest: 9ZwTyMrSgyWzfvzAuSsynJNzzsVeHMN9uBqHyUnkl9o=
+
+Name: doc/specifier/properties/images/widget-from-domain-class.png
+SHA-256-Digest: 5FQZ4xdCGX8svKQuMLq2EgFhdUG4K3oLGfsnyHs4IDM=
+
+Name: doc/user/general/Aird_Editor.textile
+SHA-256-Digest: VRcN94lG+5tWlX1zWGF8XPjCsEcYBCq10Qks4zKDwbU=
+
+Name: doc/specifier/sequences/images/execution_mapping_style.png
+SHA-256-Digest: YAKWGoirrIRjK57WhWn+JWQ6azXAHoKU6XSzdZlz5pg=
+
+Name: doc/images/containerResize-changedBehavior.gif
+SHA-256-Digest: 7hjPQ9ldEoZ7JJgmMqMTTwxwilm1Fw6N0zH4h5epXTk=
+
+Name: doc/developer/images/arrange-all/arrange-all-ilayoutNodeprovider
+ Api.png
+SHA-256-Digest: uqXxGDKlVlxPxx1GZ9KyIqQuQXSnCeE6r9M1fIeJVf0=
+
+Name: doc/specifier/general/images/specifier-guide/collapseall.png
+SHA-256-Digest: vohLGHST9KfkYxXWoa8Ms+hOhctQ3mNl5Kld/CDKMpo=
+
+Name: doc/specifier/sequences/Sequence Diagrams.textile
+SHA-256-Digest: 3dv46bthyO8z9tnvUvWVdGu55Zkx40U3XDIV3YekdS4=
+
+Name: doc/user/diagrams/images/tabbar_delete_from_model.png
+SHA-256-Digest: Wdk8gdl55AjtWrb9pWdvNLMZG2ele4SUgj6q+d8Ogsg=
+
+Name: doc/specifier/sequences/images/message.png
+SHA-256-Digest: fu3n8nKHek0fUmLdTmZS24a7OVUkcJEfgStiU6SACJc=
+
+Name: doc/specifier/diagrams/images/styles/Edge_Style_Straight.png
+SHA-256-Digest: GSyxnKWr4vwoAPgNTBzFDTyY23Ek4p7UetJSg4AhmK8=
+
+Name: doc/specifier/properties/images/widget-text.png
+SHA-256-Digest: 6P3wIbjAoXGqTTEl1kopfJx1rm+yS0nGMnOrDLZVzfE=
+
+Name: doc/user/diagrams/images/layoutingMode_forbidden_dnd.png
+SHA-256-Digest: syylChIzJXObwNlVCua6Y/S/MOAmQ7iM0NrZadh0Kzo=
+
+Name: doc/specifier/sequences/images/execution_mapping_properties2.png
+SHA-256-Digest: wddJlo/M4fSZUK4dgiZtpgZ+/UIdPUbfA6GMFOU9dpY=
+
+Name: doc/developer/images/arrange-all/arrange-all-siriusVSMIntegratio
+ n.png
+SHA-256-Digest: K0Hh2kmwSySX362Y2g/wj2FUixeD2lFLdpm2KaUxe1s=
+
+Name: doc/user/tables/images/table_show_hide2.png
+SHA-256-Digest: 0lYksQP8LnHmuBAhTXBwav2f7ntIG2vhv9VRdexoABQ=
+
+Name: about.html
+SHA-256-Digest: KGh59epYdLgA378xLBgBBeGhWyZCcnasUYXdODp+ceA=
+
+Name: doc/user/diagrams/images/diagram_editor_pin05.png
+SHA-256-Digest: J0zvY7YbILVWH5RF4+GPHak34dJKY31usuu4S60oLW0=
+
+Name: doc/specifier/properties/images/widget-select.png
+SHA-256-Digest: A47VR5aOuG6FY9MJfEahpQlWrgzhgRQxHjbgznhv3bc=
+
+Name: doc/user/diagrams/images/tabbar4x01.png
+SHA-256-Digest: Ggb68Ss2LaUfAYn9oMQnNaPVdz756I4bW/ZzyMLNR0A=
+
+Name: doc/specifier/sequences/images/basic_message_mapping_visual1.png
+SHA-256-Digest: /ef5/R3qHi4C1thF3+LXz2ZzLtI1VW4ouVtKHsjHSHE=
+
+Name: doc/images/edgeLabelMoveAfterSirius3.1.gif
+SHA-256-Digest: u/qFDiXhHDzkOmlH6X19oUyscop1H8PXBgHzxuMI6gk=
+
+Name: doc/user/diagrams/images/diagram_editor_dnd02a.png
+SHA-256-Digest: NXCkR5XscxPL52EHcEPrWqXXqWhe1+tWsbWc49eYoXA=
+
+Name: doc/developer/images/customPageApi_debugPage_extensionPoint.png
+SHA-256-Digest: 6a+lnCldqCGj6iwtwZLgaUbx472aFo+wRSigth6YXI4=
+
+Name: doc/specifier/properties/images/groups.png
+SHA-256-Digest: fGWsE49G9pSbPpiIMkSLRQl5WnVybfeDbGLaH4fjFOY=
+
+Name: doc/developer/integration-plm.textile
+SHA-256-Digest: GZAYu25+/9V3X8lnvoLGrQy4yYK3QO4Im0V7CKSBLTs=
+
+Name: doc/user/diagrams/images/synchronized_diagram4.png
+SHA-256-Digest: tul9JNu/7FRG7cV8mCrp5DBVGyxmIRptQaLWvbT/xM0=
+
+Name: doc/developer/images/arrange-all/arrange-all-viewOrdering.png
+SHA-256-Digest: zWVxS9wsYuq3rPOV040cPyu7zw5BWgQ5yp3MX7uhL9A=
+
+Name: doc/developer/Architecture.html
+SHA-256-Digest: Po8Irgg61Zdjsy8E8R8UUMFIM6OmiP1VtTP9ygHsWQo=
+
+Name: doc/specifier/diagrams/images/styles/authorizedSides.png
+SHA-256-Digest: d0SlI1OkniAqsIZ0CJ5OwzQqYBK61GCUk1zo/eKEL38=
+
+Name: doc/user/general/images/groupItems_3.png
+SHA-256-Digest: +VyEuQtYvcZ0g6nlxMLxsC6kDe+quUCcxVA3X/enNHU=
+
+Name: doc/user/diagrams/images/diagram_sample1.png
+SHA-256-Digest: BFnbYnSrzrzid/RbmB8pQBIidWDheWnhQ8mGpTKdiuQ=
+

@@ -1,0 +1,119 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.gcov.docs
+Bundle-SymbolicName: org.eclipse.linuxtools.gcov.docs;singleton:=true
+Bundle-Name: %bundleName
+Bundle-Version: 1.0.0.201806122135
+Bundle-Localization: plugin
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %provider
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: plugin.xml
+SHA-256-Digest: oI0C9vuTogiaZIIgQsmj5MB8r2oow0KnPTMvR14K+AQ=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/LinuxToolsGcovProfili
+ ngTools.png
+SHA-256-Digest: vd49sDwwSLgIEaU7NBe7pOcDynkaz6wu6QlcuaAC9l0=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/LinuxToolsGcovAnnotat
+ edSource.png
+SHA-256-Digest: 7Bz+dG8ktIgBsgNTBoBfF6kyDcdlsU8UGlmLLMdqKO4=
+
+Name: META-INF/maven/org.eclipse.linuxtools.gcov/org.eclipse.linuxtool
+ s.gcov.docs/pom.xml
+SHA-256-Digest: yvCnvlqeCYWiYOHyjSkseKzY8aN/e40HdPLaMo5yGDs=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/Gprof-birt-chart.gif
+SHA-256-Digest: F5ahJf1ypNU9CND04zb/+uPQQ9Pus9wGeZGgBFxJecU=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/Gprof-sort-per-file.g
+ if
+SHA-256-Digest: cpU+Oxtr38KYFrfjXasNFFg4KhvPg0W4a8glaLazKHs=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/GCovSettingsPage_2014
+ .07.17.png
+SHA-256-Digest: 0lAQhkE8kb5l9bclJNYM7bkGgrV3zEB6RZeNxHGMib4=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/Gprof-export-to-csv.g
+ if
+SHA-256-Digest: rDwwcmFIVkgNAzCA6Rsq62V08u03zLu2a3AbAOW4QuM=
+
+Name: Linux_Tools_Project/GCov/User_Guide/Installation-and-Set-Up.html
+SHA-256-Digest: 2cEVYqOqT362xc/LOe3yaM0nd5OvQe4xHguNPlgOM84=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: plugin.properties
+SHA-256-Digest: MY3L1GvbeCnsve5cqztFRMtvvWrm8NlL/hIh66PuLCY=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/Gprof-sort-per-functi
+ on.gif
+SHA-256-Digest: IKYui79S/VfkudxWdrGnkDYG6GwHwEzU8feepufvacY=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/LinuxToolsGcovView.pn
+ g
+SHA-256-Digest: W44RdATxSU+vYIz01KSCeVjDJLQDyFYd+iRKyr8Hwwo=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/LinuxToolsProfileAsGc
+ ov.png
+SHA-256-Digest: YYzs+eL9ntpybkxCoOT0UG8E4Y5fLrd5w5yjel6tejk=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/GcovAnnotatedSource.p
+ ng
+SHA-256-Digest: 0DQT5DpF6RWD1uHL8Oupe2T/Hj87pRFxedkyDsJIyVk=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: META-INF/maven/org.eclipse.linuxtools.gcov/org.eclipse.linuxtool
+ s.gcov.docs/pom.properties
+SHA-256-Digest: ZGuCq/WsROdBaDy6zTU3JX6ikJJCbFpgF29W1FvhqE0=
+
+Name: Linux_Tools_Project/GCov/User_Guide/Gcov-main-view.html
+SHA-256-Digest: 5cTzpgkeOagmk251KjcTSoVfp7Km1uYuKNTQlGU4SP8=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/GcovView.png
+SHA-256-Digest: jXciT8ppUHoANEJFifSlr56Y/eTQ9cCQwxV6yQsgKOw=
+
+Name: Linux_Tools_Project/GCov/User_Guide/Updating-This-Document.html
+SHA-256-Digest: bmUKJYCLRrOub3RmYSMU4fF9uHcKoWgatg3g7G4nWCs=
+
+Name: Linux_Tools_Project/GCov/User_Guide/Opening-gcov-result.html
+SHA-256-Digest: WfOeEKuaeJGwTbB2hlJOb0rwyflDjjpo0/e3O5AQaNU=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/Gcov-binary-file.png
+SHA-256-Digest: vkMxTixfteQG+I1oad85JwaDXpbbGSduad2X+1SHCrQ=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/Gcov-project-explorer
+ .png
+SHA-256-Digest: 6JImJX7bkoZlim/pEjFamEHn0jM1ahh9AOv9CTYVj7o=
+
+Name: Linux_Tools_Project/GCov/User_Guide/User-Guide.html
+SHA-256-Digest: vvDsChgF0MMCWGc63cB00BFSkthBN8Pc6NDsBBLLcm8=
+
+Name: Linux_Tools_Project/GCov/User_Guide/Troubleshooting.html
+SHA-256-Digest: r8g67Jcoqn8iv112KX/3nY/VUaw13SdzUXHquyFbs3Q=
+
+Name: toc.xml
+SHA-256-Digest: bqe3dCKYnm3PV5x5IXKEnLk1fq+v07zip6vC7NX9O20=
+
+Name: Linux_Tools_Project/GCov/User_Guide/images/Gcov-sort-per-folder.
+ gif
+SHA-256-Digest: M5Zxx0bqev+tFsvIw80tOfJ/tcyaoABar7ipcV6ayfo=
+
+Name: Linux_Tools_Project/GCov/User_Guide/Profiling-Code-Coverage.html
+SHA-256-Digest: R/cZLuG404Dfa1s/A6QPpva1q8iZzUsXiAYonUfkNF8=
+

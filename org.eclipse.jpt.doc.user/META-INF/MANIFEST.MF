@@ -1,0 +1,910 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.jpt.doc.user;singleton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 3.2.101.v201803012210
+Bundle-Localization: plugin
+Built-By: genie.webtools
+Bundle-ManifestVersion: 2
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/dali/w
+ ebtools.dali.git;path="jpa/plugins/org.eclipse.jpt.doc.user";commitId
+ =795496d1ae653954e615db2b20d6c24b61259080
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: reference084.htm
+SHA-256-Digest: tudRdCy6LOSRH02omOj4m8c888HaQpJHAFQK7XI9zbI=
+
+Name: plugin.xml
+SHA-256-Digest: wtKdJX1rrhhICcP9RjI63t7by5gguJQL/QunQaBbDGA=
+
+Name: img/new_icon_onetoonemapping.png
+SHA-256-Digest: eA4s6OY80XWgeELIp9u13zRcMb4daItX4iHP85LFSlc=
+
+Name: img/customize_default_entity_generation_dynamic.png
+SHA-256-Digest: u3CVZuHpM+UBb2Ssnb1L7wi3eV8J+6aMMaQQKHoTrkw=
+
+Name: img/icon_arraymapping.png
+SHA-256-Digest: 5wjRs4b5TU9zKTwmSkKQi+2z/6imRp2WRN1ROPZTmlE=
+
+Name: reference033.htm
+SHA-256-Digest: 8R3OJjO7/SANLaCSjvZZI9UWS2qS1ObyyHKsf7zMSZU=
+
+Name: ref_association_table.htm
+SHA-256-Digest: xMQo+cFIUiVrghg2VM30ugk8kM18MRkaRNOC/UZin8Q=
+
+Name: reference076.htm
+SHA-256-Digest: oe16cE4E5bv2gkZDuHE3vYnqbmymrQ/lH5EcNJbKors=
+
+Name: tasks020.htm
+SHA-256-Digest: VplYJP1tIxWivbwC6L6e4JO+j9CGwm8SXBxq9NH/ut8=
+
+Name: reference041.htm
+SHA-256-Digest: zt7LxIRsn0NhkvLs8PZwsW+15XHlcFKDiTlTVG/F6r4=
+
+Name: ref_schema_from_classes_page.htm
+SHA-256-Digest: R6SSJhWSBWR3vnMPPQoEOQ9Ze80NoMtfu0I1BPyeRjU=
+
+Name: img/ngrelt.png
+SHA-256-Digest: DaivFRmyUYtDFTkgCApD/yJBLCRGcWZziJ7pSqbyoXg=
+
+Name: img/details_entitymappings.png
+SHA-256-Digest: SVYKHzkkfRkq2T5c+W+SvE/8CrKDRcL7yCUVLPuiuHU=
+
+Name: reference009.htm
+SHA-256-Digest: tpjRdktKD4fTUInpZFEg8ptsMQR+XY1Ge65Mdrf/p5c=
+
+Name: img/persistence_editor_source.png
+SHA-256-Digest: YhU9wys92UUhmi9HzHD5NLQuVxkjpsH389QSm1pcy58=
+
+Name: tasks019.htm
+SHA-256-Digest: TRBy/B+EwU1CtuQv0PE+CvFux9MXGDxwryg02yDmA+U=
+
+Name: tasks027.htm
+SHA-256-Digest: Oo1qEfvRfWP2sTiaA9dx7dsuEjgF/4cEQohX9w11J/Y=
+
+Name: img/inheritance_tab.png
+SHA-256-Digest: NlK+WfkYMxhnqxmHukgvfeILdOHx1YPIbWWhbRwbYMw=
+
+Name: task_mapping.htm
+SHA-256-Digest: Ts4sWafbkr61ytma64FZoXeVxqH/gKx5XqQRWu5Spfc=
+
+Name: img/jpa_details_embedded.png
+SHA-256-Digest: hB3IG+AW/Cf2lrYWBWL0vY9O+YGHyyORoZYsZFuU0o4=
+
+Name: reference005.htm
+SHA-256-Digest: fyli2iCxV8EO8vUESKqyXR7ML7PwSoli/e1BZsgnTYI=
+
+Name: img/new_jpa_perspective_button.png
+SHA-256-Digest: znr69/+ChtVlRAhL2LRimk01OUym6iebezouYQzXwUc=
+
+Name: img/inheritance_join.png
+SHA-256-Digest: mOyZkS6XYcRqWJp+f0Rk9/5Osr+R4cA+k4wLUI0bPiE=
+
+Name: ref_jpa_facet.htm
+SHA-256-Digest: Yy7gapGpJUgkr8LyzfK2gPwdvq4/jYHQRDbsap47iqI=
+
+Name: reference048.htm
+SHA-256-Digest: wpvTP+5eBkU4y1Blfa9791fpfe1eyTuyC6qofd5Pdog=
+
+Name: concepts004.htm
+SHA-256-Digest: gAeC7OnNxG9F3U91zSOJUdRmYzTF4RJyvFO+FTQFkTo=
+
+Name: img/new_icon_idmapping.png
+SHA-256-Digest: Q+kFLmjXYkF4OrSRLaaVik09hPkren/XAAZANxk+VSs=
+
+Name: reference017.htm
+SHA-256-Digest: 4IkxqOTdeFFNt2IYi7DV8PZP80YHZnoRSOfubIOS4rc=
+
+Name: getting_started002.htm
+SHA-256-Digest: wW8FOvV9qN3/J2AUCau+Yns8hq9fYJyeLVcKarm/vXo=
+
+Name: task_manage_orm.htm
+SHA-256-Digest: 9H8A6qmk1XPSSuMMrIoVJF9Irbk374LRkURG65aifVM=
+
+Name: tasks004.htm
+SHA-256-Digest: c77xQfEchw7AwiHsZo0gVSNSeuMqYH6jC3U+4eD5rYk=
+
+Name: img/new_icon_manytoonemapping.png
+SHA-256-Digest: l8WVzKroLTZGJfD5SDqr4GIcHZy9KuMLr4xFN0g93XQ=
+
+Name: img/customize_individual_entities_dynamic.png
+SHA-256-Digest: PVsV+N1HFWHSb3Ks/64aRtOhwkUNeJpdJv5MttgpnIo=
+
+Name: reference021.htm
+SHA-256-Digest: s4rVtSsEI8UiOZypL096qAT1KCEeHW2w5xxXLPZx4b8=
+
+Name: reference064.htm
+SHA-256-Digest: 41ReR6koJXyHnzGi4VDm0vD1o06K7cW2nkqozwtDwLQ=
+
+Name: img/table_associations.png
+SHA-256-Digest: kO/44YBu6oKozgyyoyn25k4tDFzguldDTkCiHYemROM=
+
+Name: reference029.htm
+SHA-256-Digest: 2vc/ODcWxLE58OlSw0U34qtNzbBxLppQsDhof5zTei8=
+
+Name: contexts.xml
+SHA-256-Digest: takF07/zxSdjyEV6d0e9RsZ6ubHVLbSREt4LCedXIL8=
+
+Name: img/new_icon_embeddedmapping.png
+SHA-256-Digest: 5OFyWulYwzq2wtQH9yNoVDkKud0R1u4lSNVh9kdPDxM=
+
+Name: img/mapping_type_selection_entity.png
+SHA-256-Digest: 5hqCPao7qH9FDVXFMAj+5XMap3KFmPpVYfPhwDSPBuU=
+
+Name: tasks024.htm
+SHA-256-Digest: VkCqYq8trF2NkntCzBHex/IZD8ZDYeVG+62eFqne8f0=
+
+Name: img/new_icon_embeddableentitymapping.png
+SHA-256-Digest: l1NcIJ9ETgHi1VMmWHcP/7gwzaQwcMzwF94a4SyKhwE=
+
+Name: img/select_jaxb_schema_wizard.png
+SHA-256-Digest: hvFIvQBK75KnK/Sw2/aRLVVkxkNqacLitnt4aHdr+fQ=
+
+Name: img/new_jaxb_project_task.png
+SHA-256-Digest: dfZFmp3agrdas87tSV7G2bi5zVfjwMIVuVw7s++yUuU=
+
+Name: task_manage_persistence.htm
+SHA-256-Digest: kQ1+MpmV56YmnordtLcvAcd1yz0jUEFgaxpxZc3E+qQ=
+
+Name: tasks007.htm
+SHA-256-Digest: cpKfhTK84SjzAdIyGtrk0orgGISLbBtcwmQDW/j2lBY=
+
+Name: pom.xml
+SHA-256-Digest: WcQRE21gpxf0s9cxvvWsiYUfh46GjttAOsOKRO2mzK0=
+
+Name: reference080.htm
+SHA-256-Digest: JZShGSYpio3uu3S5ho9R51hmFtaEMd8R9wMKBXFaQW0=
+
+Name: concept_persistence.htm
+SHA-256-Digest: uw6M+nCLPw4R0dQnlxl1KsgBtiLUZTVn80zcBpbIBYY=
+
+Name: img/generate_tables.png
+SHA-256-Digest: FFqb5ZnBkscRxXh24I4cfIl3Ylpb3pbWFiHggsIMGFA=
+
+Name: reference061.htm
+SHA-256-Digest: 2gLfyIbWswPvgvMLN+Z1rtlObfTH23+3X11tYeDPcyU=
+
+Name: reference036.htm
+SHA-256-Digest: e8MTVIpZ0LKg/eV4FbLgHcO1AeOFPJTl7YqT7KS00iI=
+
+Name: img/icon_basicmapping.png
+SHA-256-Digest: IRclzIVY7g/hXXN7ijJjxio836GUB86cG3rotm+UG0k=
+
+Name: tasks015.htm
+SHA-256-Digest: mZhNWwa7FGSRePu7iEKeZ4sTAzuZcvCzODhedl3gpqU=
+
+Name: reference044.htm
+SHA-256-Digest: dvSJaE5xvYenOPHqNWI5uHVCZxi30cBTWDrGXIB9yvI=
+
+Name: dcommon/css/blafdoc.css
+SHA-256-Digest: GniVYmBcnc/F3RtZFG3oQkfAZJJmH554j0lItbqZDn4=
+
+Name: img/error_sample.png
+SHA-256-Digest: mOP9ztma5Y9GCrxrXUPSAg3ALcColxscH8DSbFuWFpE=
+
+Name: reference010.htm
+SHA-256-Digest: IEUkMACwM1LTadNVW6UAlp/f4nC+9NQ1cV8AjeDpP5I=
+
+Name: img/select_tables_dynamic.png
+SHA-256-Digest: eBqY6qFry4ChtZcYRZ2F+ZxI93D4avNAzHxjwmrrTAg=
+
+Name: reference079.htm
+SHA-256-Digest: cU/qRUXEMIg784Ctsd3RHgtIqZ/RBR5l2FcgSZotHFU=
+
+Name: reference001.htm
+SHA-256-Digest: eL3Exi4CNWkrnwfbmQXpq1V76i/QtQT2Heoewx+EG64=
+
+Name: img/generate_dynamic_entities.png
+SHA-256-Digest: npoE91/a8zCBIakbk6DVySmpW+Fge55Ds5R7KdKKmEQ=
+
+Name: concepts001.htm
+SHA-256-Digest: XygzwJlFQ3wzIqFyEkk+fUDjBK7GfdPfVmpUJ3Crd6I=
+
+Name: reference053.htm
+SHA-256-Digest: H99vCx+mbUhYIditiNNyaJjHvVlD2CF1x5T34qWOUXo=
+
+Name: img/project_properties_tasks.png
+SHA-256-Digest: cQRQvs4ah5UnwtubVQj/NPZu0KZSatBLg5dcxcMNtVo=
+
+Name: ref_selectTables.htm
+SHA-256-Digest: I44aDBSR6A9ZtlLRMVPyKjge4sfKfmSBv8gJhw788KQ=
+
+Name: img/icon_basicmapmappings.png
+SHA-256-Digest: 1DdFZ5+p9WZwigYJjs2KRsMetBBk8TBenHs3Y1ojKEE=
+
+Name: img/jpa_details_multitenancy.png
+SHA-256-Digest: Tx3Az3f9vlJZC0EEi7gHny0Vyb5eyaxnG08u0HYZtWI=
+
+Name: img/new_icon_mappedsuperclass.png
+SHA-256-Digest: hFJ6Tn/kWsvxsbLmBjAVLB1Q9NOWzC579uR8JcdjFd0=
+
+Name: task_generate_classes_from_schema.htm
+SHA-256-Digest: B9l4JYs8l2y85VFpsMcEuBKAoKD5dxlvkruiIT/CfB4=
+
+Name: ref_persistence_perspective.htm
+SHA-256-Digest: aD3I1VM7c+vySj86l0r3w/lnp4IVXyHIt0EC01bCDYA=
+
+Name: ref_select_cascade_dialog.htm
+SHA-256-Digest: 2pRpizRM9MjRHqBuxqg730O4cpS2UaTx8ar/NoXf/ww=
+
+Name: img/move_to_xml.png
+SHA-256-Digest: 0gx6loimS28vf+KlRtykKjdhCq2sAgT3K4IqWeVAYk0=
+
+Name: img/new_jaxb_facet_task.png
+SHA-256-Digest: xtfIn54tGASZ1YcLy1ShPhUwh+8cVww4pElHr5zCySA=
+
+Name: reference072.htm
+SHA-256-Digest: Um2YX5W6JOhGAmXP4wrr7YlJQa4bXW+apNL5aLu8ybI=
+
+Name: ref_new_jpa_project_wizard.htm
+SHA-256-Digest: UVujILBjuUcpSmpKGHpL5w1e16QuDkSipOBx+WIlHBg=
+
+Name: img/task_entering_query.png
+SHA-256-Digest: H9grsP8BDMBMhER4pwrGMHzrPeK8qOTHPEWztQ4qOjY=
+
+Name: img/new_icon_versionmapping.png
+SHA-256-Digest: RQ7GVuMAzIx0uLtMmnKpF+XUQYUCTavRlo4ZIe/v//4=
+
+Name: img/java_editor_address.png
+SHA-256-Digest: W5cCCAxUyjRZ2V7d99OWWkjKfMcVhRgoOz6nc9c45nE=
+
+Name: img/jpa_details_basic.png
+SHA-256-Digest: GlSe2kKYSSSnsPkCURAuSYdPV+PtsBejXDrljEgAviE=
+
+Name: reference025.htm
+SHA-256-Digest: uG+QI9Y0CQBanL2dd5nbLOuDyYviR5rBj/Xwl4gcn5k=
+
+Name: reference068.htm
+SHA-256-Digest: bt/M7zkT2j238z3hTMbMnvgq1CKH/N5CfD8iyU+Erws=
+
+Name: reference024.htm
+SHA-256-Digest: r0kBXswwEUQkQu1hvwm2YDWOyEYbTJvTRYJ6/6IPCvQ=
+
+Name: tasks011.htm
+SHA-256-Digest: IH7lcdWDSIhYkT9gqJcccqIoUKdoyWR6i71e+M4MDU4=
+
+Name: img/mapping_type_selection_embed.png
+SHA-256-Digest: jKWNV+ri1qqVGzQ6Kp0SksUGEKPIA3ZelSTMk4jfogQ=
+
+Name: reference008.htm
+SHA-256-Digest: RFJAAo91NLaIKIWDqF8qNOlANYRoN+4d2eNQoOPLu4M=
+
+Name: img/persistence_editor_schemageneration.png
+SHA-256-Digest: B+D5TiKhUDSPeQB4gjQszncXcgHd3zhfTkeQSmPCCI4=
+
+Name: img/jaxb_schmea_generation_dialog.png
+SHA-256-Digest: i/vMICsl84OE+sk5ekOFSfsJMPPosG0+ZHKnKkjkznM=
+
+Name: reference067.htm
+SHA-256-Digest: gEAt8rnIzCjJWSyOkVI8zTWLN9RNS1VRxt8aIZLiyog=
+
+Name: ref_association_cardinality.htm
+SHA-256-Digest: RqgRFgu+LOiGL1OgjDJi+IFhl4Mb4yH3tBNI7Qv6quI=
+
+Name: ref_customizIndividualEntities.htm
+SHA-256-Digest: YOxUUR73jLuB2LiL52YgIZP+yRHNJHNZLvH5HxO6kaQ=
+
+Name: tasks001.htm
+SHA-256-Digest: +0XYhQ6VmTLLKHmiy2R5Uq34iqWvUaTtaRTiu9LzfO4=
+
+Name: tasks028.htm
+SHA-256-Digest: XSKqUmJI0LW+S7cbeXhx4Ge6k8B87Xb6McNYAPV5U+E=
+
+Name: reference083.htm
+SHA-256-Digest: UUimHNGYwzmqkwcW7B/rvB8wEC8/sUHWnmwSb9mx6VY=
+
+Name: img/new_mapping_file_options.png
+SHA-256-Digest: 1fq2oSwS2mC7uUf7+Jqft9ai88AK6eT1C4JVl/zS3bs=
+
+Name: reference006.htm
+SHA-256-Digest: 9pmJJ9zeNo01R5FefmN+Zv9ixZZX7lLLnRbrqGxmDIs=
+
+Name: reference049.htm
+SHA-256-Digest: kIiETFvStcNgtgFUZFEaNmC1zWITj2egBR6mEdccasg=
+
+Name: concept_mapping.htm
+SHA-256-Digest: ENMQ/k8ls0WaAk4tIIpbKlKwmvrjvWafCTW36wS2OJ4=
+
+Name: ref_jaxb_schema_wizard.htm
+SHA-256-Digest: XiCDrC2PLxooaHmPD1A5PxZpo52Yqm7mqK70fDMwn3U=
+
+Name: reference014.htm
+SHA-256-Digest: 6pKTA+qXFDKpmQySrV/rd7DwuEtWRe8BAlQVuamyM9E=
+
+Name: reference057.htm
+SHA-256-Digest: AJbcvJXazRJjz5mAz+akHvsjXbu9r457AmrShXbRUDw=
+
+Name: ref_java_page.htm
+SHA-256-Digest: L8OUAoaKVsvk4oy+vs3bCU5B7fFsGgOIdKAgrgeVWAc=
+
+Name: getting_started003.htm
+SHA-256-Digest: s8PgfYrJNsPKbuBQ2S4FesthGKWhgsWY5nrLzJIrdiI=
+
+Name: reference040.htm
+SHA-256-Digest: IR2BPn7U9aaJ5zvmwIY1T3cE4+IB72/acGIPs31OVKQ=
+
+Name: tasks005.htm
+SHA-256-Digest: CLrHpd+TtHM8huUMVVREYsjNS7OZcDgau+ciDl6Gs/4=
+
+Name: img/select_a_wizard_jaxb_project.png
+SHA-256-Digest: WhFyWdxrkjQmkPLPXVP0S6u7HMPBveVHucxPLy7W5zM=
+
+Name: img/xmlpath_validation.png
+SHA-256-Digest: FnwjhC3RqpumArkFdAH//CVjwJAu21LTj9ndtYAEl3I=
+
+Name: img/new_jpa_project_task.png
+SHA-256-Digest: 4OvNLyTgMGSgYrbrURy+Y8ysiXMhQj9WO+Lp0KHPyrc=
+
+Name: META-INF/maven/org.eclipse.webtools.dali/org.eclipse.jpt.doc.use
+ r/pom.xml
+SHA-256-Digest: WcQRE21gpxf0s9cxvvWsiYUfh46GjttAOsOKRO2mzK0=
+
+Name: reference018.htm
+SHA-256-Digest: OJlVo7+K/tS7ikP/oAn1/ga3UKEA/bW2LQk/3y7rv8s=
+
+Name: ref_persistence_xmll_editor.htm
+SHA-256-Digest: 0Kd+prI4FWiSX2yQkdXMKPIZ9lDlf1aGR/qZYXj38VI=
+
+Name: img/jpa_details_version.png
+SHA-256-Digest: fANDZAPRdQF1guHbMHmSTAPSqVdC8CAU0dfU6U4mCQA=
+
+Name: img/jpa_details_joiningstrategy.png
+SHA-256-Digest: Nod8Lac8ChR9HCU/FgCvV4wWBWu+kqExyhKgVdGJRzU=
+
+Name: reference052.htm
+SHA-256-Digest: MbIulis2CRNg3NDomNwpO5J/P1tf0A98J3RGhu+VOdc=
+
+Name: concepts.htm
+SHA-256-Digest: uTKa9pspwErJOfMNwDJlnvae5PH+/BayNAeCS21rMSc=
+
+Name: img/new_icon_onetomanymapping.png
+SHA-256-Digest: mNanUWuRb4MfjpxInDzodeZBwE17CURxYKue1BUQIBE=
+
+Name: reference077.htm
+SHA-256-Digest: 9CmBDPbbREFYwuxGJs8if6jsihM5YLUV5KeviBau06s=
+
+Name: reference034.htm
+SHA-256-Digest: 0UmQHVmW7E5XJ3dZ9aOsqgLavzsjuW7EWe3nrcrsqK0=
+
+Name: ref_customizeDefaultEntityGeneration.htm
+SHA-256-Digest: qGjIvZIY8lnGYhjTkJUPbhuLbeRpe1fm5NlQklIzSGg=
+
+Name: task_generating_schema_from_classes.htm
+SHA-256-Digest: EaRqydQALIz3QyaWZNQIT3vofNfTcvrVsaWwnXzAMvM=
+
+Name: reference020.htm
+SHA-256-Digest: OYu2zs0uuGDk26r9VZBZ/wdeoIML03IGAJS0VixLWwg=
+
+Name: img/jpa_structure_virtual_attribute.png
+SHA-256-Digest: /4P3pFbAQLsBi/yP9HaBTcwtDMLIsH+NB/su+RJ//KY=
+
+Name: img/jpa_perspective.png
+SHA-256-Digest: +b4Dx5NucXwBmNKhRpLLQfy5VifTPNVOU5tgdXZLXMY=
+
+Name: tasks016.htm
+SHA-256-Digest: ELLEZh2MomkP1vgpC0iHP2eQZjRn3OgzazBNpzqqLR0=
+
+Name: reference002.htm
+SHA-256-Digest: 8TQ3LFfU6WtLD19bgKejqPq4byD8+MaulLie7SC4FSg=
+
+Name: img/select_a_wizard_jpa_project.png
+SHA-256-Digest: e6FT/zEjPgfffKH8kUK/DNVHG9KkjgDcvH66BN94iiQ=
+
+Name: img/select_tables.png
+SHA-256-Digest: zOyYUH++dSn7nE3RegQ7YV5CUtbxghGalct4NOSBlTc=
+
+Name: legal.htm
+SHA-256-Digest: 5nFUxuCQa4Vs9OeH4soz53+V+io42QBmyLNJfpIDanY=
+
+Name: reference045.htm
+SHA-256-Digest: /utAikCpeNuicU8mAWqJugDgi409VbeJYia1bby6Ht8=
+
+Name: img/address.java_jpa_details.png
+SHA-256-Digest: 0eDml7WKs+GLFGU3GBWDQYWRWV2NL09rEtMvKylS550=
+
+Name: reference028.htm
+SHA-256-Digest: Fpbq0RCcABd2Nnx50HVROeTGt2WLybxzVNRqaUPEhHY=
+
+Name: tasks006.htm
+SHA-256-Digest: SzvtnWFdp3IZ0oeA10nxwePIat2KM4Qzn1Nlp8w/ye8=
+
+Name: img/quickstart_project.png
+SHA-256-Digest: cSvbO/pbSDKvh/zzGex2tvVaHFsR7n+KFwjdP41mE/0=
+
+Name: ref_create_jpa_entity_wizard.htm
+SHA-256-Digest: nv6WIhkADDifnDAxhbHm8ZYhW7xyryktbnrww83K0wE=
+
+Name: img/customize_individual_entities.png
+SHA-256-Digest: O+A0uh/90jFM2SehRp1ydjJ3b/1NCCDSFSthPraDdQE=
+
+Name: task_add_persistence.htm
+SHA-256-Digest: MlupfQHltks+bejQTsG7ACyTV0+VoJhpTM06RJ+QwmE=
+
+Name: reference062.htm
+SHA-256-Digest: FriSC2HZI8eXEIkyUh8bQv9sMnSN/Qa/lD2BA1oxI9g=
+
+Name: tasks023.htm
+SHA-256-Digest: Yl2qlDR2gbt7+kpJDm+fQbTPG5J7hGulIOaMBYwb5qQ=
+
+Name: reference030.htm
+SHA-256-Digest: +PWz/nkh+XvTYV/ui7HuuRaUN0mE/wX20SUtvFOXyoM=
+
+Name: img/jpa_details_onetomany.png
+SHA-256-Digest: 6YtY/JEAV5Lipk3RPjpI8BJ50YhIFpBivfwfJcKnrrE=
+
+Name: reference.htm
+SHA-256-Digest: GpaXdLGHsOG8Ib34nHOHj7B2vT2GCbsoQ8qVfjwDLAo=
+
+Name: cheatsheets/create_entity.xml
+SHA-256-Digest: xiHe8bR+lKaGGCtt+bn8KPiw7gujmXC0kA9MFVKeWQM=
+
+Name: img/new_icon_embeddedidmapping.png
+SHA-256-Digest: z8UHPkb635EWdKRWVsbfFstb36+MUpuFOyQA+ZTV+7o=
+
+Name: reference073.htm
+SHA-256-Digest: DIgggo56k0XnCAtxRrdUTFm7c+oCpmxMpCt3baIPtco=
+
+Name: ref_persistence_outline.htm
+SHA-256-Digest: l6MjXs51NaJOUH5xpBcxqKWetYwlp8FE1MJohilLm0c=
+
+Name: img/address_java_JPA_structure_quickstart.png
+SHA-256-Digest: c1vdChPxPlZc9sAsppAjJR0e8bei76PPSOIlI/OdjBg=
+
+Name: getting_started004.htm
+SHA-256-Digest: wGCUFXkk9jIOwMwU90ILvGqHdrMIUhehEaW+B/9Si+Q=
+
+Name: reference039.htm
+SHA-256-Digest: DzVr+e1izlP9x68c934MTuf6rNVQV8lqkgxIqUTfGDA=
+
+Name: reference056.htm
+SHA-256-Digest: 1zNKlJCfdT+I4UmEr/WXfxXtZ8K0kiGj9/BVshAve4Q=
+
+Name: title.htm
+SHA-256-Digest: aoNPxIK/ldIovAjcvNdIAmyROU4y1A5WZbrVBfE4YL4=
+
+Name: reference013.htm
+SHA-256-Digest: z9NJkbjdlerqh4bcQCrmHfo2zUL7sNJVKvsf0oPCLEU=
+
+Name: img/jpa_details.manytomany.png
+SHA-256-Digest: VfkPdpH8q340umH+PJ5E4QE0QNlez3Disse+yExBedQ=
+
+Name: tasks012.htm
+SHA-256-Digest: laS15dvie0TpQIs1sVWgBPXsBk3rACu3Adcn4JZNrko=
+
+Name: task_inheritance.htm
+SHA-256-Digest: joUl+BJ39wktkd99keF6HCSNq5eEaj0HaXvWCztt7MQ=
+
+Name: img/new_icon_manytomanymapping.png
+SHA-256-Digest: nTFnlUiNgdYR05ARvwzS97yVpbuApCikeu6h0iUn9wI=
+
+Name: task_create_new_project.htm
+SHA-256-Digest: i9hgeYzrihA9w56b6tCAqC/ibisnUUOCJ0Q4EWfLdPc=
+
+Name: tasks029.htm
+SHA-256-Digest: C1mRS+r57e6u7f1MxdwlSK4lDadSI6YsntIqoYv6Wpw=
+
+Name: img/generate_classes_from_schema.png
+SHA-256-Digest: HfagWMdP+HutzfJLKRPA/Lby87Q1pr5QHkuBKBX1h84=
+
+Name: reference007.htm
+SHA-256-Digest: jtALkpqAkZWgaHAjxsZvn2chjBXSBTGwfosdT5dRXHE=
+
+Name: tasks002.htm
+SHA-256-Digest: j13/LBr/2HsNatI6rzmpAwBfm/lXKn401nHl2UdvVgY=
+
+Name: reference015.htm
+SHA-256-Digest: un6cYYWh2dENgsFLzaHGiB4vBuASWQ3iosDwNmv7X4k=
+
+Name: img/persistence_editor_caching.png
+SHA-256-Digest: TKqW0jFLnMAC82vdDAE+191qhiv6BZCL0gsJ7RANgp8=
+
+Name: reference066.htm
+SHA-256-Digest: P9P6q50tk0UHhXQ/C6gT1CYMdUDfTg+uGJoIgMup0jQ=
+
+Name: ref_primary_key.htm
+SHA-256-Digest: vkJUX8uSEgAdKzOUykkuHTl8iIPIjQgTGwFFwyxp5tk=
+
+Name: reference023.htm
+SHA-256-Digest: JFMBstXPld/JYnM2GtrYeGQGyWPeaTM4jtJBHwVgvrQ=
+
+Name: reference058.htm
+SHA-256-Digest: xbl8IimvUvO/brC3TyG6pAI80DHx4/LKsq/us0SY76k=
+
+Name: about.htm
+SHA-256-Digest: AIvDoYkaxdqD20kI3YS+0IFLiDwvEGzbYY3M/etnzXM=
+
+Name: reference074.htm
+SHA-256-Digest: uPCwhLSSasVpkyz1w4/kAifvBaxGWk05HxD7FxfBglk=
+
+Name: reference031.htm
+SHA-256-Digest: /CBIYJD2PDHQ4VsQbce4tvq92Uy4yzr0vvG3bkFtZJM=
+
+Name: img/jpa_details_idmapping.png
+SHA-256-Digest: LnAQxxNbBhAYdxLwOLqLNY8ZehIvCtP+ZQ8Fvn7sutk=
+
+Name: img/secondary_tables.png
+SHA-256-Digest: l61CT4m39QTWuV3bZIK9DMEUobXpZEWrZYKx0a1UwZU=
+
+Name: tasks010.htm
+SHA-256-Digest: ajOCHUL1ahbtBhAmJYx8mx5AtITypZmHqz69wUuDSdc=
+
+Name: ref_eclipselink_mapping_file.htm
+SHA-256-Digest: JEqbJ1jSdsrW5sG1HHbB70PuiXTyLDuNZH5R9HyKaFA=
+
+Name: reference078.htm
+SHA-256-Digest: Na6SZ7Zq90BKqXiCnXgM1P2dMTNpXZnbdkn86oITs+M=
+
+Name: reference035.htm
+SHA-256-Digest: uy772IsBRj9oRkC69tKXu1/ysw9C9jtZHhyYtwNcR7I=
+
+Name: img/jpa_details_manytoone.png
+SHA-256-Digest: nXfeXEWpibDhi8KG2Kgo4NGVU+2fAtSK8o/Yo6K2/jA=
+
+Name: img/ngrelr.png
+SHA-256-Digest: Ns/cH875apP6opO7NLmj7qMRanWkbxeuxz4nJCpAIwM=
+
+Name: reference082.htm
+SHA-256-Digest: VChuSnTr3PuU0ummAyL01Di+4PDvnemTk8cTGaeoBY4=
+
+Name: tasks022.htm
+SHA-256-Digest: VjwIk1RYhvJhuB5U3W0dADfIO0rB/wbl1X5O62F9mxU=
+
+Name: cheatsheets/map_entity.xml
+SHA-256-Digest: auuYXTl2kzRg3eUIkmTUWE5aAP4Tu1kYVBdoJuItbLk=
+
+Name: img/generate_entities.png
+SHA-256-Digest: ag6DBc2+L9gpxSQZqLWDdu5gCpKdG6Sb5nuTQG0BYVU=
+
+Name: ref_mapping_general.htm
+SHA-256-Digest: 7ccnRIXuMO1VsmHba2zskXt3X3rsEwsTD5Gm7Mgp90Y=
+
+Name: img/mapping_type_selection_superclass.png
+SHA-256-Digest: cojbsR9i/Ke2/PfOvGp8QLbkivEsGqXhdv+Utgljkdg=
+
+Name: index.xml
+SHA-256-Digest: eHy8zMB2zlL5LaCGwmiE7KORURAuSRhL5yfRn1p6vJM=
+
+Name: toc.xml
+SHA-256-Digest: ZlbVnIs68VMg3HnyiZI84J8mRmM5OAeATcytFiKqETI=
+
+Name: tasks017.htm
+SHA-256-Digest: NM6kWH+XprFnXW9+q01iMnjFoCGtSl6Vt0wV/8VQIPg=
+
+Name: reference051.htm
+SHA-256-Digest: Is/KiRgxvSwH5RsrPjR7JMq+g9WdF8LKYmps67a+F/Q=
+
+Name: ref_EntityPropertiesPage.htm
+SHA-256-Digest: gkzpw6q6wrsFXSZLtNYmdR6cOK7VDkWXkx2RZi6HNwU=
+
+Name: reference003.htm
+SHA-256-Digest: ejrHXbEvznaPPV9Zm/DYSy93EVe9/JKVvBIh5Wvb5iA=
+
+Name: img/add_query.png
+SHA-256-Digest: XrJo3cY/kDHbQtoVptvdtAUb+WQkWnfjsu+T31Wf7CA=
+
+Name: img/new_jpa_facet_task.png
+SHA-256-Digest: J604KVRAtQ3cyWEUGh30UjlRyPhP0d+uDzYNHj4wzXQ=
+
+Name: tasks.htm
+SHA-256-Digest: yKORKhJEYQddd2qXwMMYk2zMP2OzRarcqxhacEu0Abg=
+
+Name: reference046.htm
+SHA-256-Digest: yyid3+H8K9vch/rFiaLkVkNR0CgKUrrtHdqGJCzWZcc=
+
+Name: img/persistence_editor_customization.png
+SHA-256-Digest: yl9dm02QY7EKqRmZVm4EKYH1rCdKjEz0+uvA8p2XpZI=
+
+Name: img/modify_faceted_project.png
+SHA-256-Digest: ZmrQVAs5ZDedOg9dqEfB33KsbKhNl3p60FFPjLzreQw=
+
+Name: img/jpa_details_query_1.png
+SHA-256-Digest: ysKzzPWFsJn/DfcFY6pfU9neQTAFkbECCoVfX69V65U=
+
+Name: reference063.htm
+SHA-256-Digest: OByffZMfrJ6Ri3cuWrzAbpVOSb9y1WNHONTgKrO92GA=
+
+Name: ref_create_custom_entities_wizard.htm
+SHA-256-Digest: BdsRrsD8n1zuIXOs5vpX3YvqxI9LxqaHLR5CY2/qqgY=
+
+Name: img/properties_jpa_eclipselink.png
+SHA-256-Digest: 2BOIYqSz9UN8tl69E6iMqeg0k0fmDWq5+zGkbDs/4qA=
+
+Name: img/jpa_details_onetoone.png
+SHA-256-Digest: zT+io34rNIM5XDA02e7lqocT7cEoa2qKwAyOQyMeMW0=
+
+Name: task_manage_persistence001.htm
+SHA-256-Digest: p69nq1h8NJcW9vxse7k9kuktxVCEFEUSwLwczyfBKgA=
+
+Name: ref_persistence_general.htm
+SHA-256-Digest: dq75stLfrydkwypislgvLhipscRiBOaVQoFlPsVsD48=
+
+Name: img/synchornize_classes.png
+SHA-256-Digest: aa2gifuj/a3E+6OHobNttiJYM29EDczjuhE0VNX8MTg=
+
+Name: reference070.htm
+SHA-256-Digest: CkagoOmplIjqloOlUWqFfayOnz7fVKxbZvKMy0Hlqbw=
+
+Name: reference027.htm
+SHA-256-Digest: ZkgoDvbbFewE2jWCoFl9EF50Zo5wPG8PVsU03BW84qI=
+
+Name: tasks030.htm
+SHA-256-Digest: HYyyAX/gseCyzJPyUJs5OsbbE7N5rut11G32RiZE81s=
+
+Name: img/add_virtual_attribute_dialog.png
+SHA-256-Digest: SkdLEgbrykCrXMEL7mwZwYGi53Xo9gBrqDea8W9eTs4=
+
+Name: img/persistence_editor_connection.png
+SHA-256-Digest: r3dVH4USFpxNyl9v+gYEJ7Cqd5SECzdCOazDRQXQcuI=
+
+Name: tasks013.htm
+SHA-256-Digest: YwVAA4aArgTiMPN81XPss5x0rKp67hs+vfUVSLd2NoI=
+
+Name: task_additonal_tables.htm
+SHA-256-Digest: nK5s3msr7B29kYrFtWkaW272ZJjje9tJESL9Sf6AvCo=
+
+Name: META-INF/maven/org.eclipse.webtools.dali/org.eclipse.jpt.doc.use
+ r/pom.properties
+SHA-256-Digest: 1Ybux6NBTcg6wsuuZmbs5HlCeGo0wzjdd/JsuZuJaLs=
+
+Name: reference019.htm
+SHA-256-Digest: 3SMuDpuNVS1u3VWxUkJRkkqtjSkMtPpAxLb8VgJUhfc=
+
+Name: tasks026.htm
+SHA-256-Digest: qaXBHbepmyNY1sCvyHcZDq6gFdm60BpYOrubHkBIkrU=
+
+Name: dcommon/html/cpyr.htm
+SHA-256-Digest: xPDKOKnNKyscYNwnD3kKHW1ZUGXpIPJ+VTgs4Utlm+M=
+
+Name: img/jpa_details_primarykeygeneration.png
+SHA-256-Digest: 35GhRXsB2sE48krgDosVX8QE7K8r0Hakz+OzUOGrOVI=
+
+Name: tasks009.htm
+SHA-256-Digest: s/YcwRJzaB9rpv63WiAI3gm3ub8elgJBGmcv1z9BCzg=
+
+Name: img/new_icon_basicmappings.png
+SHA-256-Digest: ZiCZKpl8y+8JZwe3+lSbElgCqZNcC5JEl/cGAQuGOKQ=
+
+Name: img/make_persistence_dialog.png
+SHA-256-Digest: bvg/adJUG/lJjFei4VmfGn5aEL6SmJkMOqA5WDyiJrY=
+
+Name: reference042.htm
+SHA-256-Digest: ReD4RlDK4TI26Yjx/tTO16FHPPyuD07se7w7VfbFPLM=
+
+Name: img/new_dbws_project_web_dynamic.png
+SHA-256-Digest: GCiYm/u8+fpvkhSpU4mVpahr8LYTk+Z0wYrDzYg59+Y=
+
+Name: reference038.htm
+SHA-256-Digest: K4qjpnwAk2qXLvfl8hr23d81hBmKLi/E/SP9KupCroI=
+
+Name: reference055.htm
+SHA-256-Digest: sxrhML13wuSDkq4qoxb1GKPAmMrCG8xqTxsnfiNjTuc=
+
+Name: reference012.htm
+SHA-256-Digest: RAHQG+h1Q4GBlWqD9zM47Pf9GCDGKQOUEv9jZljQ48g=
+
+Name: img/jpa_details_transient.png
+SHA-256-Digest: 2QwcAFLM5p4imUxAt77+QGkxZ0NftAmtjXgdCt5/jqI=
+
+Name: ref_join_columns.htm
+SHA-256-Digest: K07Nvtl5ZrcVCkiobRLPSN9CQVfNywV+YxkMv9WqHHQ=
+
+Name: reference059.htm
+SHA-256-Digest: 109SABPfdgncPDsDuAMXT8LkpZ4zR0SYnmsZAJB34zA=
+
+Name: img/address_id_details_quickstart.png
+SHA-256-Digest: vBhsHqafFI6DBmNxt40cGpud9CfhQw0zrHljV5Te8Tc=
+
+Name: tasks003.htm
+SHA-256-Digest: yWVEKEBlPGWmAD8JOlqvlZ30yBBiw6oM0Oj4Yu7ccWA=
+
+Name: reference032.htm
+SHA-256-Digest: hF9MhG7r77VQkPhN1ePmIXpCfygfY6xZWGu7C46l0P4=
+
+Name: img/create_jpa_entity_wizard.png
+SHA-256-Digest: 2GVi5bToCMEhyAg6bHjsN6B/wKDSJFBRxX7QRNA+vFQ=
+
+Name: reference050.htm
+SHA-256-Digest: G2PyGVfVUrUu9Ew+PxYYPyzA/AC8V9s8hTAMtil8Ywg=
+
+Name: ref_EntityClassPage.htm
+SHA-256-Digest: Z0Uh3wIhRE5oFu8RIxtJUkIZUn3Tl1lHgh6FxqnrlGQ=
+
+Name: img/icon_elementcollection.png
+SHA-256-Digest: CJdqzzZzJ/iq83irmspntrfYIY10zDrgdXbvrUA+nZA=
+
+Name: img/table_associations_dynamic.png
+SHA-256-Digest: NFJRh+qp4oADBWarJpoDauDQEGZXk8yYmC9UX6C7P+A=
+
+Name: img/new_dbws_project_builder_xml_file.png
+SHA-256-Digest: GdhIm6F1lBWgsEhmHB3Hh5wKSX5D3hT53TdKazWJ9nM=
+
+Name: img/ngrelc.png
+SHA-256-Digest: vfaC6IK9R/YaE/XOM3682Kmkmt9cbuvUcUVSfH50/ug=
+
+Name: img/select_a_wizard_entity.png
+SHA-256-Digest: 6sF04SH/sQIcctOrIK10nIalbb94BKamJi5Dvmdn3iY=
+
+Name: plugin.properties
+SHA-256-Digest: rZ1+XsMtEVgFJBXDR8CxkxrYssKm7Ci+y2crMqVabNU=
+
+Name: reference075.htm
+SHA-256-Digest: He5P34DAq4XE58D+5cqxrKi6UYopaSrnGDfXkrhd4/w=
+
+Name: img/new_icon_transientmapping.png
+SHA-256-Digest: Dh3rVmPO5WzaSS0znnbESbbPL3lCS4NWbeELHrWrILY=
+
+Name: ref_persistence_prop_view.htm
+SHA-256-Digest: enQ4qpMYQw3FuZs3NG5lTh8+n+JTNsIp8ZVdF8R4Kbo=
+
+Name: ref_details_orm.htm
+SHA-256-Digest: LFUEbb73Wcujhnye1nKzrBZCgEbqkr2AszfkNi/VYt8=
+
+Name: img/generate_tables_from_entities.png
+SHA-256-Digest: J88qlPliE3Dk7MsGMkHQ5SZLcb/igK18eRcXMq+NHY0=
+
+Name: ref_project_properties.htm
+SHA-256-Digest: FDQlELagS4GrEgdjJ59iWMd/zCmYOZLRlze+20CrE1w=
+
+Name: reference022.htm
+SHA-256-Digest: pRIBw8c/fw9xSPZCqiKxDNGf2AoTNDKWz6/y3ghw/YE=
+
+Name: img/new_dbws_project_driver_files.png
+SHA-256-Digest: voSlFx3THW2EBtHiresh28OHBgsh7Gq5pgpqSWSEOvg=
+
+Name: tasks018.htm
+SHA-256-Digest: xwJEngxGHGfddCbmrQ4yOkO0WznazW+NXORQZSrquws=
+
+Name: reference065.htm
+SHA-256-Digest: W+s7OCHtXza/GPZr/mGAz/iuL25sZn3FtI/VVm0bYNE=
+
+Name: ref_add_converter.htm
+SHA-256-Digest: cbhUQT4DMSHVVUnxFDm4QfBlueblC7C9f2zOoBUGImg=
+
+Name: reference004.htm
+SHA-256-Digest: gxfSLiMR+zc/Yi9UQimTyzCUdTBj+ee50DjCvhr67yg=
+
+Name: ref_configure_jaxb_class_generation_dialog.htm
+SHA-256-Digest: tDYR90EL6ePKth+8uaS8CH3dG72QDo5mJ7aBvH3DITM=
+
+Name: ref_persistence_map_view.htm
+SHA-256-Digest: +6hKpZv0hPJSmdVINb/NGIxz4mE5nsJNws5fCCVrGRU=
+
+Name: reference047.htm
+SHA-256-Digest: BSKEsd8oeM1BZn4CTG4CMTHT9WuYwjYA6WFHH6+NyqQ=
+
+Name: tasks021.htm
+SHA-256-Digest: pD0PCcAVvUHjA/saTBLDuqskwOsXCsp3rtU96LCsIdY=
+
+Name: concepts003.htm
+SHA-256-Digest: 2O9oqDaUiRtoP6Pac1E2zZOrwyX5Z6N9LIS3pxoLlXw=
+
+Name: img/select_a_wizard_mapping.png
+SHA-256-Digest: PhPSfbAM/8c6Ov3prgieVfBvht3S1yO29NqrptpAf5Q=
+
+Name: reference081.htm
+SHA-256-Digest: Y3RdGbfM8T1uBZS629P50QlwCj7oZyBfKz7jOI0SSFY=
+
+Name: img/jpa_wizard_create_fields.png
+SHA-256-Digest: Nn8wfrSbP45lJssi+UIdbO2BsfBE1UxuEnvIZoBiv6c=
+
+Name: img/new_icon_mappedentity.png
+SHA-256-Digest: LUyNlUnznGXuEp8qGoEDCXuwAkgkvD8cTPejNO3MppA=
+
+Name: reference016.htm
+SHA-256-Digest: E1xltkKUyyG4jBjs7QabniWrR4pfN7AkzEFLms7J81k=
+
+Name: getting_started001.htm
+SHA-256-Digest: Sdt7S2r5pz6Rxhg7U+pE+MIOrK0pjbqsr723ox0yM9c=
+
+Name: ref_create_new_association_wizard.htm
+SHA-256-Digest: Sb5cA+eTvi8Fj3zOWZcn2F/OGKtns+zClUa9A36I7K0=
+
+Name: reference054.htm
+SHA-256-Digest: ofMP1rd1DvrPYWm9K7UrHWwdDggnalXkAw1HRz9drM4=
+
+Name: reference011.htm
+SHA-256-Digest: QGvBwk1DcrcL1pm+WNUYevb/7xpfj14DfeHyk6uxSEo=
+
+Name: reference071.htm
+SHA-256-Digest: TF8eSgJkwn7sBnnZyd3hmVNYi7qPgUU7KUUSpSUYyc0=
+
+Name: cheatsheets/add_persistence.xml
+SHA-256-Digest: mMVcBgGJDgE0rwva48y64rZPD/02xnPZsnSpnLgAkng=
+
+Name: img/jpa_details_elementcollection.png
+SHA-256-Digest: h8n7m8HGxDd2ZvXIWxswx5fQvEL0J0+FAqCOiCkWKUo=
+
+Name: img/persistence_editor_properties.png
+SHA-256-Digest: zDQkfZ6J1lMDlvJalEug7O0WWdQlA2aMnnMKnqUgjzg=
+
+Name: img/upgrade_persistence_jpa_version.png
+SHA-256-Digest: ayznsv+nj5GY3F8H89ZkL0GN5gPHpMcAG0a6td9iYXc=
+
+Name: reference037.htm
+SHA-256-Digest: QmBA59qeniwSDxByhQCgv0o+z8nbxqYEVjLe7NJBBoA=
+
+Name: img/inheritance_single.png
+SHA-256-Digest: lBOnzdfgb/X+IquAhqCABIMJeeDSeLqywdDKLskbapk=
+
+Name: img/table_entity.png
+SHA-256-Digest: 0PtZMaqV8de3fNDTVjTg1qxrchpqNdDS3V1nWbLNpY4=
+
+Name: img/MakePersistentMenu.png
+SHA-256-Digest: +UdEeU3xgKlV2ZaS1FkTTMFzyNz3f4x60C71UkMrBJY=
+
+Name: concepts002.htm
+SHA-256-Digest: maXO8mJvFeCQU9lLR8TqMsn4LT8x/QRbNHkoTMEJIX4=
+
+Name: ref_new_jpa_project.htm
+SHA-256-Digest: TXZpH5hgtxd2MtXGP09pl1XWiVIbhgppSOxHS7l8ZwU=
+
+Name: tips_and_tricks.htm
+SHA-256-Digest: xKeBpQTzyhbNRa38c67fYnjNjreK0pjUnrwQ3t3wmC0=
+
+Name: img/jpa_details_query_2.png
+SHA-256-Digest: 4b0SD6eNJzFeGa0WxKmcsI5vYpf5VkKSi5baYW1wwPE=
+
+Name: tasks014.htm
+SHA-256-Digest: r3M6dav5M17hf0KHf3oNLp8sKlYuqOTQ85IMcgglJQo=
+
+Name: ref_tableAssociations.htm
+SHA-256-Digest: QnyBkS00eort/GFw4FWKJ6ruEW/tGWGOstSJayG+wo0=
+
+Name: about.html
+SHA-256-Digest: bcRyFhAn5hkGB/gH+NwA512YBd8tDGqm9FNyXI83090=
+
+Name: reference060.htm
+SHA-256-Digest: z2r4+0OiZ0yM71Dlt/iFI1RnHePDoz6Zti2vujHsAtY=
+
+Name: reference043.htm
+SHA-256-Digest: jZGJHZLSxODBbT2BTMHxt4vBBP2aBm/eMQZeUJasXks=
+
+Name: img/persistence_editor_options.png
+SHA-256-Digest: DHI4hfJoYYQyRyLoC9PLiIzTYFzic7IqcnNqrV/Jjbc=
+
+Name: reference026.htm
+SHA-256-Digest: L99O2b4g4iTTCjDii/Lm6hib0NWG0OSvwR43LBKJbGU=
+
+Name: img/customize_default_entity_generation.png
+SHA-256-Digest: VhL4WpsLHAD76npNGVJsqvyc7Dy8QcJzUlZR3Am93VI=
+
+Name: reference069.htm
+SHA-256-Digest: UjOgmj8HWPMOY0MVSzBl0Y4WQ+ygO+CfO8DmnZ3fK8Y=
+
+Name: img/mapped_entity_type_link.png
+SHA-256-Digest: 9melMD6LO9ZJBGsmdugjR0zp560euIWbqM/GPjrQ2tU=
+
+Name: img/persistence_editor_logging.png
+SHA-256-Digest: 5zYy01MTPBLERqN3P6HIVHLcNCahGL7h2Nsk+5n+IHQ=
+
+Name: img/select_a_wizard_dbws.png
+SHA-256-Digest: YnBJPqgvc/XjmBEGpC/N+gqNfGWbaaHZtHpKxLKu4I4=
+
+Name: img/new_jpa_project_source.png
+SHA-256-Digest: /s+//b1fuZ3bwwyOlRZjhBKRwYiqVzyi52kY0DB6ND8=
+
+Name: getting_started.htm
+SHA-256-Digest: ZSs8rX96GbUdyWE3pgDzMA03MH/IMpZA4GtNVUm5Pmc=
+
+Name: img/persistence_outline_view.png
+SHA-256-Digest: iy08bpYvDHXHQ+9ksKbHh2U97VK9K8yJrFdHXnX6JDw=
+
+Name: img/persistence_editor_general.png
+SHA-256-Digest: Qx2Co1P9dRSBllsBW2mvc+b7yia3fyRfctJIEk3kAGk=
+
+Name: img/mapping_file_new.png
+SHA-256-Digest: JppDM+sqbFrp8TlXBgAlsqjHVtU9ShUWNQkW8LW7XFw=
+
+Name: tasks008.htm
+SHA-256-Digest: BjXYsmXEF78hZLWFIk9GIxFzU4N0WDtDs+3LlAzysBk=
+
+Name: img/create_jpa_fields.png
+SHA-256-Digest: CxighzlubU+PA2vVR8sGP7gWIaZdhNx8iG61UvKz8s8=
+
+Name: tasks025.htm
+SHA-256-Digest: EHylU4AN3+oFC8j0lhzxIjMmFg9LwK069h1oCTc88ug=
+
+Name: task_create_jpa_entity.htm
+SHA-256-Digest: pxGoxIGf9YPkTlBVVixCpoCQEv4/T5rFtCVPWdKfNp8=
+

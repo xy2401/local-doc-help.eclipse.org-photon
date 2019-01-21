@@ -1,0 +1,194 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.oprofile.doc
+Bundle-SymbolicName: org.eclipse.linuxtools.oprofile.doc; singleton:=t
+ rue
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Name: %Bundle-Name
+Bundle-Version: 1.0.0.201806122135
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Icon-oprofile_sam
+ ple.gif
+SHA-256-Digest: l6I/tPCpfdR4nKJ7zrI5tCBeb6dKTnh8MkzzeQjYTZs=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/Profiling-Configuration.
+ html
+SHA-256-Digest: oD3p/Jmwp1dXF7yo9miV01nWWVcDHSyz19TCK0GQrGc=
+
+Name: plugin.xml
+SHA-256-Digest: 2GfVqOJb2+LtpXbBz7OUK6upcMieiINFoh8ecSqkw3E=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-oprofi
+ le_event_timer.png
+SHA-256-Digest: w5uu5mXaNAKvtHDTAbXckuvjqeOB59mSYLb9D4xRejw=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/Example-Project.html
+SHA-256-Digest: Zw5PIBmATRfewva9VVEuFAyycyQLBsWBrO+5GxgwGK0=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-global
+ _config.png
+SHA-256-Digest: eodqb5BM3oJNY9SjJb9rY6vES95JCxK6JKBP5nWmAU0=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Icon-oprofile_ima
+ ge.gif
+SHA-256-Digest: RTYim9fmUdAglcUm6D1JZUlOSMxKmOGByO64nWq2n+4=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: plugin.properties
+SHA-256-Digest: V6O0WrQ3Hj7Eeartdoaunpcw3MhkJwO0Q+GHf1pDWu8=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Icon-oprofile_sym
+ bol.gif
+SHA-256-Digest: yzO4bMM8s5Ges/ftEyYS1AnHRTgiH6CPt98Ze6MD3JU=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_event_ti
+ mer.png
+SHA-256-Digest: Xli6BRtIL8DmvP7Kw6N67RazCmkuFBLgrdTpHBSN51k=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Icon-oprofile_ses
+ sion.gif
+SHA-256-Digest: G3I0H3mvTOHve2OUjSEvYqryqnd6bH2AEvkknzHdkm8=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/Remote-OProfile.html
+SHA-256-Digest: YPar0eVCYiRWMQ6j/uBRgtatW0h0Fvc8uOWderNNUns=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/User-Guide.html
+SHA-256-Digest: q73ZJXDiTj8AAHYYo1aSJaWqGL/qA9aA5upmAjbJNLs=
+
+Name: META-INF/maven/org.eclipse.linuxtools.oprofile/org.eclipse.linux
+ tools.oprofile.doc/pom.properties
+SHA-256-Digest: VT11+BpOkEAc07WJjIUq+HWs972mIw5WDRCXptOH+SY=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-oprofi
+ led_log_reader.png
+SHA-256-Digest: xPTMk33eZ7EmdxWQCUpJPhcbDIHwN8FVrgN3+KmgfCg=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/Updating-This-Document.h
+ tml
+SHA-256-Digest: zr8zjtkAXpvZ808pCTUgYbpLZ8o8//r5dshZ0hk5yqQ=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_global_c
+ onfig.png
+SHA-256-Digest: 1oBbZ4sRrPyyZClrnCmMixu6X3knQTIPEPNgADLqJ78=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_global_p
+ refs.png
+SHA-256-Digest: Cll1QBcThXaNo6jyOsZG1jy0efvsyaimFW8fK+3KU1U=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_manual_s
+ hortcut.png
+SHA-256-Digest: Z3a1PC5ypVTWK/bFbWei5aPVbr1CGMzgNkLrV8AfynE=
+
+Name: toc.xml
+SHA-256-Digest: 37LRm3iEXH2PbcNLMFd0RO+UQnWHM/72F7uwcyYoZ5A=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_eventcon
+ fig.png
+SHA-256-Digest: RC0WBfClgvdrrReSxvTNDiioEWox2pYW18Aurol9Df4=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/Installation-and-Set-Up.
+ html
+SHA-256-Digest: Bk7I+T18l+2OsINsEeZoWMLq9cQtYJqSvpQ824qe2fw=
+
+Name: toc-doc.xml
+SHA-256-Digest: vMgilcb/i3vDdV+ndNddAL2YU8iUPrh9z6ePOk5zlJQ=
+
+Name: doc/notices.html
+SHA-256-Digest: at9PtgtJIuEsmGT6HoXxBZwn+OlhlzntSc7Ujfijh50=
+
+Name: META-INF/maven/org.eclipse.linuxtools.oprofile/org.eclipse.linux
+ tools.oprofile.doc/pom.xml
+SHA-256-Digest: H5lw5ZlMkROXxkt0//+Riu9ZL+3D09/Hq2VmrQElMN4=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Remote-oprofile.p
+ ng
+SHA-256-Digest: m57e/HHoY93g5oc3UU0OmCHrbrMOHwvAPNyNMDhf6Hc=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/Launching-A-Profile.html
+SHA-256-Digest: tLS7akupRqkPQZgo1u3kbQY3yMAbjkT0/Ym9iXnencA=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-oprofi
+ le_save_session.png
+SHA-256-Digest: GhvJoxCnA9ewIJkjIYBlK0ewUMwdjmzsrdsOQHNEozs=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/Troubleshooting.html
+SHA-256-Digest: 1eINHQUf+kLZ2QCO9om3DDBpe7qjbmTNS/1HGo3EChk=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_original
+ _submenu.png
+SHA-256-Digest: VFLr0c1psaW+sHaShQV1Di1i1UDLbALbiQ23MhhepGc=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/OProfile-View.html
+SHA-256-Digest: T2y3LqxEYAOuLXHo6+L6J3SVphknYf4UYUkM4DlA2F8=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-one-cl
+ ick_launch.png
+SHA-256-Digest: KhfngAa8ECMjhewHJDLP0sI1le/nSIjH5RAmkZGsb1U=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_manual_d
+ ialog.png
+SHA-256-Digest: Dux3rmyXHvCFjVlgc3UjvHI8XjRc77ZuzOsL/HoiAuU=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-oprofi
+ le_view_full.png
+SHA-256-Digest: 87pgm+WUk+Wl665BXQ8Sz9LeKn2iUlyd8S5RctjqIyI=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Callgraph_timing_
+ submenu.png
+SHA-256-Digest: xecMzjmZfRwU6pfXrrUKa84GFpbRPUchQG8JBCD5pms=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-remote
+ -oprofile.png
+SHA-256-Digest: QMMPy8oKLw7rHnV8hYjB2jGO5IlFiRP7naWL7fIfURw=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-oprofi
+ le_global_differences.png
+SHA-256-Digest: FbzMSRS8rwLwlodExuWwuyqrstitCqM/QJxxLC4XA1I=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-oprofi
+ le_eventconfig.png
+SHA-256-Digest: X5iCcfMMZC7AL04NivNA9Q8qq4HzK1uaFXcHD5bSKJE=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_proj_pre
+ fs.png
+SHA-256-Digest: xWN9sAZwDhKFfpB8h5a6OPK7wRe8/VPshuOF2fSBblI=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Oprofile_tab.png
+SHA-256-Digest: bC+aQJD0nKB5fGKG+wOWx/yAEcHydOFyU5ZHbHlMiWQ=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Icon-oprofile_eve
+ nt.gif
+SHA-256-Digest: gd/jFecEhqHk2drWU5nkOUSMyk8DLFMek1A7CoBzSdw=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Icon-oprofile_dep
+ endent.gif
+SHA-256-Digest: rHAXRfw9faRWkxlG4a2bowbejRP9nNaTmLG1K9qVrUg=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-instal
+ lscript_error_dialog.png
+SHA-256-Digest: CyyukbfsC73KTg2ng4erTELY3Lb4mzLP8ff00yeLKdo=
+
+Name: Linux_Tools_Project/OProfile/User_Guide/images/Screenshot-opcont
+ rol_consolehelper.png
+SHA-256-Digest: BhMPR9/vroN+tWYMVKgiLKslLPsEU9L995jgcwkxTK0=
+

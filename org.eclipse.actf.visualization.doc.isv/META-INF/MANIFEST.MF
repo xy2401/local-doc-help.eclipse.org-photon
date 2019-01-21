@@ -1,0 +1,5556 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Eclipse ACTF Project
+Bundle-Name: ACTF Visualization Developers Guide Plug-in
+Bundle-SymbolicName: org.eclipse.actf.visualization.doc.isv;singleton:
+ =true
+Bundle-Version: 1.5.1.R201709131236
+Bundle-ManifestVersion: 2
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterBase.DescriptionComparator.html
+SHA1-Digest: +KIAS9Oa/1JLB90omwNABPa8ZBE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/package-summ
+ ary.html
+SHA1-Digest: wrNLh57MvbApR9A2Ium//QIPzM0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/TableProperti
+ esElement.html
+SHA1-Digest: UGXccWFQ679WcXC6HQWaYBqlxKw=
+
+Name: reference/api/org/eclipse/actf/ui/util/HighlightStringListener.h
+ tml
+SHA1-Digest: 969tGtud9aWr63llXZINmnw/M5s=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/TableCellProp
+ ertiesElement.html
+SHA1-Digest: Z54VEp75iCR9GXBOR+KmXZN0ktE=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/TextSizeA
+ ction.html
+SHA1-Digest: qHvfFIZUFnT1CD+wp4BjA5EeGGc=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/IU
+ nknown.html
+SHA1-Digest: cYtDOHJWpPVqjHcP8SnarIlB4bc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableElement.
+ html
+SHA1-Digest: DJg5gT74ygK9+25rSMkFd1Yn8Y8=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/ui/ac
+ tions/BlindSettingAction.html
+SHA1-Digest: 9VVBS/ABci/GBh4kveQDQCi5MKY=
+
+Name: reference/api/org/eclipse/actf/util/win32/msaa/class-use/IAccess
+ ible.html
+SHA1-Digest: AFBFmWwFOwdGQFe4AW7etZyx8/A=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/PageThumbnailE
+ lement.html
+SHA1-Digest: 4884cws6P/oEZzahsoIVx/kfP3I=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Bo
+ dyElement.html
+SHA1-Digest: glP3PbM1V7yjTeIOSvPR5Mvq3bw=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/IEvaluationRes
+ ult.html
+SHA1-Digest: E5HL80eY6hErKwFeJoacrEBV5jw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/ChartProperti
+ esElement.html
+SHA1-Digest: CWoDF5zebzABJD4upF/Wu+QwaOc=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/package-tree.html
+SHA1-Digest: efaBBot0WAKoYGToL87xDchu6Ng=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Text
+ Element.html
+SHA1-Digest: IrK3bEyrVzipDllKHnHhQVppX5A=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fBoolean.html
+SHA1-Digest: 3fBLBEtIpkXLQGafsUWJYBMlzh0=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/IContext.html
+SHA1-Digest: nZ/w+giMLBxyMWWry1/Ngo6Ikn0=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/package-frame.html
+SHA1-Digest: BRKj3X4HmNoSspTD046xjQN4zio=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/package-summary.h
+ tml
+SHA1-Digest: RiycMksAhoviIzWGxbzRERFZge4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/anim/class-use/Anim
+ Constants.html
+SHA1-Digest: tvKimFbjyjtZkRliQn0u9aoQmnc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/ODFConstants.Conten
+ tType.html
+SHA1-Digest: ILSTj//Ymcaslz+zcf0Oc12HF50=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/AutomaticSty
+ lesElement.html
+SHA1-Digest: 651xSl3tMEZpbdWN7ohgstdpdzk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/package-use.h
+ tml
+SHA1-Digest: QGvmvcC5nP2fSE+3K6LIzInFfr0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/LegendElement
+ .html
+SHA1-Digest: /J8n9ixEP11xWAmI9cH89xmyYrY=
+
+Name: topics_ExtPoint_Reference.xml
+SHA1-Digest: xuQV4Qyr+eCaAxYv4ZXKNE5Nxgg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFN
+ ode.html
+SHA1-Digest: 5JGmd5cHTuDkI1M59+D8R2yUxGw=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/HTMLE
+ rrorHandler.html
+SHA1-Digest: QPtUxAcVUY7yQUdHldzW3EkzbDA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ package-frame.html
+SHA1-Digest: qYfqbwKWSjUVYnPyi41Y4PyWxvU=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/class-use/PageData.html
+SHA1-Digest: 5Sfc/3ze9MYeuaffezvGAumQMPQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Area
+ CircleElement.html
+SHA1-Digest: 1E3NMNf6xpzPXwBqEoZxwgaJ0tA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/package-use.html
+SHA1-Digest: xbSY3RqnRZzM/Z+VSi2j1L0/3GI=
+
+Name: reference/api/org/eclipse/actf/util/vocab/IEvalTarget.html
+SHA1-Digest: QgP8OuTfoVlfky4+pj31w4nlH1w=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/class-use/DummyEd
+ itorInput.html
+SHA1-Digest: iZM4zxz+yoANu0aThCx+SstJOng=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/presentation/class-
+ use/NotesElement.html
+SHA1-Digest: NPN0gDF++dZC+TvXFSVj/tWhyyw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leElement.html
+SHA1-Digest: 8klyIWpnHiY+xysGHPc7eBLmU7E=
+
+Name: reference/api/org/eclipse/actf/model/flash/class-use/IASNode.htm
+ l
+SHA1-Digest: 4N8keg5cZL9JbB2KBFczrZGk1ks=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/package-summar
+ y.html
+SHA1-Digest: R9xgtB6mWQrepkujmNovC3jJElk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Tab
+ StopsElement.html
+SHA1-Digest: MXNAEt8m/oSEMatja5D9mYm0SQc=
+
+Name: schema.css
+SHA1-Digest: +JDNrlm4djGBhkZ6rrJGhGOtQ8o=
+
+Name: reference/api/org/eclipse/actf/ui/util/IDialogConstants.html
+SHA1-Digest: 626034jPVLdHOQ+nhSyVzwg6irg=
+
+Name: reference/api/org/eclipse/actf/ai/tts/class-use/TTSRegistry.html
+SHA1-Digest: lv6mkFCozrCKUu9tlTHfWgGXK4s=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/IParserE
+ rror.html
+SHA1-Digest: 6vWfth6w/AziVoDmoyMtBY5T4v8=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/class
+ -use/FramesetErrorHandler.html
+SHA1-Digest: 74X/F4K1XrD3q8NGDiDe0Dw7hDk=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/c
+ lass-use/LowVisionException.html
+SHA1-Digest: ClsWzStRKVOZR69eNsD05FkXe90=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/class-use/SwfInf
+ o.html
+SHA1-Digest: j6TlLkqs9BKmnp9hEZqM4RmxkNU=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/L
+ owVisionIOException.html
+SHA1-Digest: ThI5lnuJTFq9q8FwzWZCZ9W09Ng=
+
+Name: reference/api/org/eclipse/actf/util/win32/package-tree.html
+SHA1-Digest: gcKD5RUdH5Hyi+HQeKRXqnuPTNY=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/TimeoutExcept
+ ion.html
+SHA1-Digest: nlaAPVJNfoJ34Tc9R3gsqBoTbGA=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/SwfInfo.html
+SHA1-Digest: +cx+hCuEOakYgOgZSOH8Y8LtkC4=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/ICurrentS
+ tyles.html
+SHA1-Digest: winnuexauB4xNrnb5CUtgakphno=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/HtmlEvalU
+ til.html
+SHA1-Digest: L+VXp2JU+pazSnVouDVIsBOIRlc=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/class-use/GroupFie
+ ldEditorPreferencePage.html
+SHA1-Digest: 6PC37yWTcLSzOLO4og3SW0WDxAI=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/package-use.
+ html
+SHA1-Digest: /v0EN8UUT8+MOleENMHM0t+9Trs=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/HighlightTargetNodeInfo.html
+SHA1-Digest: PshWTFm41Gbt7NdztX5Lz+3n2LE=
+
+Name: reference/api/org/eclipse/actf/mediator/IACTFReportGenerator.htm
+ l
+SHA1-Digest: g3bpSiU/sN10BWyW14MFD7Tgz5g=
+
+Name: reference/api/org/eclipse/actf/visualization/util/package-use.ht
+ ml
+SHA1-Digest: g9blzhWYbCHNgi2jYoEUQaSxeLU=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/package-summ
+ ary.html
+SHA1-Digest: SyMII6rNsiLV50bGCPzWa7mIJZE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Cha
+ rtElement.html
+SHA1-Digest: yZ9iQR4/F4azKfx3+x1DJRs5TMs=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/IErrorHa
+ ndler.html
+SHA1-Digest: j3vCnnWaldzm2ytQc/FEQm5KiSg=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/ui/ac
+ tions/package-frame.html
+SHA1-Digest: m7du+20PyJWpK7frHshcWNOPpsk=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/package-frame.html
+SHA1-Digest: VXO3aF4mG6luWfrjNh+EJ5P5/RA=
+
+Name: reference/api/org/eclipse/actf/util/win32/msaa/package-summary.h
+ tml
+SHA1-Digest: gGYBNcoawrOSRxFVHFm9oSMN2H8=
+
+Name: reference/api/org/eclipse/actf/util/JapaneseEncodingDetector.htm
+ l
+SHA1-Digest: QgvoBzJKq4LaYlPVT2BKPKlM6x0=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/package-use.html
+SHA1-Digest: CwsXGv9iT4PcqVw26oF727TAE+Y=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/package-use.html
+SHA1-Digest: SxbqjcA+DhbKklXZorBc3/jMpW0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Leg
+ endElement.html
+SHA1-Digest: b9oBc8YGF2XfISeNVmjSWvvxA8E=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ util/class-use/OOoEditorInitUtil.html
+SHA1-Digest: 8S6NlDr/SsnkR4g4sFGRB+y2cVw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Plo
+ tAreaElement.html
+SHA1-Digest: wLAbmk5P7RyaDdwCw5w8rqZsma8=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fLong.html
+SHA1-Digest: u9WA2ms4DrYq8Ea337QM5ynxqW8=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/package-u
+ se.html
+SHA1-Digest: sSxgUgfRFLjJMoyw2prMrtOuW54=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/IHT
+ TPResponseMessage.html
+SHA1-Digest: 94EiBJwwgFZwEUk5CtL1V+luUWc=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ie/package-summa
+ ry.html
+SHA1-Digest: eXlKF7jrWEMAvCBmKp8o6uJ9OYE=
+
+Name: reference/api/org/eclipse/actf/ai/voice/package-tree.html
+SHA1-Digest: WhCZjvsT8eR0DKjvH752BHrAGqU=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/FlashData.html
+SHA1-Digest: CKrbnQ0TN1ZCzPcgeON4szP8aqU=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Di
+ spatchNoNameException.html
+SHA1-Digest: VG6j4LetnnK0XAZP57VLHhjZaAE=
+
+Name: reference/api/org/eclipse/actf/util/FileUtils.html
+SHA1-Digest: siGe5JiIThZNxfhLHWqUnKqSQIU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/CustomShapeEle
+ ment.html
+SHA1-Digest: Oz41cQ+B4HTdZuCBWCHRFYxrH98=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Comb
+ oboxElement.html
+SHA1-Digest: c2tVWUbXLiyhblICeIV1I39IFLc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ AccessibilityFixEngine.html
+SHA1-Digest: aIHf7ufL3U94SBt4XJ/O1d11KK4=
+
+Name: reference/api/org/eclipse/actf/util/win32/VariantUtil.html
+SHA1-Digest: YddHPlIXLERM3nU2YOL2Th4cqKI=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/GroupFieldEditorPr
+ eferencePage.html
+SHA1-Digest: PFFNNj2vTkoh0WZIjj9qf7hANl8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/class-use/ODFParser
+ .html
+SHA1-Digest: 72tAuw6f6EKsU0jB0/djJnxE3W0=
+
+Name: reference/api/org/eclipse/actf/ai/voice/class-use/IVoiceEventLis
+ tener.html
+SHA1-Digest: 3SWEgYUw/XiTKpPWlSKZNs4AKq8=
+
+Name: reference/api/org/eclipse/actf/model/ui/IModelServiceScrollManag
+ er.html
+SHA1-Digest: jK+tsn6eTO4qQRDpzAlKCXDt9L8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/ODFParser.html
+SHA1-Digest: BDQmFdOZ7LPA33WlmH4U1H6YJfw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFDocument.ht
+ ml
+SHA1-Digest: MyD0FqRMLzZaXC0pPPAX3qrgGYk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFComment.htm
+ l
+SHA1-Digest: t1YgGng9RkIDy4IoWN7tQEI6LpU=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ie/package-tree.
+ html
+SHA1-Digest: sgcD+O9tWQGZ2nxTM3J8vZIUmTE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ListItemElemen
+ t.html
+SHA1-Digest: YpAP059UXAFVZoujGfoA7PNxq9s=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/package-use.html
+SHA1-Digest: gH8WUxq5B5dRxVxqbPqUIivYzks=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Text
+ BoxElement.html
+SHA1-Digest: NdAc1o4AVOO5pFLcH3UzMz6CZUE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Meas
+ ureElement.html
+SHA1-Digest: is+FsJHzss2Jgs8PXkmfQ5/sC8o=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/eval/
+ package-frame.html
+SHA1-Digest: 0QIn94Jyn0kgAakXyWofeKGuLMM=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorter.html
+SHA1-Digest: NfuK8NefK7MiR8O+3Cj/x+vtG5M=
+
+Name: reference/api/org/eclipse/actf/util/win32/WindowUtil.html
+SHA1-Digest: Ww+D0cK9xmgXc09xY36apImxhHk=
+
+Name: reference/api/org/eclipse/actf/util/dom/EmptyNodeListImpl.html
+SHA1-Digest: yrUvOv+5pzkfM9+d5dvyeM3T0nQ=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterBase.ScoreCompator.html
+SHA1-Digest: QwwTI07lzSzzzEejv5EC8/ga/8M=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/class-use/Visual
+ izationCanvas.html
+SHA1-Digest: DYo7l7Jfg5uo/PnBZSi2J5eSTX8=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/ExternalProxyConfi
+ g.html
+SHA1-Digest: Gimeyx/yJYX+02znRiS3OXiKNHk=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/class-use/IPageStatisticsTag.html
+SHA1-Digest: 3RfF3daNbPSONO16ronpZMeFHCU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/class-use/Scen
+ eElement.html
+SHA1-Digest: 7yfj0SwTSP7q0V5GmrJC2dMNHV8=
+
+Name: reference/api/org/eclipse/actf/model/flash/FlashPlayer.html
+SHA1-Digest: q2IlJLbeFS/0PbPe7JPtQ4H6t8A=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterBase.ScoreCompator.html
+SHA1-Digest: 5gG/jQqv1pEkK3XSyWdoWl7iI8g=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/package-frame.
+ html
+SHA1-Digest: 64dG59SiDM5eMvyjuu/hy97D3vc=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/Guid
+ elineSelectionChangedEvent.html
+SHA1-Digest: WXTAnyMd0R8Mh5gI2DTZKj5oPlE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableHeaderCo
+ lumnsElement.html
+SHA1-Digest: PI4V4qHW3y35xBvMQt+Kg4Bkk24=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/package-frame.
+ html
+SHA1-Digest: 9Fd3+HE6DBtqFQj7+3hdhLYB1hI=
+
+Name: reference/extension-points/common/org_eclipse_actf_visualization
+ _gui_targetWindowData.html
+SHA1-Digest: pH3L381z0qkEtP9tJz6HIyGY+Qg=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IDocumentEx.ht
+ ml
+SHA1-Digest: WSSLOQAdQcHJttJzzAhEPHpZvEs=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/Html
+ 2ViewMapData.html
+SHA1-Digest: hMPMt43p0gcdkZHe6zJ/plrtZWI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/FillImageEleme
+ nt.html
+SHA1-Digest: Uf//eFbtv2WyCrbqbLt0m4Wc9A0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/PElement.html
+SHA1-Digest: +/Ejwdv+kasSDSDxCj90c4zJpiQ=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/ICl
+ ientConnection.html
+SHA1-Digest: K2NdDXtqKBbxqIdS7T4yjiKOZjs=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/package-tree.html
+SHA1-Digest: xreNZ1ynLM4e1lVRW/K7EjJaYnU=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/CursorListener.html
+SHA1-Digest: JBS7Zemk0d1hY1M1dwMEBFg5cmo=
+
+Name: reference/api/index-files/index-26.html
+SHA1-Digest: LjAm1wh7mMEbNlxoTDnbEY7uSXw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/TextBoxElement
+ .html
+SHA1-Digest: Dfa575hv4aEfqoO/YWhewf9eJwc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/MeasureElement
+ .html
+SHA1-Digest: GLPwheuFusz39xBkXUFdIlielro=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/class-use/HTTPProx
+ yFactory.html
+SHA1-Digest: q6hqvlTpCbLZL9BC7D9ONQsQ/V4=
+
+Name: reference/api/org/eclipse/actf/visualization/gui/class-use/Targe
+ tWindowDataProvider.html
+SHA1-Digest: cAwMEv22mkhx7aQfheMV3wjsawg=
+
+Name: reference/api/org/eclipse/actf/ai/tts/class-use/AbstractUIPlugin
+ ForTTS.html
+SHA1-Digest: 4RM6cq/PN+f6r0LmJ7fyEIM6+Mg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Butt
+ onElement.html
+SHA1-Digest: OEj2Iy7qZMJdQA+UNhk46IB1BUI=
+
+Name: reference/api/org/eclipse/actf/util/comparator/package-tree.html
+SHA1-Digest: DJM8dSlgBIGFuBufwGFk4YzTr/s=
+
+Name: reference/api/org/eclipse/actf/model/ui/package-frame.html
+SHA1-Digest: O2bEpW21qgtGUcPEwvkAXsRdxjA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/pack
+ age-tree.html
+SHA1-Digest: duIll1ayTpeMSzOAjNstmC9Fn2A=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/class-use/ImageStatData.html
+SHA1-Digest: hdVwdhpQJZhCmXlw9ZWXLsA+2XI=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/package-f
+ rame.html
+SHA1-Digest: 4WrsGZGosd5KQ0KRe3to5p5SpK0=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/class-use/PageImageFactory.html
+SHA1-Digest: gr/xHLqQ5LogsbosAFlqkPHf5mQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/NumberStyleE
+ lement.html
+SHA1-Digest: I++iqbz5Tp0UOLjg/STnylkFi70=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterBase.LinesComparator.html
+SHA1-Digest: C/GTgtaw8607jsYoLTSJWbd8HqA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/packag
+ e-summary.html
+SHA1-Digest: QfBQQIelm2GFR2xwW91FfSnlRDk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Tab
+ lePropertiesElement.html
+SHA1-Digest: I+tv/ANqc3t7mbF1qbUG5m3qKzY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/package-use.ht
+ ml
+SHA1-Digest: TGKVUWG3W4/nU97F2LlM+8zPPIc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Obje
+ ctElement.html
+SHA1-Digest: g3JPuGx8fzf7lzAE+929AtW8EoM=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fString.html
+SHA1-Digest: OofuWNX1mFfy5eN3s54qW8yxqko=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leRowsElement.html
+SHA1-Digest: /3iSelk9gQ6jsTD+cFmlbyFvdAM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ChangeEndEleme
+ nt.html
+SHA1-Digest: GrrzwtxcV8JKKeBAydIEnRcD3CQ=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/MemoryUtil.h
+ tml
+SHA1-Digest: HuCbTrMOd9jwQMAlHsULas4qyNA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/FontFaceEleme
+ nt.html
+SHA1-Digest: 3j55LL72QJO8M51JZlQUfVmJLCw=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefDouble.ht
+ ml
+SHA1-Digest: g3FSauDymNd133s5GBtDM/U0Ddc=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/package-t
+ ree.html
+SHA1-Digest: iDEbMZzdim8UQgG6y1vHrE5bB/c=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/TitleElement.ht
+ ml
+SHA1-Digest: mB93r24C7ooqJRoKXylqfU9/L+s=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/RegistryUtil
+ .html
+SHA1-Digest: i9TUmKuL67LtiJ3eurc+OCiPT9s=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/class-use
+ /FavoritesMenu.html
+SHA1-Digest: K03Ebh2tgjeMzrjcF7YwVb8GrK0=
+
+Name: reference/api/org/eclipse/actf/visualization/gui/TargetWindowDat
+ aProvider.html
+SHA1-Digest: awThWsHZN0e1DWE+Lm9pfMfkLCo=
+
+Name: reference/api/index-files/index-1.html
+SHA1-Digest: pBQk0LYogkdDtxhVfeg4SxNZ4J4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/TabElement.htm
+ l
+SHA1-Digest: ELx8xsg65tcqTN0N/o3pG/Sge0w=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/Favorites
+ Menu.html
+SHA1-Digest: A8Oq662/NJDEbA/Xvz6nc2iRAcQ=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/pack
+ age-summary.html
+SHA1-Digest: unBScdp1CAA159oL9vxY4sNg3FE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Cha
+ rtPropertiesElement.html
+SHA1-Digest: ka+Zu5HKIPfgG8mICQuo0RDJ0II=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Circ
+ leElement.html
+SHA1-Digest: ZKkgjDxiHrI/PbVBZ2cElhQ+0/o=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Of
+ ficeConstants.html
+SHA1-Digest: wLeHn9T0R3w9epe+gLK4dSiUScU=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/clas
+ s-use/Html2ViewMapMaker.html
+SHA1-Digest: ZYYwXPHHIYIt4H/ut/+tT2RtYYM=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/ImageUtil.html
+SHA1-Digest: 0JGUWzLnpsjsPk7blqRhVwKO5oA=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ kicker/package-summary.html
+SHA1-Digest: fHBtk6uPeHpTHeqJsfnl/B3h0C4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Prop
+ ertyElement.html
+SHA1-Digest: yWhX35xWTJlwtk0/Xfr8tpGqff0=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/package-tree.h
+ tml
+SHA1-Digest: Bkdd0BxEueMOAC9x0CCuPjwdKn0=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/INod
+ eEx.html
+SHA1-Digest: yeh05FylmwERktnRwycCkLCZ1cI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Sto
+ ckGainMarkerElement.html
+SHA1-Digest: N2qge4YCkmhXvtHtrxrhCfYXvEc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableColumnEl
+ ement.html
+SHA1-Digest: fn4n8ZatgXjTaIBGXTLbewpNhTI=
+
+Name: reference/extension-points/common/org_eclipse_actf_visualization
+ _eval_checkers.html
+SHA1-Digest: RrJxetHrC8GvpF6Xj6Z2SPfSLuY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/package-tree
+ .html
+SHA1-Digest: d8lCD2h89q876h/9EiQ0WDos5fo=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/IErrorLogListener.
+ html
+SHA1-Digest: lM/ylvOK+BnXsTFO3OybrnE9bzQ=
+
+Name: reference/api/org/eclipse/actf/mediator/package-tree.html
+SHA1-Digest: Sq+niYPPusmlY5edX80HSuCAneE=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/class-use/ScaleFie
+ ldEditorWithValue.html
+SHA1-Digest: 5Bz7PVDAS9M5UEKOQbuFMt/Mslw=
+
+Name: reference/api/org/eclipse/actf/model/flash/bridge/package-use.ht
+ ml
+SHA1-Digest: kAtQ/IRMsdhXyzihx/WfNGc5SRs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/presentation/packag
+ e-summary.html
+SHA1-Digest: qWaodtCh+cFVu0o1nakRGOGm7xE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/DataPointElem
+ ent.html
+SHA1-Digest: FXO0DWqYgMMTdxczLv3r7GXVH1k=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ class-use/IBlindProblem.html
+SHA1-Digest: wNDjgZJDTWmeU3k3rf6x0Uw0sBI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/anim/package-tree.h
+ tml
+SHA1-Digest: IdxC16zhSN3xVr/kS3Ox5yRd4bo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/SpreadSheetE
+ lement.html
+SHA1-Digest: 6DAxtJ9m4qGDkCxcBxRfW7sUXuU=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/ComPlugin.ht
+ ml
+SHA1-Digest: 7PxOGX9U82ZruIudVojVv+qA7e0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/ButtonElement.
+ html
+SHA1-Digest: E9ebQXAnDpVyMvm1+qBKJlxUeOY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/manifest/package-su
+ mmary.html
+SHA1-Digest: m9FNuCK3C4/12mKiZOu9BjF66kI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/class-use/IHighlightElementListener.html
+SHA1-Digest: /RFiCzpxcaIAtMvCfhILvYHX9GQ=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefShort.htm
+ l
+SHA1-Digest: fE9j9/B4/waLRFbfxBTqyA54WKU=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefLong.html
+SHA1-Digest: 8MYrNmcW9bEVAOh9+j500CXGWJw=
+
+Name: reference/api/org/eclipse/actf/mediator/class-use/IMediatorEvent
+ Listener.html
+SHA1-Digest: zqzHBD8T+MXEKJcOhXOCHB37qO4=
+
+Name: reference/api/org/eclipse/actf/ai/voice/class-use/IVoice.html
+SHA1-Digest: Fng+whVlqk8r1c12xvkPDq7ihtI=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/IBu
+ fferRange.html
+SHA1-Digest: 2Wk4E4IrNYiFlxxeTbU7YcN2ztw=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/Highli
+ ghtTargetId.html
+SHA1-Digest: bGavbZ3vzSJVBNA6IpHT+mO7634=
+
+Name: html/checker/description.properties
+SHA1-Digest: ov7ChXhWY2fsskskR2FxBUphaz0=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/package-summary.html
+SHA1-Digest: UvEHkgRzYZhLbF9C7rYA0R4woXA=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/Tim
+ eoutException.html
+SHA1-Digest: D3Qp0WxIZB1k63CM1VYcukyfN84=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/package-summar
+ y.html
+SHA1-Digest: RV243rHQh7ZN68PGB6y5eAqBeL8=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IFlashMSAANode
+ .html
+SHA1-Digest: 9ho+v83kJm3ME0ovePHJhOpid0U=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/IPositionSize.ht
+ ml
+SHA1-Digest: lq5BtZSRV4Sk3smD/YvH5RRl3s4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/ObjectElement.
+ html
+SHA1-Digest: vHDsEI7gpSglNmqMRFwtmUJ/Y6Y=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/package-summar
+ y.html
+SHA1-Digest: V0rWE9YQ0u9S8xaqbg8XUa+sDNo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/IEditListen
+ er.html
+SHA1-Digest: ahfjqGTuqbynRW/AgsOd2+14CCs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ListHeaderElem
+ ent.html
+SHA1-Digest: 6tcX8sRed08RLGQ5MvCymL9UvY8=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/IRe
+ sultTableSorter.html
+SHA1-Digest: YZSHpCkkDYZqnwAIGCXQ9lwrF9E=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/class-use/Bli
+ ndVisualizerHolder.html
+SHA1-Digest: /WuUyYpbWf67st7W+dMQxR2BccI=
+
+Name: reference/api/org/eclipse/actf/model/flash/package-summary.html
+SHA1-Digest: BXGmHmfCHJF0oV3wshksf4vsViw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableHeaderRo
+ wsElement.html
+SHA1-Digest: rReFsI3CzUPwFMmoszbD7v2RE7s=
+
+Name: reference/extension-points/common/org_eclipse_actf_visualization
+ _engines_blind_html_elementInfoProvider.html
+SHA1-Digest: 4WHIg5MQAcwVSREtAaMk0xNO7fw=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/package
+ -frame.html
+SHA1-Digest: 1W6uPYtAL8m7BajbTeXuzxWSAbs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/PageLayoutEle
+ ment.html
+SHA1-Digest: DVKcPoRrK03DgpQzaIM76VD1004=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/IHTTPProxyTr
+ anscoder.html
+SHA1-Digest: we8a09mlZDajdENgYU2Au32YWKc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/CircleElement.
+ html
+SHA1-Digest: G2Pa9D4uLr/VhWuYZvPNODbekYk=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/dochandler/class-u
+ se/PREHandler.html
+SHA1-Digest: nT4nBXOHk2Ks3f4KHPSYdAlb6SE=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/Unkno
+ wnElementErrorHandler.html
+SHA1-Digest: /zjW+t+hZEvsvFvD6BIddGwvtws=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Capt
+ ionElement.html
+SHA1-Digest: tqIGrHjh5zQX9wQfZHQI3qwhR+4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/package-tre
+ e.html
+SHA1-Digest: 7lOjn0/YwkeA8IKpNfj3qKjz1mo=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/packa
+ ge-frame.html
+SHA1-Digest: 4lNAQUeLizZP9WDhF8QafI1qJ1k=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fShort.html
+SHA1-Digest: eVhhlS8YoC131FWveLYzbI64jNY=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/package-summa
+ ry.html
+SHA1-Digest: KQ4Z22442Kw0ftWorYyQjQPDqMs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Sty
+ leConstants.html
+SHA1-Digest: JN8Sh8FwNfo761kb5rTv8/yIOlw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/SectionElement
+ .html
+SHA1-Digest: UDSuFSlcQNugIq3jHlx9oiECUlY=
+
+Name: reference/api/org/eclipse/actf/visualization/gui/package-frame.h
+ tml
+SHA1-Digest: Abg7QFXX7PWHuIlmiszpdTPgP1M=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ package-frame.html
+SHA1-Digest: oZ7DxDPzZJ5VjLqOWeR5r7Q3aj0=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/class-use/Visual
+ izationStatusLineContributionItem.html
+SHA1-Digest: QpJydrMwTzrRuW+W9tGqBrz3QsU=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IH
+ TTPSessionOverriderFactory.html
+SHA1-Digest: Uf2RV0/KId3rKoQ6oIdXzycCG1Y=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/package-use.h
+ tml
+SHA1-Digest: nwlUj3p4a4F+FH+D+Ai10gBQIrE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/pack
+ age-frame.html
+SHA1-Digest: sxK6UNlPYPHnvZc2JCQhN3KLjkk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Radi
+ oElement.html
+SHA1-Digest: ka7vaQ4rjVOuS5VoLdl95hVvRNI=
+
+Name: reference/api/org/eclipse/actf/visualization/util/class-use/Imag
+ eOverlayUtil.html
+SHA1-Digest: moMKWV7lVUqXKimTSKexad9XYkQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Book
+ markElement.html
+SHA1-Digest: r5d/F8ielnnGw4BWvxTxNEUMMSg=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ kicker/package-frame.html
+SHA1-Digest: wKiJX6btgfkqpJpG+GmDjdr17Fg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Date
+ Element.html
+SHA1-Digest: UuIuS1DQpTlzo/e4W9nZA6VjRlA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Grad
+ ientElement.html
+SHA1-Digest: RkCI7HskellitjqLwxbiSCACqyw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/AlphabeticalIn
+ dexElement.html
+SHA1-Digest: sP203uCMJ2lB/D1DFkugpeD2HTg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/ImageMapAreaEl
+ ement.html
+SHA1-Digest: vjvEXFbcMtndGFKxyacnbD55W4c=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/ScrollBarSizeUtil.h
+ tml
+SHA1-Digest: iWJ1mGbTcmz5mjPSRT1lXuIs4gI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/CaptionElement
+ .html
+SHA1-Digest: 9JIINfl78HzedaLiEzLNezBiw34=
+
+Name: reference/api/org/eclipse/actf/util/win32/WMCMonitor.html
+SHA1-Digest: dqy0ZrGEJDsaG9gNrrutxI5i8dE=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/IGui
+ delineSlectionChangedListener.html
+SHA1-Digest: eK3bELbrkgoL8u7gEAYzsNt0TRI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/class-use/IElementViewerAccessKeyInfo.html
+SHA1-Digest: cmgvkCMWnxSkkhWpnPiwnZldRRE=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/package-summary.ht
+ ml
+SHA1-Digest: N36d6+0iv9n1EIIVWD8yialpuhs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/EmbedDrawingOb
+ jectElement.html
+SHA1-Digest: EZIw86815YTS3YxEb1B7TZVjDzk=
+
+Name: reference/extension-points/index.html
+SHA1-Digest: yyzz56GlLnPxs8DqJIEd8CA90+I=
+
+Name: html/model/modelservice.html
+SHA1-Digest: eQFCR94pA2+rcBfgjtiPcRFnXF4=
+
+Name: reference/api/org/eclipse/actf/util/xpath/package-tree.html
+SHA1-Digest: tySykdU9BOnbS9MkXaf2hDEsKfM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/package-use.ht
+ ml
+SHA1-Digest: TI5D6x3+RrKbZhhzHwYvadxhENk=
+
+Name: reference/api/org/eclipse/actf/visualization/gui/IGuiViewIDs.htm
+ l
+SHA1-Digest: pYiRcHBxNpsnVmdRYqPgXzxRVsU=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/OverlayLabel
+ .html
+SHA1-Digest: ttqbnYcEJWaJFlgos2nNL2JRc7E=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/IHTMLParser.html
+SHA1-Digest: MhGeuc0C29na8g0XMMM8P3Q95R0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Fo
+ ntFaceDeclsElement.html
+SHA1-Digest: dXCoKERYjFN1Kzujdalp+os2Y1I=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/packa
+ ge-summary.html
+SHA1-Digest: dxYAMsmTyF1pl2KjJAYRI0/XN4w=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/ASSerializer.html
+SHA1-Digest: COenzEz9wnwi1cgdeaCCeRL0T5E=
+
+Name: reference/api/org/eclipse/actf/ui/util/PlatformUIUtil.html
+SHA1-Digest: ZqFva3b6WOWS/oz1xP5a8akaFsI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/TextElement.
+ html
+SHA1-Digest: laoZ0tJV0ERSLk3pBOxi3A/QDRY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/List
+ StyleElement.html
+SHA1-Digest: yBlPAHmiKQtjd5lcZQKk5mx7FbY=
+
+Name: reference/api/org/eclipse/actf/util/win32/FlashMSAAObjectFactory
+ .html
+SHA1-Digest: cikjpsEKYgg+Ac4AgAvyIa5cIJY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/manifest/package-fr
+ ame.html
+SHA1-Digest: /trfSb6L0tGT3Cv3ExwwWIaLHwc=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/NativeVarian
+ tAccess.html
+SHA1-Digest: PnJly5WJmVSlWqOvNT1B3mD5sto=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/Yield.html
+SHA1-Digest: YkznFebAua5VkqAO8rV/j6a8OYM=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/package-summar
+ y.html
+SHA1-Digest: JX96LnV3xE2hf81JfleSiz6i/mM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Sp
+ readSheetElement.html
+SHA1-Digest: KiEzkYfbabfbixfspJP03Gx+mfw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/package-summary.htm
+ l
+SHA1-Digest: SKFPaYY8CJQ6BvQ1ZEfb7xWSNuU=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/Html
+ 2ViewMapMaker.html
+SHA1-Digest: 7Ya6ivVoEGpia8akhGsBcCNrbY4=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/package-summary.html
+SHA1-Digest: +4/J0re7HwYNtQ+OXj7Mx1D6zrI=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IHTTPResponse
+ Message.html
+SHA1-Digest: nDA9y1qKv24cJuzlqFSWHkweGOU=
+
+Name: reference/api/org/eclipse/actf/ui/util/package-summary.html
+SHA1-Digest: bp94Yb4U/lZcybWC/7FXWb1etL0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/DrawingObjectE
+ lement.html
+SHA1-Digest: 8EmG+kcAAQ3W2w5W8HJJrD9Fvsc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/format/package-tree
+ .html
+SHA1-Digest: 1Db0iCbVJrt35iooSbZ3kNK1Z2Q=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Fo
+ rmsElement.html
+SHA1-Digest: jUosGp6t7zKljK9xpNF5eiOX/uY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leHeaderColumnsElement.html
+SHA1-Digest: kLtVa/1w9vIRypMNu3/coMuMxFs=
+
+Name: reference/api/org/eclipse/actf/util/dom/NodeIteratorImpl.html
+SHA1-Digest: 9B9cLXkfUFYJkg0Ny2BGY0ZGheI=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/IErrorLo
+ gListener.html
+SHA1-Digest: c/KrVHjRWgy5FchvDT+3PwsV5iw=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/FlashDetect.html
+SHA1-Digest: zAGv8wkNhPKy3+wp3JWG5Xsqxy0=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/Html
+ Line2Id.html
+SHA1-Digest: +ymWV75EXbU2+z/jXikcO2kJOjE=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/class-u
+ se/ComboFieldEditor.html
+SHA1-Digest: 6gTlf99HYJ/wr91tt4OOEir+mog=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/package-u
+ se.html
+SHA1-Digest: iGpmRtg7tF6MRbiR5ntdsGs8MIg=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IFla
+ shMSAANode.html
+SHA1-Digest: NdCIpOvwZAImhulBWo34EzQw9VA=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ util/package-use.html
+SHA1-Digest: ItH6a9N7/yqilqXxe5TdF+tLJDM=
+
+Name: reference/api/org/eclipse/actf/util/win32/OverlayWindow.html
+SHA1-Digest: /1Y+M4YQ029AWlo8tassPqL3PYo=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IC
+ lientStateManager.html
+SHA1-Digest: TSm9oH0vhWy/RAezvn4kSna+KfI=
+
+Name: reference/api/index-files/index-2.html
+SHA1-Digest: gGYCvip09HXJomlOBDWLWKvnhmU=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/IErrorHandler.html
+SHA1-Digest: ekDKJtjkWqA2XhLzeu3GDpLFtD0=
+
+Name: reference/api/org/eclipse/actf/visualization/util/class-use/Rada
+ rChart.html
+SHA1-Digest: +U4Z2P7HUeq49fpswZFWPKZ60Vs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/package-frame.
+ html
+SHA1-Digest: tXcpqXZqD58/6P45bEvxRv5c/3A=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Ma
+ sterStylesElement.html
+SHA1-Digest: DaZA+0vTZpXAZI4ERHUFNdt6UKI=
+
+Name: reference/api/org/eclipse/actf/util/vocab/IOperator1.html
+SHA1-Digest: qCOnY47tRQptLNVFjn03yP5P2fc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leHeaderRowsElement.html
+SHA1-Digest: 7grI5Ho35TcMyd76uJ6T4r8PDJA=
+
+Name: reference/api/org/eclipse/actf/util/xpath/class-use/XPathService
+ Factory.html
+SHA1-Digest: a6KnHaIbNDAdkQrfAqNBnr1NsVw=
+
+Name: reference/api/org/eclipse/actf/util/xpath/class-use/XPathService
+ .html
+SHA1-Digest: 0AxYJbuD1PiYukUE8shgrTIbna8=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/ComException
+ .html
+SHA1-Digest: nji2OFRZYzJmyinQbjexE9TvV2k=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Tab
+ leColumnPropertiesElement.html
+SHA1-Digest: FUp6egltTQnMe7Qm7rC7K3zaANI=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/IBlindVisuali
+ zer.html
+SHA1-Digest: Hn3+7KoNOmBAOg/59dv3kUDrzhI=
+
+Name: reference/api/org/eclipse/actf/util/vocab/package-use.html
+SHA1-Digest: FaAeckskqLoV6eoUXdOhO+KLAL4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Map
+ Element.html
+SHA1-Digest: u70rU7V6NX8u0282sy04EUpqHiY=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ util/package-tree.html
+SHA1-Digest: KKh0Se2dqF88MGcUMx3QwZtIDEY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Fon
+ tFaceElement.html
+SHA1-Digest: FE1W6F4Ub4mHys7naOthQ5UtGcw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/package-summar
+ y.html
+SHA1-Digest: +4K7Z5NvbtBD6LNc7MhrSajZshY=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/package-fram
+ e.html
+SHA1-Digest: W/rKIRsifdPQr9bLg/F8nJJPAPQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/List
+ HeaderElement.html
+SHA1-Digest: vVJu2FqUlJQDCo6jhqAqdYWr3pg=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableLabelProvider.html
+SHA1-Digest: cxTmDgs12z+PH6yUdRYe0BnHSYI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Do
+ cumentContentElement.html
+SHA1-Digest: DzM22ypuPmQu5NYle6C0YfL5QHc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Axi
+ sElement.html
+SHA1-Digest: JzMOeah4m9xl/AFewZYBSL7nJCw=
+
+Name: reference/api/org/eclipse/actf/util/vocab/IOperator.html
+SHA1-Digest: sg7PgJOUvpJ9VwfSyEOPuBf4Au4=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ IVisualizeMapData.html
+SHA1-Digest: vqZ11PW8c4bLu9qCNW/XieSfn48=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/SyncEventListener.h
+ tml
+SHA1-Digest: tZzrCRSbJ8rJRNMIX15TGeepB4g=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/Chec
+ kTargetFactory.html
+SHA1-Digest: fbgMknvNZI/Btgx3tieGCQwhkS0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/manifest/package-tr
+ ee.html
+SHA1-Digest: 52WJn9bb7wUafSmxXZEigOp5ExE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/package-frame
+ .html
+SHA1-Digest: IpnhUWVl9Mg5ktDxFdvPIzzCiao=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/package-summar
+ y.html
+SHA1-Digest: C/Vxhjk5kTcMKW70lgB5qnW4XE8=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/package-use.html
+SHA1-Digest: 6/osACMwd2hBRn5D1O1MyctyAwU=
+
+Name: reference/api/org/eclipse/actf/mediator/IMediatorEventListener.h
+ tml
+SHA1-Digest: Rt9v0pB8K1a1sY0Rp4halrgcCdg=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/IHtmlCheckTarg
+ et.html
+SHA1-Digest: tpw9j5ubaWhRzk3R5aihOkGljJE=
+
+Name: reference/api/org/eclipse/actf/ai/voice/IVoice.html
+SHA1-Digest: Zzy2maDI7g5bCI+sI/vDpgoW/OI=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IH
+ TTPSessionOverrider.html
+SHA1-Digest: 29yiuRaBHC8eoeYwSaacgyuJ+28=
+
+Name: book.css
+SHA1-Digest: nxfEDHbxPeGDfv9VjTQGkI0Frls=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/Text
+ Extractor.html
+SHA1-Digest: TSqUnGFlDWBaD8KvryCF082wCdA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/IHtmlChecker.h
+ tml
+SHA1-Digest: xVufVI14BwpPR4HOY3zbH5B+CtM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/class
+ -use/TextChecker.html
+SHA1-Digest: EEpA77UvrhJ/1qjC7yUiSgrAjvg=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/package-s
+ ummary.html
+SHA1-Digest: 2Sq6c/AflGKEgAdnAaV4k6NDMPw=
+
+Name: reference/api/org/eclipse/actf/model/flash/class-use/IASBridge.h
+ tml
+SHA1-Digest: aomLSqlex1nDYOuKvwiSnGDE6qI=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IStyleSheet.ht
+ ml
+SHA1-Digest: jY37r4iepW4sJII3QH7HSJ65J6Q=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Pr
+ esentationElement.html
+SHA1-Digest: et1WsaXL1r+ZV5WrsXILS7J4oUM=
+
+Name: reference/api/org/eclipse/actf/model/ui/class-use/IModelServiceS
+ crollManager.html
+SHA1-Digest: n4cg1Ua6KAsnp8v7NDvFizJvyJU=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/pac
+ kage-frame.html
+SHA1-Digest: AcS2CHKpCRF46LsGF8qADDctJss=
+
+Name: reference/api/org/eclipse/actf/visualization/presentation/packag
+ e-frame.html
+SHA1-Digest: pSOntJStNKVuxDtPD4qoV6hY3Jc=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/CheckTargetFac
+ tory.html
+SHA1-Digest: XzV6mhAku3+bWmSwK68AurHm2zY=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/ISty
+ le.html
+SHA1-Digest: EDdWhgy0+E/Q/DN9HCYzX9IAwlI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFA
+ ttr.html
+SHA1-Digest: s3FCJQctm8NYQEH29PSGM7HoApU=
+
+Name: reference/api/index-files/index-10.html
+SHA1-Digest: fbb7RJaBW7+Av12uzOPTZYM+sJk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/package-frame.html
+SHA1-Digest: mrR0k4qIJOm4SpXjohajtnFkK30=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Co
+ mService.html
+SHA1-Digest: yEgT+dZBZLYvDa0efdaQdo1nyTw=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/SelectionObserver.html
+SHA1-Digest: haj+Jy404AOnE0lDE11HMrqrwVU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/SceneElement.h
+ tml
+SHA1-Digest: QwawTjoAAgOcAD2a1hSpewf3+6o=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/ModelServiceUtils.h
+ tml
+SHA1-Digest: 3DNsDj5isrfSF36kcTy9Br2SNgw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/Embe
+ dDrawingObjectElement.html
+SHA1-Digest: OnyPyKuqOPY+ApqiD54MMc1vyW8=
+
+Name: reference/api/org/eclipse/actf/model/flash/IFlashPlayer.html
+SHA1-Digest: ui0Ok9r9pwr4gXMgBwSmquFxaVA=
+
+Name: reference/api/index.html
+SHA1-Digest: EaKZPbAVI4R0k1tu2VhmKPzd2Vk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/IEditable.h
+ tml
+SHA1-Digest: EW+H97OTKA8I9Z/fycwU6oVSJVo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Sect
+ ionElement.html
+SHA1-Digest: QW9jt+gcpdDL3tgRLJQ0rl6Otqs=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/packa
+ ge-use.html
+SHA1-Digest: MeFM0GdIIx8xwdsv+jJSNKhMZlk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Sto
+ ckRangeLineElement.html
+SHA1-Digest: qiOgasr/qrP6WNl61qWI+CFKgWQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/package-use.ht
+ ml
+SHA1-Digest: AlZHinadLkp14R1zynft8276hDY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Chec
+ kboxElement.html
+SHA1-Digest: rDUIYNTg5KqcI5YxdI5zBDthfpc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/IndexBodyEleme
+ nt.html
+SHA1-Digest: jWpKhyvEf3cF+4BhcAtKseiyDzk=
+
+Name: reference/api/resources/titlebar_end.gif
+SHA1-Digest: fU25yFEdgb2gjuEgmgEF/dgcrSA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Page
+ ThumbnailElement.html
+SHA1-Digest: 52ZlNAV01aFiD7QFNMclRD/92tQ=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/package-summary.
+ html
+SHA1-Digest: PHOcMvceT7trvcWhEJhXhPwMzhw=
+
+Name: reference/api/org/eclipse/actf/util/dom/class-use/EmptyNodeListI
+ mpl.html
+SHA1-Digest: 1rw4mkSA2j4QXmpd+ojcj0RxXeA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Cov
+ eredTableCellElement.html
+SHA1-Digest: 4YI61LFw68JDqRX0vB5DRRdYyJs=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/package-f
+ rame.html
+SHA1-Digest: Omnyis0Yf89gfnNv5x4yD77QRU4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/pack
+ age-summary.html
+SHA1-Digest: ELwWAbOmGKpcCGE9CSr77fLnoRA=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ie/package-frame
+ .html
+SHA1-Digest: qJdW5D0BlV9Y8mWjDqozIxbOPm4=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/class-use/FlashM
+ SAAUtil.html
+SHA1-Digest: uUBe2cP0d3CYY9Is9KFfTpi7wbk=
+
+Name: reference/api/org/eclipse/actf/ai/tts/class-use/ISAPIEngine.html
+SHA1-Digest: UOh7cxTrPPq/1+8kBG6cp3KrpTw=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/pac
+ kage-tree.html
+SHA1-Digest: uYJ9QYykJl+qqh2e3iPniuGnDK8=
+
+Name: reference/api/org/eclipse/actf/visualization/presentation/packag
+ e-tree.html
+SHA1-Digest: xX4sbc+VnWqByetyriKYAxjJV5Q=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/p
+ ackage-frame.html
+SHA1-Digest: oeAZWNkI5y37ezWAmfQkauWU8YY=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/IHT
+ TPHeader.html
+SHA1-Digest: CYUlAytTZJblLK5+L5b8jpB/R1c=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/package-f
+ rame.html
+SHA1-Digest: wgc1t+I+8sWkZB8wkniu1StkkhQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/package-frame.
+ html
+SHA1-Digest: 0Blwi+gPXe5fx3VA9x42+rRXPLU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Rect
+ Element.html
+SHA1-Digest: rgKD05R3+ddkVAeTtUMAlmaWvnQ=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/Eval
+ uationResultImpl.html
+SHA1-Digest: RSuegoBmqGZ9HkKZRS9rItNJJtY=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterBase.SeverityComparator.html
+SHA1-Digest: MKNnZeFsqocyVm6jUAO7e2yA2zc=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/ResourceMana
+ ger.html
+SHA1-Digest: OoeRT9qEBZ+1LVaGdMugdytGIkc=
+
+Name: reference/api/org/eclipse/actf/ui/util/AbstractPartListener.html
+SHA1-Digest: j81DGUdAF50OmaNZvHuDpjBD6KI=
+
+Name: reference/api/org/eclipse/actf/util/logging/class-use/DebugPrint
+ Util.html
+SHA1-Digest: g8iXFsZsl2iZM+ympS1WP4eYjp4=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/IChe
+ ckTarget.html
+SHA1-Digest: y60AbDfqREE1IfLDrlFS4n8VMMs=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/IProbl
+ emConst.html
+SHA1-Digest: Yw+CF6+r+R2Z2PRUqX3D4wEtSiU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/manifest/class-use/
+ ManifestConstants.html
+SHA1-Digest: 0rXpeWAbU35mM5xIkVFbaqwo7a4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/GElement.html
+SHA1-Digest: /TgOKmJbBQXVeU9guvvYWxVat/w=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/package-fram
+ e.html
+SHA1-Digest: fHbgeywXPNsbDCrMogcJdi+6SG8=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/L
+ owVisionException.html
+SHA1-Digest: 7SKQun1MNGMDa8ZdJtntEklvGoY=
+
+Name: javadoctoc.xml
+SHA1-Digest: 80/xMRZMXOZ8lx5GLh7D+vpSPuI=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IHTTPResponse
+ PushbackMessage.html
+SHA1-Digest: py75oO/OEb9yruLiaau4OtZNFI0=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/CursorMovedEvent.html
+SHA1-Digest: lebO99nUxQCbP+LLqdhG0IcGuWk=
+
+Name: reference/api/org/eclipse/actf/model/ui/IModelServiceHolder.html
+SHA1-Digest: qWGysuCOkZIrkPI0xwMWdybP6GU=
+
+Name: reference/api/org/eclipse/actf/model/flash/package-tree.html
+SHA1-Digest: b3+YZp4pBCwonDX++T2PqqyK7WU=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/EvaluationUtil
+ .html
+SHA1-Digest: 9q/7oXRXirypdXMJTCeuQyDyW88=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/c
+ lass-use/LowVisionIOException.html
+SHA1-Digest: EUzg881nq2W98f9sNCEMWMEXRMo=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/packa
+ ge-summary.html
+SHA1-Digest: h4tiMz6ed/B+tII8e7RSIWUDf1I=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/IStyleListe
+ ner.html
+SHA1-Digest: /ealwlibgKrHCihHmTbkw/ZerBI=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/IOleContaine
+ r.html
+SHA1-Digest: 84GvHL0j0bGplHLt/5PuRFK5Z9M=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IEle
+ mentEx.Position.html
+SHA1-Digest: jfziUKWP/nqH5IWdXxvGgv6xEA8=
+
+Name: reference/api/index-files/index-3.html
+SHA1-Digest: WSR5buuAX/IMq6lnLnsez2+F4rg=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/class
+ -use/TextCheckResult.html
+SHA1-Digest: 30kZKx0hKEO3Wzp3504uAfek0BU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFElement.htm
+ l
+SHA1-Digest: 00unJwp/Ffu6EKf1eG6f5FO7PtI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Cont
+ rolElement.html
+SHA1-Digest: K3at0LKV1xFvNNKO+JTxit+pVLI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/actions/package-use.html
+SHA1-Digest: /7FMRPyxuFOIMcM3rbFcvIt1VBE=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/class-use/WaitExecS
+ yncEventListener.html
+SHA1-Digest: 9gPhkQv1UbDjffRwyLRKIBwvR1Q=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ kicker/class-use/IOOoEditorInitializerKicker.html
+SHA1-Digest: g+MxIlwn3lzsP+SGplKCzmQ5iZM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Page
+ Element.html
+SHA1-Digest: tT++e5cIlTy8PMsVFjtLViSC96A=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/pack
+ age-use.html
+SHA1-Digest: AHb13E3SUlYM4zVi4oLn/3rXCqA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Alph
+ abeticalIndexElement.html
+SHA1-Digest: bZaxY0W2dnzoMA6M4rsf5C7yAZ0=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/package-use.html
+SHA1-Digest: 1HD4ajo57XSroV6sihCAPwvJV+Q=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/ItemElement.ht
+ ml
+SHA1-Digest: SfaZZshXTYzyRsq13/dfTcdoYTw=
+
+Name: reference/api/org/eclipse/actf/util/dom/class-use/TreeWalkerImpl
+ .html
+SHA1-Digest: 9MfR+E9I5Eho/0qOHNBJHn/jNic=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/IContentRange
+ .html
+SHA1-Digest: g4bLosZwKYUjlN/lKjTXVunBRMU=
+
+Name: reference/api/overview-tree.html
+SHA1-Digest: IZ5vlmMu9ecVVSUxGtU7fZS3KYY=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/package-tree.
+ html
+SHA1-Digest: TdP0ygWmAJhLnePJQh62bzkh3A4=
+
+Name: reference/api/org/eclipse/actf/util/logging/package-frame.html
+SHA1-Digest: e17xdi0gHiKeCWrHbynEGnvUTBk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/ODFWriter.html
+SHA1-Digest: SpnKW2iDdJLGp6CCe+PZRizlPDg=
+
+Name: reference/api/org/eclipse/actf/model/flash/bridge/package-tree.h
+ tml
+SHA1-Digest: BynwUZPx0ZofiTvjAspZejARyAk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableRowsElem
+ ent.html
+SHA1-Digest: T/HrI0oVquW3wsmvvHVJcmnulZ4=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/FormI
+ nserter.html
+SHA1-Digest: auSkVaelh30kL3r81baTRQtJAYE=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/IIntervalExe
+ c.html
+SHA1-Digest: lg1wnGYhz7r+A1fjglRUNEXXUOE=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IRul
+ es.html
+SHA1-Digest: EucGll0o5WuVZs9B9Q66drcqe4Y=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Form
+ ControlElement.html
+SHA1-Digest: hBGGCti00XFEZFPQTFcTScbq/+g=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/ControlElement
+ .html
+SHA1-Digest: QIcaYUt1rdk8USxB2q3bVH89v3g=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/CellRange.htm
+ l
+SHA1-Digest: p19+ZDim1FddinHayuyZMGO0ABI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/GridElement.h
+ tml
+SHA1-Digest: nzWcifOuMis4MqQeuJ+kJYhd2go=
+
+Name: reference/api/org/eclipse/actf/mediator/IACTFReport.html
+SHA1-Digest: gEQWcj5WYjBLVjj9xTnRFMt5Ejw=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/IPageImage.html
+SHA1-Digest: 3rC6ZGRUfvhOg4IdX8R+cmCGars=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/HighlightCom
+ posite.html
+SHA1-Digest: BJmyQECNOz9EuVuE/sub9K3WsfY=
+
+Name: reference/api/org/eclipse/actf/util/dom/TreeWalkerImpl.html
+SHA1-Digest: GZI2SV72dknkAd4/QNP6pjb1AgI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/TableCellRang
+ e.html
+SHA1-Digest: aJ6I+s+MknT9W8J/fWmC+2CJk+k=
+
+Name: reference/api/org/eclipse/actf/model/ui/class-use/IModelServiceH
+ older.html
+SHA1-Digest: GhV9PSG8WIt+cYEhsoQsJGC/ipg=
+
+Name: reference/api/org/eclipse/actf/util/vocab/DelegationTerms.html
+SHA1-Digest: cNTeQ6GQtAU0XlydrOVr9Z917Wo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/TextElement.
+ html
+SHA1-Digest: j87Oqa1Uzn6q9w3F6GXwbDjXox0=
+
+Name: reference/api/org/eclipse/actf/util/win32/msaa/class-use/MSAA.ht
+ ml
+SHA1-Digest: eMqziG50EBCQrYwlpsuZHrIqYnQ=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/ASObject.html
+SHA1-Digest: k8dP++7meFKNqWeuW/44/kcePxE=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/package-tree
+ .html
+SHA1-Digest: rzJYzW8auZwLo/enjzDokixxW/M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/RegularPolygon
+ Element.html
+SHA1-Digest: bPt7mT8fvuc5OcQpWhBdSRnA0QA=
+
+Name: reference/api/overview-frame.html
+SHA1-Digest: +MxEaxa67qfJivSeXY8viAMhRfc=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/package-frame
+ .html
+SHA1-Digest: UGGe9FJhBDcWlCVQL2MJE9TlX8A=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/IHTTPSession
+ OverriderFactory.html
+SHA1-Digest: UhEv0Yqr1/j7YIsGmIFNUbCx5lA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/IHtmlEven
+ tHandlerAttributes.html
+SHA1-Digest: 3PsciRBFAH8j+YuPGJ0upoDiBo4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/FormElement.ht
+ ml
+SHA1-Digest: 9GGoGyiKqVE2vV3/7KnG721PSdg=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fInt.html
+SHA1-Digest: 3DVUWwgkKa//b6U3UkhJp9tJ7IA=
+
+Name: reference/api/org/eclipse/actf/ai/tts/package-use.html
+SHA1-Digest: YFkEy7IRa131iAvlAcrlVQ5tJMU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Numb
+ erElement.html
+SHA1-Digest: WkFWn9yeWR1C+Sa0DnC8VwPXRVo=
+
+Name: reference/api/org/eclipse/actf/util/logging/DebugPrintUtil.html
+SHA1-Digest: cuTQWxIChZdhdZ7pWpsrkcFYYhg=
+
+Name: reference/api/index-files/index-11.html
+SHA1-Digest: UoyRhaUjI7DbyUfa1E6xv2YA8Qk=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/TextC
+ heckResult.html
+SHA1-Digest: LDsaR77CCkMaG+BoJmm4AQ8CDSc=
+
+Name: reference/api/org/eclipse/actf/ui/util/DialogSave.html
+SHA1-Digest: T6RFqp2eeI+2K6yvktIl8563exw=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/actions/package-summary.html
+SHA1-Digest: 1Higw8Il2kQb2VZBMK6Z8FI2jx8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/class-use/I
+ Stylable.html
+SHA1-Digest: SQjhjeiVmJaU/8Ksib5z0DP4rgA=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fObject.html
+SHA1-Digest: kXAPLdKEuJi3oH4FsHAHAyBViWw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Tab
+ StopElement.html
+SHA1-Digest: j6JmOkH6LM7vDiyjKCTl0pNBXsE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/ODFConstants.html
+SHA1-Digest: z13Qb/ct/6lVKPVtpP4h92HbLJM=
+
+Name: reference/api/org/eclipse/actf/util/xpath/class-use/XPathCreator
+ .html
+SHA1-Digest: qB8fAGB3jjhScewLJW+IpSnyxkE=
+
+Name: reference/api/org/eclipse/actf/visualization/presentation/class-
+ use/IPresentationVisualizationModes.html
+SHA1-Digest: tuf2fC0oNPGWjTMclhvCNe28y8Y=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Pag
+ eLayoutPropertiesElement.html
+SHA1-Digest: vFy2BnIfjUDNvrHoIQU7wmAVr3o=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/ImageElement.h
+ tml
+SHA1-Digest: 9W5WFoBMqKBPU3S/R8/nM2c0VuI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/package-use
+ .html
+SHA1-Digest: 4TGXlkWQ/7FCxryNYne+rt+7Zu0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/format/package-use.
+ html
+SHA1-Digest: gx/J5kPK2MmKDSStkHXVHdxo7iQ=
+
+Name: toc_ACTF.xml
+SHA1-Digest: AwVpoANWnkI0VDrNf+UMBK7q9qk=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/GoForward
+ Action.html
+SHA1-Digest: l+m+BuanJeu9i2B4TSTBoVTIiEs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Hatc
+ hElement.html
+SHA1-Digest: Pr0OpH9g1G4KtwG94N8yBql/914=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/COPYDATASTRU
+ CT.html
+SHA1-Digest: vxTGZRGR7fzo5cHi2fL8MHY6KwU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/class-use/Dr3d
+ Constants.html
+SHA1-Digest: 4uB0xluauAyFq7Ge9s7pEibVlbU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableConstant
+ s.html
+SHA1-Digest: 9RcRpwXos9DPLW3qOF1+CqxgpUA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/TrackedChanges
+ Element.html
+SHA1-Digest: hG4DSpgxv7oa4uUvf8FCIQEZCpM=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IHTTPMessage.
+ html
+SHA1-Digest: qXoDabk6kphONzIa7sCtFGiQJqw=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /IWebBrowserNavigationEventListener.html
+SHA1-Digest: 6xzNoQjLgzsmqp0pPhAkQuGNXgE=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/packa
+ ge-tree.html
+SHA1-Digest: WcjJhExpWhZJ87Y+2atrO0wO7SI=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/IEvalTarget.
+ html
+SHA1-Digest: nYBFoF4Bq2HCzoqHSxa3kX/jYBk=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/p
+ ackage-use.html
+SHA1-Digest: EgvFg6SzaWrOs/0Dxe7sbkFeO5s=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFNode.html
+SHA1-Digest: msLH93nMuiGkJoJLIF2PdTr2tdQ=
+
+Name: reference/api/org/eclipse/actf/model/flash/bridge/package-frame.
+ html
+SHA1-Digest: UfvnB9miT0R8R9mO+WIeFoFR0nk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Imag
+ eMapElement.html
+SHA1-Digest: NuuEd6m2Pog05469TP8dz5N8ZBM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/presentation/packag
+ e-frame.html
+SHA1-Digest: 0hc0fa8A1tuSQA13MpAKD/NKM8M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/SpanElement.ht
+ ml
+SHA1-Digest: EgW4WtY8uuVDYTmAmwAwcsFJV2s=
+
+Name: reference/api/org/eclipse/actf/util/win32/msaa/package-frame.htm
+ l
+SHA1-Digest: bex/uWR9MLwjpC/camxQJEJ1eeY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/format/package-fram
+ e.html
+SHA1-Digest: Ee8x1JsKckL5qs3f9hP1W7HSjXc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/MasterPageEle
+ ment.html
+SHA1-Digest: spMRTzom5hkdC95h50JYqvRm5tM=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/Ignor
+ eFont.html
+SHA1-Digest: 68YuLpT1E44MnCNYsTHEWJGU4WY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/package-summ
+ ary.html
+SHA1-Digest: l1sBTTe9SW1SjMK5tJyK3GJV8cM=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/HTTPProxyFactory.h
+ tml
+SHA1-Digest: s0Ag/bI2CGLcAXRRJpWfMaszjcA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/ui/ac
+ tions/class-use/BlindSettingAction.html
+SHA1-Digest: pGGqwZmGUPK5kmY/NMUAvTohmv4=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/dochandler/Default
+ DocumentHandler.html
+SHA1-Digest: a5P953FmZ3o8nIOx1MJHW8C4Qio=
+
+Name: reference/api/org/eclipse/actf/util/xpath/XPathService.html
+SHA1-Digest: hRrBh+B6u0T3UG4JISQjRG5/VpA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/NumberElement.
+ html
+SHA1-Digest: G7cgZrUQwYK2rzb56RccAyCE5Kk=
+
+Name: reference/api/deprecated-list.html
+SHA1-Digest: tIvf27XYYXb6AH9lOUV41L3nN5M=
+
+Name: reference/api/org/eclipse/actf/ui/util/ProgressContribution.html
+SHA1-Digest: /5R9iMSGVyjIDGLSHadElNgt4C0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/FormattedTextE
+ lement.html
+SHA1-Digest: aePKiVwM+yHOND7TvHduES3bfsE=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/package-use.html
+SHA1-Digest: sedVrLVhkOvy9Csrk4m0h/H1Ev4=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/ISty
+ leSheets.html
+SHA1-Digest: wR1gtUomOcTGUAzpc17vql43QKI=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/HTMLParserFactory.
+ html
+SHA1-Digest: gl3cK4/eomVEMgRHi1OJU8LMavU=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/clas
+ s-use/HtmlLine2Id.html
+SHA1-Digest: aEuVhyHbKKsXPkuqqYSXy4SvGHw=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/Document
+ TypeUtil.html
+SHA1-Digest: mxRhjppRjAyfJz9Y6E6jqRESGEc=
+
+Name: reference/api/org/eclipse/actf/model/flash/proxy/class-use/Proxy
+ SettingUtil.html
+SHA1-Digest: n02hrlMxbzobr+LQfXu4XNOQikc=
+
+Name: reference/api/org/eclipse/actf/util/win32/MemoryUtil.html
+SHA1-Digest: A8LeXYDwtw4OwDFsxGfb9bnPknk=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/IGuidelineItem
+ .html
+SHA1-Digest: OqdvhoWgs1pZlcQD7+NgLh/iRxQ=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/ID
+ ispatch.html
+SHA1-Digest: 8dxw1D0whk2A1fRIvoF6o8ZAwGg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/DocumentCont
+ entElement.html
+SHA1-Digest: exvRCMryJEGDypbqUHeLwmwaTo0=
+
+Name: reference/api/org/eclipse/actf/model/flash/IASBridge.html
+SHA1-Digest: ETbpdZxJ6e+WPhMNETjpBGhK46c=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Path
+ Element.html
+SHA1-Digest: yXfEbifxIDhyTgH3Op1v5Z1p1Rs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableRowEleme
+ nt.html
+SHA1-Digest: jGTfWytIvq6byOjZTWNHNDcjx68=
+
+Name: reference/api/org/eclipse/actf/util/win32/package-use.html
+SHA1-Digest: 3vhwgbwMWmRouXuxYmAEft2Bh10=
+
+Name: reference/api/index-files/index-4.html
+SHA1-Digest: XwpGBonz5UY5XsFvd1m2m2PWKFI=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/IProblemItemImage.html
+SHA1-Digest: l7YiUMf79K58OkVmgsIgC0Q6mog=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableColumnsE
+ lement.html
+SHA1-Digest: wrrCRdSZ9XaSiTkaStUtt4bzu48=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/ScaleFieldEditorWi
+ thValue.html
+SHA1-Digest: 08E0tMgEO6NUfX+xPQfE29nEnL0=
+
+Name: reference/api/org/eclipse/actf/mediator/class-use/IACTFReport.ht
+ ml
+SHA1-Digest: HOjiKhnAFgG5ABvp00kp8wYXz20=
+
+Name: reference/api/org/eclipse/actf/model/flash/proxy/class-use/Flash
+ CacheUtil.html
+SHA1-Digest: jrmtXy3olRoj/UXFreIEk+DbwE0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/WallElement.h
+ tml
+SHA1-Digest: Fz7v8V6hj+0/sN0sUrL4iQPQTWw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/FormsElement
+ .html
+SHA1-Digest: dRghAy6YAwPsMUe01dZxo1d0xM8=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fContainer.html
+SHA1-Digest: B0SWUip8zhBI5po8Y7a4LKx2zJU=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/ComboFi
+ eldEditor.html
+SHA1-Digest: XHFaw556/iMc9eMcyVoZt2aLFSI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Text
+ areaElement.html
+SHA1-Digest: BQ72YYrF+9MWrbhf3uBl8xLDWL0=
+
+Name: reference/api/org/eclipse/actf/visualization/util/package-tree.h
+ tml
+SHA1-Digest: 1jczAuynZ94DwlTfnPTlpHVnTZg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leColumnElement.html
+SHA1-Digest: Sj/ml/d1tg5ssMBtXvYFM8/nASI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/p
+ ackage-summary.html
+SHA1-Digest: hcRtrrQBsYZV6Svn3kES06QAd2w=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/class
+ -use/BlindVizResourceUtil.html
+SHA1-Digest: Av44JCBKEUNLllUlnpN7To+Oi+4=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/class-use/SyncEvent
+ Listener.html
+SHA1-Digest: 3EtUnQbQ/aItSfyp65lIRxwBamU=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/class-use/ASDeseri
+ alizer.html
+SHA1-Digest: 0HCwhSnoEbzucGg+j9TlHlfkSv8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leCellElement.html
+SHA1-Digest: rCcn0EPPVr7p+Dd1IDxCPkvEmQ8=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/package-frame.html
+SHA1-Digest: wYhTtLLMYvJJm96QRYdWDNP9tm4=
+
+Name: reference/api/help-doc.html
+SHA1-Digest: INwMTZSx4LhTuhtJSn8pWfRRVyM=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/class-use/AsVers
+ ionChecker.html
+SHA1-Digest: /b7VAsxwEaqqTC5Gl8I/moWrMGg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/clas
+ s-use/ODFConverterCreator.html
+SHA1-Digest: Jp13elSgQWYLPU4g5uqf4J3tVno=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IRul
+ e.html
+SHA1-Digest: qxEuIMqUiL4X2/TSuds9s6XmwnE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/package-use.ht
+ ml
+SHA1-Digest: M6RSVnTfMf/KVax5/TqhOws6A3g=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/xlink/package-summa
+ ry.html
+SHA1-Digest: WKVWwHTwQlChUIjShWX2hkuVsM8=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/DombycomPlugin
+ .html
+SHA1-Digest: OPlF2NJBog7C0fQTrAgMx+lVfd0=
+
+Name: reference/extension-points/common/org_eclipse_actf_ai_voice_TTSE
+ ngine.html
+SHA1-Digest: nZWq0cWrv7IyFtLrnGha4x67Sp0=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/class-use/FlashD
+ etect.html
+SHA1-Digest: 4rrb6G4EHN1+YpauzYZzUU3a3Iw=
+
+Name: reference/api/org/eclipse/actf/util/dom/class-use/DomPrintUtil.A
+ ttributeFilter.html
+SHA1-Digest: lD+kKleeyomUKCILg6Ms/3GkUHw=
+
+Name: reference/api/org/eclipse/actf/mediator/MediatorEvent.html
+SHA1-Digest: DIk7kdMAianzQNFS9k3PBQNfGKQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ SimulatorCreator.html
+SHA1-Digest: zBvOutHpDyEuijHPNtqQRv2p93s=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/class-use/IKey
+ Hook.html
+SHA1-Digest: o0HIF/SYNBok6KHZeWk/ox8Llog=
+
+Name: reference/api/resources/background.gif
+SHA1-Digest: GasMDXsNPOCyk0UziKX6+BCdopc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/package-summa
+ ry.html
+SHA1-Digest: s12e48IIgVpWoo6ahHTI6Ij1DIU=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterBase.GuidelineComparator.html
+SHA1-Digest: X8zU3FpA7ZlqZoFiQAu55Q6F1c0=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/package-frame.
+ html
+SHA1-Digest: D0/3lQcNYDtFYG9Rwsklkpi4OHE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/package-summa
+ ry.html
+SHA1-Digest: h7UIhpiam32GjTS35ZCu1vNc1tk=
+
+Name: reference/api/org/eclipse/actf/ai/voice/package-use.html
+SHA1-Digest: m8RgljN7OYewgqAlv8Hzt0VFGkg=
+
+Name: reference/api/org/eclipse/actf/model/flash/class-use/FlashPlayer
+ Factory.html
+SHA1-Digest: x0OeZXx9spk0a1POY+BUR+GWxkU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/AlphabeticalIn
+ dexSourceElement.html
+SHA1-Digest: NMgJ6tGgqsyG5gJdBwm5nDI+35U=
+
+Name: reference/api/index-files/index-12.html
+SHA1-Digest: bPoAg+V4Uj6NyuCKYZv2RlVrxV4=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/ITechniquesIte
+ m.html
+SHA1-Digest: 7u2JIaQSwTFkBusq9CgMuwX5srw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/TabE
+ lement.html
+SHA1-Digest: wyzy5trPKEX9Y++4Z8noXiOj0ko=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/FlashMSAAObj
+ ectFactory.html
+SHA1-Digest: BAyUev/DynnUYeY8j6nA1GPje+g=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/IParserError.html
+SHA1-Digest: Hjy95NN8VcUlKdXK+wMPZ+SZSfA=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefIUnknown.
+ html
+SHA1-Digest: lAUR2cwIrUbE7P/NHJd0fDo+6cw=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/package-frame
+ .html
+SHA1-Digest: 7uM5BHYEeeZnRXvdteBeO01uLBY=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IH
+ TTPProxyTranscoder.html
+SHA1-Digest: /9cD0/o6bENyBxvuSpCwwGOIQCk=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/PerspectiveListener
+ ForBrowserLaunch.html
+SHA1-Digest: bX0BaijgY5By1s8GvjKzIH6NxDM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/IElementViewerAccessKeyInfo.html
+SHA1-Digest: mlfpJ1zEynBk4AVri1YCWxTSirA=
+
+Name: reference/api/org/eclipse/actf/util/class-use/FileUtils.html
+SHA1-Digest: bpRHTerky37CcR67A/WX8P3+RIA=
+
+Name: reference/api/org/eclipse/actf/model/flash/proxy/ProxySettingUti
+ l.html
+SHA1-Digest: eqzdriv5+h0JQ+4lEGlGnKNOerk=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/IElementViewerIdInfo.html
+SHA1-Digest: oqxDaNZLzzKsiAcOw1WJNOtYO/o=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Conn
+ ectorElement.html
+SHA1-Digest: WBxoIqX/bU5Auq89Yc0uk7DnZCY=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/DispatchNoNa
+ meException.html
+SHA1-Digest: 6ZOvm5KWdWxZjykidFkQ8Y/lmNM=
+
+Name: reference/api/org/eclipse/actf/util/ApplicationArgumentUtil.html
+SHA1-Digest: xcy6yKIcbuoCYYiDJpkHxMtQttk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/package-fra
+ me.html
+SHA1-Digest: a0bgpuvAmVtS/ANbP4JexFBUKRE=
+
+Name: reference/api/org/eclipse/actf/model/flash/proxy/package-summary
+ .html
+SHA1-Digest: O6srOjYiJJpppp8Idd8iKrU2G/M=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/eval/
+ class-use/PageEvaluation.html
+SHA1-Digest: +EihCRR0u3QYf/QYiOJ1Z1l/1y4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/SEle
+ ment.html
+SHA1-Digest: VxhqCp6XWQSbi8J2XBTvXalBMOQ=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/HtmlTagUt
+ il.html
+SHA1-Digest: jc57TacJwOuWuyNIqt3ReqB6sUU=
+
+Name: html/checker/customize.html
+SHA1-Digest: iqnyfDbKfQAeTTxRQTJIP4o4VYA=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/DisableDe
+ bugMessageAction.html
+SHA1-Digest: wOMZ9dQB7YqT/Y/dovN/xuRBg2M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/presentation/class-
+ use/PresentationConstants.html
+SHA1-Digest: mmvbMey+MLx2rqQocsteder3HI0=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/package-use.ht
+ ml
+SHA1-Digest: fzyyYlRHpc3rHqZLV+bG0g+F63k=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/HTMLPars
+ erFactory.html
+SHA1-Digest: tS+P2ts+xo3tAzhQ3k8+HpaTgCA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/ui/ac
+ tions/package-tree.html
+SHA1-Digest: XyPhz4Yvdn57ZhUMeJdJQUdi9Uw=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/package-tree.html
+SHA1-Digest: gPCYBYSpnWvMDpVtRVQAc8S7vfA=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ kicker/package-use.html
+SHA1-Digest: LAYiBOOUJYeaetrP4OF2kH3CF9s=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/ParseException.htm
+ l
+SHA1-Digest: MqLPbf1wz4ANzmVDJw1PNhkUIE0=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterBase.ErrorIDComparator.html
+SHA1-Digest: 8aHqAQpwzhDDAz6J9LdshVYcX+w=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Gra
+ phicPropertiesElement.html
+SHA1-Digest: FErITeSack7PswcQyRez3lYrE2Y=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Obje
+ ctOleElement.html
+SHA1-Digest: 3hDzMGYhe2zAPElv9fDdpOEFLvw=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/package-use.ht
+ ml
+SHA1-Digest: 9IWGVnW0tFCZahok4QJz0BoVgYI=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IDoc
+ umentEx.html
+SHA1-Digest: cT0Of9G9q7PdwVsQZO51kfO576k=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/c
+ lass-use/LowVisionType.html
+SHA1-Digest: rEcMOcK7gkX4ET4C1hmMjbVR5wI=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/package-tree.
+ html
+SHA1-Digest: FHC9ibhqpK98elg1a0Zjim2KZW0=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /WebBrowserEventUtil.html
+SHA1-Digest: 9hznuKCd34U3DANJKxlLsicmcAc=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/WebBrowse
+ rEventUtil.html
+SHA1-Digest: UA3YZrUf94VyM26QWLdzeZX184M=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/NodeUtil
+ .html
+SHA1-Digest: 0wsVFsCt7whRTCg8blmFE7PJ/jw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/manifest/package-us
+ e.html
+SHA1-Digest: g7pudJTW3zVpph3WRJilzaqQDuQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/DescElement.htm
+ l
+SHA1-Digest: aAAkSZthJtTegGO+u0lY0g4z/qA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Te
+ xtElement.html
+SHA1-Digest: Df4XG3sbI21sBe5LbOeBExfG+xk=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/Domb
+ ycomPlugin.html
+SHA1-Digest: pme4Gw8k9EI72x9VyJutCF/KqlE=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/IProbl
+ emItemVisitor.html
+SHA1-Digest: StWJ7YIUl2bpOKAumJ9X4FZQiY0=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/class-use/FlashData.html
+SHA1-Digest: s6Q/l57Rrv6qI8WeW+N5YBmaM38=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Sequ
+ enceElement.html
+SHA1-Digest: 0LFZVcTP2KFWXBeJ2Lcp8FH72zA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/package-frame.h
+ tml
+SHA1-Digest: mm6mnIqDkH1YQeIekACyPvK0qlw=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/class-use
+ /IHtmlEventHandlerAttributes.html
+SHA1-Digest: S67D3MJ+NwREhkdI7xKRiuH/K64=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /WebBrowserNavigationEvent.html
+SHA1-Digest: E35c2baM7iugtuFTP6X3BOWbKH8=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/IE
+ numUnknown.html
+SHA1-Digest: vGw9L3lQzu2Umne/MisN0h/YJBc=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/class-use
+ /GoBackAction.html
+SHA1-Digest: G4lhLQVa7zAiYhqbwobcs2vGhEw=
+
+Name: reference/api/org/eclipse/actf/util/xpath/package-summary.html
+SHA1-Digest: 6JQ+8mjf7azv0J2kpa5QujgXXDQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/CategoriesEle
+ ment.html
+SHA1-Digest: 2ckL7XUQgvoxFy/3yiWjKt0VyVk=
+
+Name: reference/api/index-files/index-5.html
+SHA1-Digest: u/6UoMsGCIDUTeH/bdfRxSEdD3I=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/DrawingObjectB
+ aseElement.html
+SHA1-Digest: EFMOYrFh4SldWRxmj4W0QzhQBDA=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/pack
+ age-use.html
+SHA1-Digest: mdAxwUg/GuXOOQkRwRH6Z2ssR4Y=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/class-use/Id2LineViaActfId.html
+SHA1-Digest: F/+xziQQ5n8YyZIwsBtr/kIxGcQ=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/IResource.ht
+ ml
+SHA1-Digest: dog7CKQpSXrdppQpV57oGdLw/Q0=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ie/class-use/Web
+ BrowserEditor.html
+SHA1-Digest: 06Gc86GAg9ttoN8ge0lJlxJHkaE=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorter.html
+SHA1-Digest: C6xlyYRJ7Tj5mNhxlMniG0tgoWs=
+
+Name: reference/extension-points/common/org_eclipse_actf_visualization
+ _blind_blindVisualizer.html
+SHA1-Digest: R7Jfd9IdoH5CDoRoTKGfFJKDfO0=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IHTTPRequestM
+ essage.html
+SHA1-Digest: jd7onXEsWmTUbD7kAbQKfsMtbfM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/CursorMovedEvent.html
+SHA1-Digest: y+blypfSaieooawu9BaygcmQgLY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/ODFException.html
+SHA1-Digest: qwvOW02AK4c3xaykLoeffBfmMUE=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/class-use/Cac
+ heMap.html
+SHA1-Digest: Y42dffy0W6fAuNY04hDvMRNeoag=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/AnalyzedResult
+ .html
+SHA1-Digest: h1MD2GLd+7rlT/9eLQi0H6yYYgo=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/package-use.html
+SHA1-Digest: 7ThO/0O9ojep8vCT+rCQamRRuS4=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/TextC
+ hecker.html
+SHA1-Digest: W6BtK0o4y3FDk8iQUoJ6pgMkaU4=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/class
+ -use/HTMLErrorHandler.html
+SHA1-Digest: +CimASKGArrfEzcMS6H4cYjqEio=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/Eval
+ uationUtil.html
+SHA1-Digest: n9OvWuT+qJv4bJoywj7vGFOQQRw=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/class-use/HtmlErrorLogListener.html
+SHA1-Digest: tiDSc+08aE/km+yEU7AqqmJQtkg=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/IProbl
+ emItem.html
+SHA1-Digest: D0Rk7Wr+/lp+Y2ws8O+TGAgmSPg=
+
+Name: reference/api/org/eclipse/actf/ai/tts/package-frame.html
+SHA1-Digest: uIzZHBGq7Czk9tPxTZQY6hR+yjo=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/HTTPUtil.html
+SHA1-Digest: NJCsCJj5q+MW/m0Bjuqso1p2gTc=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/VisualizeReportUtil.html
+SHA1-Digest: smAHfceaPumreOORFxHYeIZVwos=
+
+Name: html/base.css
+SHA1-Digest: OyYxgSO+A/QkxcCE+fJ6NufnFBA=
+
+Name: reference/api/org/eclipse/actf/util/vocab/Vocabulary.FlashMode.h
+ tml
+SHA1-Digest: 7GXOlaqunikw8d/c8tKp6oVeDXs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ListLevelStyle
+ BulletElement.html
+SHA1-Digest: J96hzjRggEHU78ElmS2bvZSQqiM=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/IResultTableSorter.html
+SHA1-Digest: +BKejRy+w+6OQYLwfgHL6VMJnHg=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/L
+ owVisionType.html
+SHA1-Digest: sWRQl0RidYBxxqge9DbASvv9TMw=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/DomB
+ yCom.html
+SHA1-Digest: tQlOaHX9Kmiv9DgTJrDOvNoWJ7w=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/class-use/ASSerial
+ izer.html
+SHA1-Digest: eyEVfygY87UQ8shTVJrCUK7rkj8=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/ISendEvent.htm
+ l
+SHA1-Digest: 1a8QxcOTLOgK2Am/k2DKGPr8FWM=
+
+Name: reference/api/org/eclipse/actf/util/vocab/Vocabulary.html
+SHA1-Digest: 3PYfRjVB4NEouoIC663Yf3oesN0=
+
+Name: reference/api/org/eclipse/actf/util/package-frame.html
+SHA1-Digest: iMsh1zdeqJu+lgAe4Pbf+foa+oY=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/dochandler/class-u
+ se/DefaultDocumentHandler.html
+SHA1-Digest: s9cNQJMXFboX82uO5gbdfXycrUc=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/StopActio
+ n.html
+SHA1-Digest: TzAb3rYRIlKbiuXb5dHP2y5vKQ8=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/package-frame.ht
+ ml
+SHA1-Digest: m6pUclQGa1qC746Th4MN97pJrBQ=
+
+Name: reference/api/org/eclipse/actf/util/comparator/package-use.html
+SHA1-Digest: 5Ebrt33Xt/FuiKHr3yJHIoulj1I=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/ITex
+ tContent.html
+SHA1-Digest: fE/9d/Np9MQL6rJ8clVJ5Ml5MXg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/FloorElement.
+ html
+SHA1-Digest: t0YQmFwvieZ2dSnziPXfojSerVA=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/IWebBrows
+ erACTFEventListener.html
+SHA1-Digest: iLlw+j0BJ+tHUn0usNzcBAPCydI=
+
+Name: reference/api/org/eclipse/actf/util/xpath/XPathCreator.html
+SHA1-Digest: xPIJrtrP0B1Aa9jgO1sobtKWPR0=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/IVoiceBrowserController.html
+SHA1-Digest: R1YjfHUJtX0CihV4dZophhej1fs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/PlotAreaEleme
+ nt.html
+SHA1-Digest: H4caFMUqcXGBTqY40ncde+xd/co=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/class-use/Par
+ seURI.html
+SHA1-Digest: QVtd2V9OS4GhfPYHBHgew5LMCRc=
+
+Name: html/img/parser_mf.gif
+SHA1-Digest: eGjMnresghkez54v+EtPJPt/Tl4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Sto
+ ckLossMarkerElement.html
+SHA1-Digest: 2LGmplx+MGQ0aJJMPjiO2yAOvL8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/package-frame
+ .html
+SHA1-Digest: ypw4bf2qIciwpS+16MbfRFzjfDY=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/IHTMLPar
+ ser.html
+SHA1-Digest: 56Xh05HIuOUgFteI8XpC/jy7T60=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/HEle
+ ment.html
+SHA1-Digest: eWXgEnn8efVMpPukgCcxIbF9Wp8=
+
+Name: reference/api/constant-values.html
+SHA1-Digest: sitoxUGnfHiKX5wCbakN1QB1lMI=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/class-use/IKey
+ HookListener.html
+SHA1-Digest: Wnhxb62zcURdWvWIvVV6KCHb/cQ=
+
+Name: reference/api/index-files/index-13.html
+SHA1-Digest: U+OvXkhAd/wvvdKvOpXqz6/E6TM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/clas
+ s-use/ODFConverter.html
+SHA1-Digest: yG36osmfd0kRH5mJzGBWGXt6TSQ=
+
+Name: reference/api/org/eclipse/actf/util/vocab/package-tree.html
+SHA1-Digest: rrPiubbXsFD9Fxq0F6dlQJCxkV0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFP
+ rocessingInstruction.html
+SHA1-Digest: +tkJFpCAGL+g6l/JiSWQ1RxvhY4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Dat
+ aPointElement.html
+SHA1-Digest: zE3CtWXqoQ3apfeInoRgdxJaWTI=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/IOperator1.h
+ tml
+SHA1-Digest: e0NFk9UZ7Gqy4/PmKF4o+gkHehs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/xlink/package-use.h
+ tml
+SHA1-Digest: U+159DS9xx7a6eTtukpS6hCJFOo=
+
+Name: reference/api/org/eclipse/actf/util/package-summary.html
+SHA1-Digest: niw8IxA+RG0XSdhm8TtbOWkzcYM=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/class-use/External
+ ProxyConfig.html
+SHA1-Digest: 3+J59cipBGwB20t/Glvl2Bt9TMw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/package-use.html
+SHA1-Digest: ePyuLwkRd9P1X9QRjx9J90nHXQM=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/FlashMSAAUtil.ht
+ ml
+SHA1-Digest: w+CoGvI7U+SoPQ1hxxWE10AntxY=
+
+Name: reference/api/org/eclipse/actf/util/win32/msaa/MSAA.html
+SHA1-Digest: 422JZxpOsPJKFfvLYm43+EO1S4Q=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/BrowserLaunch.h
+ tml
+SHA1-Digest: GwiNAUDsfZ+ug2CXIzJB6CMiWxk=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/TextSizeM
+ enu.html
+SHA1-Digest: 3k9j6tlRxYX2xePMDXCgQZfYOro=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/package-use.
+ html
+SHA1-Digest: n/FA2W8QtX9Mt49gSM4IKS17hZU=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/VoiceBrowserControllerFactory.html
+SHA1-Digest: 3JN+ITO9EIiXfiHvLY9+5JsCqY8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Fram
+ eElement.html
+SHA1-Digest: iH7o1q6h0r8alzYbyjfKdVs+Hig=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/SeriesElement
+ .html
+SHA1-Digest: cc+H9C0jVtHLHkc/GjiwpEVzMtE=
+
+Name: html/checker/checkitem.xml
+SHA1-Digest: O5043/mHyF8tVNRXOROrCu3z4pM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/package-fram
+ e.html
+SHA1-Digest: nZPtkfY/bxgpPmlfYXRQmXnTtx8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leRowElement.html
+SHA1-Digest: qJPlKxu3CJ7sHhAdlpol70MgH80=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/p
+ ackage-tree.html
+SHA1-Digest: 7I5r3mpXvBsWjpyQxz94Ocf5WBg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/List
+ LevelStyleBulletElement.html
+SHA1-Digest: e3O/K5LyV8CdPrajlF/viy+Qe4A=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/class-use/I
+ StyleListener.html
+SHA1-Digest: t4o50tfEYfw0owOenLWLJ/CheaE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/class-use/Cel
+ lRange.html
+SHA1-Digest: MlVGKwVmDeuMLzNochEYKZCdHYQ=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/IClientState
+ Manager.html
+SHA1-Digest: vgKjQomnXu1LbD52J+FYozyQw58=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/IHTTPProxy.html
+SHA1-Digest: IFqOQ6B34aZmRXowLFl+fPW/m0w=
+
+Name: reference/api/org/eclipse/actf/util/comparator/package-summary.h
+ tml
+SHA1-Digest: +Brl11TpwxAIm602APs+tJ0tZFs=
+
+Name: reference/api/org/eclipse/actf/util/package-tree.html
+SHA1-Digest: oy8Vfek/VMajRHm/bZe2nCYspHc=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/dochandler/PREHand
+ ler.html
+SHA1-Digest: udyGjpCEoCDqVuD0EL8nHNPL2G4=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/IProblemItemVisitor.html
+SHA1-Digest: GEME8GjS6eAY9f/Me2FUshFO0hU=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/package-frame.html
+SHA1-Digest: IgquLqm0rXS4trWzB/GZ8uCj4Nw=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/ParseExc
+ eption.html
+SHA1-Digest: zNQffqmoPYXNRgviXSRuyIldaUg=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Ha
+ ndler.html
+SHA1-Digest: dZSFzqBsp5TN5er1EJM7wAkt6Fc=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/IKeyHook.html
+SHA1-Digest: vRfxvHL2kr2JsHuOxJOvAG1HxnY=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/Anal
+ yzedResult.html
+SHA1-Digest: WPBsT6L+013uERw93oWywnE575A=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/SwfHeaderParser.
+ html
+SHA1-Digest: pEjPRQAigGCkZNbKpIVurlFBUzQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Poly
+ lineElement.html
+SHA1-Digest: jmtft/nnOqA1hNeQoCOPlGUFBrY=
+
+Name: reference/api/org/eclipse/actf/util/vocab/WidgetsVocabulary.html
+SHA1-Digest: fK5n6cv+u7yU7bO+ZxGnXkV2i74=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/class
+ -use/FormExpander.html
+SHA1-Digest: PCBAht+3ti7wAGaAZBkl3wqIC8U=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterBase.SeverityComparator.html
+SHA1-Digest: 5tjL4Cbrc/U0S798pSVwe4SEJcA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/FormControlEle
+ ment.html
+SHA1-Digest: ZuiBWD/E+KoIhXy3sVFTGilBDFk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Fill
+ ImageElement.html
+SHA1-Digest: g+B4SjABbZBDsULkqjlq3LrbQBA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/ICheckTarget.h
+ tml
+SHA1-Digest: FBOW3mPB8cL6DiLJOinP4CZSus0=
+
+Name: reference/api/org/eclipse/actf/model/flash/IFlashConst.html
+SHA1-Digest: 5ruT7QebdxKMNcugi1JMZSmVMco=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/FixedTextEleme
+ nt.html
+SHA1-Digest: kGFTLsqBvNN6WHBoUiiNfQsQSyg=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/IHT
+ TPRequestMessage.html
+SHA1-Digest: MUewHFia46dAfARA4roa/Qjope8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Draw
+ Constants.html
+SHA1-Digest: AtwrhjFhQ+nTCqEzso2uuyBP60I=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Form
+ Constants.html
+SHA1-Digest: e4ALwRjO8fsEHOS0PCPhF4lqM04=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/package-tree.html
+SHA1-Digest: htQDiPE/BOMy4pGQ7rcu6Et8kV0=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/package-frame.html
+SHA1-Digest: RPCJxseKWviP+QUYZxMVJ5zIRT4=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/class-use/IBl
+ indVisualizer.html
+SHA1-Digest: SsD5ZnURYRMfxlvCy7h4nom182M=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/class
+ -use/ParamBlind.html
+SHA1-Digest: W0yfQKE8hw5j7ONs9vD4R04umYc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Ser
+ iesElement.html
+SHA1-Digest: Jb7lymS5r6jH9rTX7wh2kGTFBAw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Par
+ agraphPropertiesElement.html
+SHA1-Digest: rqATe+B7sBZADb0Xt5Tta1k6Dqk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/package-use.htm
+ l
+SHA1-Digest: 5HjP/M/M1MHvVazZB+OKVF3rNoM=
+
+Name: reference/api/org/eclipse/actf/visualization/presentation/IPrese
+ ntationVisualizationModes.html
+SHA1-Digest: 91PHxBXXKzrOWUD2+kb57pJ/71k=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Tit
+ leElement.html
+SHA1-Digest: UMaCXlCr2FzVqMvZWLXdCcIoS1Y=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/DummyEditorInput.
+ html
+SHA1-Digest: w0HJf6rBCZ+B5VUr8VNae+VTZr4=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/pack
+ age-frame.html
+SHA1-Digest: I/YtaSiLXA1fvi6PQKb2qCpDxwg=
+
+Name: reference/api/index-files/index-6.html
+SHA1-Digest: SJ1gadAAYNVEeH7k14IoZWVlZME=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/NumberElemen
+ t.html
+SHA1-Digest: Gu3EHi/1bLAhyo4tSH5Rrw1AWdk=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/IProposition
+ .html
+SHA1-Digest: kA3gmNxYUccMQpnvugd/LyN/SGk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/class-use/ITe
+ xtElementContainer.html
+SHA1-Digest: cHivuOYPWDrEsiheScGKAD75P38=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IElementEx.htm
+ l
+SHA1-Digest: Jp1qdd5/RmI2M+G2xuswfSAJCf4=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/class-use/WeakSyncT
+ imer.html
+SHA1-Digest: Lokss8LHgmsxnZI92BveT44CspA=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/class
+ -use/IgnoreFont.html
+SHA1-Digest: nE8aw9WD1+XVwfRF8kK9o6+QyTA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/package-frame.html
+SHA1-Digest: KLClgW7pJnB3QBTbYETOA265ewQ=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fIUnknown.html
+SHA1-Digest: OADVx/RFrNof13YM/sPWdjOvl88=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFAttr.html
+SHA1-Digest: 4xtqFklyx0hJVvPYcm7U3kExfpY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFT
+ ext.html
+SHA1-Digest: dHe6AvLAAiSASvqR7E91QOBbHZo=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/package-frame.
+ html
+SHA1-Digest: lxkUO4//kCfPQ6B9N/lxKIIVJWc=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/IEvaluationIte
+ m.html
+SHA1-Digest: /himp4ZohUZGYYWvI+Ni6SHtm0c=
+
+Name: reference/api/org/eclipse/actf/ai/voice/VoiceUtil.html
+SHA1-Digest: xxY/5j4pchrOti0pV2gXtMcV4M0=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/eval/
+ package-summary.html
+SHA1-Digest: 13BKI6vbPfr4vYeIs6LRM3IQTco=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/class-use/Perspecti
+ veListenerForBrowserLaunch.html
+SHA1-Digest: GecUr9dct2ciSVEoaqfoY0vqJWY=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/AbstractUIPlugi
+ nACTF.html
+SHA1-Digest: XLfFtaBJtQDVeo8xrSB2c2hhpbI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/class-use/ICo
+ ntentCursor.html
+SHA1-Digest: qIwKvXk4M6osAeNvoTDVRN6NF9c=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/ComboboxElemen
+ t.html
+SHA1-Digest: crAKHlTPbrpDoa2/HoqvqjaCpkc=
+
+Name: html/model/dom_live.html
+SHA1-Digest: +K59I62WvpLOGq8X4dTFiXG1sjY=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/INod
+ eExSound.html
+SHA1-Digest: E6E0DzG5Ft/41u36ZB7tjpUrNJQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/class-use/SVGCo
+ nstants.html
+SHA1-Digest: norFJ21zKBBmbQVoujJB9SaePr0=
+
+Name: reference/api/overview/Idea.jpg
+SHA1-Digest: PcZMQGjryL3/ltXVmAwr6TCbFW0=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/IGui
+ delineItem.html
+SHA1-Digest: jWNT42WstTj9DZByAn+uEmG53QQ=
+
+Name: reference/api/org/eclipse/actf/ui/util/Messages.html
+SHA1-Digest: AYwQ12GopaNa5VVB6YSrtBX1Qpg=
+
+Name: reference/api/org/eclipse/actf/model/ui/ImagePositionInfo.html
+SHA1-Digest: oKz95GHC58OO0dZnBVqERKJHfsM=
+
+Name: reference/api/org/eclipse/actf/visualization/util/ImageOverlayUt
+ il.html
+SHA1-Digest: Q6xPLub7HUkeoz+J1RpQaGk4mY4=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/CursorListener.html
+SHA1-Digest: dZWHiFbW0I/tS/JN8OZfqF5yTqE=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefContainer
+ .html
+SHA1-Digest: J920l1RWC+/W2QgjetwE4eAfdcI=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/IVisualizationPe
+ rspective.html
+SHA1-Digest: iqcDR+SXfgBtn0zfEkD9OHtafVs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/FormConstants.
+ html
+SHA1-Digest: encXoB4ltc7RiBkhtKRn+ymETog=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/DrawConstants.
+ html
+SHA1-Digest: En1nGyw0Qa3JZnqEqyBaCQFDiqQ=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/IWebBrows
+ erNavigationEventListener.html
+SHA1-Digest: +xmJXiIdCtkza7XKnKYjUS50FRA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/package-use.html
+SHA1-Digest: zQX/O3WX7D7WNNA7VdeXkARHrsg=
+
+Name: reference/api/org/eclipse/actf/ui/util/package-use.html
+SHA1-Digest: 8fjvynWG6FuFTY3MmqPNqB0NXQE=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/INod
+ eExVideo.html
+SHA1-Digest: GjoxdJcoBA8nILdJYf+yHYSXUqI=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/class-use/ModelServ
+ iceMessages.html
+SHA1-Digest: xZ+N4+p/onrsT9pIOA8qx5JPADk=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/HighlightString
+ Listener.html
+SHA1-Digest: /4kZq0UVv13OpVkUguj6D0w4+Nw=
+
+Name: reference/api/org/eclipse/actf/model/ui/package-use.html
+SHA1-Digest: YBij6RQLHf27YtNiGltK9dCp9N8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Fram
+ eElement.html
+SHA1-Digest: B4/EnV5HIAGYknMy53g+t8J71Yc=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/ISty
+ leSheet.html
+SHA1-Digest: 8pvwLzX3XWxvOnLwyQvfSCGYNF0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/package-summary
+ .html
+SHA1-Digest: /Ee9uL32zBRQ7fEaithx96w1DjE=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/Id2LineViaActfId.html
+SHA1-Digest: ZVvIJrwNKC3jvcn5/5L8ljTBj2k=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/package-use.
+ html
+SHA1-Digest: RgWWSUlpTX9ORqVJCpV1MSRNLpQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/TableCellElem
+ ent.html
+SHA1-Digest: lcsmX+XbKxwPIIBtyLGQyQd81/w=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/package-tree
+ .html
+SHA1-Digest: BW4IdVdZQwLIvFdmS/6VhvkTT18=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/SElement.html
+SHA1-Digest: N/Ga9zyDlYe3sTsrGmNxUXp2mwE=
+
+Name: reference/api/index-files/index-14.html
+SHA1-Digest: /hKVOWqwhxlT2FXVxoF3kbXTpmw=
+
+Name: reference/api/org/eclipse/actf/util/win32/msaa/IAccessible.html
+SHA1-Digest: McN5KE3fJj+c4L6SlbqDf1My4Mw=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/IProblemConst.html
+SHA1-Digest: OXrEXFOeTuvuCcuU0ah2P7TusX8=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/WeakSyncTimer.html
+SHA1-Digest: SKzXYjrKdeANYuXhuc3p5QAGS7M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/format/package-summ
+ ary.html
+SHA1-Digest: MbeF/mkXGJszc78iwO10lQ4eQB0=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/clas
+ s-use/IGuidelineData.html
+SHA1-Digest: hAeGn3W0QA6H7MP5mn29z58mEMA=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/AbstractTerm
+ s.html
+SHA1-Digest: FN6ci+ikiNbsOE3sJoBchDt5pF8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/TableOfContent
+ Element.html
+SHA1-Digest: l6gyv0M9Y/y1tzPKy1oHuY6heDY=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/package-tree.html
+SHA1-Digest: BsatsN/mH1499RjS3naO8DUu14M=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/clas
+ s-use/IGuidelineSlectionChangedListener.html
+SHA1-Digest: vAWYv1tyyidJxU+7C8Y1FIRNcMA=
+
+Name: reference/api/org/eclipse/actf/util/dom/WhatToShowNodeFilter.htm
+ l
+SHA1-Digest: u/qrKi21VyOlADhFLDOU5DZRcJ4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/anim/AnimConstants.
+ html
+SHA1-Digest: 3nkJ1WCQAs9cuvReJTdZ238UQr8=
+
+Name: reference/api/org/eclipse/actf/model/ui/class-use/ModelServiceIm
+ ageCreator.html
+SHA1-Digest: DarMiAxdeuG0gAE0gnfL8lzsPy0=
+
+Name: reference/api/org/eclipse/actf/util/dom/DomPrintUtil.AttributeFi
+ lter.html
+SHA1-Digest: XoNjcIhskc9Ns9KEc73/sXYpn4Q=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/TextRange.htm
+ l
+SHA1-Digest: EAsH5SyffE+RCvt5PVhPfziLNNc=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/package-frame
+ .html
+SHA1-Digest: hwK1gAkb+gsjRfRDqAzO7UhCJr8=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/pack
+ age-tree.html
+SHA1-Digest: ZkOjujg4BF4qd8J1uvXGTri9d9M=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/package-frame.html
+SHA1-Digest: 5u8pwIlK59a8LN1FUwSPy0MGuSg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Form
+ attedTextElement.html
+SHA1-Digest: lQjZIvDsK2XpKmdxrNxWpAv3oZY=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/MetricsLabelProvider.html
+SHA1-Digest: /R49QtxjHwjlvlME+ksafQ9Ry2I=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/Handler.html
+SHA1-Digest: 972IjjyeaF3n6mpPOFN2deW8ZRw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/StyleProperti
+ esBase.html
+SHA1-Digest: 10Niq3hSxJlFc3Io+kp/Rnsw+gs=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/WidgetsVocab
+ ulary.html
+SHA1-Digest: 9Zfy5kiiY05tHG/76baBK4a4PB8=
+
+Name: reference/api/org/eclipse/actf/util/dom/class-use/DomPrintUtil.h
+ tml
+SHA1-Digest: mehCQAcqLJL8eN8+7AsqhBvZYyY=
+
+Name: reference/api/org/eclipse/actf/util/win32/package-frame.html
+SHA1-Digest: +yPN51NXV/cvAcexOMjdlklG/Ig=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/IPacketCollection.html
+SHA1-Digest: OzW4GRj+b8LuVMK74ToWKQGWjbs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ContentBaseEle
+ ment.html
+SHA1-Digest: gHlRFGXKTY1PG138R08zE9wEiD8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/ChartElement.
+ html
+SHA1-Digest: RXx0pC6bZSdPlY1rPUTBqr7ntFM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ package-summary.html
+SHA1-Digest: 07mSi/STMFPITBBcFLNWJsKroPg=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/OOoEditor.ht
+ ml
+SHA1-Digest: ZQVmjDIbFqTpz3t20e+PIPtTTUA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/List
+ ItemElement.html
+SHA1-Digest: ZbBU3xsEm4md+e4wqs1yWx6QHaI=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterLV.html
+SHA1-Digest: 5fcoYzi6CUGRaLbSiDZBO87RHZA=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/ComboBu
+ ttonFieldEditor.html
+SHA1-Digest: zlv/tGWNZ+zjD3aronwTFZD6qcA=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/NodeUtil.html
+SHA1-Digest: 9UsvnDS0ayWQEu2orsT+09Odaq4=
+
+Name: reference/api/org/eclipse/actf/util/class-use/JapaneseEncodingDe
+ tector.html
+SHA1-Digest: z5G8tGPJyaHkqZiJkAUbSCwEVeM=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/ICheckerInfoPr
+ ovider.html
+SHA1-Digest: mVsCH+LY5ZOoZaNqUmxI8FHcpIY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/package-tree.
+ html
+SHA1-Digest: Hu7SzSYRvjlu4GOCkGOaSKUjLw8=
+
+Name: reference/api/org/eclipse/actf/model/flash/class-use/FlashPlayer
+ .html
+SHA1-Digest: imx3zJjyFbpKlyn0Y5UkygRddFs=
+
+Name: reference/api/org/eclipse/actf/util/win32/NativeStringAccess.htm
+ l
+SHA1-Digest: rqXEBkQFzpriLyTCnUMXQ/S2bMg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/MapElement.ht
+ ml
+SHA1-Digest: 6NUueZo/hxV/5Vow/f9Z/CvP1nE=
+
+Name: reference/api/stylesheet.css
+SHA1-Digest: lkSOwHhdPg6zTe1uBJVxu2P0958=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/PropertyElemen
+ t.html
+SHA1-Digest: TJaQ7tgMKmfFy8+pObi5DI+X/iE=
+
+Name: reference/api/org/eclipse/actf/mediator/package-frame.html
+SHA1-Digest: R2jWzKE1iL4+5U9W3efZttYkevY=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fVoid.html
+SHA1-Digest: MQdhHMMGCQtTljFZcAl6zAEdJD4=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/package-use.h
+ tml
+SHA1-Digest: AFubIVhbnf620f4HZbIqk+2YwSw=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IHTTPHeader.h
+ tml
+SHA1-Digest: PftZ7V0lPhN2gy64CRYZBqRqVl8=
+
+Name: reference/api/org/eclipse/actf/ui/util/PreferenceUtils.html
+SHA1-Digest: eeGHj3GNMw5EHrbVSq7jp1PF1VM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/Blind
+ VizResourceUtil.html
+SHA1-Digest: /qly7Y1hFLu8eLyFnpMueoniAaU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFNamedNodeMa
+ p.html
+SHA1-Digest: RiqpMUkeJJFWda89kjQvs1XEBmI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/IndexTitleElem
+ ent.html
+SHA1-Digest: eEzSJccl//OQYFNJ520+gIFrFc8=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/OverlayWindo
+ w.html
+SHA1-Digest: HiyV/vrvB/BpoQhQ2WRNWiIBxlI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ package-summary.html
+SHA1-Digest: SzQcWX6Ro6wE7QKjMlyqvCQJaMc=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/packa
+ ge-tree.html
+SHA1-Digest: oxlJXk8GzYRP5QWlAWGuEjjR3cY=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ sourceManager.html
+SHA1-Digest: l/v7RwquTEjtnaPW1U36SzSHAqo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/DefaultStyleE
+ lement.html
+SHA1-Digest: q9BsiWh/BXIaXN5EOUPObw+3ju0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Chan
+ geElement.html
+SHA1-Digest: 2o6AHh7HbQes0ER0RGkDxJuoC3k=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/package-frame.ht
+ ml
+SHA1-Digest: rpJ1/O44qj8TFv8eeDNSLi2mGxg=
+
+Name: reference/api/org/eclipse/actf/ai/tts/class-use/ITTSEngineInfo.h
+ tml
+SHA1-Digest: 5dlQVNLJ83MoNAMXst95UPwtG5Y=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/IHTTPProxyTr
+ anscoderFactory.html
+SHA1-Digest: 4RsP+ol8zNbEyB9GRB3n7e8aAZk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ ScreenReaderSimulator.html
+SHA1-Digest: Kij0IBbLi0tpfA5uHdxDL8iSIKQ=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/IHTTPLocalSe
+ rver.html
+SHA1-Digest: dEolgnWoNr8JVRLCItpcRcX6wWc=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/dochandler/package
+ -use.html
+SHA1-Digest: vpdYGhEhX2woEiRLzkcHcjzKZk8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Trac
+ kedChangesElement.html
+SHA1-Digest: doTkQyJ0SUVYi2zSzNg6hG6zcB0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/class-use/Nu
+ mberConstants.html
+SHA1-Digest: rDrT3DtYU1OOHF5URjvdge2ZuBw=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/BrowserHisto
+ ry.html
+SHA1-Digest: zJwYM0t13ZoY4FIuuGFBHWPKmV0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/StockGainMark
+ erElement.html
+SHA1-Digest: OZV8vaa97/Lai1NZfiO+8S8uo9A=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/package
+ -summary.html
+SHA1-Digest: hFnC/VEXY71Ib4v63FdrXSDy7rI=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/class
+ -use/UnknownElementErrorHandler.html
+SHA1-Digest: YICO2COuqs4RzoqU91jHQaf0mDw=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/ImageStatData.html
+SHA1-Digest: 5YhDkP1RIpjA40TQzMAeG6vSxtc=
+
+Name: reference/api/org/eclipse/actf/util/dom/class-use/NodeIteratorIm
+ pl.html
+SHA1-Digest: g8EVqCLWO2kGkqqj38EJw0qlYSs=
+
+Name: reference/api/org/eclipse/actf/visualization/gui/class-use/IGuiV
+ iewIDs.html
+SHA1-Digest: 2boLHOrtWgVLiIkr90KXpZPbsxM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/IPacket.html
+SHA1-Digest: C4/iQ1bfooj9WoYDje2HvMahhfU=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefString.ht
+ ml
+SHA1-Digest: xrSfDFC0CpngxlkbR41CUV8KE2o=
+
+Name: reference/api/index-files/index-7.html
+SHA1-Digest: 6ehpeN+TFGLpmr6MGCYOy1Kqcss=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/packa
+ ge-use.html
+SHA1-Digest: XBLKHPxGeiJcrWgSlMzw3/OyjgE=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IFlashNode.htm
+ l
+SHA1-Digest: tfKePZa9Zn7hPgEa8pPKyAO5ys8=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/package-tree.html
+SHA1-Digest: 9mt0SHamG9bWRptlL81MUBbCSgY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/RadioElement.h
+ tml
+SHA1-Digest: KLmmHwsP0yy/X71nK/+Nq4wq/fw=
+
+Name: reference/api/org/eclipse/actf/mediator/class-use/IACTFReportGen
+ erator.html
+SHA1-Digest: 6iu6S8eHvaY8MUjXPWH4DTj02aM=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IElementEx.Pos
+ ition.html
+SHA1-Digest: tWItV980CNPTcUI0eYR+8n/EhIo=
+
+Name: reference/api/org/eclipse/actf/ai/tts/AbstractUIPluginForTTS.htm
+ l
+SHA1-Digest: eP7PcVxJAvuSygDvMX1p3WUnlUM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/class-use/ElementViewerManagerFactory.html
+SHA1-Digest: mEkh9Tq9oshUOQlojeCQ4RaT7as=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/class-use
+ /StopAction.html
+SHA1-Digest: qmQpWXxVV0e8DHKFKCHYoFozyMw=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterBase.ErrorIDComparator.html
+SHA1-Digest: 5S+OZ4xPobl9MPAISiJDx0Q/YEg=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/class-use/IPageImage.html
+SHA1-Digest: FKyPwnkKQ97+dla+4GH44NBuA+s=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/WaitForBr
+ owserReadyHandler.html
+SHA1-Digest: /tmZ9QhnPV1BGffF5AhdgPRR8iY=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/PageImageFactory.html
+SHA1-Digest: GvLTkcbsk9JX3RPSwUE+vop0NXY=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/IHT
+ TPMessage.html
+SHA1-Digest: XJlGIGy8oLRwME3Q3hPvfg6cC0o=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/WaitExecSyncEventHa
+ ndler.html
+SHA1-Digest: LQm4QVhm8oq8yY2hfSZQoXV8ruY=
+
+Name: reference/api/org/eclipse/actf/ai/tts/TTSRegistry.html
+SHA1-Digest: bupqluqS/XBwHPekFtx+rcv+fUE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Area
+ PolygonElement.html
+SHA1-Digest: z57B5EYxuj+VFHaY9NMt7oGdr3I=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/List
+ boxElement.html
+SHA1-Digest: KeFIjfGBHOAQj3aIOV0AOfbBdN4=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/Logger.html
+SHA1-Digest: qooWH1xhGN17A3gK9OQdZh0MFac=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/HElement.html
+SHA1-Digest: Co9GEVc5yx+GSnCkpdnnTZEUJH4=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/IEnumUnknown
+ .html
+SHA1-Digest: DvUuJy4OQ5dNcTwgR2aivVOubc4=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/GroupFi
+ eldEditorVoicePreferencePage.html
+SHA1-Digest: 4m17p2YHiQv69oBcfsgr/yVjXQ8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/package-tree.h
+ tml
+SHA1-Digest: mC23SMxpYjroKvtX2hqhHFwFBUg=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IObjectElement
+ Factory.html
+SHA1-Digest: TuBYywu0np4fwjvEQIWme1krvUc=
+
+Name: reference/api/org/eclipse/actf/model/flash/proxy/package-frame.h
+ tml
+SHA1-Digest: 6lF4Ms490nRduptbyxcvTxYfwqE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Chan
+ geEndElement.html
+SHA1-Digest: yl1d3v2EX5fGtWE1SeAj+N52jS0=
+
+Name: reference/api/org/eclipse/actf/visualization/util/package-summar
+ y.html
+SHA1-Digest: F3UHMgc8vrf3cwEdyrgHDdqBMFE=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterBase.GuidelineComparator.html
+SHA1-Digest: 6P4kg5mxZskKiHf136R+3UMTeR4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/StyleElement.
+ html
+SHA1-Digest: 0BTJk2JgvNORt4ZaU2wp/8wMxQQ=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/package-t
+ ree.html
+SHA1-Digest: jSweJYnG5YZyq57n5bAG2cPMFJU=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/PlatformUIUtil.
+ html
+SHA1-Digest: j/5B2YThOfRzA6PSQvfF42ubh2U=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/class-u
+ se/ComboButtonFieldEditor.html
+SHA1-Digest: 9hubYFcxPobCkslyHbjb2bgqteM=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/dochandler/package
+ -summary.html
+SHA1-Digest: 1UCESPVfwZ+p7G2blApGxHwLIFA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Text
+ Constants.html
+SHA1-Digest: auyI/d/zxHbADfEVjQsjUYEG3Io=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/GradientElemen
+ t.html
+SHA1-Digest: q3X/6hPx28ZCrKNkyuNm15xiyV4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/package-summar
+ y.html
+SHA1-Digest: pvWCPj0sxUGkr2hxbUGtn/XnY28=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ie/package-use.h
+ tml
+SHA1-Digest: JbqrHmu0MqpEd1OYDIXmw95zyNk=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/package-s
+ ummary.html
+SHA1-Digest: e8C4YNcx0K5zBjmk7UFzkYaMOrQ=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/HighlightTargetId.html
+SHA1-Digest: 5SMqOfaAxV+aKXJw9M9AXYogcDk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/ListboxElement
+ .html
+SHA1-Digest: x4/xeiHQ43zsO/s+FzPLIA4uZ8s=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/class-use/WaitExecS
+ yncEventHandler.html
+SHA1-Digest: M01nzwM2fCzKUHg0nOFQTNtKIB0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/ParagraphProp
+ ertiesElement.html
+SHA1-Digest: zIHliEEjd7n2tpEsim2+GgLttpg=
+
+Name: reference/api/serialized-form.html
+SHA1-Digest: ffI4i2wzQSZsaqr7vX+hKbrtMG0=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/COMUtil.html
+SHA1-Digest: VjscP/pFPdlO3LXcUW2dy/3Z+cM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/ImageException.html
+SHA1-Digest: 2t3zKeKbFRZ93HnMZKA1LD2527M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Span
+ Element.html
+SHA1-Digest: Uh0EBDLqMM5gFnqOZFEiUBVpC5w=
+
+Name: reference/api/org/eclipse/actf/mediator/package-summary.html
+SHA1-Digest: o2OBB/PX+tAXqT5xa2s/IWWfmyw=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/DomByCom.html
+SHA1-Digest: 3m1HIPYrCYTVpg7n8MdrnMh0tgY=
+
+Name: reference/api/org/eclipse/actf/visualization/package-frame.html
+SHA1-Digest: PbLB0DkAsHf75mAlLxn8Vs0vI2M=
+
+Name: reference/api/index-files/index-15.html
+SHA1-Digest: A21bb2JvQHr2SGlhocn7yTFH4sM=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefBoolean.h
+ tml
+SHA1-Digest: qfDnQuB+SDU1doHzVyDkSgUlzwE=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/package-tree.html
+SHA1-Digest: HgJmISUS1g7nv98J2dY2UjU8xzo=
+
+Name: reference/api/org/eclipse/actf/ui/util/package-tree.html
+SHA1-Digest: 2xuYOCNu8xWSoMGrEROsKpNpOXI=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/class-use/IVisua
+ lizationPerspective.html
+SHA1-Digest: sTkKANcP2KvhzrCz8IkZv0YKfKM=
+
+Name: reference/api/org/eclipse/actf/util/package-use.html
+SHA1-Digest: s6PNIX1Mx4CIZ+/FLwWbUas8f+M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/xlink/package-tree.
+ html
+SHA1-Digest: 37RJn9bq0Fb4TgH9wCsuGuNVVgo=
+
+Name: reference/api/org/eclipse/actf/mediator/Mediator.html
+SHA1-Digest: NVfcD2WazP2GGDYdx1EQIwond9Q=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/presentation/Presen
+ tationConstants.html
+SHA1-Digest: 2llYXtdS7ah19XhmGnc4OKM08ns=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/class-use/Nu
+ mberStyleElement.html
+SHA1-Digest: r3wS93grdbdXgAoxuxBNmBFIe+I=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/package-tree.
+ html
+SHA1-Digest: CaGfmb1fxBeJ12ztRjVTeIoBUzY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Inde
+ xTitleElement.html
+SHA1-Digest: w3bnfEtbN7rOKAYCjfcTx/sCGBo=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/package-use.html
+SHA1-Digest: QJ78Sj2PBqQhM5t1P/RBLhIdvuQ=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefVoid.html
+SHA1-Digest: qzrHvWFLqwiWOEr388PaSGlUfVg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ package-tree.html
+SHA1-Digest: SeFibG/uHxICgEzWXoqPOvfLOaQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/DrawingEleme
+ nt.html
+SHA1-Digest: wNAUAmRDNga7yaTVDvuaPMwYBjc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/package-tree.h
+ tml
+SHA1-Digest: iiMQUC/omo8mFI5GwZIRGnNDwGI=
+
+Name: reference/api/overview-summary.html
+SHA1-Digest: y7SXC56WhPDoXFTuXK4yYP2RBMA=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/package-summa
+ ry.html
+SHA1-Digest: XDGfKXLwY1waOe8Gyoni9ShDoSE=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IMessageBody.
+ html
+SHA1-Digest: IelNCE5rkdJFX08Vgu+w3FSw4uw=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IClientConnec
+ tion.html
+SHA1-Digest: NQP8V5TV6b7wqa3qZ4Hy+CnK9w8=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Di
+ spatchException.html
+SHA1-Digest: uMo4v1RfvBEhnm1LhzVUHIfBPd8=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ie/WebBrowserEdi
+ tor.html
+SHA1-Digest: sx847IQiZ+xazkevyctxeaHiaE8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/AreaRectangleE
+ lement.html
+SHA1-Digest: TKy9udx531UyOtRXUJ/CANAax0E=
+
+Name: reference/api/index-files/index-20.html
+SHA1-Digest: WUpaANYIZWJlgqEQtKHJS8WUhsI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/Dr3dConstants.
+ html
+SHA1-Digest: 6IgLwnIJuZHF7HGAyHfFQ/CdHjk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/TableRowPrope
+ rtiesElement.html
+SHA1-Digest: rGDmRxLQuyvJGNM2+Oz7snWIIFQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/package-summa
+ ry.html
+SHA1-Digest: ZaoBr2jRfLUkYBdxBI0fOsJPeVM=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/package-use.html
+SHA1-Digest: cZi5Je+cURJAFdY7vNr4KlQ9+Ek=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/LineElement.ht
+ ml
+SHA1-Digest: Puck9kbPuMUBFDN+anm6qMnsuF8=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/package-use.html
+SHA1-Digest: 6r9ru7nhdj1oWy5nRs5WzWMEf/g=
+
+Name: reference/api/org/eclipse/actf/mediator/class-use/IACTFReportVie
+ wer.html
+SHA1-Digest: qwLN2BjozGqiCr3uM0yuZeR+J/E=
+
+Name: reference/api/org/eclipse/actf/ai/tts/package-tree.html
+SHA1-Digest: cwiI9cerDCJ1EW4Rto69VOdLJcM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Regu
+ larPolygonElement.html
+SHA1-Digest: 3ToHZC5FdPGTvqkRlGYO+xi+IT4=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fDouble.html
+SHA1-Digest: t46hKhBtp9N8NgD7qiBpvn7mDNs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Cat
+ egoriesElement.html
+SHA1-Digest: bSu3GLJIGWM9/C9ybI8Im+E4aGQ=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/class-use
+ /HtmlEvalUtil.html
+SHA1-Digest: t1lf7Wm2MZvR4dtjhRwlDn+ZBxw=
+
+Name: reference/api/org/eclipse/actf/model/ui/IModelService.html
+SHA1-Digest: xfDHAr6gfrMAQYqnt2AGyFCSKgo=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/WebBrowse
+ rNavigationEvent.html
+SHA1-Digest: LfhukMG5q59QUaVz4vzRGsJgmYM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/package-tree.h
+ tml
+SHA1-Digest: LPYs+bMbZ3ViUcSQQcyyVNdNelw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Sty
+ leElement.html
+SHA1-Digest: x3aoDvLqOVxUWh33P9XglpaPEFg=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/class-use
+ /RefreshAction.html
+SHA1-Digest: csWb4xUXm0Z/nRVnwYZR1BO/5dU=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/ui/ac
+ tions/package-use.html
+SHA1-Digest: 7epF0ACueCupqA3atHYOnKNnjE8=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/package-use.html
+SHA1-Digest: 4mZq2gC4n3HOmKJbiiX95uYH7zM=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/RefreshAc
+ tion.html
+SHA1-Digest: W8BuMKnAplqmzv7PLDg7CQJRtUY=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/IVisualizationVi
+ ew.html
+SHA1-Digest: /VwOf9aXkJwYPZZvf++rvVqBaeY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Item
+ Element.html
+SHA1-Digest: UA1vtJeCCFGEm7eLfGeRHAQs1nA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/class-use/ICo
+ ntentRange.html
+SHA1-Digest: J+W1y+QC77INxOza8rmT+yX80c8=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/actions/class-use/BlindOpenIdCssAction.html
+SHA1-Digest: qSWeG2UGMMUs68SpRjgChACYSsg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFN
+ amedNodeMap.html
+SHA1-Digest: 0yjHBDH0l9KP8LTx5XNxmn/OG6k=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterBase.DescriptionComparator.html
+SHA1-Digest: CZahGeFkpLmJZigqOlNAgI0lvmM=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/class-u
+ se/GroupFieldEditorVoicePreferencePage.html
+SHA1-Digest: /DKPdaSZeTk201dQzzKQVWX1lZk=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/package-summary.htm
+ l
+SHA1-Digest: V8VvvKVCYwD5tQzfELHgVwWc1nk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ class-use/AccessibilityFixEngine.html
+SHA1-Digest: QWqCMMjaYIaoEFJ846pDlK+AMi4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/PageLayoutPro
+ pertiesElement.html
+SHA1-Digest: yq4EhOcMIXT0NGjPFqgCCahXarw=
+
+Name: reference/api/index-files/index-8.html
+SHA1-Digest: rXDV2GeOQlW96uoJz9KnAgfvHSI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leColumnsElement.html
+SHA1-Digest: usd8KMJN52sg2WQqI60kQhaxBzE=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/IS
+ erviceProvider.html
+SHA1-Digest: ZJKm71bb8bP1WqkxsKTIaAXHgng=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IH
+ TTPProxyTranscoderFactory.html
+SHA1-Digest: BwJ9onFyJmW0SgjPYeJk+LZZPQo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/package-sum
+ mary.html
+SHA1-Digest: sZcLrul6bLpYDViWnmTNU6tYKUw=
+
+Name: reference/api/org/eclipse/actf/visualization/package-use.html
+SHA1-Digest: galnM5ILQJ+mLrzhtFfxtRd0jAM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/package-tree.
+ html
+SHA1-Digest: AIxBS7EUDxM6seuAz6GLoxF7xzQ=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/IPu
+ shbackMessageBody.html
+SHA1-Digest: 5RlNRhDgz76xBqwdYODAIT/YCps=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/package-tree.html
+SHA1-Digest: NZ46pXFDnj2Dj5g2iR8uVUk/ZjY=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Co
+ mPlugin.html
+SHA1-Digest: XbKyvXVJ7haG3vzt+mND4U7AoXg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/TextElement.ht
+ ml
+SHA1-Digest: 2Tru0h1vomqxuzyhsypQvDMHy5A=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterBase.StringComparator.html
+SHA1-Digest: 379WhIEYIPOqEp8BFU2OI5EHUdc=
+
+Name: reference/api/org/eclipse/actf/util/vocab/AbstractTerms.html
+SHA1-Digest: KC/FXk3TTiYfUF7SK4Ct0oABjPU=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/package-frame.html
+SHA1-Digest: yQJpL7ljVvl6teU5ahKFKk5bi+E=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/HeadingsData.html
+SHA1-Digest: Lqge3MWgd4lFMj4JJm6CRC0LAj4=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/ISecretManag
+ er.html
+SHA1-Digest: moyEdQKbMXodI6S/Mdu4YlRBd7k=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/class-use/ODFConsta
+ nts.html
+SHA1-Digest: 328R4rrZori+XkbslnlvZdfDvPc=
+
+Name: notices.html
+SHA1-Digest: Kxz4EBrVWsQhH5gj0jod0wefpEI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/xlink/class-use/XLi
+ nkConstants.html
+SHA1-Digest: 9byw1Al1nIAWBy95IkqlA3FSKkU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/package-tree.
+ html
+SHA1-Digest: Ewu28LOi1ZvTlDBftwTh5DSHVGQ=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/class-use/IPosit
+ ionSize.html
+SHA1-Digest: m5WL/szk20Fjne42dFNZNiVMw4I=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/ILowvisionProblemSubtype.html
+SHA1-Digest: mzrcDyfMNXDP+bYTFEPMN/ngz64=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/class-use/Log
+ ger.html
+SHA1-Digest: I3fY3rrSD6O7xBGubQ5WA09Mf6E=
+
+Name: reference/api/org/eclipse/actf/visualization/gui/package-summary
+ .html
+SHA1-Digest: p9DDmNp2XBnhjAUSmmXgzL2M3r4=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/package-tree.html
+SHA1-Digest: 1tjRpGfe9Gv0JoPko23w4ePeTlI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Form
+ Element.html
+SHA1-Digest: cz+r/nBn8q+UTVJDOCH7XV0KT20=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/CheckboxElemen
+ t.html
+SHA1-Digest: NFmcgPEczzp2u77i/EFAxyC2GFY=
+
+Name: reference/api/org/eclipse/actf/ai/tts/ITTSEngineInfo.html
+SHA1-Digest: Al+YHM4ZBqlHk6BG15hmYfi345M=
+
+Name: reference/api/org/eclipse/actf/model/flash/FlashPlayerFactory.ht
+ ml
+SHA1-Digest: QlIzI4SYb67s2KXpHaGg5qTWYMs=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/ProblemItemImpl.html
+SHA1-Digest: NVNuUUYldN6OVPuiniatTsVqv78=
+
+Name: reference/api/org/eclipse/actf/model/flash/package-use.html
+SHA1-Digest: hi2BAbUd2iw/0xO/sOu3O+zQo94=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/IVoiceBrowserView.html
+SHA1-Digest: shPMaCRlvQOfW1Hqt0c8lUI32Mo=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/ui/ac
+ tions/package-summary.html
+SHA1-Digest: KCYWMjlPES7LsIS4KslkYIi1a+I=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/package-summary.html
+SHA1-Digest: OVTdxX6PvqMizMKK/RXt/ncJF1k=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/IHTTPProxyCo
+ nnection.html
+SHA1-Digest: nOn7LKKcfxV6ZLTGItR9Sr/pyVU=
+
+Name: reference/api/org/eclipse/actf/ai/tts/ITTSEngine.html
+SHA1-Digest: db/G3ia3RpqONUORM5L3/C9Gajo=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/package-frame.html
+SHA1-Digest: w3d+X02UKx5IL0UfAWq3EXJzdAE=
+
+Name: reference/api/org/eclipse/actf/model/flash/bridge/class-use/IWaX
+ coding.html
+SHA1-Digest: HEUOqPAQvkPQPEQeHILymXL19c0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/package-use.
+ html
+SHA1-Digest: 2g0QcgUr0hD/83r6F0PeXA0q4sg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/DrawingPagePr
+ opertiesElement.html
+SHA1-Digest: hJOrbugJIjJdnLCFXmjd1VHBD/U=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/class-use/HeadingsData.html
+SHA1-Digest: TRP2chtKe9A/ltW7MPeJBxzpgro=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IS
+ ecretManager.html
+SHA1-Digest: zX0e5pYFTJR498UuufYP41uie84=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/PreferenceUtils
+ .html
+SHA1-Digest: Y3UBg0FjUuPwq0HO2Ia0GAAX9Pk=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/package-summ
+ ary.html
+SHA1-Digest: N8JGB9QO0LGK4E1Bz0YCPiuRNvE=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/package-use.html
+SHA1-Digest: hW0jwOwd/2O2673YTuXDqqZd2Y0=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableLabelProviderLV.html
+SHA1-Digest: 3MRxc61PfJ0z8jiXrWKkInBEBIo=
+
+Name: html/model/htmlparser.html
+SHA1-Digest: 2CPZPDlmIU9jn7DPXBryfJ+E1xk=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/class-use/VisualizeReportUtil.html
+SHA1-Digest: Z2Ml/HjwNeeFyTWy084UngwHHgM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/package-tree.h
+ tml
+SHA1-Digest: 91Ff3DqNoyLW+DpIy/pS+ApQcV0=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefInt.html
+SHA1-Digest: I/OuAZFkZNSo1JrpqP9J9rcYUWQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/class-use/ODFF
+ ileUtils.html
+SHA1-Digest: SBl0jEjMzKdiIc21jrtUunnPPZI=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/ASDeserializer.htm
+ l
+SHA1-Digest: sRwkXEnN2QRD50oUJtqm296x2Mg=
+
+Name: reference/api/index-files/index-16.html
+SHA1-Digest: 3Xzsx0a0GX5CTiYO5aJmaankwcA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/class-use/Title
+ Element.html
+SHA1-Digest: jZE5nQHAfJwsJ3V44bgHOnQqfl4=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/actions/package-frame.html
+SHA1-Digest: QtNQ87EsiLmkYq2lK2+NwMelUCg=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fByte.html
+SHA1-Digest: MpAjxZHS8lJxh26ljAF9xoO75Vw=
+
+Name: reference/api/org/eclipse/actf/model/ui/package-tree.html
+SHA1-Digest: 6A8yibuKVI3FaA9QcqIyMoj4nt0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ListStyleEleme
+ nt.html
+SHA1-Digest: 5oNMAuDdUq4DtCGJJs1Q4afmbHU=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/StatisticsDataFormatException.html
+SHA1-Digest: LYv8jZKAVk8vu2PaP3qT4o58g4E=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ChangeElement.
+ html
+SHA1-Digest: 80038Bm27C2at7nFgLHJQYUH2Hg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Chan
+ geStartElement.html
+SHA1-Digest: 8VRmoun5Xjnpu+3AadSp3AwR8RU=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/package-frame.
+ html
+SHA1-Digest: ql+Y6pKYouOPkzZUZy9wk5QhWQA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/MasterStyles
+ Element.html
+SHA1-Digest: /xCx7Kc2snxjggM3Eylo5Dp1MKk=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/Guid
+ elineHolder.html
+SHA1-Digest: Fso/ot5keSYhRRhIJMo4y5FZg9M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/BookmarkElemen
+ t.html
+SHA1-Digest: fIolfbx5XF4PCmkEyH/yzxrqGUo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Tab
+ leRowPropertiesElement.html
+SHA1-Digest: X7qN/f6s/j2jb8begbsjWRHbVqA=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IStyleSheets.h
+ tml
+SHA1-Digest: JcxjcJ/MGN8OCkKQcES1Scg16MA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Opti
+ onElement.html
+SHA1-Digest: 2aELuptkc47C26Un+BVWa2zNopw=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/eval/
+ class-use/EvaluationResultBlind.html
+SHA1-Digest: Fnw3jg9/1dtqGslmVid39RrmSuo=
+
+Name: reference/api/org/eclipse/actf/model/ui/class-use/ModelServiceSi
+ zeInfo.html
+SHA1-Digest: IRMJdrZ8HFIegh4G92eLku5t3d0=
+
+Name: reference/api/org/eclipse/actf/mediator/class-use/Mediator.html
+SHA1-Digest: TmXBkAjIDbUfQd0zgt+KA1yyw1s=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterBase.LinesComparator.html
+SHA1-Digest: f98c9sh8ZVrOJQnhpvff6l+yISo=
+
+Name: reference/api/org/eclipse/actf/util/win32/msaa/package-tree.html
+SHA1-Digest: f62xZ3RJQknLvRS3O9JoKiFcfcY=
+
+Name: reference/api/org/eclipse/actf/util/comparator/ChainComparator.h
+ tml
+SHA1-Digest: pGKYbiS8zt9Px8EyXz5oxxOANA4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/StyleConstant
+ s.html
+SHA1-Digest: IKXcZvtFoPje3D3YsnAioPQCDDM=
+
+Name: reference/api/org/eclipse/actf/mediator/package-use.html
+SHA1-Digest: LgEmfpng20Z6nWx9RJ6c17lhDXs=
+
+Name: reference/api/org/eclipse/actf/util/xpath/package-use.html
+SHA1-Digest: Cx2fc1g8AkZ8ZXOEhgGhDFpEydc=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/class-use/OO
+ oEditor.html
+SHA1-Digest: 2CU0bRwpXhhlCZcWGXnn0jrenaM=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/IProblemItem.html
+SHA1-Digest: qjIQbbrALDCYLsc1I8QVPBC3sXU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/package-summar
+ y.html
+SHA1-Digest: 4PfAuDeaPUIby7p5hHbzPqMYhP0=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/package-tree.
+ html
+SHA1-Digest: X2mTOMN4u5RuFVG5Hw/ORfb8hew=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/clas
+ s-use/Html2ViewMapData.html
+SHA1-Digest: zOaV6zTRzS7q/sHIO4fQZx+nqDA=
+
+Name: about.html
+SHA1-Digest: 6iWCOXZprfOub4LeuEsP3zx5AiY=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/BlindVisualiz
+ erHolder.html
+SHA1-Digest: yblvlbPcwt2hKY/qKqww4Qg9moM=
+
+Name: reference/api/index-files/index-21.html
+SHA1-Digest: DyNt/wCQnANzzbjZPA5b/PhDcVA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Alph
+ abeticalIndexSourceElement.html
+SHA1-Digest: Um7/OUVUg/r5Yh80usraXTDa6gg=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/Vocabulary.h
+ tml
+SHA1-Digest: lUwiNTFrOO2ru+G+RTMbCgBCaoM=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/package-tree.h
+ tml
+SHA1-Digest: R2eY89tadrykosiJPRZ37mBVejc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/package-frame.
+ html
+SHA1-Digest: 2cXFYmKcybonHSrTaSIvVB/EKwo=
+
+Name: reference/api/org/eclipse/actf/model/flash/bridge/class-use/WaXc
+ odingFactory.html
+SHA1-Digest: M1/JIgvH2T6KJzIJ0r6MqRbyiWg=
+
+Name: reference/schema.css
+SHA1-Digest: +JDNrlm4djGBhkZ6rrJGhGOtQ8o=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFC
+ haracterData.html
+SHA1-Digest: Yqt4q7j0GUbwfxnb6EAaaDjWfOo=
+
+Name: reference/api/org/eclipse/actf/model/flash/class-use/IFlashPlaye
+ r.html
+SHA1-Digest: vBNlOGsSgNrxj2iRS9pG/LrXS94=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/package-summary.ht
+ ml
+SHA1-Digest: F5UQudQMyxk1QkJdj2vTASKOqIw=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/package-summa
+ ry.html
+SHA1-Digest: 3f0JAGXb6SA4nM47USuOVAoUdfg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/FontFaceDecl
+ sElement.html
+SHA1-Digest: XnhQeff6Fi4lbl+j30wj/Y0ahZ0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ package-use.html
+SHA1-Digest: 1fMEnDCLBqyB9ml/+8MmIHD+Oso=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /IWebBrowserACTF.html
+SHA1-Digest: LFqt0lRVV5GDQJqRZjOLfuAzqgg=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/class-use/ImageException.html
+SHA1-Digest: wpQtZPvD/vS0//wLxC1catX/vJo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/package-use.h
+ tml
+SHA1-Digest: OzfmM3KhfmVNllZv8FshUegL5Fo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/Presentation
+ Element.html
+SHA1-Digest: z4IrD37chkc0nKmRHCl4NzrIxWQ=
+
+Name: reference/api/org/eclipse/actf/model/flash/bridge/package-summar
+ y.html
+SHA1-Digest: r3ituuKi3G91cLFiaFr6LUuGKPA=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableLabelProvider.html
+SHA1-Digest: sG+oPc7m38y71ThYQa10MzHQM/U=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/class-use/ProxyCon
+ fig.html
+SHA1-Digest: u5gOaWbtnY9uOE8d9gV4t5bcbxo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/presentation/packag
+ e-use.html
+SHA1-Digest: paHR5Mp6nQkKHE9G7CZFNMtNnq0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/ODFC
+ onverter.html
+SHA1-Digest: IEJu4AxQnjzcmg10sKi8oALM5B0=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/Messages.html
+SHA1-Digest: JFVLPxV2S2EpUTl2OBko1TkzrjU=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/ProxyConfig.html
+SHA1-Digest: WfioqRN5XzhjuzCtXTJ0vu2oN10=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFC
+ omment.html
+SHA1-Digest: c1tqOSy+qqm5F9QHVjuGz/wlTvg=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IH
+ TTPLocalServerFactory.html
+SHA1-Digest: 370RMN0eLs1+1Ax2o/eeOSF9K5E=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Gri
+ dElement.html
+SHA1-Digest: ExVUwVBCQzMLLYYCNOK1PGjl6LI=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/clas
+ s-use/GuidelineHolder.html
+SHA1-Digest: btQ4nOr+kksjbe/yY2b1B9ST+mM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/StrokeDashElem
+ ent.html
+SHA1-Digest: nvcSyB17lVfutU/zuFOiZXZWrq0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Inde
+ xBodyElement.html
+SHA1-Digest: cyoviHatv8Il5tDbvTVxxDXtXXY=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/package
+ -tree.html
+SHA1-Digest: G6C8O5fxQXPbCR73rbx83luDaN8=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ kicker/package-tree.html
+SHA1-Digest: /teFilNbAzWy33YhpGdjw9YTKCI=
+
+Name: reference/api/org/eclipse/actf/model/flash/bridge/WaXcodingFacto
+ ry.html
+SHA1-Digest: G4tSSxRe807TtupV6uZ3zDB3XdY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/package-tree.h
+ tml
+SHA1-Digest: mZ6nmkK5h2sDJem5Zq0HFWLXC4c=
+
+Name: reference/api/org/eclipse/actf/util/xpath/XPathServiceFactory.ht
+ ml
+SHA1-Digest: uo1Gkb5nvmlDkw3UaGO5ArUEl1k=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/DispatchExce
+ ption.html
+SHA1-Digest: gj6X5tYPcCye8hC6/t/Xme94zmI=
+
+Name: reference/api/org/eclipse/actf/ai/voice/class-use/VoiceUtil.html
+SHA1-Digest: 6W8Xu7S/mHPimQkl/MiDSHFD0Bc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/class-use/Tex
+ tRange.html
+SHA1-Digest: Pr2imCRN1I1pNqnnpOhcP10hc+8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/NumberConsta
+ nts.html
+SHA1-Digest: zidxnByg7WyCocfiDEZZKnqzfa0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/TextConstants.
+ html
+SHA1-Digest: /oU5CoR4i8ND01Ow3A7u3oeFDvM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/OptionElement.
+ html
+SHA1-Digest: OVAm3taE5jnX6N5147YMR5Sb4IM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/Param
+ Blind.html
+SHA1-Digest: 32+HRuDkGWaayIpdXwM1+d0TSPk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/presentation/packag
+ e-tree.html
+SHA1-Digest: 2TCMqSoKqXcJ58NufPVMPgFu50g=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ util/HtmlErrorLogListener.html
+SHA1-Digest: vHViJ6DcnbbIgMOeTDRkksPJGEY=
+
+Name: reference/api/org/eclipse/actf/visualization/util/package-frame.
+ html
+SHA1-Digest: r6Oa0PjzOzPobNAUcm/dsGYU1AI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ class-use/SimulatorCreator.html
+SHA1-Digest: ehSZj1Fp84bzKIYSoGfGcT3BxMA=
+
+Name: reference/api/index-files/index-9.html
+SHA1-Digest: O1sagA6DziHc8BQu/RLIoWtBVSI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/package-tree.html
+SHA1-Digest: kgJiekZAMnU5PeVVfjWYsmTdsVI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/class-use/IElementViewerInfoProvider.html
+SHA1-Digest: U0xhHIjIaw+birrwNI0odZTkum0=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/Vocabulary.F
+ lashMode.html
+SHA1-Digest: uCo+VaG4iqJy0huLrR9JPe0hvzQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IEle
+ mentEx.html
+SHA1-Digest: JqRRSgnxfjc96dOuBJE377jvfww=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/HatchElement.h
+ tml
+SHA1-Digest: +XOCeyqxjZmGW8mJmO7SZfoTWRc=
+
+Name: reference/api/org/eclipse/actf/util/win32/COPYDATASTRUCT.html
+SHA1-Digest: iwhDy0Hh+eDRjOmSPh6JkSiUOkA=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/class-use/ISen
+ dEvent.html
+SHA1-Digest: tZgdJczaWzJz/ywgkqgVtrTnSEs=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/WaitExecSyncEventLi
+ stener.html
+SHA1-Digest: t8hD7ZBSklm4YpXa8EAYgbNTqWc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/IStylable.h
+ tml
+SHA1-Digest: 2MxXIguwnqJUYlf5OLhGFRIqRb0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/CoveredTableC
+ ellElement.html
+SHA1-Digest: sRPrUAUcuFSqF6RHvbzthvcDztE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/class-use/Tab
+ leConstants.html
+SHA1-Digest: odvB7p+Fo+3WmWsVVu+aBrjuNxw=
+
+Name: reference/api/org/eclipse/actf/util/dom/class-use/WhatToShowNode
+ Filter.html
+SHA1-Digest: ms3oTK7JzSjsR54NUXJqISIq2W4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ListElement.ht
+ ml
+SHA1-Digest: 3ISVzJXd/6qOzcW9ZSKASZAITRI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/VoiceBrowserControllerFactory.html
+SHA1-Digest: ZZU/iWLUcGsIcmGh/WBYH0bJ4mc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/class-use/ODFW
+ riter.html
+SHA1-Digest: nfSfBxAFcFlPbL2gg6dfhgJeKIw=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/class-use/ASObject
+ .html
+SHA1-Digest: Du7mThYs8GIHfw3kgrG1tQaVig8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/class-use/Nu
+ mberElement.html
+SHA1-Digest: JxkWwvs/BYW3zLfZGsmmx4uKtoA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/ITec
+ hniquesItem.html
+SHA1-Digest: ZHDLoxOaE4Fyz7Tv32aYFS0Lf6U=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/ITextElementC
+ ontainer.html
+SHA1-Digest: 771ESB+B+OFqFYjrgeqhBro5KJE=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefByte.html
+SHA1-Digest: SSboqmFBjhD8Xh7V6oTW9v2WWRk=
+
+Name: reference/api/org/eclipse/actf/visualization/package-summary.htm
+ l
+SHA1-Digest: Ylasjj+ab+FEYY8wd34zsTnJjBA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/package-frame.html
+SHA1-Digest: xEvShGYb2QqIXsqHdT9Qa2hfeQY=
+
+Name: reference/api/org/eclipse/actf/ui/util/package-frame.html
+SHA1-Digest: 3kfn9JCxmPs/qs5HAt0CtfjonkU=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/IChe
+ cker.html
+SHA1-Digest: uB2oEevKWj8QuGicvJDazQWMTgc=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ IBlindProblem.html
+SHA1-Digest: GWloIKNfpd6LBn0Xlve0GS+Fsbc=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/DelegationTe
+ rms.html
+SHA1-Digest: fCO0O2puD0pSMI7E3RFNfw/pa08=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/format/FormatConsta
+ nts.html
+SHA1-Digest: 64Xn5N90H7J/zL/yimJ4VrE4IJ8=
+
+Name: reference/api/org/eclipse/actf/util/comparator/class-use/ChainCo
+ mparator.html
+SHA1-Digest: NJlo16mWEsbbjMWZy50SH0bCCkc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Cha
+ rtConstants.html
+SHA1-Digest: Zt9y34t0lzjSRxheb96hbnQEVf4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Lis
+ tLevelPropertiesElement.html
+SHA1-Digest: RxXYByTTa6hO/CVSMWu1o0ETbqg=
+
+Name: reference/api/org/eclipse/actf/ai/tts/class-use/ITTSEngine.html
+SHA1-Digest: jNRIQZxKnMG1LQ0lFo0wQp8f1FU=
+
+Name: reference/api/package-list
+SHA1-Digest: QYjh5Ao0ayeiUqyJZxPZUFPQjmk=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /WaitForBrowserReadyHandler.html
+SHA1-Digest: N7NNHjRW6qMj/msC3aYwexJhIfE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/AEle
+ ment.html
+SHA1-Digest: 6zGbt9DgpCYNCkiCQ0r0Guq7OkE=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableLabelProviderLV.html
+SHA1-Digest: 48jSQtUd94YTgbSNWXml8/0OW2Y=
+
+Name: html/actf.html
+SHA1-Digest: gNkjvVmkwETjdG8wehYL0hKljaE=
+
+Name: reference/api/org/eclipse/actf/util/comparator/SimpleStringCompa
+ rator.html
+SHA1-Digest: cCCse7FS0l/aUIDHBkIEZkF98q8=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/package-s
+ ummary.html
+SHA1-Digest: /U8lwzenz7YEMdKtI/NrFTftnXY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/ImageMapElemen
+ t.html
+SHA1-Digest: yaBnsgn4hkugVxkbbXv2DZ0sxOU=
+
+Name: reference/api/index-files/index-17.html
+SHA1-Digest: /bF9YIOG9DdzkL0YJYG7+WfslyA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ class-use/IVisualizeMapData.html
+SHA1-Digest: t2OTtvHvDlFpbMf0P3rYDbup8nU=
+
+Name: reference/api/org/eclipse/actf/visualization/util/RadarChart.htm
+ l
+SHA1-Digest: nuu7sm32X3GXArc5A0yn1CilImE=
+
+Name: reference/api/org/eclipse/actf/ai/tts/package-summary.html
+SHA1-Digest: RTOOn6APWcxdN/aHNJbABFt2/4c=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/AxisElement.h
+ tml
+SHA1-Digest: 2HJ8aCWKN67LE07SiW2PvNSeQ08=
+
+Name: reference/api/org/eclipse/actf/visualization/util/html2view/pack
+ age-summary.html
+SHA1-Digest: 8VRe1Vhr8nhesbyOBi9SPsPTijw=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/class-use
+ /HtmlTagUtil.html
+SHA1-Digest: vzith6qwT5SVFh6Jx5juThD7YEY=
+
+Name: reference/api/org/eclipse/actf/model/flash/IASNode.html
+SHA1-Digest: t60+66INa6BeQCgMKjSb0+uWVgo=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IPushbackMess
+ ageBody.html
+SHA1-Digest: pwRtKuB3vyGRAcomTC9CuWsiX5g=
+
+Name: reference/api/org/eclipse/actf/ui/util/timer/class-use/Yield.htm
+ l
+SHA1-Digest: A34Vc4YxpYhuLGXj/ayAcniM98I=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/INod
+ eExVideo.VideoState.html
+SHA1-Digest: NcQG/DXVGJE/Z2Snma7jf6ePhoU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ITextContent.h
+ tml
+SHA1-Digest: qBm8i62DBVw+TbVxmHxcj5rv/1w=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /IWebBrowserStyleInfo.html
+SHA1-Digest: yj3JRSRSGjyaa7nFbE/JdUASN8w=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/ODFC
+ onverterCreator.html
+SHA1-Digest: rL3ftQUxPo09noUJ3B5nMB78A+A=
+
+Name: reference/api/org/eclipse/actf/model/ui/ModelServiceSizeInfo.htm
+ l
+SHA1-Digest: 4qJ7uW+KB9/XRufyIGjiXqfG+fA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/actions/package-tree.html
+SHA1-Digest: QCFF3WVPWo78uNpnBUuUe5E/Lhk=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefObject.ht
+ ml
+SHA1-Digest: vtOsLIktPNcZTwn/0AqBdKJRb38=
+
+Name: reference/api/org/eclipse/actf/ai/tts/ISAPIEngine.html
+SHA1-Digest: wkQvvsGotlgBqND+LzUB9UODJ+M=
+
+Name: reference/api/org/eclipse/actf/ui/util/ImageUtil.html
+SHA1-Digest: 6ECPGTIvXwsQkoQVePlG/KVTHac=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/VisualizationCan
+ vas.html
+SHA1-Digest: /4KRrNcRRbEc70HP8vMXOteGxVM=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/IHT
+ TPResponsePushbackMessage.html
+SHA1-Digest: QXdZIcmf0OleI85hWnOKy6Q8PZQ=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/class-use/IScaleVa
+ lueLabelProvider.html
+SHA1-Digest: m+dOE0+BowVPB929LBaxTwlLphE=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/packa
+ ge-frame.html
+SHA1-Digest: se6m2ZkDEnEgzQpcSCZMbj5A+HQ=
+
+Name: reference/extension-points/common/org_eclipse_actf_model_ui_webB
+ rowserEventListener.html
+SHA1-Digest: GNBIuWXjzHZuqa6AxCzCfxszCIw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/class-use/Ligh
+ tElement.html
+SHA1-Digest: af5Km/KRUnzpqHN0McG7nbl+BtA=
+
+Name: reference/api/org/eclipse/actf/visualization/class-use/IVisualiz
+ ationConst.html
+SHA1-Digest: wgqZMGJm8pQCiuXQRkkzQc4zAfc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/package-use.h
+ tml
+SHA1-Digest: 1wO4jp+Wo+JD5w+shboAXIGNlVw=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/package-tree
+ .html
+SHA1-Digest: od5+JTkxjdfu7/Y1ygkeJE3lB/c=
+
+Name: reference/api/org/eclipse/actf/ai/voice/package-summary.html
+SHA1-Digest: poj8yhqeglMedBblrcary9L1zEM=
+
+Name: reference/api/org/eclipse/actf/util/win32/msaa/package-use.html
+SHA1-Digest: Ay+QPVHw1pJqhvIoCh8FrTIsD54=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Tabl
+ eOfContentElement.html
+SHA1-Digest: ClZXaRX2qShyRercV7lMCl2DPGA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/HighlightTargetSourceInfo.html
+SHA1-Digest: ldZ5/KbN/lJXReqX/W9tvBmN7bs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/anim/package-frame.
+ html
+SHA1-Digest: ejV0SaHCjKxa84zwuwMNYL1+1Do=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/AsVersionChecker
+ .html
+SHA1-Digest: pSvLxqqeoF6oSsnMxlhTeN82uwU=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/DefaultWe
+ bBrowserNavigationEventListener.html
+SHA1-Digest: ko9Towus0Go9cOJpK3hL3XTb70U=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ class-use/VisualizeEngine.html
+SHA1-Digest: 5TfgYLUGYPfSG8Ov9BOKL8Z6cEk=
+
+Name: reference/api/index-files/index-22.html
+SHA1-Digest: M56C8+DVmzte1p9H/Ad16rx0tEo=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/eval/
+ package-tree.html
+SHA1-Digest: Pb7LkzfY56cu4eWJ4GyCjHHwrj4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Wal
+ lElement.html
+SHA1-Digest: uT4m5ungsexQ2Y1/IETi1Ej56zY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/DateElement.ht
+ ml
+SHA1-Digest: cNr5NE5myDFHnLwBXWHqVt4x+GA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/format/class-use/Fo
+ rmatConstants.html
+SHA1-Digest: uHhr1RtE2o4U4M6AWuzk8YHrrLs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/class-use/DescE
+ lement.html
+SHA1-Digest: VQJrkKj1GN/3eq7JC4HtOnwQlgY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Tex
+ tPropertiesElement.html
+SHA1-Digest: p13MoIsuPzqCWGNL4eWsuxLNQZ8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/pack
+ age-tree.html
+SHA1-Digest: eWDOdDZsu5iU9667H+Z45gdF3nY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFText.html
+SHA1-Digest: RpUumvQzdetXsx4G5YD7ASFA7Aw=
+
+Name: reference/api/org/eclipse/actf/util/vocab/package-summary.html
+SHA1-Digest: vreOYuDN0k63qTFzD++LZBqu9Lk=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/IHtm
+ lCheckTarget.html
+SHA1-Digest: S/+IYoNtomJp2wbrs64aDRyZHsY=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/eval/
+ EvaluationResultBlind.html
+SHA1-Digest: Weq1aucFYIEjY+Tu1Nqcu4gllfo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/class-use/ODFExcept
+ ion.html
+SHA1-Digest: TwL5MkVdBTfkTOofr1X3OUXRrBU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/AreaPolygonEle
+ ment.html
+SHA1-Digest: Kr93ZYbv69rXwVUHNiFAUsR53uU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/class-use/I
+ Editable.html
+SHA1-Digest: dih0V1VL3lWo4YI/xrxQOWM0BK0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/TextareaElemen
+ t.html
+SHA1-Digest: FafNl9sR12AX5eL+bm3LGo1wPqs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFN
+ odeList.html
+SHA1-Digest: 9sElfv5GNLc6p/IkSBqB8IjhsfU=
+
+Name: reference/api/org/eclipse/actf/mediator/IACTFReportViewer.html
+SHA1-Digest: T3gimmM5+Zv/pGUBnPR/8DL2BvI=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterBase.html
+SHA1-Digest: /hqopHE2Wo7KCytIYghcMjwUJoA=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /ICurrentStyles.html
+SHA1-Digest: NYnmBDlPW15DniSV8VkWBDEk60o=
+
+Name: reference/api/org/eclipse/actf/util/logging/package-summary.html
+SHA1-Digest: M9o9UWzgl1/PXx2/6pPb/AVowHs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/ODFFileUtils.h
+ tml
+SHA1-Digest: MgcoDt34BR0RbKO+erM/8JMGic4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/package-tree.ht
+ ml
+SHA1-Digest: ZlA7qGfnX4pBo9CXFlt1EveW9IQ=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterLV.html
+SHA1-Digest: 6djlVgy9tk1jtilWWbPQJSXY0MA=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IStyle.html
+SHA1-Digest: QC5IOkenbFB+roqSbkCNOpmUcxo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/package-use.
+ html
+SHA1-Digest: I7vX56PbwnaL1eksSlbOR0soAmY=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/package-tree.html
+SHA1-Digest: QT3010Z6y4AhD3HntILHXVKvscw=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ChangeStartEle
+ ment.html
+SHA1-Digest: wC25iB6wZ3U4Kz01lPRMHBR9iNk=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/package-tree.h
+ tml
+SHA1-Digest: rFwEXDVS1VAPNlJ5ta1+n4M4d14=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/Proble
+ mItemImpl.html
+SHA1-Digest: 9A81j3Cxt0lHipefdJSOdj4yMCQ=
+
+Name: reference/api/org/eclipse/actf/model/flash/proxy/FlashCacheUtil.
+ html
+SHA1-Digest: 1Xl+VG5sDrPtzGckndNgvfgVF6o=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/ComService.h
+ tml
+SHA1-Digest: fw5dNg2SVRMCVlHc4wMCMFngJas=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/IParser.html
+SHA1-Digest: XE+wPWqFdyoMXKHT7mVJlsQVV60=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/pac
+ kage-use.html
+SHA1-Digest: 5r4XaJVDaEpBU4ayMV7x1NVEYVI=
+
+Name: reference/api/org/eclipse/actf/visualization/presentation/packag
+ e-use.html
+SHA1-Digest: OxbwCp2i+lfgJKYbngd4ScquDSs=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/IChecker.html
+SHA1-Digest: WI41c1saXQaDtLijO1OGjKj67oo=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /DefaultWebBrowserNavigationEventListener.html
+SHA1-Digest: bEueJ3oIBV2vIM3xw4H2aYmt7IY=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/package-frame.html
+SHA1-Digest: 8zT42UZbIHK+rsFNBq7y0sOXcWI=
+
+Name: reference/api/org/eclipse/actf/model/ui/ModelServiceImageCreator
+ .html
+SHA1-Digest: nLgnRGXhY+QrwVH7XtntPVIod7g=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/ElementViewerManagerFactory.html
+SHA1-Digest: 2GTu8xh9974IuNXpPgRbyXvSpzM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/anim/package-summar
+ y.html
+SHA1-Digest: gU2YciEbzwsWVW49M+KaDlBYvpg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/OfficeConsta
+ nts.html
+SHA1-Digest: tpTxqUopld5OlCfg2n4D8ewr1DE=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Br
+ owserHistory.html
+SHA1-Digest: zZd5PBPfI9Ci6osGG/jWB1MDwhk=
+
+Name: reference/api/org/eclipse/actf/util/dom/package-frame.html
+SHA1-Digest: YNl8QJsvPFYjDCenHWfR9FcialE=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/package-use.h
+ tml
+SHA1-Digest: ZKZ4sbMBYWBtXEvSB+HVzOVU8oE=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/package-summar
+ y.html
+SHA1-Digest: nEWFsN+VwXh//0HF2iGyeE7GuZg=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /IWebBrowserACTF.WebBrowserNavigationEventListnerHolder.html
+SHA1-Digest: fa7Yd5hlcedt10q87y2qsgKE8kk=
+
+Name: reference/api/org/eclipse/actf/model/flash/package-frame.html
+SHA1-Digest: BoexdBxRfcZssLf3u6mh5fDnXjM=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/IDispatch.ht
+ ml
+SHA1-Digest: 4WLpXJzME+IDV71/AJQWNmq2U04=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/packag
+ e-tree.html
+SHA1-Digest: SXZLc2Ar0539oXls02Tr3iIeGtk=
+
+Name: html/img/parser_dep_tab.gif
+SHA1-Digest: txNSHRfdTe7WzOZDifiisnAuXcQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/Cont
+ entBaseElement.html
+SHA1-Digest: PvhjK6jwQJzNhmXpWLc66VWNRpM=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/Highli
+ ghtTargetNodeInfo.html
+SHA1-Digest: zBnsThygEDLK+3Z2Av8CckkLfXU=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IFla
+ shNode.html
+SHA1-Digest: ovZrfO7SmeTI6bqAz2IPI9+NW/E=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Poly
+ gonElement.html
+SHA1-Digest: mtVK9kTkiKgaMRYSD3DCTwWI670=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/xlink/package-frame
+ .html
+SHA1-Digest: AC2CjzQBhkYrg92SIivNTZkZNcU=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/package-tree.html
+SHA1-Digest: KTOwxYezp4PyU4XabG9Lm4Eiofg=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/IHTTPLocalSe
+ rverFactory.html
+SHA1-Digest: YkBdDJ+H27IhPQ4aIY9dYlCg1I0=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/IWebBrows
+ erStyleInfo.html
+SHA1-Digest: tfS1k3UYIM+WZr9MwMKDRnioyKM=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ VisualizeEngine.html
+SHA1-Digest: BK8DemkM5q8zHkynfBrT7BQxOo0=
+
+Name: html/checker/wcag20.xml
+SHA1-Digest: kqdM86Trgl6bYkfAB6aIa5h03X0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Sty
+ lePropertiesBase.html
+SHA1-Digest: sIq6I/BuoDga5Y8E29Z9/lp/uO4=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/class-use/Bli
+ ndVisualizerBase.html
+SHA1-Digest: zLfr35Yv85liiNoD7lHjK0+i3/4=
+
+Name: reference/api/org/eclipse/actf/visualization/gui/package-use.htm
+ l
+SHA1-Digest: 1ukfPHWu+m1m4evy7GusLMgJuB8=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/IPacket.html
+SHA1-Digest: GaGdvaGj3+peh0PSZXfaDiTY8ac=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/StockRangeLin
+ eElement.html
+SHA1-Digest: hs0K/58YtPuFlnbxbtTvOpsXZNE=
+
+Name: reference/api/org/eclipse/actf/util/vocab/IProposition.html
+SHA1-Digest: qjcUaQIi54pMPoWldBac8/Mgx90=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/IPacketCollection.html
+SHA1-Digest: fVonjyK93fGx4HWMIRg0RxUBlyE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Ch
+ artElement.html
+SHA1-Digest: a324YUBVnFOhAcJ05kXPw7XTkRQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/PolygonElement
+ .html
+SHA1-Digest: 9bnbOlvowJTGCpCFi3M3hLHY38c=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/number/class-use/Te
+ xtElement.html
+SHA1-Digest: yLWY8Ma+Wu4DXiSmDnnu6fEK5rY=
+
+Name: toc.xml
+SHA1-Digest: NnvZ89vP5rW3Mk7xnyPgs8dSy+s=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Pag
+ eLayoutElement.html
+SHA1-Digest: L+v1NQ0VPQhdoy089u0/IyGJZVo=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/IContext.html
+SHA1-Digest: SLDGAcXQI91FOqQ5jbKxpmw8wFQ=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/pac
+ kage-summary.html
+SHA1-Digest: jpDsZmvDCqCtuhr/jS8ra2qgO88=
+
+Name: reference/api/org/eclipse/actf/visualization/presentation/packag
+ e-summary.html
+SHA1-Digest: u44GMdgOGQrdjPQ4UgbrfuRrtBc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Area
+ RectangleElement.html
+SHA1-Digest: OwiAz/Y8J7sSjAA7NwI10e6CE5Q=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/ChartConstant
+ s.html
+SHA1-Digest: 4/V6Y1wAv1fKtC5TR2IvYbR5l7M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/class-use/ODFConsta
+ nts.ContentType.html
+SHA1-Digest: abUPD0TMY/cLW45EDP3ywysy4yk=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IRule.html
+SHA1-Digest: IdoloqSUiyZjaUgZeN53dqWPy68=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Met
+ ricsLabelProvider.html
+SHA1-Digest: 4G32Q568QiPIW8Fu4LFOSyQlHrg=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/PageData.html
+SHA1-Digest: hX7OJEazj2uTP4sISVap5KLQCYA=
+
+Name: reference/extension-points/common/org_eclipse_actf_model_ui_brow
+ serFavorites.html
+SHA1-Digest: vmM8uv+V2usVuJz9jNa0+5Ozq6A=
+
+Name: reference/api/org/eclipse/actf/model/flash/as/package-summary.ht
+ ml
+SHA1-Digest: K87OEGw0Wdmth0ZcTyjlOxRXj98=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Def
+ aultStyleElement.html
+SHA1-Digest: eLBYrELLvFBM/wCDKp15w+TCd+Y=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/package-summ
+ ary.html
+SHA1-Digest: z1Bovh45ukouCJCWfGlJ2a3O7wo=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ util/package-summary.html
+SHA1-Digest: vKW6auOL8qPGiqF8VUiICU5lXSc=
+
+Name: reference/api/index-files/index-18.html
+SHA1-Digest: +1UwfDv7SmH2Am/qWZKsnc08njM=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/NativeIntAcc
+ ess.html
+SHA1-Digest: oCMRzPnuudYsZjHQBDkbSHmxpO4=
+
+Name: reference/api/org/eclipse/actf/model/flash/class-use/ASAccInfo.h
+ tml
+SHA1-Digest: 2k0h2e8KE9tNEVndxHAtHSf4LCY=
+
+Name: reference/api/resources/titlebar.gif
+SHA1-Digest: 4E7B5mioLrG2v8/BO+8OflOBGoQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/TabStopElemen
+ t.html
+SHA1-Digest: svlH1PcDOhMbe9poQvOUWEi+R50=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/Frame
+ setErrorHandler.html
+SHA1-Digest: 3AhkCu/KzXOxV/0oxLlFhgGzMnw=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/class-use/IElementViewerManager.html
+SHA1-Digest: xZ848XquYMZkq55TcyKj0cjopt0=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/WindowUtil.h
+ tml
+SHA1-Digest: VklBOmM23b+u4pmzirOGjolB4IQ=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/IPageStatisticsTag.html
+SHA1-Digest: 1aF7wcsVqT3DeRd7LdEOXDryyRg=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/i
+ mage/package-summary.html
+SHA1-Digest: Oyo4f66F9DB5T44fVD0i+V1qaSQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFCharacterDa
+ ta.html
+SHA1-Digest: LCoftkIxnwnPLN2T0FOSYNMH7WI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/eval/
+ package-use.html
+SHA1-Digest: 68wnwT0g0DdGvCcs1fCg9xgHcl8=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/IElementViewerManager.html
+SHA1-Digest: rzTQ/7bUTxnozAVFfz6YMXzygio=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ util/OOoEditorInitUtil.html
+SHA1-Digest: z3BjPjnGjh51sRxIJI3ZF3lqFS0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/Draw
+ ingObjectElement.html
+SHA1-Digest: +OJM4vMDxizTA91Upqwd41cwq4k=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/DocumentTypeUtil.h
+ tml
+SHA1-Digest: y+1+8P3+dLg4WRM1aDXEXnsmAno=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/VariantUtil.
+ html
+SHA1-Digest: bTIPfRrOYAZRaAENFq0ER9ipOMY=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/class-use/SwfHea
+ derParser.html
+SHA1-Digest: Bdh7+wHQ6j5SFlCxQjLMmLdlkWc=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/clas
+ s-use/GuidelineSelectionChangedEvent.html
+SHA1-Digest: iasWDwkhSouURXA8319b5UOVvbg=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/package-fram
+ e.html
+SHA1-Digest: FItTCZOyBuI9YtEsE0TaUrFYlY0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: reference/api/org/eclipse/actf/util/class-use/ApplicationArgumen
+ tUtil.html
+SHA1-Digest: Z1ykTZtq58Z+eLJXubaY57vxxYE=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IRules.html
+SHA1-Digest: 6lQy403CLYRyHHdwNKdcsniRWMA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/EvaluationResu
+ ltImpl.html
+SHA1-Digest: JGVeV+itTX4+setiXgJyR8Y99gU=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/class
+ -use/FormInserter.html
+SHA1-Digest: lxart0G35UXBLYhsnLtk28mzk6M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Dr
+ awingElement.html
+SHA1-Digest: YFUHjGcGIMrsdPqwiNslDXBxWbI=
+
+Name: reference/api/org/eclipse/actf/util/comparator/package-frame.htm
+ l
+SHA1-Digest: XtKq3ei1PT+slHnA/JP33xXl4oo=
+
+Name: reference/api/index-files/index-23.html
+SHA1-Digest: Ldi4KJi7RWJZsmDjh41DEr7loEw=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IIma
+ geElement.html
+SHA1-Digest: xXjXaoORsZmF+zQ2zYG9htc4jZU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/package-frame
+ .html
+SHA1-Digest: 4PMdR1+IMcGLihLcm0DZVNCRa3s=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/package-tree.html
+SHA1-Digest: iTfJ8ocEoQh5YtkPWr9E/hKPE8w=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/ListLevelProp
+ ertiesElement.html
+SHA1-Digest: gu/s655jwCkFz7wfg3sx+Q8gh5Q=
+
+Name: reference/api/org/eclipse/actf/visualization/package-tree.html
+SHA1-Digest: uA+4ctBihXDxu3Jpvro+LAgrXvQ=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/package-summary.
+ html
+SHA1-Digest: fAWu0oPJyWK9txQneV1JSZfFz0w=
+
+Name: reference/api/org/eclipse/actf/ui/util/AbstractUIPluginACTF.html
+SHA1-Digest: 0918DrlpoHwCbTtMlwMG0wN8Qeo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Colu
+ mnElement.html
+SHA1-Digest: jq61q6eTJBCPzUaIJqyPqXiH9V4=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/IBufferRange.
+ html
+SHA1-Digest: /2Q6qZHuZJgPyj+7QYgjTXmlwbY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/class-use/Tab
+ leCellRange.html
+SHA1-Digest: +wVpQK5sVRKAR+raR1cRqZhQ7Wg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/xlink/XLinkConstant
+ s.html
+SHA1-Digest: z9qEdoLGihASBaaIJFxqJ23X9vI=
+
+Name: reference/api/org/eclipse/actf/model/ui/package-summary.html
+SHA1-Digest: 2FLTE+2chrrdv13gPoxsvN8YoR0=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/INodeExSound.h
+ tml
+SHA1-Digest: cCofX0Z0pIaZWdbSMR46oK+Vf+w=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Cust
+ omShapeElement.html
+SHA1-Digest: VNNnlqNyo3cxS5wZTrTPy0k6Clg=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/IObj
+ ectElementFactory.html
+SHA1-Digest: LqsopzsdQzTsBKo6VzE+2+c8/s4=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/GoBackAct
+ ion.html
+SHA1-Digest: DEX0DmHNG91lvcbVnC9f0+iu0b4=
+
+Name: reference/api/org/eclipse/actf/util/comparator/class-use/SimpleS
+ tringComparator.html
+SHA1-Digest: 4IKnWo4lADsxInF6QippsymrxRI=
+
+Name: reference/api/org/eclipse/actf/visualization/IVisualizationConst
+ .html
+SHA1-Digest: w6QD2Cl/OmsNHdCq0kuzmIvuy9I=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/RectElement.ht
+ ml
+SHA1-Digest: iA194optRYcBkxskxeDYkgOGFAU=
+
+Name: plugin.properties
+SHA1-Digest: VdyPj9pxhEbX6OaVkVtJj3/UJxE=
+
+Name: reference/api/org/eclipse/actf/util/win32/NativeIntAccess.html
+SHA1-Digest: TZyNUYmiHSxn6JWAi9pcyNpe/SM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Stro
+ keDashElement.html
+SHA1-Digest: XFFM/qj/8FHm6H/27600QZd1XF0=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/IProbl
+ emItemImage.html
+SHA1-Digest: ANnm0NhBpSqOJIDKbBy++SXKjcc=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/class
+ -use/TRErrorHandler.html
+SHA1-Digest: rlD3KsBaeXZqsEsriWaH311mwLU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/class-use/Fixe
+ dTextElement.html
+SHA1-Digest: w0d/L0LabUPhHXX5+CZCAozyF7Y=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/IEva
+ luationItem.html
+SHA1-Digest: QXRSE5Aso+NjZFn8UxuBihXl0fI=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/INodeExVideo.h
+ tml
+SHA1-Digest: yGB0MhLa8xO/dvw6qlBip3ElbWg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/package-summa
+ ry.html
+SHA1-Digest: NDEiX58Na4UusG5NFPmLBPLXN08=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/manifest/ManifestCo
+ nstants.html
+SHA1-Digest: URqfIdYFcttRnWocC7xiNErcssM=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/class-use/IVisua
+ lizationView.html
+SHA1-Digest: xk5iR4CX0aHeyKq6XIQn+i9zDrI=
+
+Name: plugin.xml
+SHA1-Digest: rh7TKpS4iAP04usdRzGoPH0Yj6w=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/class-
+ use/ReportUtil.html
+SHA1-Digest: JtDcQit00LFP2lpCuGhwZJhIBrs=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/IDialogConstant
+ s.html
+SHA1-Digest: M4FZdTQK2WeeqNpXlmkzKs1f+zE=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/ISelectElement
+ .html
+SHA1-Digest: sQST24w7koA7dAI1tCGrDgiFe2Q=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/FrameElement.h
+ tml
+SHA1-Digest: ubpdRF7+oM/NJTnM3LahZ7MVh4I=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/package-tree
+ .html
+SHA1-Digest: ALCUOfhLYhJx7d9WB77dRVIA9xE=
+
+Name: reference/api/org/eclipse/actf/util/dom/package-use.html
+SHA1-Digest: xisLyzx1Cs/VeoZvIGZrILDogkM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/package-tree.h
+ tml
+SHA1-Digest: 1fvjAJb/1TS7bx5Vf0b3wGd+Xr0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/AreaCircleElem
+ ent.html
+SHA1-Digest: aOl8DGHEB8UpL3Eb752HeyY+xLk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/content/class-use/I
+ EditListener.html
+SHA1-Digest: laXTJKyb1/InWsgcqG9NdrKUIkA=
+
+Name: reference/api/org/eclipse/actf/util/logging/package-tree.html
+SHA1-Digest: B8LNO3VZf+91UgfYf+N3L7UH/KY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFNodeList.ht
+ ml
+SHA1-Digest: kyULojxd1/xKxHCKyVZ+ARYGhfs=
+
+Name: reference/api/org/eclipse/actf/model/ui/class-use/IModelService.
+ html
+SHA1-Digest: YqjpfiS2IFP1dQQYvntnuhg/qmA=
+
+Name: reference/api/org/eclipse/actf/ai/voice/IVoiceEventListener.html
+SHA1-Digest: z7w2jTurPQ+0DGSb5aP5P0wU4J8=
+
+Name: reference/api/org/eclipse/actf/util/vocab/class-use/IOperator.ht
+ ml
+SHA1-Digest: TOmvnwPS8cyadfxQjTeaGqR3xEc=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/TRErr
+ orHandler.html
+SHA1-Digest: 7hHWbIaXl20M0CgJ3DRfnk6wGPM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Imag
+ eElement.html
+SHA1-Digest: YtcUJ+6tq/yCT1u0IVqafIQPZsg=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/class-use/IParser.
+ html
+SHA1-Digest: Rk6dgUiLwrCzUVPZ2gY2jI6+3qs=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/pack
+ age-use.html
+SHA1-Digest: XKKmumOlzHatRMFDSOncbVhVwf4=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/package-use.ht
+ ml
+SHA1-Digest: KLxl3vzxBNdkmwYsQViwilNw09M=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/AbstractPartLis
+ tener.html
+SHA1-Digest: 3wrc6bmaaZUiKNrqsv4sDcYvMpw=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/FlashMSAAObj
+ ect.html
+SHA1-Digest: uwqjqC/CAwYxU1h7FB0ly8o1Ppg=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/core/class-use/IMe
+ ssageBody.html
+SHA1-Digest: gPnDZtLi91fJPzzrRB/nwrrPW7A=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Elli
+ pseElement.html
+SHA1-Digest: 3VXT5ZIMo20cz3zr566tiIHkmHI=
+
+Name: reference/api/org/eclipse/actf/util/win32/HighlightComposite.htm
+ l
+SHA1-Digest: 7JixoLoqO6mOEsZ4bMYFvkPuU50=
+
+Name: reference/api/org/eclipse/actf/util/vocab/package-frame.html
+SHA1-Digest: lO7LSoUM43S+axvXlfw1Z3h0vX8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/TableColumnPr
+ opertiesElement.html
+SHA1-Digest: KkpFt4hjgbsVJu25ftUEEP12/bQ=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/PageElement.ht
+ ml
+SHA1-Digest: odKUcvh2y3YsCKsQxvAieLW5C84=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/INodeExVideo.V
+ ideoState.html
+SHA1-Digest: jQt1/W228wlnMWa3C31cyd2eHxQ=
+
+Name: topics_Reference.xml
+SHA1-Digest: R3kNWr5PRNZOUhhtPwJqyxgs9JI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Au
+ tomaticStylesElement.html
+SHA1-Digest: kgC/D6zp2HT/ZzNqcyDNwnXU9qc=
+
+Name: reference/api/allclasses-frame.html
+SHA1-Digest: xtSLuZyiy+U8qvWqcYkMI14QjvY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/AElement.html
+SHA1-Digest: TMbLuYmZxKt7xeB7+tmmD7qGfyM=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/RefFloat.htm
+ l
+SHA1-Digest: mdeiU/JrgMWMKIe2gpcz2mhFd54=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/form/ColumnElement.
+ html
+SHA1-Digest: PCTLEMtFIgwAgt+QYHijcwthl4s=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/StockLossMark
+ erElement.html
+SHA1-Digest: xXkJv23fA6T5NQyT/UkraBo5/Qg=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/IHTTPSession
+ Overrider.html
+SHA1-Digest: orz5FmG8chey01BguboV93tJJZA=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/FormE
+ xpander.html
+SHA1-Digest: HlT+6lklAIZE6xi5tmeWIOHRPvg=
+
+Name: reference/api/org/eclipse/actf/util/dom/package-tree.html
+SHA1-Digest: 7Kns8s4V9PfTz79rr/3g3r1+Iq4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/presentation/NotesE
+ lement.html
+SHA1-Digest: LpIjd1ZavI0ETnkT8ovfPvpCs0g=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/pack
+ age-frame.html
+SHA1-Digest: jCl8EcN7M9cBdK1yzF1SrCqYeNg=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/IWebBrows
+ erACTF.html
+SHA1-Digest: orsDrX/XuSWIHleOwMd2eFyoMnI=
+
+Name: reference/api/org/eclipse/actf/util/win32/IIntervalExec.html
+SHA1-Digest: loUSiYTy70uoaNL6yskioANxtCM=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/VisualizationSta
+ tusLineContributionItem.html
+SHA1-Digest: qRbUUFu7EFJGPs4btm8Q3+y28Yc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/DocumentStyl
+ esElement.html
+SHA1-Digest: YpfMBT/mk7mzqQtMKoAVvVIH00Q=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/EllipseElement
+ .html
+SHA1-Digest: N3OcMCA/hU4kmNwAaQkZU6IzXJI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/Draw
+ ingObjectBaseElement.html
+SHA1-Digest: 1ysGm6KB1HC5wsOlxo+J4IZ+I2I=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/class-use
+ /GoForwardAction.html
+SHA1-Digest: MyqOhbQSf35RjzCRDtCOrcMpYsI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/BodyElement.
+ html
+SHA1-Digest: Krxpv7ionte0nwTMQ8bfjYwSa6U=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Imag
+ eMapAreaElement.html
+SHA1-Digest: HI9FQ6r/QTsvY6pGZMz6ed2L8j4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFE
+ lement.html
+SHA1-Digest: GXIoMUwc/8X6zUDPlimlRMN5FOU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/ListLevelStyle
+ NumberElement.html
+SHA1-Digest: 4vTP8MKIOQaS31zDZdl/C63TT4E=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/DialogSave.html
+SHA1-Digest: P1mD5T1l5JVbx0+0hEbUsZl0+nY=
+
+Name: reference/api/org/eclipse/actf/model/flash/bridge/IWaXcoding.htm
+ l
+SHA1-Digest: I43ZWanAEYqsI6jFl+1oF2pXoiM=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IH
+ TTPProxyConnection.html
+SHA1-Digest: R23CyOq7BTe74Nn4VdI9jQqBJWU=
+
+Name: reference/api/org/eclipse/actf/ai/voice/preferences/util/package
+ -use.html
+SHA1-Digest: lg4S0YkzgxQjLpeXkKqnvXYNgAo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/GraphicProper
+ tiesElement.html
+SHA1-Digest: hCtpoCT2ksxLGnkl9bfSVitoHUo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/TextPropertie
+ sElement.html
+SHA1-Digest: yLNFWu2cqEFk/i3fQajnJMeSQRI=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/Ancho
+ rUnderAnchorHandler.html
+SHA1-Digest: 0I3lSm7sunjNCRxZGpMcSqD0sRk=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Re
+ fFloat.html
+SHA1-Digest: VV8EcRD8+8xDkG2xx7HNlhDgEjQ=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/package-summary.htm
+ l
+SHA1-Digest: 0fs3x/CwTBJDslHXePb8FYPmiOM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/LightElement.h
+ tml
+SHA1-Digest: kl2j6RPKg+PobFKnENuFnTtxWpM=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ util/package-frame.html
+SHA1-Digest: 3CgrbMavTCqfcke73VDNNg/oyIc=
+
+Name: reference/api/org/eclipse/actf/util/dom/package-summary.html
+SHA1-Digest: ZQX/HhmtOAkQqOFJLkwe5SgKQrA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Tab
+ leCellPropertiesElement.html
+SHA1-Digest: nlUya7OqUSeRgsPKmeBzzKJWYb0=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/package-t
+ ree.html
+SHA1-Digest: dWkT4zhlmRKbmeJmvzLtP9rLqYw=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/package-u
+ se.html
+SHA1-Digest: RBumD8hpZcorX4YYWeJOe94Ri2M=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/PolylineElemen
+ t.html
+SHA1-Digest: bdCk3csvtmjMabC/UYpQQ+NTTSY=
+
+Name: reference/api/index-files/index-19.html
+SHA1-Digest: ejKLNZjx+DhQmaKlZf6IKaVs6LM=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/class-use/HTT
+ PUtil.html
+SHA1-Digest: iOXP1b5lY8lcASctvMB7igA5TQE=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/package-tree.htm
+ l
+SHA1-Digest: jJ1OMGCS5GSqrjTA6o7WhxJvhPM=
+
+Name: reference/api/org/eclipse/actf/util/win32/FlashMSAAObject.html
+SHA1-Digest: FWtcIV9PcGCkYOQ6RV7gWqjmS0U=
+
+Name: reference/api/org/eclipse/actf/model/ui/editors/ooo/initializer/
+ kicker/IOOoEditorInitializerKicker.html
+SHA1-Digest: tuFOXxaWfvPCkS4jjsvS5gws6bA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/package-summary.html
+SHA1-Digest: 0Jwg5BoPbjRLKpTZsVRkcWkjCnM=
+
+Name: reference/api/org/eclipse/actf/model/flash/util/package-tree.htm
+ l
+SHA1-Digest: wCuZ052Xvsf9DHlPOol6mqA1xtA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/packag
+ e-frame.html
+SHA1-Digest: /B96KednzHS7fpwegUtGBVmcaRs=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/package-summary.ht
+ ml
+SHA1-Digest: ZISm3thZrGlqvkgeg7jCnbv2cSI=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/WMCMonitor.h
+ tml
+SHA1-Digest: NzV+gTHE6ON19Al/djcPt8Zo1hc=
+
+Name: reference/api/org/eclipse/actf/ui/util/BrowserLaunch.html
+SHA1-Digest: IV272xxqZgT54Pem0M5xmtnrcA4=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/errorhandler/class
+ -use/AnchorUnderAnchorHandler.html
+SHA1-Digest: yhQKYv/23shBfKxK6OOv8ubG/y0=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/class-use/ISel
+ ectElement.html
+SHA1-Digest: JvJjKDV2C+/9HCkQXp0vEJTJZrA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/IContentCurso
+ r.html
+SHA1-Digest: /iYFRpCFKHfoIs0GbVAHfsrN/7E=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/svg/SVGConstants.ht
+ ml
+SHA1-Digest: UwnchTK7QQjSrYpYtSISH7pf0as=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/class-use/IElementViewerIdInfo.html
+SHA1-Digest: Q1mChlzaPYJCZpH2qqmLZN7mblo=
+
+Name: reference/api/org/eclipse/actf/util/win32/RegistryUtil.html
+SHA1-Digest: OmB++mqktEWhRIckPIUjqmI/4Lw=
+
+Name: reference/api/org/eclipse/actf/util/win32/package-summary.html
+SHA1-Digest: YatrVb/vgw7s5Tfy1vzBnzvJCp0=
+
+Name: reference/api/org/eclipse/actf/util/win32/keyhook/IKeyHookListen
+ er.html
+SHA1-Digest: 4kIMG3Tlcc2EchOoIYBtmVDuMqE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/TableOfContent
+ SourceElement.html
+SHA1-Digest: zADDqDIPAM7N53v3SJ0EILtiEV8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/accessibility/
+ class-use/ScreenReaderSimulator.html
+SHA1-Digest: 4dOmYjVuvAr5uTQr5acoDEWE06Q=
+
+Name: reference/api/index-files/index-24.html
+SHA1-Digest: trBLzCZsTziixWorysHqDYNMHEM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/List
+ LevelStyleNumberElement.html
+SHA1-Digest: f3X1JpQ+uCLVWrdj4kV+4cZWGS0=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/clas
+ s-use/ODFConverterUtils.html
+SHA1-Digest: NN2oXVRvxcJ3wJ8hAXoQVHdJwk8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/ODFC
+ onverterUtils.html
+SHA1-Digest: TtQ1wKLnKPLVRMnRxQzu8PKFAOg=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/Highli
+ ghtTargetSourceInfo.html
+SHA1-Digest: xY9FFz//kyVM94cVevqmmzaKn3s=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/class-use/ScrollBar
+ SizeUtil.html
+SHA1-Digest: xSR9Gk5rUAWieX9qp4WPr9pZq0w=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/class-use/SelectionObserver.html
+SHA1-Digest: 9dAdUmPbd4hxMsYB/83aLyzWiic=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/PageNumberElem
+ ent.html
+SHA1-Digest: jTp7ffgw/wD/a7jnGXlVX+tleT0=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/IChe
+ ckerInfoProvider.html
+SHA1-Digest: wiVzjydIfv3I5VDItJ5C3PtCFz4=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/CacheMap.html
+SHA1-Digest: jJnD2DuoPGZAqCXcbdDoAYTpWbg=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/ModelServiceMessage
+ s.html
+SHA1-Digest: a/BcVZo4yqod7k6nHvCFSvlWxs4=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/IHighlightElementListener.html
+SHA1-Digest: ZwLPG+79Cxt4lcGLk+KcKtWu9C4=
+
+Name: reference/api/org/eclipse/actf/util/win32/class-use/NativeString
+ Access.html
+SHA1-Digest: noHx1P9AaoZQjyt2SQrQmQZpkQA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/IVoiceBrowserController.html
+SHA1-Digest: 097iT/GI7Tf938B4pPHlpv9GROE=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/actions/BlindOpenIdCssAction.html
+SHA1-Digest: fpqoJTwcx47zhnhIZVTWjTWTqYg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/FrameElement.h
+ tml
+SHA1-Digest: wO5KTdw6HjR9eqKq4Z05bVsHTUY=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/SequenceElemen
+ t.html
+SHA1-Digest: X/ZanZy/rZRNCnP/bko+RBCCm64=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/packag
+ e-use.html
+SHA1-Digest: yF9MAm0t60i9Yj9YN+VeP6a3KA4=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ package-tree.html
+SHA1-Digest: 8aP6pFmWj77awfzg6iiqNpJtdxc=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/IWebBrows
+ erACTF.WebBrowserNavigationEventListnerHolder.html
+SHA1-Digest: QRFFfURCuWFdPOMqLtYIJ5AexZA=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/c
+ lass-use/PageEvaluation.html
+SHA1-Digest: wNs5exQAoWkSW0aLGkNID0DGFLY=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/Res
+ ultTableSorterBase.html
+SHA1-Digest: qRROgAGcRbIeXa6wvrryCZxE40k=
+
+Name: reference/api/org/eclipse/actf/util/logging/package-use.html
+SHA1-Digest: qZO4mmU8NTdHm6UkP4HnWi0R12g=
+
+Name: reference/api/org/eclipse/actf/model/ui/class-use/ImagePositionI
+ nfo.html
+SHA1-Digest: 2z9/el6XIg1+or5THMLs53OBShI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ package-use.html
+SHA1-Digest: KBJXn/OOFIMOm8llo61zaZgUpUI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/PEle
+ ment.html
+SHA1-Digest: cyZxD1LJVNDsFACIk31dkZ0FJZI=
+
+Name: reference/api/org/eclipse/actf/model/flash/class-use/IFlashConst
+ .html
+SHA1-Digest: T/VDUKzgDZT5zBFuLfXWO4XobdE=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/package-frame.htm
+ l
+SHA1-Digest: SOIE+5sk34BJ1N7C01rEgBHRkBw=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/IR
+ esource.html
+SHA1-Digest: WzYElsI0X4IAhwrODN65c6lV7vw=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/class-use
+ /DisableDebugMessageAction.html
+SHA1-Digest: X+AuygVHEMH63b7OYJv04uTnJWM=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/IImageElement.
+ html
+SHA1-Digest: qfWtBw/BZmNw8+7f3eWeym+dgak=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/voicebrowse
+ r/IVoiceBrowserView.html
+SHA1-Digest: lFqEUa6y4hc+jHSr0np8Hmiqzw8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/anim/package-use.ht
+ ml
+SHA1-Digest: UYCdfR/LtRDvcIZvLT02+3Ei8AE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/TabStopsEleme
+ nt.html
+SHA1-Digest: 2LVTIJ4Lc4OzIAz9di/7Bcb8TBU=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/util/ParseURI.html
+SHA1-Digest: bmhHql+hQe6UchP8YY+5Tstm5X4=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/class-use/Flo
+ orElement.html
+SHA1-Digest: GLq0zA+nMX/D7TNOjLmZes+YsVc=
+
+Name: reference/api/org/eclipse/actf/model/flash/proxy/package-tree.ht
+ ml
+SHA1-Digest: xVkO8S6juBhfvX/MZzIX7o0uCQU=
+
+Name: reference/api/org/eclipse/actf/util/dom/DomPrintUtil.html
+SHA1-Digest: ZT9Rrju5BRLUiBuUMO/yWo5bFfA=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/ILowvi
+ sionProblemSubtype.html
+SHA1-Digest: wCLZkYEz4IY0jh1h9bbdeEE7IU8=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/lowvision/P
+ ageEvaluation.html
+SHA1-Digest: OmR8uP9dUfQPZ4B2mtAG/GpeiuY=
+
+Name: reference/api/org/eclipse/actf/util/xpath/package-frame.html
+SHA1-Digest: 7ihWzCw0voz5o7b821QYUw6l7Zc=
+
+Name: reference/api/resources/tab.gif
+SHA1-Digest: Q0Tj0Y92gAjDJhRoP6tYmz9Mb1A=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/html/
+ ui/elementViewer/IElementViewerInfoProvider.html
+SHA1-Digest: Zy1szhyUyN1vMI2462wMXaTVOjo=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Tabl
+ eOfContentSourceElement.html
+SHA1-Digest: 2vejHOmX4hKQny0Yp2lVq2HMEQg=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/html/statistic
+ s/class-use/StatisticsDataFormatException.html
+SHA1-Digest: mL8iMg2E1aMgzolqCdmqkjf/Fh4=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/eval/
+ PageEvaluation.html
+SHA1-Digest: 8hrbbWMGc8YfE3q8Nd0ijKtyTz8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/PathElement.ht
+ ml
+SHA1-Digest: 1b+RNfHDsLh6h29oWiCqW/yFmOs=
+
+Name: reference/api/org/eclipse/actf/model/flash/ASAccInfo.html
+SHA1-Digest: Lt19TeVqxJEOy6eD+P79UgKi7to=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/ODFProcessingI
+ nstruction.html
+SHA1-Digest: CJN5v9nUxC4iQOzsq9FeOcoWFhw=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/dochandler/package
+ -tree.html
+SHA1-Digest: xCP6jO3MjDg+s3eUPUMu9/u/zEc=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/table/package-use.h
+ tml
+SHA1-Digest: nLP6ASAuMQVCqNWVUkQ/fDnR0Ds=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/package-fram
+ e.html
+SHA1-Digest: jvHy7y2vLYDgDcke2434QAh8rwc=
+
+Name: reference/api/org/eclipse/actf/ui/util/class-use/ProgressContrib
+ ution.html
+SHA1-Digest: N0wszHdsf/uUOerhwrbWsGQEZGs=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Opac
+ ityElement.html
+SHA1-Digest: LGBQj5tOvBnptkUUzJ+kqLCRSm4=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/IHtm
+ lChecker.html
+SHA1-Digest: OW0ElhE09Gq50KkzWMDG5aZqPgA=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Dra
+ wingPagePropertiesElement.html
+SHA1-Digest: JZdRvcVWQPm4jKCHckjbG4SGknM=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/chart/TitleElement.
+ html
+SHA1-Digest: 0xlsUu89Jj9U976ChDWhUzRKa04=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/range/package-frame
+ .html
+SHA1-Digest: WMhWGbn3b9a1pyVy0uaAsLQpQjU=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/IO
+ leContainer.html
+SHA1-Digest: kmYhV0oD3FS/AxXXhwyr93zGob8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/base/class-use/ODFD
+ ocument.html
+SHA1-Digest: MpfGrR8OxXCyDvQJB2atOJhkCXE=
+
+Name: reference/api/org/eclipse/actf/ai/voice/package-frame.html
+SHA1-Digest: NxPvLp3jRifNYFf960zi9aHpaqY=
+
+Name: reference/api/org/eclipse/actf/visualization/blind/BlindVisualiz
+ erBase.html
+SHA1-Digest: EnHtO2SXkRu5zgpq0uo99vYZKns=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/dr3d/package-use.ht
+ ml
+SHA1-Digest: JQ8e2KzNMGqkWXPwLMI/oN5LDog=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/class-use
+ /TextSizeAction.html
+SHA1-Digest: T2R+uYUIBPy5PUJCjSq6+24Div4=
+
+Name: reference/api/org/eclipse/actf/model/dom/html/dochandler/package
+ -frame.html
+SHA1-Digest: 1gl+4bBQKCgxPmq3X+q8QJ4k9zg=
+
+Name: reference/api/org/eclipse/actf/model/flash/proxy/package-use.htm
+ l
+SHA1-Digest: S8EC791iUe4yfaBiAeJjKwmh0lk=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/proxy/class-use/IH
+ TTPLocalServer.html
+SHA1-Digest: kn7DXu67G++Ek+xDrsaHpHazAd0=
+
+Name: reference/api/allclasses-noframe.html
+SHA1-Digest: SZw+ju/PrJpNpll2JXF7LHt9/0k=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/OpacityElement
+ .html
+SHA1-Digest: It1K+lB2oYfFvx0Uv7lFti6PytU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/ConnectorEleme
+ nt.html
+SHA1-Digest: jVR+Iq2CT8DD7O/ySnuDuV7jhiI=
+
+Name: reference/api/org/eclipse/actf/model/dom/dombycom/INodeEx.html
+SHA1-Digest: OJTaonCgI3HDoTNgfrvLApBsCMw=
+
+Name: reference/book.css
+SHA1-Digest: q13awIQs0Ic/kSDN3COoosWrMRQ=
+
+Name: reference/api/org/eclipse/actf/util/win32/OverlayLabel.html
+SHA1-Digest: J7UUFjWvx7GA35FBqISyqE06hJI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/ChartElement
+ .html
+SHA1-Digest: KzgBMotkCVOamcuzag/6RvI3B8o=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/office/class-use/Do
+ cumentStylesElement.html
+SHA1-Digest: K2FYH0Dh1II3SbzSwRpVin9F+3E=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/class-use/IEva
+ luationResult.html
+SHA1-Digest: QMCaYD/MGCFFxKZTSBV8EsHwBbI=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/Page
+ NumberElement.html
+SHA1-Digest: ZcFbHdLG8L0w6HvJAw03ZZkKbOc=
+
+Name: reference/extension-points/common/org_eclipse_actf_model_dom_dom
+ bycom_elementFactory.html
+SHA1-Digest: i+KUssnqPFJ5YRBFNC8HE5+bzWc=
+
+Name: reference/api/org/eclipse/actf/model/ui/util/class-use/ModelServ
+ iceUtils.html
+SHA1-Digest: 2uViV6ygLe6RWSOVYYVLW6e22Dk=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/Line
+ Element.html
+SHA1-Digest: +Atu12jU1W/bGpTueTfKkBtBWJE=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/ObjectOleEleme
+ nt.html
+SHA1-Digest: 37ZHMAJJELDNFJO56L6Ow081VG4=
+
+Name: html/img/checker_extension.gif
+SHA1-Digest: XA9ZtbmK1d144SFvsLkmaTlOd4g=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/package-use.ht
+ ml
+SHA1-Digest: r7m8N33MIvufC430DtfgpJ9nAvI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/ui/ac
+ tions/class-use/BlindVisualizationBrowserModeAction.html
+SHA1-Digest: Nq5tEX1IpTmCKs61Hg6ax8HZrOE=
+
+Name: reference/api/org/eclipse/actf/ui/preferences/IScaleValueLabelPr
+ ovider.html
+SHA1-Digest: Yj98GD14/auJTTGk9dmWVdloIzc=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/actions/class-use
+ /TextSizeMenu.html
+SHA1-Digest: k8I9lEb79tnArPB8/iNVB5kpgnI=
+
+Name: reference/api/org/eclipse/actf/visualization/engines/blind/ui/ac
+ tions/BlindVisualizationBrowserModeAction.html
+SHA1-Digest: SRyUCKBtZ8ezCq0r8CoO3CbxAak=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/IUnknown.htm
+ l
+SHA1-Digest: rYpPmJA9siqOUW8PdoIJDgKzBhs=
+
+Name: reference/api/org/eclipse/actf/visualization/gui/package-tree.ht
+ ml
+SHA1-Digest: Ydy+7itS73cynhN/nwQkR+sc42Q=
+
+Name: reference/api/org/eclipse/actf/util/win32/COMUtil.html
+SHA1-Digest: qIPypJiNKfvcctlj1yY4CQeKfu8=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/IServiceProv
+ ider.html
+SHA1-Digest: Is8HMzeAUNLVNMSKcNm1iWLlavU=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/style/class-use/Mas
+ terPageElement.html
+SHA1-Digest: 1Jo0uuBnwN4qq5QnW8x2M+0kR/4=
+
+Name: html/img/parser_path.gif
+SHA1-Digest: JoKjPgcciECaHQKfshe0U0JPIFY=
+
+Name: reference/api/index-files/index-25.html
+SHA1-Digest: HB83rULJgfZGn2GGIGB5mFLhEo8=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/guideline/IGui
+ delineData.html
+SHA1-Digest: 1aC4HnN24t9hrTv/m9gzKKfMo6k=
+
+Name: reference/api/org/eclipse/actf/util/httpproxy/class-use/IHTTPPro
+ xy.html
+SHA1-Digest: rnNR5kV/aq4L73uPIzQ53V6vquY=
+
+Name: reference/api/org/eclipse/actf/visualization/ui/report/table/cla
+ ss-use/ResultTableSorterBase.StringComparator.html
+SHA1-Digest: Z6AIprTagLnOlS/uU+7XcPXZHO4=
+
+Name: reference/api/org/eclipse/actf/util/win32/NativeVariantAccess.ht
+ ml
+SHA1-Digest: +I8RNUHKds+GrgQNM5+qJAz4nQU=
+
+Name: reference/api/org/eclipse/actf/visualization/eval/problem/Report
+ Util.html
+SHA1-Digest: iAD1LvgesbCVvMZMh5C4INnOaE8=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/text/class-use/List
+ Element.html
+SHA1-Digest: Ow+/Qg2a868A6B/BZPHfbp4Soos=
+
+Name: reference/api/org/eclipse/actf/util/win32/comclutch/class-use/Co
+ mException.html
+SHA1-Digest: VYPWrcPgcieu3OfB9Se0xhN/n1A=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/util/converter/clas
+ s-use/TextExtractor.html
+SHA1-Digest: Hl4dgjGL5LC2wwHeqNsxzC5MWqs=
+
+Name: reference/api/org/eclipse/actf/model/ui/editor/browser/class-use
+ /IWebBrowserACTFEventListener.html
+SHA1-Digest: npzabxwc3pdyY7tTawgGYvVUG8k=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/class-use/GEle
+ ment.html
+SHA1-Digest: Hp3l4UeFelLkMSFWIzhjf3FuNtE=
+
+Name: reference/api/org/eclipse/actf/mediator/class-use/MediatorEvent.
+ html
+SHA1-Digest: g9vgJjqmjTIa0cdxjRVatI2LQOg=
+
+Name: reference/api/org/eclipse/actf/model/dom/odf/draw/package-frame.
+ html
+SHA1-Digest: g1qf1D9vcGaBjWsMo2mwHz1sfnw=
+

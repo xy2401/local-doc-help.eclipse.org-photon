@@ -1,0 +1,98 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: wWCuW6kMgI9Rki7zvU4yPQIDmKaJl
+ WYvne5aAuKcDbc=
+SHA-256-Digest-Manifest: C5l1xnyCDtMVpMmkPzI38HKvlKZ9VZ99XLAS373OICY=
+Created-By: 1.8.0_162 (Oracle Corporation)
+
+Name: html/element_collection.html
+SHA-256-Digest: gRD6QWFQzqVhwCf10hw5buiqKTi3YSHLEG/9mVD/lMk=
+
+Name: img/jpaeditor_embeddable.gif
+SHA-256-Digest: gjByVjN8W5913YuoxuSHxMz3CVpX1AacmlIob79Ngsc=
+
+Name: plugin.xml
+SHA-256-Digest: BSeh4AygVq/vRtxPcjVKbe/5qHF7wXbh8/CvFTtRNec=
+
+Name: img/jpa_diagram_entity_operations.gif
+SHA-256-Digest: jnW1Ih8wOWi0ISolOFOE0s40EPcOFYPeHeleKfhfgMQ=
+
+Name: html/reference_project_page.html
+SHA-256-Digest: s9CrbakJZ2z8RMz5JvJVau/i1z+8A6/NDROerdlGHEs=
+
+Name: pom.xml
+SHA-256-Digest: Gr1r90C7yH7HxMlS5xctcS+gMNYOyOV6fR8fltktZeE=
+
+Name: META-INF/maven/org.eclipse.webtools.dali/org.eclipse.jpt.jpadiag
+ rameditor.doc.user/pom.xml
+SHA-256-Digest: xYVKFpp3m06cxxDoJGYxhQ3H+YG1nAMkxaNt4gbC+Hg=
+
+Name: img/jpa_diagram_editor.gif
+SHA-256-Digest: uK4rwu3/+AT0FshMjuuj3NUKodzvFpHDK2K+HZoKKtg=
+
+Name: html/task_configuring_editor.html
+SHA-256-Digest: WuM/c25o1pHE6HJOFP4Hg83Hpm+Ep3Zlr2Upu2lnMEQ=
+
+Name: html/xml_entities.html
+SHA-256-Digest: c4mIWdKsb4D2wqQtREXjfZYCgfJ2phaaBTpKF7+7KOI=
+
+Name: html/embeddable_relationships.html
+SHA-256-Digest: mI/LN2r3vNY9GU/dW447RxjHfWyUJx60vcphS6MYAKU=
+
+Name: img/jpaeditor_entity.gif
+SHA-256-Digest: /D8IwA1CxqMLwQgGGGYwoTUsj2N4+SRvDMOmgbuUfpc=
+
+Name: html/task_manage_types.html
+SHA-256-Digest: yie0rLemYa4rdODmk0j8EVVtYWYbi6p63f3lIoYUlD0=
+
+Name: plugin.properties
+SHA-256-Digest: dGrr256bupCFWa+lB5xTH83K6OtoWezVoa4TQgcrYrE=
+
+Name: html/task_refactor_entities.html
+SHA-256-Digest: 9epssUttmWX+tz6PLl2FJmDP1+ziIdepxe/z1AnaeYc=
+
+Name: html/toc.html
+SHA-256-Digest: o0uFOU4N18gvY+OisBwjKChUuuM1AyRXOHwlO+O8Pug=
+
+Name: img/jpa_diagram_delete_attribute.gif
+SHA-256-Digest: /moD2hkMov6H7CPbY+WAK0pozYUyKl3Y3kUSC/f5SDQ=
+
+Name: about.html
+SHA-256-Digest: xxdYr330cm3T1+qA2QGI/nN+lCXxvRIyOe1y8WWoCw8=
+
+Name: html/derived_identifiers.html
+SHA-256-Digest: J0pXzKnZqSEmfwd0M6Q1sD4v36cArFwQDPpwF1+sCQs=
+
+Name: html/entity_inheritance.html
+SHA-256-Digest: vKA3JHtR4i3dyu5AJAqHpKSPl0Q0LPeYLFTQawqP1QY=
+
+Name: html/task_remove_entities.html
+SHA-256-Digest: 3H1UDZhAKCiLwLbX9rP19t+e/ruO2GhTTXUbhzImM+s=
+
+Name: img/jpaeditor_mapped_superclass.gif
+SHA-256-Digest: 7iypw9ffyXagJ0M1aJAIzv328+b28T5JQh3pntoh+r0=
+
+Name: META-INF/maven/org.eclipse.webtools.dali/org.eclipse.jpt.jpadiag
+ rameditor.doc.user/pom.properties
+SHA-256-Digest: u1eu2/QDM6SEiWjZUo4jsGjGLtNPmYy38BPb2klj+mA=
+
+Name: img/jpa_miniature_view.gif
+SHA-256-Digest: rgKn9jISwH4mw/GqA2MpvzkLnE6FRGPD+FyKaa5D+jY=
+
+Name: html/embeddables.html
+SHA-256-Digest: zb+UqUN/3Uaw4j4surhb5KSW1+3XKmgkJ16+2bMVpC8=
+
+Name: html/task_open_diagram.html
+SHA-256-Digest: Agk4aT5TzBzXrGiw7AzmVxFEXY7WhrVpL9feOwUwLr8=
+
+Name: toc.xml
+SHA-256-Digest: kOT54pyuRs+mKodC3s8+525/DdAQQtIVaTo2C1oNWtM=
+
+Name: html/task_open_miniature_view.html
+SHA-256-Digest: fMqQLjQuzD2omzpC0V6MEEYWxLmtxt7Ib9V89id2dQs=
+
+Name: html/task_20_support.html
+SHA-256-Digest: hKmqURGF5G5BkEwCYbR+ByEc/ht/SaHfyTsrpNmMQRM=
+
+Name: html/getting_started.html
+SHA-256-Digest: bkjUPWecH4wdWnURrHSlWzmuLv7kZgDviWLQBZfNab8=
+

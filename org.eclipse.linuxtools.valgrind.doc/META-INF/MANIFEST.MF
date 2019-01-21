@@ -1,0 +1,184 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.linuxtools.valgrind.doc
+Bundle-SymbolicName: org.eclipse.linuxtools.valgrind.doc;singleton:=tr
+ ue
+Built-By: genie.linuxtools
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Name: %Bundle-Name
+Bundle-Version: 1.0.0.201806122135
+Bundle-Localization: plugin
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_162
+
+Name: plugin.xml
+SHA-256-Digest: btykM7kWXTT78GW/LmZP5AjAlP0xcscgRQH9C4tNoF4=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/Installing.html
+SHA-256-Digest: Qb5HbHPrcaUH5J7HnrX06Fgsilc4WEVdV8k+kZeTeig=
+
+Name: images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/Special-Cases.html
+SHA-256-Digest: bltUunLGlsh0h762VcMNNUwuTfhTkHrlDd3Qnls2JCc=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/CachegrindOutput.
+ png
+SHA-256-Digest: 9OyJ/r+1hC3mL4x4VJ2QxrwbkyEdi9NkB6RVVMwY4a0=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Screenshot-main-r
+ emote-valgrind.png
+SHA-256-Digest: 6pgIFhR1Jasbg3GMbpOGq9PuC31rAhVqPo+qiqphKmQ=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: plugin.properties
+SHA-256-Digest: jrc2rycjh2P/bJNpao2zH9IFoSWT++s+Yp/fhhuhGmc=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Valgrind_toolbar_
+ action.png
+SHA-256-Digest: InPQVUSBqw3tQaAF9gMnBb1RnoSBCUPoR2vLdovGOcc=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/Updating-This-Document.h
+ tml
+SHA-256-Digest: qCgPygSU57SEhybcUrNrJx1W5hShGAdxNSeeTy7Vlh8=
+
+Name: images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Vg_config.png
+SHA-256-Digest: +kkWEDXD3a98YARRhdaGY/X7UztGwbSU4DinQcw1v2U=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Hierarchy.gif
+SHA-256-Digest: ISSCc6LU5YCPX+cUEaEw8/pbEJu+XU0H9ARzqVzHclY=
+
+Name: toc.xml
+SHA-256-Digest: 5OhrCPG2T+4YdN10LRpdcUycpA5nRpZicmA0jYvxKJU=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Screenshot-Suppre
+ ssions.png
+SHA-256-Digest: 5Z8oMcKlZ21CM/sA3FLfneX+LbrUgX4zq4WXKrrQ5Z4=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/HelgrindOutput2.p
+ ng
+SHA-256-Digest: bT7jCylDlbR/fMAe+xYM0RFudjvpDEpzOYTOYoZVJ5o=
+
+Name: toc-doc.xml
+SHA-256-Digest: t1aVTNGMMKcsHfVqebeDYhmsrM5kby9PlInon4Do9V0=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/HelgrindOptions2.
+ png
+SHA-256-Digest: so4pUxlZTaIWKnWojTSfojxIc8y7zglqdgrlE/IQSLE=
+
+Name: doc/notices.html
+SHA-256-Digest: at9PtgtJIuEsmGT6HoXxBZwn+OlhlzntSc7Ujfijh50=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/MemcheckOutput.pn
+ g
+SHA-256-Digest: sND9T2cP3p/7/Zhq2mvwaAomXBIOFyZ1DEjwsumXVq8=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/SwitchMassif.png
+SHA-256-Digest: U/GunwLBmyX5EcC5OOW5siHOShRxvJBsXK/MyHT6dv8=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/ValgrindSegfault.
+ png
+SHA-256-Digest: 4Kkjr9+FcXKScy4GVQw/VI+lFpc1UpgQ6cPNO3ECh0A=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/General-Usage.html
+SHA-256-Digest: Rlf5KTCgoYt/BuecKibXs1+sIpG+dHk9HsBbNiXYCQQ=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/MassifTree.png
+SHA-256-Digest: 3zymMM/fwmCPP6Sr5nfAh6YKt+FGZd6Q++gWvIAgXXc=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/CachegrindOptions
+ .png
+SHA-256-Digest: HrjVmhrF2xHUPZuCPWMEsLRweiKGP0DTqM4vmp4gsOM=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Memcheck_error.pn
+ g
+SHA-256-Digest: wsKr+evbmPS18DuDjxE+XeDhIOFFuWmoaBfizIwi3uI=
+
+Name: META-INF/maven/org.eclipse.linuxtools.valgrind/org.eclipse.linux
+ tools.valgrind.doc/pom.properties
+SHA-256-Digest: eqRRVeC62FKEdOiKp0StvWpM6lFnnmeyyUIkBHIAIbI=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Shortcut.png
+SHA-256-Digest: C4WkWZY6HgMSS1utqE7iSZqoRHdM9EPqjM1BPfJIn5k=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Screenshot-Profil
+ eConfigurations-valgrind-options-tab.png
+SHA-256-Digest: 8/p89reWd1pyPbCdoi4oqhMUuHWM75V0ODF3JuA/jS8=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Screenshot-Profil
+ eConfigurations.png
+SHA-256-Digest: n71wO8d0Mft7n2aBzrbF7big7OgMQv6yNsRRJYB5d1Y=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/MassifChartSelect
+ .png
+SHA-256-Digest: 4NGLEAY2ZI3X1hhmuys82Wxai/EMFWCodlIB9vRSOfs=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/SwitchCoreTool.pn
+ g
+SHA-256-Digest: aBFIAciVj2jkveXMKns1N8hO7zVc+QS1pZMq3mZLB+A=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/MemcheckOptions.p
+ ng
+SHA-256-Digest: XvYRuiEomvkC6XPFcV0N/ehwOjmRvvgPAxdIZf5bQis=
+
+Name: META-INF/maven/org.eclipse.linuxtools.valgrind/org.eclipse.linux
+ tools.valgrind.doc/pom.xml
+SHA-256-Digest: IgcAoC9+Bb1xE7+c0XYQHzVDvjKS4Geqvkp95feguJw=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/MassifOptions.png
+SHA-256-Digest: 4ydmXHq6KLbO5lkLy63jvNSpmuzogg+o1YYhkD+T+QU=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Vg_original_menu.
+ png
+SHA-256-Digest: Accuj+AlbeQ5YwTtBC4nb1/CS0kEKV9Lpbz9YZHaGW4=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/Using-Helgrind.html
+SHA-256-Digest: tqV8ql6tCP29O++8JSQXl+GkHZJ40PHEYPPJtrHXshY=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/Remote-Valgrind.html
+SHA-256-Digest: T1AJV71C7p5Wg4iJghhLsmD/DIRVJD7iHcd76pdFXoY=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/User-Guide.html
+SHA-256-Digest: FGmnTDYooe0Co5xTEbAfgFwLN4ki5PTfOjPgxilV+RE=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/ValgrindExportWiz
+ ard.png
+SHA-256-Digest: FamuU2CRYZBpacsRSwTsIJkaD9eBfaoUDYr1KaMuj3g=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/Using-Massif.html
+SHA-256-Digest: oYe8O0UwLjsP9I+0YS03EcOpCWliCRa8Wnvr0zIW++k=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/Using-Memcheck.html
+SHA-256-Digest: 9RnKEzLoAlaZuF9Jgq1j8ctCoVO3UCiL77fJSt5Yuxw=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/SwitchCachegrind.
+ png
+SHA-256-Digest: sD/OruBRPXK8YQyNdUiWUry5lrRLjqmVsf/Va/tWfcU=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/Using-Cachegrind.html
+SHA-256-Digest: 42sp1hPpwkQGHyk1rt+7EjjWl/N0E/iJYZA1PM6bw+s=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Thread.gif
+SHA-256-Digest: vhz2NS9HKvOD6psRTkmUvyT5c/lDrXR7LzVpG27ILOg=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/Exportbuttonvalgr
+ indview.gif
+SHA-256-Digest: xKVZmErLPn+5wMKN5nLHXQBfEthmJeyonF9n02NcltM=
+
+Name: Linux_Tools_Project/Valgrind/User_Guide/images/MassifTable.png
+SHA-256-Digest: hCn9qGpcTrPos3ZC58hVXdhF705BsWzOBk3cfxPxRZ4=
+

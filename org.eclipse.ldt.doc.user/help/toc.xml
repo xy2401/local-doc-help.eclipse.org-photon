@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<toc topic="help/LDT/User_Area/User_Guides/User_Guide_1.4/User-Guide-1.4.html" label="LDT User Guide">
+	<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/User-Guide-1.4.html" label="LDT User Guide">
+		<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/User-Guide-1.4.html" label="Overview"></topic>
+		<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Getting-started.html" label="Getting started">
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Getting-started.html#Create_a_project" label="Create a project"></topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Getting-started.html#Edit_a_Lua_file" label="Edit a Lua file"></topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Getting-started.html#Run_a_Lua_script" label="Run a Lua script"></topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Getting-started.html#Debug_a_Lua_script" label="Debug a Lua script"></topic>
+		</topic>
+		<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html" label="Concepts">
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html#Buildpath" label="Buildpath"></topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html#Execution_Environment" label="Execution Environment"></topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html#Interpreters" label="Interpreters"></topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html#Debug" label="Debug">
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html#Local_Debug" label="Local Debug"></topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html#Attach_Debug" label="Attach Debug">
+					<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html#Source_Mapping" label="Source Mapping"></topic>
+				</topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Concepts.html#Remote_Debug" label="Remote Debug"></topic>
+			</topic>
+		</topic>
+		<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html" label="Tasks">
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Configuring_Build_paths" label="Configuring Build paths">
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Adding_source_folder" label="Adding source folder"></topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Adding_project_dependencies" label="Adding project dependencies"></topic>
+			</topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Managing_Execution_Environments" label="Managing Execution Environments">
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Link_an_existing_project_to_an_Execution_Environment" label="Link an existing project to an Execution Environment"></topic>
+			</topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Managing_Interpreters" label="Managing Interpreters">
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Embedded_Interpreters" label="Embedded Interpreters"></topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Local_Interpreters" label="Local Interpreters"></topic>
+			</topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Configuring_debug_sessions" label="Configuring debug sessions">
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Local_session" label="Local session"></topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Attach_session" label="Attach session">
+					<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Launching_DBGp_Client" label="Launching DBGp Client"></topic>
+					<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Setup_DBGp_Server" label="Setup DBGp Server"></topic>
+				</topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Remote_session" label="Remote session"></topic>
+			</topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Debugging_a_Lua_program" label="Debugging a Lua program">
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Breakpoints.2C_code_navigation" label="Breakpoints, code navigation"></topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Environment_inspection" label="Environment inspection"></topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Interactive_console_and_expressions" label="Interactive console and expressions"></topic>
+				<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Unsupported_features" label="Unsupported features"></topic>
+			</topic>
+			<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Tasks.html#Improve_cdata_display" label="Improve cdata display"></topic>
+		</topic>
+		<topic href="help/LDT/User_Area/User_Guides/User_Guide_1.4/Updating-This-Document.html" label="Updating This Document"></topic>
+	</topic>
+	<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html" label="Tips and Tricks">
+		<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html" label="Tips and Tricks">
+			<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html#Quick_Outline" label="Quick Outline"></topic>
+			<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html#Code_documentation_assistance" label="Code documentation assistance"></topic>
+			<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html#Support_of_LuaJIT_debug" label="Support of LuaJIT debug"></topic>
+			<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html#Explicit_Variable_Description_.26_Typing" label="Explicit Variable Description &amp; Typing"></topic>
+			<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html#Function_Parameters_Typing" label="Function Parameters Typing"></topic>
+			<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html#Spell_Checking" label="Spell Checking"></topic>
+			<topic href="help/LDT/User_Area/TipsandTricks/TipsandTricks.html#Debugger_version" label="Debugger version"></topic>
+		</topic>
+		<topic href="help/LDT/User_Area/TipsandTricks/Updating-This-Document.html" label="Updating This Document"></topic>
+	</topic>
+</toc>
